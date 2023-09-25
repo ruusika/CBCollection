@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "cbcollection",
+	"version": "${version}",
+	"name": "Cookbook Collection (CBCollection)",
+	"description": "A collection of Minecraft cooking mods cookbooks",
+	"authors": [
+		"Ruusika - dev"
+	],
+	"contact": {
+		"homepage": "https://github.com/ruusika",
+		"sources": "https://github.com/ruusika/cookbook_collection"
+	},
+	"license": "MIT",
+	"icon": "assets/cbcollection/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.ruusika.cbcollection.CBCollection"
+		],
+		"client": [
+			"net.ruusika.cbcollection.CBCollectionClient"
+		],
+		"fabric-datagen": [
+			"net.ruusika.cbcollection.CBCollectionDataGenerator"
+		]
+	},
+	"mixins": [
+		"cbcollection.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.22",
+		"minecraft": "~1.18.2",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
