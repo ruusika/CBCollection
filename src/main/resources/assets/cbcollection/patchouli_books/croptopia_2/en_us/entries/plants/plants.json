@@ -1,7 +1,7 @@
 {
   "name": "Plants",
   "icon": "croptopia:blueberry_seed",
-  "category": "patchouli:crops",
+  "category": "cbcollection:crops",
   "pages": [
     {
       "type": "patchouli:text",

@@ -1,7 +1,7 @@
 {
   "name": "Apple Pie",
   "icon": "farmersdelight:apple_pie",
-  "category": "patchouli:feasts",
+  "category": "cbcollection:feasts",
   "pages": [
     {
       "type": "patchouli:crafting",

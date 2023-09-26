@@ -1,7 +1,7 @@
 {
   "name": "Soy Milk",
   "icon": "croptopia:soy_milk",
-  "category": "patchouli:drinks",
+  "category": "cbcollection:drinks",
   "pages": [
     {
       "type": "patchouli:crafting",

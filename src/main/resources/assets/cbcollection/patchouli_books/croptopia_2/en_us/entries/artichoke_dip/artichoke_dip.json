@@ -1,7 +1,7 @@
 {
   "name": "Artichoke Dip",
   "icon": "croptopia:artichoke_dip",
-  "category": "patchouli:ingredients",
+  "category": "cbcollection:ingredients",
   "pages": [
     {
       "type": "patchouli:crafting",

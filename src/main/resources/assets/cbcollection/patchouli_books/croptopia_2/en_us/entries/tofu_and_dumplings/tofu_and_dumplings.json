@@ -1,7 +1,7 @@
 {
   "name": "Tofu and Dumplings",
   "icon": "croptopia:tofu_and_dumplings",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

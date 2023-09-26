@@ -1,7 +1,7 @@
 {
   "name": "Chocolate",
   "icon": "croptopia:chocolate",
-  "category": "patchouli:ingredients",
+  "category": "cbcollection:ingredients",
   "pages": [
     {
       "type": "patchouli:crafting",

@@ -1,7 +1,7 @@
 {
   "name": "Trail Mix",
   "icon": "croptopia:trail_mix",
-  "category": "patchouli:snacks",
+  "category": "cbcollection:snacks",
   "pages": [
     {
       "type": "patchouli:crafting",

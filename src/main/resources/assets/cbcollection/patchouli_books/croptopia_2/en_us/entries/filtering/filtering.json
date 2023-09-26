@@ -1,7 +1,7 @@
 {
   "name": "Filtering the Mass",
   "icon": "cacao:cacao_mass_filled_cloth",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

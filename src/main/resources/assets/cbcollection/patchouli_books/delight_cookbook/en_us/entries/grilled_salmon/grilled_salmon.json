@@ -1,7 +1,7 @@
 {
   "name": "Grilled Salmon",
   "icon": "farmersdelight:grilled_salmon",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

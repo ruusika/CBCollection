@@ -1,7 +1,7 @@
 {
   "name": "Doughnut",
   "icon": "croptopia:doughnut",
-  "category": "patchouli:desserts",
+  "category": "cbcollection:desserts",
   "pages": [
     {
       "type": "patchouli:crafting",

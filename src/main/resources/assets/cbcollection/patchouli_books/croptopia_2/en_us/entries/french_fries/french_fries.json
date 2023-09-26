@@ -1,7 +1,7 @@
 {
   "name": "French Fries",
   "icon": "croptopia:french_fries",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

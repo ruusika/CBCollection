@@ -1,7 +1,7 @@
 {
   "name": "Coconut White Chocolate",
   "icon": "cacao:coconut_white_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

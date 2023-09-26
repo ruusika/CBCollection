@@ -1,7 +1,7 @@
 {
   "name": "Golden Chocolate",
   "icon": "cacao:golden_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

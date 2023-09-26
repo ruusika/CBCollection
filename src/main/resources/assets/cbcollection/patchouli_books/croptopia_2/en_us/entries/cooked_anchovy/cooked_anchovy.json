@@ -1,7 +1,7 @@
 {
   "name": "Cooked Anchovy",
   "icon": "croptopia:cooked_anchovy",
-  "category": "patchouli:snacks",
+  "category": "cbcollection:snacks",
   "pages": [
     {
       "type": "patchouli:smelting",

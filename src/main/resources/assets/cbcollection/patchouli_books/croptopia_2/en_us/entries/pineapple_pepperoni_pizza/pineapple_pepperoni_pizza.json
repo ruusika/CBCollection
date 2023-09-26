@@ -1,7 +1,7 @@
 {
   "name": "Pineapple Pepperoni Pizza",
   "icon": "croptopia:pineapple_pepperoni_pizza",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

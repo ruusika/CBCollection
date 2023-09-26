@@ -1,7 +1,7 @@
 {
   "name": "Strawberry Milk Chocolate",
   "icon": "cacao:strawberry_cream_milk_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

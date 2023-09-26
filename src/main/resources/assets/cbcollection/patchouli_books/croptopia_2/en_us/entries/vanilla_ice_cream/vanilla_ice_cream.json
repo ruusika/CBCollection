@@ -1,7 +1,7 @@
 {
   "name": "Vanilla Ice Cream",
   "icon": "croptopia:vanilla_ice_cream",
-  "category": "patchouli:desserts",
+  "category": "cbcollection:desserts",
   "pages": [
     {
       "type": "patchouli:crafting",

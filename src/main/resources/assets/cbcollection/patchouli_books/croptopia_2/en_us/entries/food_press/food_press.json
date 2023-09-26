@@ -1,7 +1,7 @@
 {
   "name": "Food Press",
   "icon": "croptopia:food_press",
-  "category": "patchouli:utensils",
+  "category": "cbcollection:utensils",
   "pages": [
     {
       "type": "patchouli:crafting",

@@ -1,7 +1,7 @@
 {
   "name": "Bacon Sandwich",
   "icon": "farmersdelight:bacon_sandwich",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

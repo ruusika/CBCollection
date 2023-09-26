@@ -1,7 +1,7 @@
 {
   "name": "Pecan Ice Cream",
   "icon": "croptopia:pecan_ice_cream",
-  "category": "patchouli:desserts",
+  "category": "cbcollection:desserts",
   "pages": [
     {
       "type": "patchouli:crafting",

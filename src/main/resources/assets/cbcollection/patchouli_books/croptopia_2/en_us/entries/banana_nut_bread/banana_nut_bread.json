@@ -1,7 +1,7 @@
 {
   "name": "Banana Nut Bread",
   "icon": "croptopia:banana_nut_bread",
-  "category": "patchouli:desserts",
+  "category": "cbcollection:desserts",
   "pages": [
     {
       "type": "patchouli:crafting",

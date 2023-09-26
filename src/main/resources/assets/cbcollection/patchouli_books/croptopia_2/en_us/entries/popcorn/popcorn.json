@@ -1,7 +1,7 @@
 {
   "name": "Popcorn",
   "icon": "croptopia:popcorn",
-  "category": "patchouli:snacks",
+  "category": "cbcollection:snacks",
   "pages": [
     {
       "type": "patchouli:smelting",

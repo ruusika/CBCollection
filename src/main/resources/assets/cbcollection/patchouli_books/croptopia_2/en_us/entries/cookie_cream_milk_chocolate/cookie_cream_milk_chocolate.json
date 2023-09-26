@@ -1,7 +1,7 @@
 {
   "name": "Cookie Cream Milk Chocolate",
   "icon": "cacao:cookie_cream_milk_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

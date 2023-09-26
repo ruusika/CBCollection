@@ -1,7 +1,7 @@
 {
   "name": "Cherry Jam",
   "icon": "croptopia:cherry_jam",
-  "category": "patchouli:ingredients",
+  "category": "cbcollection:ingredients",
   "pages": [
     {
       "type": "patchouli:crafting",

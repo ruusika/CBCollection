@@ -1,7 +1,7 @@
 {
   "name": "Melon Popsicle",
   "icon": "farmersdelight:melon_popsicle",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

@@ -1,7 +1,7 @@
 {
   "name": "Pork and Beans",
   "icon": "croptopia:pork_and_beans",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

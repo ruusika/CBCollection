@@ -1,7 +1,7 @@
 {
   "name": "Fried Chicken",
   "icon": "croptopia:fried_chicken",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

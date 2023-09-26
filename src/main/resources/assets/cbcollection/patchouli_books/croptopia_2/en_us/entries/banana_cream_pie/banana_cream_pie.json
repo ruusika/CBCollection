@@ -1,7 +1,7 @@
 {
   "name": "Banana Cream Pie",
   "icon": "croptopia:banana_cream_pie",
-  "category": "patchouli:desserts",
+  "category": "cbcollection:desserts",
   "pages": [
     {
       "type": "patchouli:crafting",

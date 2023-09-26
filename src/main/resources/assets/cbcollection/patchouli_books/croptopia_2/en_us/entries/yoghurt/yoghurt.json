@@ -1,7 +1,7 @@
 {
   "name": "Yoghurt",
   "icon": "croptopia:yoghurt",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

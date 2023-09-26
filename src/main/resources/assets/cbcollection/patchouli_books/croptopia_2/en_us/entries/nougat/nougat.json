@@ -1,7 +1,7 @@
 {
   "name": "Nougat",
   "icon": "croptopia:nougat",
-  "category": "patchouli:snacks",
+  "category": "cbcollection:snacks",
   "pages": [
     {
       "type": "patchouli:crafting",

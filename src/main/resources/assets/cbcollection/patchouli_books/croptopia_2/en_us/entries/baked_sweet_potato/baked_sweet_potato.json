@@ -1,7 +1,7 @@
 {
   "name": "Baked Sweet Potato",
   "icon": "croptopia:baked_sweet_potato",
-  "category": "patchouli:snacks",
+  "category": "cbcollection:snacks",
   "pages": [
     {
       "type": "patchouli:smelting",

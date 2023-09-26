@@ -1,7 +1,7 @@
 {
   "name": "Cocoa Powder",
   "icon": "cacao:cocoa_powder",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

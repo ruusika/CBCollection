@@ -1,10 +1,10 @@
 {
   "name": "Mushroom Rice",
   "icon": "farmersdelight:mushroom_rice",
-  "category": "patchouli:potmeals",
+  "category": "cbcollection:potmeals",
   "pages": [
     {
-      "type": "patchouli:pot_template",
+      "type": "cbcollection:pot_template",
       "header": "Mushroom Rice",
       "item0": "minecraft:brown_mushroom",
       "item1": "minecraft:red_mushroom",

@@ -1,7 +1,7 @@
 {
   "name": "Kelp Roll",
   "icon": "farmersdelight:kelp_roll",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

@@ -1,7 +1,7 @@
 {
   "name": "Yam Jam",
   "icon": "croptopia:yam_jam",
-  "category": "patchouli:ingredients",
+  "category": "cbcollection:ingredients",
   "pages": [
     {
       "type": "patchouli:crafting",

@@ -1,7 +1,7 @@
 {
   "name": "Leafy Salad",
   "icon": "croptopia:leafy_salad",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

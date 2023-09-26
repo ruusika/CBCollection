@@ -1,7 +1,7 @@
 {
   "name": "Flour",
   "icon": "croptopia:flour",
-  "category": "patchouli:ingredients",
+  "category": "cbcollection:ingredients",
   "pages": [
     {
       "type": "patchouli:crafting",

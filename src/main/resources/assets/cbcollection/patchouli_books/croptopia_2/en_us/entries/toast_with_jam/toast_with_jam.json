@@ -1,7 +1,7 @@
 {
   "name": "Toast with Jam",
   "icon": "croptopia:toast_with_jam",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

@@ -1,7 +1,7 @@
 {
   "name": "Egg Sandwich",
   "icon": "farmersdelight:egg_sandwich",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

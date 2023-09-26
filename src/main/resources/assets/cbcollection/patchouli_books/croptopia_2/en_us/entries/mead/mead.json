@@ -1,7 +1,7 @@
 {
   "name": "Mead",
   "icon": "croptopia:mead",
-  "category": "patchouli:drinks",
+  "category": "cbcollection:drinks",
   "pages": [
     {
       "type": "patchouli:crafting",

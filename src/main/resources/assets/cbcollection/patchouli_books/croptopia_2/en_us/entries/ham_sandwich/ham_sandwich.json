@@ -1,7 +1,7 @@
 {
   "name": "Ham Sandwich",
   "icon": "croptopia:ham_sandwich",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

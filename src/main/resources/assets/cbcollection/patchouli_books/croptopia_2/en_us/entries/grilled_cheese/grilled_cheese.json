@@ -1,7 +1,7 @@
 {
   "name": "Grilled Cheese Sandwich",
   "icon": "croptopia:grilled_cheese",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

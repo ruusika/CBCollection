@@ -1,7 +1,7 @@
 {
   "name": "Soy Sauce",
   "icon": "croptopia:soy_sauce",
-  "category": "patchouli:ingredients",
+  "category": "cbcollection:ingredients",
   "pages": [
     {
       "type": "patchouli:crafting",

@@ -1,7 +1,7 @@
 {
   "name": "Nutella",
   "icon": "cacao:nutella",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

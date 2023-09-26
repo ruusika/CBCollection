@@ -1,7 +1,7 @@
 {
   "name": "Coconut Milk Chocolate",
   "icon": "cacao:coconut_milk_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

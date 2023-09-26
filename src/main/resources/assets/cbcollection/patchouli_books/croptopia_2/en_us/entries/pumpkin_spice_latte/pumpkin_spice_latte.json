@@ -1,7 +1,7 @@
 {
   "name": "Pumpkin Spice Latte",
   "icon": "croptopia:pumpkin_spice_latte",
-  "category": "patchouli:drinks",
+  "category": "cbcollection:drinks",
   "pages": [
     {
       "type": "patchouli:crafting",

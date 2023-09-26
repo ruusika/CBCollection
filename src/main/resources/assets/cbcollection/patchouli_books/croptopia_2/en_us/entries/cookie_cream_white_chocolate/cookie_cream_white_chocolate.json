@@ -1,7 +1,7 @@
 {
   "name": "Cookie Cream White Chocolate",
   "icon": "cacao:cookie_cream_white_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

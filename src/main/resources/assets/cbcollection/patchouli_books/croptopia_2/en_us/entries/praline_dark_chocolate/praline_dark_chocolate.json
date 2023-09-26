@@ -1,7 +1,7 @@
 {
   "name": "Praline Dark Chocolate",
   "icon": "cacao:praline_dark_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

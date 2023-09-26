@@ -1,7 +1,7 @@
 {
   "name": "Grape Jam",
   "icon": "croptopia:grape_jam",
-  "category": "patchouli:ingredients",
+  "category": "cbcollection:ingredients",
   "pages": [
     {
       "type": "patchouli:crafting",

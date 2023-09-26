@@ -1,7 +1,7 @@
 {
   "name": "Sweet Berry Cookie",
   "icon": "farmersdelight:sweet_berry_cookie",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

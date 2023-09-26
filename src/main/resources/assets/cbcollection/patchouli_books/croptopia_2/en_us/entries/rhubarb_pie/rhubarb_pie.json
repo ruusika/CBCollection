@@ -1,7 +1,7 @@
 {
   "name": "Rhubarb Pie",
   "icon": "croptopia:rhubarb_pie",
-  "category": "patchouli:desserts",
+  "category": "cbcollection:desserts",
   "pages": [
     {
       "type": "patchouli:crafting",

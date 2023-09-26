@@ -1,7 +1,7 @@
 {
   "name": "Cooking Pot",
   "icon": "croptopia:cooking_pot",
-  "category": "patchouli:utensils",
+  "category": "cbcollection:utensils",
   "pages": [
     {
       "type": "patchouli:crafting",

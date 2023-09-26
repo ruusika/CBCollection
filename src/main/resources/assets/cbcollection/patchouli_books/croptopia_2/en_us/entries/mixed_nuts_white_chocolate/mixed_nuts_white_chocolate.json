@@ -1,7 +1,7 @@
 {
   "name": "Mixed Nuts White Chocolate",
   "icon": "cacao:mixed_nuts_white_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

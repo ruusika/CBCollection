@@ -1,7 +1,7 @@
 {
   "name": "Cranberry Juice",
   "icon": "croptopia:cranberry_juice",
-  "category": "patchouli:drinks",
+  "category": "cbcollection:drinks",
   "pages": [
     {
       "type": "patchouli:crafting",

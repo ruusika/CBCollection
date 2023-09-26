@@ -1,7 +1,7 @@
 {
   "name": "Cheesecake",
   "icon": "croptopia:cheese_cake",
-  "category": "patchouli:desserts",
+  "category": "cbcollection:desserts",
   "pages": [
     {
       "type": "patchouli:spotlight",

@@ -1,7 +1,7 @@
 {
   "name": "Caramel White Chocolate",
   "icon": "cacao:caramel_white_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

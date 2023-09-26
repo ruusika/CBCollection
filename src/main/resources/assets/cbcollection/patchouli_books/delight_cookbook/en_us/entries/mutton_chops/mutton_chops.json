@@ -1,7 +1,7 @@
 {
   "name": "Roasted Mutton Chops",
   "icon": "farmersdelight:roasted_mutton_chops",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

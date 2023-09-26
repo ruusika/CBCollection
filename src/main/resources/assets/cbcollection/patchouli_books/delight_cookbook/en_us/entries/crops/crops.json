@@ -12,7 +12,7 @@
 			"subtext": "A flowering weed, with a conspicuous beige-colored base. Found in normal climates."
 		},
 		{
-			"type": "patchouli:crop_template",
+			"type": "cbcollection:crop_template",
 			"header": "Wild Potatoes",
 			"seed": "minecraft:air",
 			"plant": "farmersdelight:wild_potatoes",
@@ -20,7 +20,7 @@
 			"subtext": "Similar to normal Potato patches, but with large flowers. Found in colder climates."
 		},
 		{
-			"type": "patchouli:crop_template",
+			"type": "cbcollection:crop_template",
 			"header": "Wild Cabbage",
 			"seed": "farmersdelight:cabbage_seeds",
 			"plant": "farmersdelight:wild_cabbages",
@@ -28,7 +28,7 @@
 			"subtext": "A large bush with small yellow flowers. Found mostly on beaches."
 		},
 		{
-			"type": "patchouli:crop_template",
+			"type": "cbcollection:crop_template",
 			"header": "Sea Beet | Beet Root",
 			"seed": "minecraft:beetroot_seeds",
 			"plant": "farmersdelight:wild_beetroots",
@@ -36,7 +36,7 @@
 			"subtext": "A type of beet with much larger leaves. Found mostly on beaches."
 		},
 		{
-			"type": "patchouli:crop_template",
+			"type": "cbcollection:crop_template",
 			"header": "Wild Onion",
 			"seed": "minecraft:air",
 			"plant": "farmersdelight:wild_onions",
@@ -44,7 +44,7 @@
 			"subtext": "A thick cluster of Allium flowers usually has an onion bulb under them. Found in normal climates."
 		},
 		{
-			"type": "patchouli:crop_template",
+			"type": "cbcollection:crop_template",
 			"header": "Wild Tomatoes",
 			"seed": "farmersdelight:tomato_seeds",
 			"plant": "farmersdelight:wild_tomatoes",
@@ -52,7 +52,7 @@
 			"subtext": "Non-spiked floor vines covered in tiny tomatoes. Found in warmer climates."
 		},
 		{
-			"type": "patchouli:crop_template",
+			"type": "cbcollection:crop_template",
 			"header": "Wild Rice",
 			"seed": "minecraft:air",
 			"plant": "farmersdelight:wild_rice",

@@ -1,7 +1,7 @@
 {
   "name": "Honey Cookie",
   "icon": "farmersdelight:honey_cookie",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

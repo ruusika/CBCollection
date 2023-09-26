@@ -1,7 +1,7 @@
 {
   "name": "White Chocolate Apple",
   "icon": "cacao:white_chocolate_covered_apple",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

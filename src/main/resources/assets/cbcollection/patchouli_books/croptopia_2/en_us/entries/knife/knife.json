@@ -1,7 +1,7 @@
 {
   "name": "Knife",
   "icon": "croptopia:knife",
-  "category": "patchouli:utensils",
+  "category": "cbcollection:utensils",
   "pages": [
     {
       "type": "patchouli:crafting",

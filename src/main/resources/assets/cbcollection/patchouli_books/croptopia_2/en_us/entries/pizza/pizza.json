@@ -1,7 +1,7 @@
 {
   "name": "Pizza",
   "icon": "croptopia:pizza",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

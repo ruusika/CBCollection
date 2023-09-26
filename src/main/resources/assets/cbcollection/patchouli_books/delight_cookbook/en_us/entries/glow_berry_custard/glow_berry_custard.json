@@ -1,10 +1,9 @@
 {
   "name": "Glow Berry Custard",
   "icon": "farmersdelight:glow_berry_custard",
-  "category": "patchouli:potmeals",
-  "pages": [
-    {
-      "type": "patchouli:pot_template",
+  "category": "cbcollection:potmeals",
+  ",
+  "category": "cbcollection:
       "header": "Glow Berry Custard",
       "item0": "minecraft:glow_berries",
       "item1": "tag:c:milk",

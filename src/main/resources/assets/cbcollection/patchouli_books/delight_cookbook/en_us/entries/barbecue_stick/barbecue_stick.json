@@ -1,7 +1,7 @@
 {
   "name": "Barbecue on a Stick",
   "icon": "farmersdelight:barbecue_stick",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

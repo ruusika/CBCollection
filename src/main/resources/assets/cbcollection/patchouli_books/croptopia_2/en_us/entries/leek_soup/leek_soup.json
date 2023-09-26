@@ -1,7 +1,7 @@
 {
   "name": "Leek Soup",
   "icon": "croptopia:leek_soup",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

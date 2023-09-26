@@ -1,7 +1,7 @@
 {
   "name": "Snicker Doodle",
   "icon": "croptopia:snicker_doodle",
-  "category": "patchouli:desserts",
+  "category": "cbcollection:desserts",
   "pages": [
     {
       "type": "patchouli:crafting",

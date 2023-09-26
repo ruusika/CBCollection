@@ -1,7 +1,7 @@
 {
   "name": "Manual Food Grinder",
   "icon": "cacao:manual_food_grinder",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

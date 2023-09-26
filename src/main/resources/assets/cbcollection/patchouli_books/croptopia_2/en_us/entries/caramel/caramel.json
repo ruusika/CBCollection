@@ -1,7 +1,7 @@
 {
   "name": "Caramel",
   "icon": "croptopia:caramel",
-  "category": "patchouli:ingredients",
+  "category": "cbcollection:ingredients",
   "pages": [
     {
       "type": "patchouli:smelting",

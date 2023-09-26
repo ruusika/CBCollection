@@ -1,7 +1,7 @@
 {
   "name": "Cacao Butter Bottle",
   "icon": "cacao:cacao_butter_bottle",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

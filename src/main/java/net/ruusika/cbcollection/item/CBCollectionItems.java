@@ -10,8 +10,8 @@ import net.ruusika.cbcollection.util.LoggerUtilities;
 
 @SuppressWarnings({"unused", "SameParameterValue"})
 public class CBCollectionItems {
-    private static final Item DELIGHT_COOKBOOK = registerItem("delight_cookbook",
-            new CustomBookItem(new FabricItemSettings().maxCount(1).group(CBCollectionItemGroups.COOKBOOKS)));
+    private static final Item DELIGHT_COOKBOOK = registerItem("delight_cookbook", new CustomBookItem());
+    private static final Item CROPTOPIA_2_COOKBOOK = registerItem("croptopia_2", new CustomBookItem());
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(CBCollection.MODID, name), item);

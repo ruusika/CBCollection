@@ -1,7 +1,7 @@
 {
   "name": "Milk Chocolate Apple",
   "icon": "cacao:milk_chocolate_covered_apple",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

@@ -1,7 +1,7 @@
 {
   "name": "White Chips Cookie",
   "icon": "cacao:white_chips_cookie",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

@@ -1,7 +1,7 @@
 {
   "name": "Mango Ice Cream",
   "icon": "croptopia:mango_ice_cream",
-  "category": "patchouli:desserts",
+  "category": "cbcollection:desserts",
   "pages": [
     {
       "type": "patchouli:crafting",

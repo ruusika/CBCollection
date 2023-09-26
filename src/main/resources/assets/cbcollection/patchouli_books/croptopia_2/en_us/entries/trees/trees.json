@@ -1,7 +1,7 @@
 {
   "name": "Trees",
   "icon": "croptopia:starfruit_sapling",
-  "category": "patchouli:crops",
+  "category": "cbcollection:crops",
   "pages": [
     {
       "type": "patchouli:text",

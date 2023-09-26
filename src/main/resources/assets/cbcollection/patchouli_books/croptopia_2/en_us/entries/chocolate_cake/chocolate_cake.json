@@ -1,7 +1,7 @@
 {
   "name": "Chocolate Cake",
   "icon": "cacao:chocolate_cake",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

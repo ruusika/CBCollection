@@ -1,7 +1,7 @@
 {
   "name": "Frying Pan",
   "icon": "croptopia:frying_pan",
-  "category": "patchouli:utensils",
+  "category": "cbcollection:utensils",
   "pages": [
     {
       "type": "patchouli:crafting",

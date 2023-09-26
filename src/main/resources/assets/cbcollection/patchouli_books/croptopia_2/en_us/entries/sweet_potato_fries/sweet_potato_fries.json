@@ -1,7 +1,7 @@
 {
   "name": "Sweet Potato Fries",
   "icon": "croptopia:sweet_potato_fries",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

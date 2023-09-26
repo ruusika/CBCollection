@@ -1,5 +1,6 @@
 package net.ruusika.cbcollection.item.custom;
 
+import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
@@ -9,14 +10,15 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.TypedActionResult;
 import net.minecraft.util.registry.Registry;
 import net.minecraft.world.World;
+import net.ruusika.cbcollection.item.CBCollectionItemGroups;
 import vazkii.patchouli.api.PatchouliAPI;
 import vazkii.patchouli.common.base.PatchouliSounds;
 import vazkii.patchouli.common.book.Book;
 import vazkii.patchouli.common.book.BookRegistry;
 
 public class CustomBookItem extends Item {
-    public CustomBookItem(Settings settings) {
-        super(settings);
+    public CustomBookItem() {
+        super(new FabricItemSettings().maxCount(1).group(CBCollectionItemGroups.COOKBOOKS));
     }
 
     @Override

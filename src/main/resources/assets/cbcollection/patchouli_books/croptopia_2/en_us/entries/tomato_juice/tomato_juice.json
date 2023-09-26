@@ -1,7 +1,7 @@
 {
   "name": "Tomato Juice",
   "icon": "croptopia:tomato_juice",
-  "category": "patchouli:drinks",
+  "category": "cbcollection:drinks",
   "pages": [
     {
       "type": "patchouli:crafting",

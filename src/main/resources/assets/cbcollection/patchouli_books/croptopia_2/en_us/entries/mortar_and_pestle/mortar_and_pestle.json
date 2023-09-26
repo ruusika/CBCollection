@@ -1,7 +1,7 @@
 {
   "name": "Mortar and Pestle",
   "icon": "croptopia:mortar_and_pestle",
-  "category": "patchouli:utensils",
+  "category": "cbcollection:utensils",
   "pages": [
     {
       "type": "patchouli:crafting",

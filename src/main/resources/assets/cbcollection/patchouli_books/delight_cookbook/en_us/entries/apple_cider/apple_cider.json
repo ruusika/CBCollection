@@ -1,10 +1,10 @@
 {
   "name": "Apple Cider",
   "icon": "farmersdelight:apple_cider",
-  "category": "patchouli:potmeals",
+  "category": "cbcollection:potmeals",
   "pages": [
     {
-      "type": "patchouli:pot_template",
+      "type": "cbcollection:pot_template",
       "header": "Apple Cider",
       "item0": "minecraft:apple",
       "item1": "minecraft:apple",

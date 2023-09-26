@@ -1,7 +1,7 @@
 {
   "name": "The Chocolate Form",
   "icon": "cacao:silicon_mold",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

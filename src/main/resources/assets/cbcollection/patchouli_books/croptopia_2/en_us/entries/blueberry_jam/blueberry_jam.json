@@ -1,7 +1,7 @@
 {
   "name": "Blueberry Jam",
   "icon": "croptopia:blueberry_jam",
-  "category": "patchouli:ingredients",
+  "category": "cbcollection:ingredients",
   "pages": [
     {
       "type": "patchouli:crafting",

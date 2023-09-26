@@ -1,7 +1,7 @@
 {
   "name": "Tortilla",
   "icon": "croptopia:tortilla",
-  "category": "patchouli:ingredients",
+  "category": "cbcollection:ingredients",
   "pages": [
     {
       "type": "patchouli:crafting",

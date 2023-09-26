@@ -1,7 +1,7 @@
 {
   "name": "Honey Glazed Ham",
   "icon": "farmersdelight:honey_glazed_ham_block",
-  "category": "patchouli:feasts",
+  "category": "cbcollection:feasts",
   "pages": [
     {
       "type": "patchouli:crafting",

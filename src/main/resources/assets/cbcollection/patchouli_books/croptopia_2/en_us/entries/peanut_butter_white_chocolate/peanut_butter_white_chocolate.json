@@ -1,7 +1,7 @@
 {
   "name": "Peanut Butter White Chocolate",
   "icon": "cacao:peanut_butter_white_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

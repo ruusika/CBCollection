@@ -1,7 +1,7 @@
 {
   "name": "Steak and Potatoes",
   "icon": "farmersdelight:steak_and_potatoes",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

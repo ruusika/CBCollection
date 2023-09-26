@@ -1,7 +1,7 @@
 {
   "name": "Rice Roll Medley",
   "icon": "farmersdelight:rice_roll_medley_block",
-  "category": "patchouli:feasts",
+  "category": "cbcollection:feasts",
   "pages": [
     {
       "type": "patchouli:crafting",

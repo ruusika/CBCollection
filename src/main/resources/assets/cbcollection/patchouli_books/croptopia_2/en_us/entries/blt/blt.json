@@ -1,7 +1,7 @@
 {
   "name": "BLT Sandwich",
   "icon": "croptopia:blt",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

@@ -14,7 +14,7 @@
 			"recipe2": "farmersdelight:diamond_knife"
 		},
 		{
-			"type": "patchouli:smithing_template",
+			"type": "cbcollection:smithing_template",
 			"header": "Netherite Knife",
 			"item0": "farmersdelight:diamond_knife",
 			"item1": "minecraft:netherite_ingot",

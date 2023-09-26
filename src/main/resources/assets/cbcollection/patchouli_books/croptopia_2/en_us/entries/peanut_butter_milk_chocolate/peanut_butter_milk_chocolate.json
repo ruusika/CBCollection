@@ -1,7 +1,7 @@
 {
   "name": "Peanut Butter Milk Chocolate",
   "icon": "cacao:peanut_butter_milk_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

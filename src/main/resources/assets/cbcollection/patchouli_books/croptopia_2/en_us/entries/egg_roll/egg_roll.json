@@ -1,7 +1,7 @@
 {
   "name": "Egg Roll",
   "icon": "croptopia:egg_roll",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

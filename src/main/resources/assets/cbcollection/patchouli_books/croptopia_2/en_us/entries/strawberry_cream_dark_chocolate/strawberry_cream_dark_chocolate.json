@@ -1,7 +1,7 @@
 {
   "name": "Strawberry Dark Chocolate",
   "icon": "cacao:strawberry_cream_dark_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

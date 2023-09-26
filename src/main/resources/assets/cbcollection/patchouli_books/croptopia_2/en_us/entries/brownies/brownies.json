@@ -1,7 +1,7 @@
 {
   "name": "Brownies",
   "icon": "croptopia:brownies",
-  "category": "patchouli:desserts",
+  "category": "cbcollection:desserts",
   "pages": [
     {
       "type": "patchouli:crafting",

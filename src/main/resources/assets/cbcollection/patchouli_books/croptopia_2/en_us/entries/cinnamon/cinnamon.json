@@ -1,7 +1,7 @@
 {
   "name": "Cinnamon",
   "icon": "croptopia:cinnamon",
-  "category": "patchouli:ingredients",
+  "category": "cbcollection:ingredients",
   "pages": [
     {
       "type": "patchouli:spotlight",
@@ -14,7 +14,7 @@
       "text": "Cinnamon is an evergreen tree characterized by oval-shaped leaves, thick bark and a berry fruit. When harvesting the spice, the bark and leaves are the primary parts of the plant used."
     },
     {
-      "type": "patchouli:stripping",
+      "type": "cbcollection:stripping",
       "header": "Extracting Cinnamon",
       "item0": "croptopia:cinnamon_log",
       "item1": "minecraft:iron_axe",

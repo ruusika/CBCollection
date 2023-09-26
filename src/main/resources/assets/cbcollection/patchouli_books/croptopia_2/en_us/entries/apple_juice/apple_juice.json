@@ -1,7 +1,7 @@
 {
   "name": "Apple Juice",
   "icon": "croptopia:apple_juice",
-  "category": "patchouli:drinks",
+  "category": "cbcollection:drinks",
   "pages": [
     {
       "type": "patchouli:crafting",

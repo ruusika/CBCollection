@@ -1,7 +1,7 @@
 {
   "name": "Shepherds Pie",
   "icon": "farmersdelight:shepherds_pie_block",
-  "category": "patchouli:feasts",
+  "category": "cbcollection:feasts",
   "pages": [
     {
       "type": "patchouli:crafting",

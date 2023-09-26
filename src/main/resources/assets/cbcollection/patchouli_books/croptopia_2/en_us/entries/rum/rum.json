@@ -1,7 +1,7 @@
 {
   "name": "Rum",
   "icon": "croptopia:rum",
-  "category": "patchouli:drinks",
+  "category": "cbcollection:drinks",
   "pages": [
     {
       "type": "patchouli:crafting",

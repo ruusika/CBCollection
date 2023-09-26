@@ -1,7 +1,7 @@
 {
   "name": "Chicken and Rice",
   "icon": "croptopia:chicken_and_rice",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

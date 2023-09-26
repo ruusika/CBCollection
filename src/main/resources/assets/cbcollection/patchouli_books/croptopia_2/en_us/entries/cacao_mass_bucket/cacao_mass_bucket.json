@@ -1,7 +1,7 @@
 {
   "name": "Cacao Mass Bucket",
   "icon": "cacao:cacao_mass_bucket",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

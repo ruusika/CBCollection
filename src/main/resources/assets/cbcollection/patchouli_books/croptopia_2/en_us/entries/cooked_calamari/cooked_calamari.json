@@ -1,7 +1,7 @@
 {
   "name": "Cooked Calamari",
   "icon": "croptopia:cooked_calamari",
-  "category": "patchouli:snacks",
+  "category": "cbcollection:snacks",
   "pages": [
     {
       "type": "patchouli:smelting",

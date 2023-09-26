@@ -1,7 +1,7 @@
 {
   "name": "Skillet",
   "icon": "farmersdelight:skillet",
-  "category": "patchouli:utensils",
+  "category": "cbcollection:utensils",
   "pages": [
     {
       "type": "patchouli:crafting",

@@ -1,7 +1,7 @@
 {
   "name": "Mutton Wrap",
   "icon": "farmersdelight:mutton_wrap",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

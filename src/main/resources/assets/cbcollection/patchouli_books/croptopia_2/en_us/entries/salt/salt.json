@@ -1,7 +1,7 @@
 {
   "name": "Salt",
   "icon": "croptopia:salt",
-  "category": "patchouli:ingredients",
+  "category": "cbcollection:ingredients",
   "pages": [
     {
       "type": "patchouli:smelting",

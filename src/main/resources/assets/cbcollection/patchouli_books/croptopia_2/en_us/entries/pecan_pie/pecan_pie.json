@@ -1,7 +1,7 @@
 {
   "name": "Pecan Pie",
   "icon": "croptopia:pecan_pie",
-  "category": "patchouli:desserts",
+  "category": "cbcollection:desserts",
   "pages": [
     {
       "type": "patchouli:crafting",

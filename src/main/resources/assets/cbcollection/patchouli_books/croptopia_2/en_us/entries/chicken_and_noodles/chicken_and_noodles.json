@@ -1,7 +1,7 @@
 {
   "name": "Chicken and Noodles",
   "icon": "croptopia:chicken_and_noodles",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

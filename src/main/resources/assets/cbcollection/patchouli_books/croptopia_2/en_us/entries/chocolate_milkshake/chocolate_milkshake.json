@@ -1,7 +1,7 @@
 {
   "name": "Chocolate Milkshake",
   "icon": "croptopia:chocolate_milkshake",
-  "category": "patchouli:drinks",
+  "category": "cbcollection:drinks",
   "pages": [
     {
       "type": "patchouli:crafting",

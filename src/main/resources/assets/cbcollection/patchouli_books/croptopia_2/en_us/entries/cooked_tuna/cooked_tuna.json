@@ -1,7 +1,7 @@
 {
   "name": "Cooked Tuna",
   "icon": "croptopia:cooked_tuna",
-  "category": "patchouli:snacks",
+  "category": "cbcollection:snacks",
   "pages": [
     {
       "type": "patchouli:smelting",

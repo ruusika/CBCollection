@@ -1,7 +1,7 @@
 {
   "name": "Stuffed Potato",
   "icon": "farmersdelight:stuffed_potato",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

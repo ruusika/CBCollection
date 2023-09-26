@@ -1,7 +1,7 @@
 {
   "name": "Praline Milk Chocolate",
   "icon": "cacao:praline_milk_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

@@ -1,7 +1,7 @@
 {
   "name": "Saucy Chips",
   "icon": "croptopia:saucy_chips",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

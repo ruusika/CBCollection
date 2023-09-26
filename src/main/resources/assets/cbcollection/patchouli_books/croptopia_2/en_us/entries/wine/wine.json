@@ -1,7 +1,7 @@
 {
   "name": "Wine",
   "icon": "croptopia:wine",
-  "category": "patchouli:drinks",
+  "category": "cbcollection:drinks",
   "pages": [
     {
       "type": "patchouli:crafting",

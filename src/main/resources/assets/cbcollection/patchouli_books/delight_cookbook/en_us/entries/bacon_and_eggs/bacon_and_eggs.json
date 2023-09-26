@@ -1,7 +1,7 @@
 {
   "name": "Bacon and Eggs",
   "icon": "farmersdelight:bacon_and_eggs",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",

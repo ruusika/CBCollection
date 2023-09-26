@@ -1,7 +1,7 @@
 {
   "name": "Caramel Dark Chocolate",
   "icon": "cacao:caramel_dark_chocolate",
-  "category": "patchouli:chocolate",
+  "category": "cbcollection:chocolate",
   "pages": [
     {
       "type": "patchouli:crafting",

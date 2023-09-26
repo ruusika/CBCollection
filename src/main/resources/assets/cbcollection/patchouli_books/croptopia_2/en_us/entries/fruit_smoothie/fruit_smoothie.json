@@ -1,7 +1,7 @@
 {
   "name": "Fruit Smoothie",
   "icon": "croptopia:fruit_smoothie",
-  "category": "patchouli:drinks",
+  "category": "cbcollection:drinks",
   "pages": [
     {
       "type": "patchouli:crafting",

@@ -1,7 +1,7 @@
 {
   "name": "Cucumber Salad",
   "icon": "croptopia:cucumber_salad",
-  "category": "patchouli:meals",
+  "category": "cbcollection:meals",
   "pages": [
     {
       "type": "patchouli:crafting",
