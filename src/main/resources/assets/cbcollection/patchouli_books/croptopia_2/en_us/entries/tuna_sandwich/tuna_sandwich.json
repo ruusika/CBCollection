@@ -1,0 +1,12 @@
+{
+  "name": "Tuna Sandwich",
+  "icon": "croptopia:tuna_sandwich",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/tuna_sandwich",
+      "text": "My cat likes those too much. But I can understand her. Those are tasty."
+    }
+  ]
+}

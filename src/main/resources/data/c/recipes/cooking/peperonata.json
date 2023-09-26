@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "c:crops"
+    },
+    {
+      "tag": "c:chile_pepper"
+    },
+    {
+      "tag": "c:onion"
+    },
+    {
+      "tag": "c:tomato"
+    },
+    {
+      "item": "farmersdelight:raw_pasta"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:peperonata"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

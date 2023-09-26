@@ -1,0 +1,57 @@
+{
+	"name": "Crafted from straw",
+	"icon": "farmersdelight:straw",
+	"category": "patchouli:blocks",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:rope",
+			"text": "Ropes are intangible, but climbable blocks, behaving in a similar manner to Vines and Ladders. Can be used to ring bells."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:safety_net",
+			"text": "A safety net is used to protect you from injury after falling from heights by limiting the distance you fall."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:canvas",
+			"text": "A base fabric to craft scaffoldings and baskets."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:canvas_rug",
+			"text": "An alternative to woll carpets."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:painting_from_canvas",
+			"recipe2": "farmersdelight:book_from_canvas"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:canvas_sign",
+			"recipe2": "farmersdelight:scaffolding_from_canvas"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:basket",
+			"text": "The Basket is a container block that can capture dropped items through its open side."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:tatami",
+			"recipe2": "farmersdelight:tatami_block_from_full"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:full_tatami_mat",
+			"recipe2": "farmersdelight:full_tatami_mat_from_halves"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:half_tatami_mat",
+			"text": "A tatami is a type of mat used as a flooring material, eg. for training in a dojo and for competition."
+		}
+	]
+}

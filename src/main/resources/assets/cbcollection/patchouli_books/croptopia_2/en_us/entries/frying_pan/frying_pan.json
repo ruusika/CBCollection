@@ -1,0 +1,12 @@
+{
+  "name": "Frying Pan",
+  "icon": "croptopia:frying_pan",
+  "category": "patchouli:utensils",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:frying_pan",
+      "text": "A very handy skillet. Not big enough to bash someone's head in but perfect for cooking."
+    }
+  ]
+}

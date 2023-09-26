@@ -1,0 +1,12 @@
+{
+  "name": "Lemonade",
+  "icon": "croptopia:lemonade",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:lemonade",
+      "text": "Refreshing. A bit sour but nothing a bit of sugar can't fix."
+    }
+  ]
+}

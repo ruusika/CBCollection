@@ -1,0 +1,12 @@
+{
+  "name": "Pepperoni",
+  "icon": "croptopia:pepperoni",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:pepperoni",
+      "text": "A spice sausage for your pizza. I can recommend it."
+    }
+  ]
+}

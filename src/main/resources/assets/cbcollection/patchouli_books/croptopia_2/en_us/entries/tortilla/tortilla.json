@@ -1,0 +1,12 @@
+{
+  "name": "Tortilla",
+  "icon": "croptopia:tortilla",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:tortilla",
+      "text": "This one is the base for tacos, burritos and wraps. It's just the shell for some very good dishes."
+    }
+  ]
+}

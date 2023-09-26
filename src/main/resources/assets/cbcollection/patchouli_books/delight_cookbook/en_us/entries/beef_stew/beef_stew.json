@@ -1,0 +1,19 @@
+{
+	"name": "Beef Stew",
+	"icon": "farmersdelight:beef_stew",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Beef Stew",
+			"item0": "tag:c:raw_beef",
+			"item1": "minecraft:carrot",
+			"item2": "minecraft:potato",
+			"item3": "minecraft:air",
+			"item4": "minecraft:air",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:beef_stew",
+			"subtext": "A strong meal. You can use a piece of raw beef as well. Needs a bowl to be served."
+		}
+	]
+}

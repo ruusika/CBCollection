@@ -1,0 +1,12 @@
+{
+  "name": "Pork and Beans",
+  "icon": "croptopia:pork_and_beans",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:pork_and_beans",
+      "text": "I didn't do so well on the beans but it was tasty."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:olive_oil"
+    },
+    {
+      "tag": "c:garlic"
+    },
+    {
+      "tag": "c:eggplants"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "item": "croptopia:paprika"
+    },
+    {
+      "item": "croptopia:pepper"
+    }
+  ],
+  "result": {
+    "item": "croptopia:grilled_eggplant"
+  }
+}

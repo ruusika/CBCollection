@@ -1,0 +1,12 @@
+{
+  "name": "Cooked Anchovy",
+  "icon": "croptopia:cooked_anchovy",
+  "category": "patchouli:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:cooked_anchovy_from_anchovy",
+      "text": "Not as fishy as I expected. Grill it on a stick with some spices."
+    }
+  ]
+}

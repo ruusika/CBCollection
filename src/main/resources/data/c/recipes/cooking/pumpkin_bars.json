@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:vanilla"
+    },
+    {
+      "item": "croptopia:cinnamon"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "item": "croptopia:butter"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:egg"
+    }
+  ],
+  "result": {
+    "item": "croptopia:pumpkin_bars",
+    "count": 3
+  }
+}

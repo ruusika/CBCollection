@@ -1,0 +1,12 @@
+{
+  "name": "Mortar and Pestle",
+  "icon": "croptopia:mortar_and_pestle",
+  "category": "patchouli:utensils",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:mortar_and_pestle",
+      "text": "Sometimes you can't use a mill to grind down herbs and plants. It's also a healer's tool."
+    }
+  ]
+}

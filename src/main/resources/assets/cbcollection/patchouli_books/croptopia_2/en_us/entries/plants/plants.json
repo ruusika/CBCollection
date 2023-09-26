@@ -1,0 +1,595 @@
+{
+  "name": "Plants",
+  "icon": "croptopia:blueberry_seed",
+  "category": "patchouli:crops",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Crops can be found around the world. They have specific biomes that they will spawn in. In 2.0.0 crop spawning is now determined with datapacks rather than the 'category' of biome, it is now determined by the biomes name. If you would like certain crops added to modded biomes, make an issue on thethonk's github page."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br)$(br2)On the next few pages you'll see an overview of all the crops in Croptopia."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:artichoke_seed",
+      "text": "This vegetable grows to 1.4–2 m tall, with arching, deeply lobed, silvery, glaucous-green leaves 50–83 cm long."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:artichoke",
+      "text": "A recipe well known are artichokes, which are deep-fried whole. The softer parts of artichokes are also eaten raw, one leaf at a time dipped in vinegar and olive oil, or thinly sliced and dressed with lemon and olive oil. There are many stuffed artichoke recipes."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:asparagus_seed",
+      "text": "Asparagus is a herbaceous, perennial plant growing to 100–150 centimetres (40–60 inches) tall, with stout stems with much-branched, feathery foliage."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:asparagus",
+      "text": "The shoots are prepared and served in a number of ways, typically as an appetizer or vegetable side dish."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:barley_seed",
+      "text": "Barley is a widely adaptable crop. It is currently popular in temperate areas where it is grown as a summer crop and tropical areas where it is sown as a winter crop."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:barley",
+      "text": "Barley may be processed into various barley products, including flour, flakes similar to oatmeal, and grits. Barley meal is used in gruel."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:basil_seed",
+      "text": "Basil is a herb used for its leaves. Depending on the variety, plants can reach heights of between 30 and 150 cm. Its leaves are richly green and ovate, but otherwise come in a wide variety of sizes and shapes depending on cultivar."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:basil",
+      "text": "Basil is most commonly used fresh in recipes. In general, it is added last, as cooking quickly destroys the flavor.  Basil is one of the main ingredients in pesto, many cuisines use fresh or dried basils in soups and other foods, such as to thicken soups."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:bellpepper_seed",
+      "text": "Cultivars of the plant produce fruits in different colors, including red, yellow, orange, green, white, chocolate, candy cane striped, and purple. Bell peppers are sometimes grouped with less pungent chili varieties as sweet peppers."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:bellpepper",
+      "text": "Pieces of bell pepper are commonly used in garden salads and as toppings on pizza. There are many varieties of stuffed peppers prepared using hollowed or halved bell peppers. Bell peppers may be used in the production of the spice paprika."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:blackbean_seed",
+      "text": "The black bean has small, shiny black seeds. All varieties bear alternate, green or purple leaves, which are divided into three oval, smooth-edged leaflets, each 6–15 cm long and 3–11 cm wide."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:blackbean",
+      "text": "The black bean has a dense, meaty texture, which makes it popular in the black bean burrito.It is also common to keep the boiled water of these beans and consume it as a soup with other ingredients for seasoning, as a broth."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:blackberry_seed",
+      "text": "Blackberries are perennial plants which typically bear biennial stems from the perennial root system. In its first year, a new stem, grows vigorously to its full length of 3–6 m."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:blackberry",
+      "text": "The ripe fruit is commonly used in desserts, jams, jelly, wine and liqueurs. It may be mixed with other berries and fruits for pies and crumbles. Blackberries are also used to produce candy."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:blueberry_seed",
+      "text": "The leaves of blueberries can be either deciduous or evergreen, ovate to lanceolate, and 1–8 cm long and 0.5–3.5 cm broad. The flowers are bell-shaped, white, pale pink or red, sometimes tinged greenish."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:blueberry",
+      "text": "Blueberries are used fresh or are processed to purée, juice, or dried or infused berries. These may then be used in a variety of consumer goods, such as jellies, jams, pies, muffins, snack foods or pancakes."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:broccoli_seed",
+      "text": "The majority of broccoli cultivars are cool-weather crops that do poorly in hot summer weather. Broccoli should be harvested before the flowers on the head bloom bright yellow."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:broccoli",
+      "text": "Common cooking methods include sautéing, steaming, boiling, and stir frying."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cabbage_seed",
+      "text": "Cabbage is generally grown for its densely leaved heads, produced during its first year. Plants perform best when grown in well-drained soil in a location that receives full sun."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cabbage",
+      "text": "Cabbage is prepared and consumed in many ways. The simplest options include eating the vegetable raw or steaming it, though many cuisines pickle, stew, sautée or braise cabbage."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cantaloupe_seed",
+      "text": "Cantaloupes range in mass from 0.5 to 5 kilograms."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cantaloupe",
+      "text": "Cantaloupe is normally eaten as a fresh fruit, as a salad, or as a dessert with ice cream or custard. Melon pieces wrapped in prosciutto are a familiar antipasto. The seeds are edible and may be dried for use as a snack."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cauliflower_seed",
+      "text": "When cauliflower is mature, heads appear clear white, compact, and 15–20 cm in diameter, and should be cooled shortly after harvest."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cauliflower",
+      "text": "Cauliflower heads can be roasted, grilled, boiled, fried, steamed, pickled, or eaten raw. When cooking, the outer leaves and thick stalks are typically removed, leaving only the florets . The leaves are also edible but are often discarded."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:celery_seed",
+      "text": "Celery leaves are pinnate to bipinnate with rhombic leaflets 3–6 centimetres long and 2–4 cm broad. The plants are raised from seed, sown either in a hot bed or in the open garden according to the season of the year."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:celery",
+      "text": "Celery leaves are suitable dried as a sprinkled on seasoning for use with baked, fried or roasted fish, meats and as part of a blend of fresh seasonings suitable for use in soups and stews."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:chile_pepper_seed",
+      "text": "Though there are only a few commonly used species, there are many cultivars and methods of preparing chili peppers that have different names for culinary use. Unripe peppers are green although peppers that do not turn red on ripening have been bred."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:chile_pepper",
+      "text": "When used fresh, they are most often prepared and eaten like a vegetable. Whole pods can be dried and then crushed or ground into chili powder that is used as a spice or seasoning."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:coffee_seed",
+      "text": "A coffee bean is a seed of the Coffea plant and the source for coffee. It is the pip inside the red or purple fruit. This fruit is often referred to as a coffee cherry."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:coffee_beans",
+      "text": "Coffee is a beverage prepared from roasted coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:corn_seed",
+      "text": "Because it is cold-intolerant, in the temperate zones maize must be planted in the spring. Its root system is generally shallow, so the plant is dependent on soil moisture."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:corn",
+      "text": "Grain alcohol from maize is traditionally the source of Bourbon whiskey. Cornmeal is used to make cornbread and other baked products."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cranberry_seed",
+      "text": "Historically, cranberry beds were constructed in wetlands. Today's cranberry beds are constructed in upland areas with a shallow water table."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cranberry",
+      "text": "As fresh cranberries are hard, sour, and bitter, cranberries are processed and used to make cranberry juice and sauce. "
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cucumber_seed",
+      "text": "The cucumber is a creeping vine that roots in the ground and grows up trellises or other supporting frames, wrapping around supports with thin, spiraling tendrils."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cucumber",
+      "text": "Pickling with brine, sugar, vinegar, and spices creates various flavored products from cucumbers and other foods."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:currant_seed",
+      "text": "Ribes species are medium shrublike plants with marked diversity in strikingly diverse flowers and fruit."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:currant",
+      "text": "The fruit of currants when eaten raw have a strong, tart flavour. It can be made into jams and jellies. For culinary use, the fruit is usually cooked with sugar to produce a purée."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:eggplant_seed",
+      "text": "The eggplant is a delicate, tropical perennial plant often cultivated as a tender or half-hardy annual in temperate climates."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:eggplant",
+      "text": "Raw eggplant can have a bitter taste, but it becomes tender when cooked and develops a rich, complex flavor. Rinsing, draining, and salting the sliced fruit before cooking may remove the bitterness."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:elderberry_seed",
+      "text": "They bear large clusters of small white or cream-colored flowers in late spring; these are followed by clusters of small black, blue-black, or red berries."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:elderberry",
+      "text": "The flowers of elderberries are used to produce elderflower cordial. Some liquor, is made from elderflowers."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:garlic_seed",
+      "text": "Garlic is a perennial flowering plant that grows from a bulb. It has a tall, erect flowering stem that grows up to 1 m. Garlic is easy to grow and can be grown year-round in mild climates."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:garlic",
+      "text": "Garlic is widely used around the world for its pungent flavor as a seasoning or condiment. Garlic may be applied to different kinds of bread, usually in a medium of butter or oil."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:ginger_seed",
+      "text": "The size of the seed ginger, called rhizome, is essential to the production of ginger. The larger the piece, the faster ginger will be produced and therefore the faster it will be sold onto the market."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:ginger",
+      "text": "Ginger is a common spice used worldwide, whether for meals or as a folk medicine. It can be used for a variety of food items such as vegetables, candy, soda, pickles, and alcoholic beverages."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:grape_seed",
+      "text": "Grapes are a type of fruit that grow in clusters of 15 to 300, and can be crimson, black, dark blue, yellow, green, orange, and pink."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:grape",
+      "text": "Grapes are eaten raw, dried (as raisins, currants and sultanas), or cooked. Also, depending on grape cultivar, grapes are used in winemaking. Grapes can be processed into a multitude of products such as jams, juices, vinegars and oils."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:greenbean_seed",
+      "text": "Green beans are classified by growth habit into two major groups, bush (or dwarf) beans and pole (or climbing) beans."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:greenbean",
+      "text": "Green beans are sold fresh, canned, and frozen. They can be eaten raw or steamed, boiled, stir-fried, or baked. They are commonly cooked in other dishes, such as soups, stews, and casseroles."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:greenonion_seed",
+      "text": "Plants produce from one to 12 leaves, most species having linear, channeled or flat leaf blades."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:greenonion",
+      "text": "Green Onions may be cooked or used raw as a part of salads or salsas. Diced ones are used in soup, noodle and seafood dishes, sandwiches, curries and as part of a stir fry."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:honeydew_seed",
+      "text": "A honeydew has a round to slightly oval shape, typically 15–22 cm long. It generally ranges in weight from 1.8 to 3.6 kg."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:honeydew",
+      "text": "The inner flesh is eaten, often for dessert."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:hops_seed",
+      "text": "As hops are a climbing plant, they are trained to grow up trellises made from strings or wires that support the plants and allow them significantly greater growth with the same sunlight profile."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:hops",
+      "text": "They are used primarily as a bittering, flavouring, and stability agent in beer, to which, in addition to bitterness, they impart floral, fruity, or citrus flavours and aromas. Hops are also used for various purposes in other beverages and herbal medicine."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:kale_seed",
+      "text": "Kale is usually an annual plant grown from seed with a wide range of germination temperatures. It is hardy and thrives in wintertime, and can survive in temperatures as low as −15 °C (5 °F).[11] Kale can become sweeter after a heavy frost."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:kale",
+      "text": "Flavored kale chips have been produced as a potato chip substitute. A traditional soup, combines pureed potatoes, very finely sliced kale, olive oil and salt."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:kiwi_seed",
+      "text": "Kiwifruit can be grown in most temperate climates with adequate summer heat."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:kiwi",
+      "text": "Kiwifruit may be eaten raw, made into juices, used in baked goods, prepared with meat or used as a garnish."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:leek_seed",
+      "text": "Rather than forming a tight bulb like the onion, the leek produces a long cylinder of bundled leaf sheaths that are generally blanched by pushing soil around them (trenching)."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:leek",
+      "text": "Leeks have a mild, onion-like taste. In its raw state, the vegetable is crunchy and firm. Boiling turns it soft and mild in taste. Whole boiled leeks, served cold with vinaigrette."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:lettuce_seed",
+      "text": "Generally grown as a hardy annual, lettuce is easily cultivated, although it requires relatively low temperatures to prevent it from flowering quickly."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:lettuce",
+      "text": "Lettuce leaves were often cooked and served with an oil-and-vinegar dressing; however, smaller leaves were sometimes eaten raw. Most lettuce is used in salads, either alone or with other greens, vegetables, meats and cheeses."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:mustard_seed",
+      "text": "Mustard seeds generally take eight to ten days to germinate if placed under the proper conditions, which include a cold atmosphere and relatively moist soil. Mature mustard plants grow into shrubs."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:mustard",
+      "text": "Mustard is most often used at the table as a condiment on cold and hot meats. It is also used as an ingredient in mayonnaise, vinaigrette, marinades, and barbecue sauce."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:oat_seed",
+      "text": "Oats are best grown in temperate regions. They have a lower summer heat requirement and greater tolerance of rain than other cereals."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:oat",
+      "text": "Oats have numerous uses in foods; most commonly, they are rolled or crushed into oatmeal, or ground into fine oat flour. Oatmeal is chiefly eaten as porridge, but may also be used in a variety of baked goods, such as oatcakes, oatmeal cookies and oat bread."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:olive_seed",
+      "text": "The olive tree is an evergreen tree or shrub. It is short and squat and rarely exceeds 8–15 m in height."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:olive",
+      "text": "Olive oil is a liquid fat obtained from olives, produced by pressing whole olives and extracting the oil. It is commonly used in cooking, for frying foods or as a salad dressing."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:onion_seed",
+      "text": "The onion plant has a fan of hollow, bluish-green leaves and its bulb at the base of the plant begins to swell when a certain day-length is reached."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:onion",
+      "text": "Onions are commonly chopped and used as an ingredient in various hearty warm dishes, and may also be used as a main ingredient. They are versatile and can be baked, boiled, braised, grilled, fried, roasted, sautéed, or eaten raw in salads."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:peanut_seed",
+      "text": "Peanuts grow best in light, sandy loam soil. Peanuts need warm weather throughout the growing season to develop well. They can be grown with as little as 350 mm of water, but for best yields need at least 500 mm."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:peanut",
+      "text": "Dry-roasting peanuts is a common form of preparation. Peanut oil is often used in cooking because it has a mild flavor and a relatively high smoke point. Peanut butter is a food paste or spread made from ground dry roasted peanuts."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:pepper_seed",
+      "text": "The pepper plant is a perennial woody vine growing up to 4 m in height on supporting trees, poles, or trellises."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:pepper",
+      "text": "Ground, dried, and cooked peppercorns have been used since antiquity, both for flavour and as a traditional medicine."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:pineapple_seed",
+      "text": "The pineapple is a herbaceous perennial, which grows to 1.0 to 1.5 m tall on average, although sometimes it can be taller. The plant has a short, stocky stem with tough, waxy leaves."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:pineapple",
+      "text": "The flesh and juice of the pineapple are used in many cuisines. In many tropical areas, pineapple is prepared as a snack. Chunks of pineapple are used in desserts such as fruit salad, as well as in some savory dishes"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:radish_seed",
+      "text": "Radishes are a fast-growing, annual, cool-season crop. Best quality roots are obtained under moderate day lengths with air temperatures in the range 10 to 18 °C."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:radish",
+      "text": "The root of the radish is usually eaten raw, although tougher specimens can be steamed. The raw flesh has a crisp texture and a pungent, peppery flavor."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:raspberry_seed",
+      "text": "Raspberries are traditionally planted in the winter as dormant canes. Plants are typically planted 2–6 per m in fertile, well drained soil."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:raspberry",
+      "text": "Raspberries are processed into purée, juice, or as dried fruit used in a variety of grocery products such as raspberry pie."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:rhubarb_seed",
+      "text": "Rhubarb is grown widely and available throughout much of the year. It needs rainfall and an annual cold period of up to 7–9 weeks."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:rhubarb",
+      "text": "Commonly, it is stewed with sugar or used in pies and desserts, but it can also be put into savoury dishes or pickled. Rhubarb can be dehydrated and infused with fruit juice."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:rice_seed",
+      "text": "The rice plant can grow to 1–1.8 m tall, occasionally more depending on the variety and soil fertility."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:rice",
+      "text": "Rice is an ingredient of many soups and dishes with fish, poultry, and other types of meat. It is used to stuff vegetables or is wrapped in grape leaves. When combined with milk, sugar, and honey, it is used to make desserts."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:rutabaga_seed",
+      "text": "Rutabaga a hybrid between the cabbage and the turnip."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:rutabaga",
+      "text": "Rutabaga is traditionally served boiled and mashed. Adding mashed potatoes makes stamppot, a dish often served alongside smoked sausage"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:saguaro_seed",
+      "text": "The saguaro is a columnar cactus that grows notable branches. They grow from 3–16 m tall."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:saguaro",
+      "text": "The fruit and seeds are edible, being consumed fresh and dried, and made it into preserves and drinks."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:soybean_seed",
+      "text": "Cultivation is successful in climates with hot summers, with optimum growing conditions in mean temperatures of 20 to 30 °C."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:soybean",
+      "text": "Vegetable types cook more easily, have a mild, nutty flavor. Tofu, soy milk, and soy sauce are among the top edible commodities made using soybeans."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:spinach_seed",
+      "text": "It is an annual plant, growing as tall as 30 cm. Spinach may overwinter in temperate regions."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:spinach",
+      "text": "Spinach is eaten both raw, in salads, and cooked in soups, curries, or casseroles."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:squash_seed",
+      "text": "Growing 5 to 15 meters in height or length, the plant stem produces tendrils to help it climb adjacent plants and structures or extend along the ground."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:squash",
+      "text": "Squashes can be used for biscuits, bread, cheesecake, desserts, donuts, granola, ice cream, lasagna dishes, pancakes, pudding, pumpkin butter, salads, soups, and stuffing."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:strawberry_seed",
+      "text": "Strawberries are often grouped according to their flowering habit. Traditionally, this has consisted of a division between June-bearing strawberries, which bear their fruit in the early summer and ever-bearing strawberries, which often bear several crops of fruit throughout the season."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:strawberry",
+      "text": "In addition to being consumed fresh, strawberries can be frozen or made into jam or preserves,[34] as well as dried and used in prepared foods, such as cereal bars. Strawberries and strawberry flavorings are a popular addition to dairy products."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:sweetpotato_seed",
+      "text": "The plant does not tolerate frost. It grows best at an average temperature of 24 °C, with abundant sunshine and warm nights. Annual rainfalls of 750–1,000 mm are considered most suitable."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:sweetpotato",
+      "text": "Roasted sweet potatoes are popular type, Sweet potato soup, served during winter, consists of boiling sweet potato in water with rock sugar and ginger."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:tea_seed",
+      "text": "Tea is mainly cultivated in tropical and subtropical climates, in areas with at least 127 cm of rainfall a year. Tea plants prefer a rich and moist growing location in full to part sun."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:tea_leaves",
+      "text": "Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of tea."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:tomatillo_seed",
+      "text": "Tomatillo plants can reach heights of 1.5 to 2 meters . Due to their rapid and branching growth, it is recommended to stake them."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:tomatillo",
+      "text": "Tomatillos are a key ingredient in fresh and cooked green sauces. The green color and tart flavor are the main culinary contributions of the fruit."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:tomato_seed",
+      "text": "Tomato plants are vines, initially decumbent, typically growing 180 cm or more above the ground if supported."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:tomato",
+      "text": "It is used in diverse ways, including raw in salads or in slices, stewed, incorporated into a wide variety of dishes, or processed into ketchup or tomato soup. Unripe green tomatoes can also be breaded and fried, used to make salsa, or pickled."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:turmeric_seed",
+      "text": "Turmeric is a perennial herbaceous plant that reaches up to 1 m tall. It has highly branched, yellow to orange, cylindrical, aromatic rhizomes."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:turmeric",
+      "text": "Turmeric is one of the key ingredients in many dishes, imparting a mustard-like, earthy aroma and pungent, slightly bitter flavor to foods. It is used mostly in savory dishes."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:turnip_seed",
+      "text": "As a root crop, turnips grow best in cool weather; hot temperatures cause the roots to become woody and bad-tasting. They are typically planted in the spring in cold-weather climates."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:turnip",
+      "text": "Their flavor is mild, so they can be eaten raw in salads like radishes and other vegetables."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:vanilla_seeds",
+      "text": "In general, quality vanilla only comes from good vines and through careful production methods. Vanilla grows best in a hot, humid climate."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:vanilla",
+      "text": "Regarded as the world's most popular aroma and flavor, vanilla is a widely used aroma and flavor compound for foods and beverages"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:yam_seed",
+      "text": "Their growth and dormant phases correspond respectively to the wet season and the dry season. For maximum yield, the yams require a humid tropical environment, with an annual rainfall over 1,500 mm."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:yam",
+      "text": "Yams are consumed in a variety of preparations, such as flour or whole vegetable pieces."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:zucchini_seed",
+      "text": "Zucchini is very easy to cultivate in temperate climates. As such, it has a reputation among home gardeners for overwhelming production."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:zucchini",
+      "text": "When used for food, zucchini are usually picked. But it can be prepared using a variety of cooking techniques, including steamed, boiled, grilled, stuffed and baked, barbecued, fried, or incorporated in other recipes such as soufflés."
+    }
+  ]
+}

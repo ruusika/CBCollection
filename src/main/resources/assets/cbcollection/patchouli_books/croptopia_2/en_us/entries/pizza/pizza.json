@@ -1,0 +1,17 @@
+{
+  "name": "Pizza",
+  "icon": "croptopia:pizza",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:pizza",
+      "text": "Cheese Tomato. Very simple very tasty."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/pizza",
+      "text": "You can decide what comes on top of it."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Chicken and Rice",
+  "icon": "croptopia:chicken_and_rice",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:chicken_and_rice",
+      "text": "I like it. Might need some soy sauce with garlic."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/chicken_and_rice",
+      "text": "Or I'll fry that chicken. Options over options."
+    }
+  ]
+}

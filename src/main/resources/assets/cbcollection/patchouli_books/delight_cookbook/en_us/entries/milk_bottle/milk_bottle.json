@@ -1,0 +1,12 @@
+{
+	"name": "Milkbottle",
+	"icon": "farmersdelight:milk_bottle",
+	"category": "patchouli:ingredients",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:milk_bottle",
+			"text": "Some milk in a bottle."
+		}
+	]
+}

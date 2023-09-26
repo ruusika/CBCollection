@@ -1,0 +1,12 @@
+{
+	"name": "Tree Bark",
+	"icon": "farmersdelight:tree_bark",
+	"category": "patchouli:blocks",
+	"pages": [
+		{
+			"type": "patchouli:spotlight",
+			"item": "farmersdelight:tree_bark",
+			"text": "Tree bark is gathered by using the cutting board and an axe. Be aware of splinters though"
+		}
+	]
+}

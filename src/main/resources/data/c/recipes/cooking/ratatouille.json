@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tomato"
+    },
+    {
+      "item": "croptopia:olive_oil"
+    },
+    {
+      "item": "croptopia:squash"
+    },
+    {
+      "item": "croptopia:zucchini"
+    },
+    {
+      "tag": "c:onion"
+    },
+    {
+      "item": "croptopia:bellpepper"
+    },
+    {
+      "item": "croptopia:basil"
+    },
+    {
+      "tag": "c:eggplants"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ],
+  "result": {
+    "item": "croptopia:ratatouille",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:wolfpelts"
+    },
+    "X": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "environmentz:wolf_leggings"
+  }
+}

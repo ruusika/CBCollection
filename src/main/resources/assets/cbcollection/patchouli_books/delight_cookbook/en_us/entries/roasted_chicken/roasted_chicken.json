@@ -1,0 +1,12 @@
+{
+  "name": "Roast Chicken",
+  "icon": "farmersdelight:roast_chicken_block",
+  "category": "patchouli:feasts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:roast_chicken_block",
+      "text": "Remember Thanksgiving? It's the same just with a chicken. You need a bowl to share it."
+    }
+  ]
+}

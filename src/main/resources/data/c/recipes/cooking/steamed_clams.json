@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:butter"
+    },
+    {
+      "tag": "c:clam"
+    },
+    {
+      "tag": "c:clam"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "item": "croptopia:pepper"
+    },
+    {
+      "tag": "c:garlic"
+    },
+    {
+      "tag": "c:salt"
+    }
+  ],
+  "result": {
+    "item": "croptopia:steamed_clams",
+    "count": 2
+  }
+}

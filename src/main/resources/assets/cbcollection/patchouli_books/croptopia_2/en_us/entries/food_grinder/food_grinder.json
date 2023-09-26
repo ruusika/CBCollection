@@ -1,0 +1,12 @@
+{
+  "name": "Manual Food Grinder",
+  "icon": "cacao:manual_food_grinder",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:manual_food_grinder",
+      "text": "It's a little mill. I don't know how this should work but it grinds the beans down into little dust. Amazing."
+    }
+  ]
+}

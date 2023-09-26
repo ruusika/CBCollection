@@ -1,0 +1,27 @@
+{
+	"name": "Crates",
+	"icon": "farmersdelight:carrot_crate",
+	"category": "patchouli:blocks",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:carrot_crate",
+			"recipe2": "farmersdelight:potato_crate"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:beetroot_crate",
+			"recipe2": "farmersdelight:cabbage_crate"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:tomato_crate",
+			"recipe2": "farmersdelight:onion_crate"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:rice_bag",
+			"text": "Crates and Bags to store your bountiful harvest in!"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:lettuce"
+    },
+    {
+      "item": "croptopia:tortilla"
+    },
+    {
+      "tag": "croptopia:meat_replacements"
+    },
+    {
+      "item": "croptopia:salsa"
+    }
+  ],
+  "result": {
+    "item": "croptopia:taco"
+  }
+}

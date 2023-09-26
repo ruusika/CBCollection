@@ -1,0 +1,12 @@
+{
+  "name": "Nutella",
+  "icon": "cacao:nutella",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:nutella",
+      "text": "Sticky. Sweet. I am not sure how it's exactly made."
+    }
+  ]
+}

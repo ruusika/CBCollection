@@ -1,0 +1,12 @@
+{
+  "name": "Chocolate Pie",
+  "icon": "farmersdelight:chocolate_pie",
+  "category": "patchouli:feasts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:chocolate_pie",
+      "text": "Loved by kids. Very sweet. Take a knife and give your friends a slice."
+    }
+  ]
+}

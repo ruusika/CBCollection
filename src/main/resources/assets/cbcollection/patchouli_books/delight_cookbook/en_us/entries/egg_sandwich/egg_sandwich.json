@@ -1,0 +1,12 @@
+{
+  "name": "Egg Sandwich",
+  "icon": "farmersdelight:egg_sandwich",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:egg_sandwich",
+      "text": "Seems unconventional but it tastes pretty good actually."
+    }
+  ]
+}

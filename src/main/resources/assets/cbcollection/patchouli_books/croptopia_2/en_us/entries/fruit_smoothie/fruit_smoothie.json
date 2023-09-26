@@ -1,0 +1,12 @@
+{
+  "name": "Fruit Smoothie",
+  "icon": "croptopia:fruit_smoothie",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:fruit_smoothie",
+      "text": "It seems healthy and unhealthy at the same time."
+    }
+  ]
+}

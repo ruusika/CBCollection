@@ -1,0 +1,12 @@
+{
+  "name": "Leafy Salad",
+  "icon": "croptopia:leafy_salad",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:leafy_salad",
+      "text": "Just some leaves in a bowl. No dressing at all. I'd call that a rabbit's dinner."
+    }
+  ]
+}

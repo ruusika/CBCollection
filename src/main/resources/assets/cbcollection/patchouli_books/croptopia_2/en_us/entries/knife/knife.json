@@ -1,0 +1,12 @@
+{
+  "name": "Knife",
+  "icon": "croptopia:knife",
+  "category": "patchouli:utensils",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:knife",
+      "text": "I call it a butcher's hatchet. You need it to cut bacon."
+    }
+  ]
+}

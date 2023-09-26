@@ -1,0 +1,16 @@
+{
+  "name": "Chocolate Milkshake",
+  "icon": "croptopia:chocolate_milkshake",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_chocolate_milkshake",
+      "text": "Very sweet. I like it. It's liquid heaven."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:chocolate_milkshake"
+    }
+  ]
+}

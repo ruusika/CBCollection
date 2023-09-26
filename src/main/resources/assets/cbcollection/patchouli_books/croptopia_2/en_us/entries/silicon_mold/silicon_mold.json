@@ -1,0 +1,17 @@
+{
+  "name": "The Chocolate Form",
+  "icon": "cacao:silicon_mold",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:silicon_mold",
+      "text": "You'll need this flexible thing to bring your chocolate into form."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:silicon_dust",
+      "text": "I don't know where you're getting those white crystals. But the sand's everywhere."
+    }
+  ]
+}

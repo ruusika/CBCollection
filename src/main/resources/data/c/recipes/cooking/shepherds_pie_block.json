@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:onion"
+    },
+    {
+      "tag": "c:onion"
+    },
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "fabric:cooked_mutton"
+    },
+    {
+      "tag": "fabric:cooked_mutton"
+    },
+    {
+      "tag": "fabric:cooked_mutton"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:shepherds_pie_block"
+  }
+}

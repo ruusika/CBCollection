@@ -1,0 +1,13 @@
+{
+  "name": "Mixed Nuts Dark Chocolate",
+  "icon": "cacao:mixed_nuts_dark_chocolate",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Dark Nuts Chocolate",
+      "recipe": "cacao:mixed_nuts_dark_chocolate",
+      "text": "Another fancy version. Just like the almond dark chocolate"
+    }
+  ]
+}

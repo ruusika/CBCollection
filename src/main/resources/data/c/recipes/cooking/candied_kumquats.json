@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "croptopia:vanilla"
+    },
+    {
+      "item": "croptopia:kumquat"
+    },
+    {
+      "item": "croptopia:kumquat"
+    },
+    {
+      "item": "croptopia:kumquat"
+    },
+    {
+      "item": "croptopia:kumquat"
+    },
+    {
+      "item": "croptopia:kumquat"
+    },
+    {
+      "item": "croptopia:kumquat"
+    },
+    {
+      "item": "croptopia:kumquat"
+    }
+  ],
+  "result": {
+    "item": "croptopia:candied_kumquats",
+    "count": 7
+  }
+}

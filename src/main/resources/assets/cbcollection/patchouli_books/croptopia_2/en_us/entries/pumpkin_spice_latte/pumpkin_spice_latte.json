@@ -1,0 +1,17 @@
+{
+  "name": "Pumpkin Spice Latte",
+  "icon": "croptopia:pumpkin_spice_latte",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:pumpkin_spice_latte",
+      "text": "That's a hipster autumn drink?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_pumpkin_spice_latte",
+      "text": "Not sure if this should be spicy, sour or sweet."
+    }
+  ]
+}

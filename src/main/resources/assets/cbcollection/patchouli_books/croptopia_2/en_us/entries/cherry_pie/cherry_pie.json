@@ -1,0 +1,17 @@
+{
+  "name": "Cherry Pie",
+  "icon": "croptopia:cherry_pie",
+  "category": "patchouli:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cherry_pie",
+      "text": "I've never seen a dusty cherry pie."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cherry_pie",
+      "text": "But there always be a first time."
+    }
+  ]
+}

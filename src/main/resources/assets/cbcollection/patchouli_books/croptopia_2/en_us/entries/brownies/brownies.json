@@ -1,0 +1,17 @@
+{
+  "name": "Brownies",
+  "icon": "croptopia:brownies",
+  "category": "patchouli:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:brownies",
+      "text": "I love those. Chocolaty and fudgy."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/brownies",
+      "text": "It gets better if you add different types of chocolates."
+    }
+  ]
+}

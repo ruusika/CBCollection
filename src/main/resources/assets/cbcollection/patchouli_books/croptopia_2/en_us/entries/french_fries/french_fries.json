@@ -1,0 +1,17 @@
+{
+  "name": "French Fries",
+  "icon": "croptopia:french_fries",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:french_fries",
+      "text": "A great side dish."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/french_fries",
+      "text": "Needs more salt sometimes."
+    }
+  ]
+}

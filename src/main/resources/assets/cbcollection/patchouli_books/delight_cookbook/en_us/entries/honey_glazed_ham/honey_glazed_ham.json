@@ -1,0 +1,12 @@
+{
+  "name": "Honey Glazed Ham",
+  "icon": "farmersdelight:honey_glazed_ham_block",
+  "category": "patchouli:feasts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:honey_glazed_ham_block",
+      "text": "Honey works wonders with ham. You need a bowl to share it."
+    }
+  ]
+}

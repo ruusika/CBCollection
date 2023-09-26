@@ -1,0 +1,89 @@
+{
+	"name": "Cut and Chopped",
+	"icon": "farmersdelight:ham",
+	"category": "patchouli:ingredients",
+	"pages": [
+		{
+			"type": "patchouli:smithing_addon_template",
+			"header": "Raw Beef",
+			"item0": "farmersdelight:iron_knife",
+			"item1": "minecraft:beef",
+			"result": "farmersdelight:minced_beef",
+			"result0": "farmersdelight:minced_beef",
+			"cooked": "farmersdelight:beef_patty",
+			"subtext": "An essential ingridient for burgers and stews. Grilled also a good snack for your fellow felines"
+		},
+		{
+			"type": "patchouli:smithing_addon_template",
+			"header": "Porkchop",
+			"item0": "farmersdelight:iron_knife",
+			"item1": "minecraft:porkchop",
+			"result": "farmersdelight:bacon",
+			"result0": "farmersdelight:bacon",
+			"cooked": "farmersdelight:cooked_bacon",
+			"subtext": "An essential ingridient for sandwiches and breakfast. Grilled also a good snack for your fellow felines"
+		},
+		{
+			"type": "patchouli:smithing_addon_template",
+			"header": "Chicken",
+			"item0": "farmersdelight:iron_knife",
+			"item1": "minecraft:chicken",
+			"result": "farmersdelight:chicken_cuts",
+			"result0": "farmersdelight:chicken_cuts",
+			"cooked": "farmersdelight:cooked_chicken_cuts",
+			"subtext": "An essential ingridient for sandwiches and soups. Grilled also a good snack for your fellow felines"
+		},
+		{
+			"type": "patchouli:smithing_addon_template",
+			"header": "Mutton",
+			"item0": "farmersdelight:iron_knife",
+			"item1": "minecraft:mutton",
+			"result": "farmersdelight:mutton_chops",
+			"result0": "farmersdelight:mutton_chops",
+			"cooked": "farmersdelight:cooked_mutton_chops",
+			"subtext": "An essential ingridient for pastas, wraps and roasts. Grilled also a good snack for your fellow felines"
+		},
+		{
+			"type": "patchouli:smithing_addon_template",
+			"header": "Cod",
+			"item0": "farmersdelight:iron_knife",
+			"item1": "minecraft:cod",
+			"result": "farmersdelight:cod_slice",
+			"result0": "farmersdelight:cod_slice",
+			"cooked": "farmersdelight:cooked_cod_slice",
+			"subtext": "An essential ingridient for stews and pasta."
+		},
+		{
+			"type": "patchouli:smithing_addon_template",
+			"header": "Salmon",
+			"item0": "farmersdelight:iron_knife",
+			"item1": "minecraft:salmon",
+			"result": "farmersdelight:salmon_slice",
+			"result0": "farmersdelight:salmon_slice",
+			"cooked": "farmersdelight:cooked_salmon_slice",
+			"subtext": "An essential ingridient for stews and grilled meals."
+		},
+		{
+			"type": "patchouli:smithing_template",
+			"header": "Pumpkin",
+			"item0": "farmersdelight:iron_knife",
+			"item1": "minecraft:pumpkin",
+			"result": "farmersdelight:pumpkin_slice",
+			"subtext": "An essential ingridient for soups."
+		},
+		{
+			"type": "patchouli:smithing_template",
+			"header": "Cabbage",
+			"item0": "farmersdelight:iron_knife",
+			"item1": "farmersdelight:cabbage",
+			"result": "farmersdelight:cabbage_leaf",
+			"subtext": "An essential ingridient for salads, sandwiches and soups. Basically everything with salad"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "farmersdelight:ham",
+			"title": "Ham",
+			"text": "Gathered from pigs by killing them with a knife. Can be cooked in a smoker and is used in feasts"
+		}
+	]
+}

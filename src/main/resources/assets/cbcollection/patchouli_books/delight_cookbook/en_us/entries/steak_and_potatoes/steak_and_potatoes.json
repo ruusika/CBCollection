@@ -1,0 +1,12 @@
+{
+  "name": "Steak and Potatoes",
+  "icon": "farmersdelight:steak_and_potatoes",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:steak_and_potatoes",
+      "text": "You still need to choose how raw you like your steak. I won't judge you."
+    }
+  ]
+}

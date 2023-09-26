@@ -1,0 +1,12 @@
+{
+  "name": "Cacao Mass Bottle",
+  "icon": "cacao:cacao_mass_bottle",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:cacao_mass_bottle",
+      "text": "Tired of carrying around an entire bucket? Try filling it in bottles."
+    }
+  ]
+}

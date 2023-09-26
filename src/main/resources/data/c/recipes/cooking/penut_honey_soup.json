@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "c:milks"
+    },
+    {
+      "item": "expandeddelight:peanut"
+    },
+    {
+      "item": "expandeddelight:peanut"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:peanut_honey_soup"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

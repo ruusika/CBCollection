@@ -1,0 +1,19 @@
+{
+  "name": "Glow Berry Custard",
+  "icon": "farmersdelight:glow_berry_custard",
+  "category": "patchouli:potmeals",
+  "pages": [
+    {
+      "type": "patchouli:pot_template",
+      "header": "Glow Berry Custard",
+      "item0": "minecraft:glow_berries",
+      "item1": "tag:c:milk",
+      "item2": "tag:c:egg",
+      "item3": "minecraft:sugar",
+      "item4": "minecraft:air",
+      "item5": "minecraft:air",
+      "result": "farmersdelight:glow_berry_custard",
+      "subtext": "A fancy dessert. So if you wanna impress your friends go ahead. Needs a bottle to be served."
+    }
+  ]
+}

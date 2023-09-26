@@ -1,0 +1,17 @@
+{
+  "name": "Cacao Butter Bottle",
+  "icon": "cacao:cacao_butter_bottle",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:cacao_butter_shaped",
+      "text": "Cocoa butter is a major ingredient in practically all types of chocolates. You can extract it carefully by filtering the mass into several bottles."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:cacao_butter",
+      "text": "But you can go off the book as well and do it like this but you won't gain any large quantities."
+    }
+  ]
+}

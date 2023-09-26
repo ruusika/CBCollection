@@ -1,0 +1,17 @@
+{
+  "name": "Butter",
+  "icon": "croptopia:butter",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/butter",
+      "text": "Butter is an alternative to oil. Sometimes butter helps to get a more refined taste"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:butter",
+      "text": "It works similar to cheese. But you'll need to keep stirring."
+    }
+  ]
+}

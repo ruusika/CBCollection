@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "c:tomato"
+    },
+    {
+      "tag": "c:tomato"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:tomato_sauce"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

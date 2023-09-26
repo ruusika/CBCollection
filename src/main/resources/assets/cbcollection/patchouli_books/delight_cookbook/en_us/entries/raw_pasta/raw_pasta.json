@@ -1,0 +1,16 @@
+{
+	"name": "Raw Pasta",
+	"icon": "farmersdelight:raw_pasta",
+	"category": "patchouli:ingredients",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:raw_pasta_from_eggs",
+			"recipe2": "farmersdelight:raw_pasta_from_water"
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Just don't eat it raw like some people do."
+		}
+	]
+}

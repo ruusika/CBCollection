@@ -1,0 +1,12 @@
+{
+  "name": "Raspberry Jam",
+  "icon": "croptopia:raspberry_jam",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:raspberry_jam",
+      "text": "Actually my favorite."
+    }
+  ]
+}

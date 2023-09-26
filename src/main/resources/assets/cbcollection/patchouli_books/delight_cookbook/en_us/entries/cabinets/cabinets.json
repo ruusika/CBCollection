@@ -1,0 +1,28 @@
+{
+	"name": "Cabinets",
+	"icon": "farmersdelight:spruce_cabinet",
+	"category": "patchouli:utensils",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:oak_cabinet",
+			"recipe2": "farmersdelight:birch_cabinet"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:spruce_cabinet",
+			"recipe2": "farmersdelight:jungle_cabinet"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:acacia_cabinet",
+			"recipe2": "farmersdelight:dark_oak_cabinet"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:crimson_cabinet",
+			"recipe2": "farmersdelight:warped_cabinet",
+			"text": "A cupboard to store your wonderful dishes and a good interior choice for your kitchen!"
+		}
+	]
+}

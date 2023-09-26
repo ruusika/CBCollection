@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "geodes:diamond_geode"
+    }
+  ],
+  "result": {
+    "item": "minecraft:diamond"
+  }
+}

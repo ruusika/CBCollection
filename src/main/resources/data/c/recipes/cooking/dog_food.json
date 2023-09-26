@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "fabric:raw_mutton"
+    },
+    {
+      "item": "minecraft:rotten_flesh"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:dog_food"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

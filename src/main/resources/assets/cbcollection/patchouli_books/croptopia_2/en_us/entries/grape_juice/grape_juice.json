@@ -1,0 +1,12 @@
+{
+  "name": "Grape Juice",
+  "icon": "croptopia:grape_juice",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:grape_juice",
+      "text": "The non-alcoholic variant of wine. Changes color depending on the type of grape. Didn't know that."
+    }
+  ]
+}

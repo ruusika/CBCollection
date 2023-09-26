@@ -1,0 +1,12 @@
+{
+  "name": "Barbecue on a Stick",
+  "icon": "farmersdelight:barbecue_stick",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:barbecue_stick",
+      "text": "You can choose what to put on the stick. This is great."
+    }
+  ]
+}

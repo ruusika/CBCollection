@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "expandeddelight:sweet_potato"
+    },
+    {
+      "tag": "c:cinnamon"
+    },
+    {
+      "tag": "c:onion"
+    },
+    {
+      "tag": "c:lettuce"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:sweet_potato_salad"
+  }
+}

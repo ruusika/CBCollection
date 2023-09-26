@@ -1,0 +1,12 @@
+{
+  "name": "Chocolate Cake",
+  "icon": "cacao:chocolate_cake",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:chocolate_cake",
+      "text": "Interesting kind of cake. I prefer the cookies though."
+    }
+  ]
+}

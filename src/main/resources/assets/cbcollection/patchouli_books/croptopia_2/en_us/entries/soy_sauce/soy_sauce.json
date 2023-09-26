@@ -1,0 +1,12 @@
+{
+  "name": "Soy Sauce",
+  "icon": "croptopia:soy_sauce",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:soy_sauce",
+      "text": "It tastes not that good BUT it's a very important base for other sauces, soups and dishes."
+    }
+  ]
+}

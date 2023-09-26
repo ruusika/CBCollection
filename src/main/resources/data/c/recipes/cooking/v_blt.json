@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "valley:miners_lettuce"
+    },
+    {
+      "item": "valley:cooked_bacon"
+    },
+    {
+      "tag": "c:tomato"
+    }
+  ],
+  "result": {
+    "item": "valley:blt"
+  }
+}

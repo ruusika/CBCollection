@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "item": "croptopia:banana"
+    },
+    {
+      "item": "croptopia:vanilla"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ],
+  "result": {
+    "item": "croptopia:banana_cream_pie"
+  }
+}

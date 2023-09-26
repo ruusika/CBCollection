@@ -1,0 +1,12 @@
+{
+  "name": "Bacon Sandwich",
+  "icon": "farmersdelight:bacon_sandwich",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:bacon_sandwich",
+      "text": "A real classic. Especially when the bacon is crispy."
+    }
+  ]
+}

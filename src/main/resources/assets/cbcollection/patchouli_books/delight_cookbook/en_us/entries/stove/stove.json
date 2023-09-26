@@ -1,0 +1,12 @@
+{
+	"name": "Stove",
+	"icon": "farmersdelight:stove",
+	"category": "patchouli:utensils",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:stove",
+			"text": "The Stove is a direct upgrade to the Campfire's cooking features, and a suitable heat source for the Cooking Pot."
+		}
+	]
+}

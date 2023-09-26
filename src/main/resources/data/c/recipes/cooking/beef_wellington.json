@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:pepper"
+    },
+    {
+      "item": "croptopia:mustard"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:beef"
+    },
+    {
+      "tag": "c:onion"
+    },
+    {
+      "tag": "c:egg"
+    }
+  ],
+  "result": {
+    "item": "croptopia:beef_wellington"
+  }
+}

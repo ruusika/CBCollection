@@ -1,0 +1,17 @@
+{
+  "name": "Ravioli",
+  "icon": "croptopia:ravioli",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/ravioli",
+      "text": "A type of pasta filled mostly with cheese."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:ravioli",
+      "text": "Very good with tomato sauces."
+    }
+  ]
+}

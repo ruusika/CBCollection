@@ -1,0 +1,12 @@
+{
+  "name": "Dark Chips Chocolate Cookie",
+  "icon": "cacao:dark_chips_chocolate_cookie",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:dark_chips_chocolate_cookie",
+      "text": "Huh. I can't find any negative points."
+    }
+  ]
+}

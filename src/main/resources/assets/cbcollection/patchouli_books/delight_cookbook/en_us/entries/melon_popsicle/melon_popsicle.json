@@ -1,0 +1,12 @@
+{
+  "name": "Melon Popsicle",
+  "icon": "farmersdelight:melon_popsicle",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:melon_popsicle",
+      "text": "Icy. I love it."
+    }
+  ]
+}

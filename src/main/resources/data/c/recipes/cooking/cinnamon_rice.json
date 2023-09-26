@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:cinnamon"
+    },
+    {
+      "item": "sugar"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:cinnamon_rice"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

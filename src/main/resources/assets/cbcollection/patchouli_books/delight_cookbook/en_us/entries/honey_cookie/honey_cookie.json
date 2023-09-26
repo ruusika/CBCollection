@@ -1,0 +1,12 @@
+{
+  "name": "Honey Cookie",
+  "icon": "farmersdelight:honey_cookie",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:honey_cookie",
+      "text": "Looks simple. Easy to bake. Tastes great."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Kale Smoothie",
+  "icon": "croptopia:kale_smoothie",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/kale_smoothie",
+      "text": "It's a green milk?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:kale_smoothie",
+      "text": "Seems like a healthy try again."
+    }
+  ]
+}

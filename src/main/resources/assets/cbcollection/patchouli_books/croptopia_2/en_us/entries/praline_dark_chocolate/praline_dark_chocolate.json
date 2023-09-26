@@ -1,0 +1,12 @@
+{
+  "name": "Praline Dark Chocolate",
+  "icon": "cacao:praline_dark_chocolate",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:praline_dark_chocolate",
+      "text": "Some almond on top and it's considered a delicacy. I don't get rich people."
+    }
+  ]
+}

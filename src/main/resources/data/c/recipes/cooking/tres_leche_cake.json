@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:milks"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "croptopia:vanilla"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "item": "croptopia:rum"
+    },
+    {
+      "item": "croptopia:whipping_cream"
+    }
+  ],
+  "result": {
+    "item": "croptopia:tres_leche_cake",
+    "count": 2
+  }
+}

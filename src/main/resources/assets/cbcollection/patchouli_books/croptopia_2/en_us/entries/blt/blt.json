@@ -1,0 +1,19 @@
+{
+  "name": "BLT Sandwich",
+  "icon": "croptopia:blt",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "BLT",
+      "recipe": "croptopia:blt",
+      "text": "This is great."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "BLT",
+      "recipe": "c:croptopia/blt",
+      "text": "I need to find another dressing for this one."
+    }
+  ]
+}

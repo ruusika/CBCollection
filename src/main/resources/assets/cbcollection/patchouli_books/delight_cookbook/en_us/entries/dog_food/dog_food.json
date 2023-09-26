@@ -1,0 +1,19 @@
+{
+	"name": "Dog Food",
+	"icon": "farmersdelight:dog_food",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Dog Food",
+			"item0": "minecraft:rabbit",
+			"item1": "minecraft:rotten_flesh",
+			"item2": "minecraft:air",
+			"item3": "minecraft:bone_meal",
+			"item4": "tag:c:rice",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:dog_food",
+			"subtext": "A little treat for the humans best friend. Needs a bowl to be served."
+		}
+	]
+}

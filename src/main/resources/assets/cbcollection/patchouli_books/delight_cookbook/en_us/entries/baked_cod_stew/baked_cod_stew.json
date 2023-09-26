@@ -1,0 +1,19 @@
+{
+	"name": "Baked Cod Stew",
+	"icon": "farmersdelight:baked_cod_stew",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Baked Cod Stew",
+			"item0": "tag:c:raw_fishes",
+			"item1": "minecraft:potato",
+			"item2": "tag:c:egg",
+			"item3": "tag:c:tomato",
+			"item4": "minecraft:air",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:baked_cod_stew",
+			"subtext": "A fancier version of a fish stew. Baked and with more vegetables. Needs a bowl to be served"
+		}
+	]
+}

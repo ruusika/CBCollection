@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valley:cooked_sardine"
+    },
+    {
+      "item": "valley:cooked_mandrake"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "c:mollusks"
+    }
+  ],
+  "result": {
+    "item": "valley:sardine_soup"
+  }
+}

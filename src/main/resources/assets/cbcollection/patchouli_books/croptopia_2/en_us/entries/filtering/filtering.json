@@ -1,0 +1,17 @@
+{
+  "name": "Filtering the Mass",
+  "icon": "cacao:cacao_mass_filled_cloth",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:filter_cloth",
+      "text": "If you want to extract the valuable cacao butter you'll probably need to get a filter."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:mass_filled_cloth",
+      "text": "You can fill four filters with one bucket of cacao mass."
+    }
+  ]
+}

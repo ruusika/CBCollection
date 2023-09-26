@@ -1,0 +1,12 @@
+{
+  "name": "Cooked Shrimp",
+  "icon": "croptopia:cooked_shrimp",
+  "category": "patchouli:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:cooked_shrimp_from_shrimp",
+      "text": "Sometimes fishy, sometimes not. Just don't use the one in the pond at home. Will bite back."
+    }
+  ]
+}

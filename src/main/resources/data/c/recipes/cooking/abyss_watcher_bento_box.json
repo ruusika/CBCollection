@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valley:abyss_watcher"
+    },
+    {
+      "item": "valley:dried_seaweed"
+    },
+    {
+      "tag": "c:chile_pepper"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "item": "valley:bento_box"
+    },
+    {
+      "item": "valley:bento_box"
+    },
+    {
+      "item": "valley:bento_box"
+    }
+  ],
+  "result": {
+    "item": "valley:abyss_watcher_bento_box",
+    "count": 3
+  }
+}

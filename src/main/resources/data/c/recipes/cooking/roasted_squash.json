@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:garlic"
+    },
+    {
+      "item": "croptopia:olive_oil"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "item": "croptopia:squash"
+    },
+    {
+      "item": "croptopia:pepper"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ],
+  "result": {
+    "item": "croptopia:roasted_squash",
+    "count": 2
+  }
+}

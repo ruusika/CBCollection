@@ -1,0 +1,12 @@
+{
+  "name": "Baked Beans",
+  "icon": "croptopia:baked_beans",
+  "category": "patchouli:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:baked_beans_from_blackbean",
+      "text": "Some weird people consider this breakfast. They only live where it rains..."
+    }
+  ]
+}

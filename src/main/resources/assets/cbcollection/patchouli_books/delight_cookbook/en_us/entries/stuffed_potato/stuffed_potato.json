@@ -1,0 +1,12 @@
+{
+  "name": "Stuffed Potato",
+  "icon": "farmersdelight:stuffed_potato",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:stuffed_potato",
+      "text": "Pretty easy to make. I would call this a starter meal."
+    }
+  ]
+}

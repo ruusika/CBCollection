@@ -1,0 +1,17 @@
+{
+  "name": "Kale Chips",
+  "icon": "croptopia:kale_chips",
+  "category": "patchouli:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:kale_chips",
+      "text": "I've mistaken them for some badly burnt potato chips."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/kale_chips",
+      "text": "A sad excuse for a unhealthy snack. Too healthy."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:milks"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "croptopia:vanilla"
+    },
+    {
+      "item": "croptopia:butter"
+    },
+    {
+      "item": "croptopia:strawberry"
+    },
+    {
+      "item": "croptopia:wine"
+    }
+  ],
+  "result": {
+    "item": "croptopia:trifle"
+  }
+}

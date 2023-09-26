@@ -1,0 +1,12 @@
+{
+  "name": "Salt",
+  "icon": "croptopia:salt",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:salt_from_water_bottle",
+      "text": "Trust me. Salt is often not mentioned in recipies. But you will need it a lot."
+    }
+  ]
+}

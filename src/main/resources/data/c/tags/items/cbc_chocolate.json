@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "cacao:dark_chocolate",
+    "cacao:milk_chocolate",
+    "cacao:white_chocolate",
+    "croptopia:chocolate",
+    "culinaire:dark_chocolate_bar",
+    "culinaire:milk_chocolate_bar",
+    "culinaire:white_chocolate_bar"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Egg Roll",
+  "icon": "croptopia:egg_roll",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:egg_roll",
+      "text": "I first thought those were just rolled-up pancakes."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/egg_roll",
+      "text": "I might want to add some cheese to the fillings."
+    }
+  ]
+}

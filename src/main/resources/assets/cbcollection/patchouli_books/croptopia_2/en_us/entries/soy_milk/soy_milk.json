@@ -1,0 +1,12 @@
+{
+  "name": "Soy Milk",
+  "icon": "croptopia:soy_milk",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:soy_milk",
+      "text": "It's a great thing for people who can't drink milk."
+    }
+  ]
+}

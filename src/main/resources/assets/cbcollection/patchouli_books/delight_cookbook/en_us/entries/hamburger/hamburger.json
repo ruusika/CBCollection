@@ -1,0 +1,12 @@
+{
+  "name": "Hamburger",
+  "icon": "farmersdelight:hamburger",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:hamburger",
+      "text": "Some people call this a fast food. I don't get it."
+    }
+  ]
+}

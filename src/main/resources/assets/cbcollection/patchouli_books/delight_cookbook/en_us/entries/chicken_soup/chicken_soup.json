@@ -1,0 +1,19 @@
+{
+	"name": "Chicken Soup",
+	"icon": "farmersdelight:chicken_soup",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Chicken Soup",
+			"item0": "tag:c:raw_chicken",
+			"item1": "tag:c:lettuce",
+			"item2": "minecraft:carrot",
+			"item3": "tag:c:tomato",
+			"item4": "minecraft:air",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:chicken_soup",
+			"subtext": "A healthy soup. Cooked with a complete chicken or cuts of it. Needs a bowl to be served"
+		}
+	]
+}

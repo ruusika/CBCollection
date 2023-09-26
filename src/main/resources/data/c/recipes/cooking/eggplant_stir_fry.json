@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:red_mushroom"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "valley:morel_oil"
+    },
+    {
+      "tag": "c:eggplants"
+    },
+    {
+      "tag": "c:chile_pepper"
+    },
+    {
+      "tag": "c:onion"
+    }
+  ],
+  "result": {
+    "item": "valley:eggplant_stir_fry"
+  }
+}

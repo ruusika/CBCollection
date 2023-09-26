@@ -1,0 +1,12 @@
+{
+  "name": "Shepherds Pie",
+  "icon": "farmersdelight:shepherds_pie_block",
+  "category": "patchouli:feasts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:shepherds_pie_block",
+      "text": "Seems a bit weird but it's rich taste surprises. You need a bowl to share it."
+    }
+  ]
+}

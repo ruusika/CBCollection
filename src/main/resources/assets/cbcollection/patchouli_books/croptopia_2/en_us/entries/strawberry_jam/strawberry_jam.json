@@ -1,0 +1,12 @@
+{
+  "name": "Strawberry Jam",
+  "icon": "croptopia:strawberry_jam",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:strawberry_jam",
+      "text": "To sweet in my eyes. But hey it's tasty."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Saucy Chips",
+  "icon": "croptopia:saucy_chips",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:saucy_chips",
+      "text": "I prefer the salsa over the artichoke dip. But who am I to judge?"
+    }
+  ]
+}

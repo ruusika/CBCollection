@@ -1,0 +1,14 @@
+{
+	"name": "Fried Egg",
+	"icon": "farmersdelight:fried_egg",
+	"category": "patchouli:ingredients",
+	"pages": [
+		{
+			"type": "patchouli:smithing_addon_template",
+			"header": "Fried Egg",
+			"result0": "minecraft:egg",
+			"cooked": "farmersdelight:fried_egg",
+			"subtext": "An essential ingredient for breakfast and sandwiches. Can be done in a skillet as well."
+		}
+	]
+}

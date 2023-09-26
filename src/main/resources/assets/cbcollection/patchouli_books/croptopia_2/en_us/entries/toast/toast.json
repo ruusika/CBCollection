@@ -1,0 +1,12 @@
+{
+  "name": "Toast",
+  "icon": "croptopia:toast",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:toast_from_bread",
+      "text": "The most important part of a sandwich. Or a snack. But it's a snack in itself."
+    }
+  ]
+}

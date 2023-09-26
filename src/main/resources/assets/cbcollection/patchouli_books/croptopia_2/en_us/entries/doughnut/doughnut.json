@@ -1,0 +1,12 @@
+{
+  "name": "Doughnut",
+  "icon": "croptopia:doughnut",
+  "category": "patchouli:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:doughnut",
+      "text": "In my eyes a drink for fancy people. I think this is not tasty at all."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Vegetable Noodles",
+	"icon": "farmersdelight:vegetable_noodles",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Vegetable Noodles",
+			"item0": "minecraft:carrot",
+			"item1": "tag:c:lettuce",
+			"item2": "farmersdelight:raw_pasta",
+			"item3": "minecraft:brown_mushroom",
+			"item4": "tag:fabric:vegetables",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:vegetable_noodles",
+			"subtext": "An alternative to pasta with meat. Liked by vegetarian species. Needs a bowl to be served."
+		}
+	]
+}

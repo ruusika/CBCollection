@@ -1,0 +1,12 @@
+{
+  "name": "Roasted Mutton Chops",
+  "icon": "farmersdelight:roasted_mutton_chops",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:roasted_mutton_chops",
+      "text": "You might know them as lamb chops. Tomato and cooked rice will add a special flavour."
+    }
+  ]
+}

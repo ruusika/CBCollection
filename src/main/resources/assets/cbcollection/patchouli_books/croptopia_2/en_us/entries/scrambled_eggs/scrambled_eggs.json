@@ -1,0 +1,17 @@
+{
+  "name": "Scrambled Eggs",
+  "icon": "croptopia:scrambled_eggs",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:scrambled_eggs",
+      "text": "Add some bacon and a bit of parsley. Trust me."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/scrambled_eggs",
+      "text": "The best meal while being drunk or after a hangover."
+    }
+  ]
+}

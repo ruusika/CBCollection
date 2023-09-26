@@ -1,0 +1,12 @@
+{
+  "name": "Grape Jam",
+  "icon": "croptopia:grape_jam",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:grape_jam",
+      "text": "Dunno? Some people will eat it on toast."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Cacao Nibs",
+  "icon": "cacao:cacao_nibs",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "cacao:cacao_nibs",
+      "text": "The most basic step in chocolate making - roasting the cacao beans! Throw 'em into the oven"
+    }
+  ]
+}

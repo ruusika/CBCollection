@@ -1,0 +1,12 @@
+{
+  "name": "Peanut Butter and Jam",
+  "icon": "croptopia:peanut_butter_and_jam",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:peanut_butter_and_jam",
+      "text": "It doesn't work in my brain. Salty and Sweet. But some do like it."
+    }
+  ]
+}

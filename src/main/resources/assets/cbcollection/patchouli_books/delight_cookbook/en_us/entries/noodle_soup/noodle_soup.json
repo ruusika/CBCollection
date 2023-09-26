@@ -1,0 +1,19 @@
+{
+	"name": "Noodle Soup",
+	"icon": "farmersdelight:noodle_soup",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Noodle Soup",
+			"item0": "farmersdelight:raw_pasta",
+			"item1": "tag:c:fried_egg",
+			"item2": "minecraft:dried_kelp",
+			"item3": "tag:c:raw_pork",
+			"item4": "minecraft:air",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:noodle_soup",
+			"subtext": "A healthy and tasty soup. Needs a bowl to be served"
+		}
+	]
+}

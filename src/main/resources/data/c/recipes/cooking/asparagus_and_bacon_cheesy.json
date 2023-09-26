@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "fabric:raw_pork"
+    },
+    {
+      "tag": "c:onion"
+    },
+    {
+      "item": "expandeddelight:asparagus"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:asparagus_and_bacon_cheesy"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

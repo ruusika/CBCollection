@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "minecraft:glow_berries",
+    "minecraft:hanging_roots",
+    "minecraft:glow_lichen"
+  ]
+}

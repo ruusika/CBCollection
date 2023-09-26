@@ -1,0 +1,12 @@
+{
+  "name": "Dark Chocolate",
+  "icon": "cacao:dark_chocolate",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:dark_chocolate",
+      "text": "The more cacao mass you use the more bitter it gets. Some even like those 99% cacao chocolates...Ew."
+    }
+  ]
+}

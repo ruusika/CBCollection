@@ -1,0 +1,12 @@
+{
+  "name": "Saguaro Juice",
+  "icon": "croptopia:saguaro_juice",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:saguaro_juice",
+      "text": "Never had that one. I can't even imagine how that taste."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_chicken"
+    },
+    {
+      "item": "valley:bone_broth"
+    },
+    {
+      "tag": "c:tomato"
+    },
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "c:chile_pepper"
+    },
+    {
+      "tag": "c:salt"
+    }
+  ],
+  "result": {
+    "item": "valley:chicken_curry"
+  }
+}

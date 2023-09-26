@@ -1,0 +1,18 @@
+{
+  "name": "Cookie Cream Milk Chocolate",
+  "icon": "cacao:cookie_cream_milk_chocolate",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Milk Cookie Chocolate",
+      "recipe": "c:chocolate/cbc_cookie_milk_chocolate",
+      "text": "Also a kids favourite. But please no raisin cookies."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Milk Cookie Chocolate",
+      "recipe": "cacao:cookie_cream_milk_chocolate"
+    }
+  ]
+}

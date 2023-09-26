@@ -1,0 +1,12 @@
+{
+  "name": "Popcorn",
+  "icon": "croptopia:popcorn",
+  "category": "patchouli:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:popcorn_from_corn",
+      "text": "I will not start a war over salty or sweet popcorn. I rather munch it."
+    }
+  ]
+}

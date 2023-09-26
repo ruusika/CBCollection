@@ -1,0 +1,12 @@
+{
+  "name": "Buttered Toast",
+  "icon": "croptopia:buttered_toast",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:buttered_toast",
+      "text": "Toast it and put some butter on it. Good for breakfast."
+    }
+  ]
+}

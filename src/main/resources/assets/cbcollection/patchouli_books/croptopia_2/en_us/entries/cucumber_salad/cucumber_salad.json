@@ -1,0 +1,17 @@
+{
+  "name": "Cucumber Salad",
+  "icon": "croptopia:cucumber_salad",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cucumber_salad",
+      "text": "Refreshing? I accidentally had some bad cucumber in it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_cucumber_salad",
+      "text": "Not that tasty in my opinion."
+    }
+  ]
+}

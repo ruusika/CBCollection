@@ -1,0 +1,58 @@
+{
+	"components": [
+		{
+			"type": "patchouli:header",
+			"text": "#header",
+			"x": -1,
+			"y": -1
+		},
+		{
+			"type": "patchouli:item",
+			"item": "#item0",
+			"framed": true,
+			"x": 10,
+			"y": 30
+		},
+		{
+			"type": "patchouli:item",
+			"item": "#item1",
+			"framed": true,
+			"x": 33,
+			"y": 30
+		},
+		{
+			"type": "patchouli:item",
+			"item": "#result",
+			"framed": true,
+			"x": 70,
+			"y": 30
+		},
+		{
+			"type": "patchouli:item",
+			"item": "#result0",
+			"framed": true,
+			"x": 10,
+			"y": 70
+		},
+		{
+			"type": "patchouli:item",
+			"item": "minecraft:furnace",
+			"framed": true,
+			"x": 40,
+			"y": 70
+		},
+		{
+			"type": "patchouli:item",
+			"item": "#cooked",
+			"framed": true,
+			"x": 70,
+			"y": 70
+		},
+		{
+			"type": "patchouli:text",
+			"text": "#subtext",
+			"x": 7,
+			"y": 100
+		}
+	]
+}

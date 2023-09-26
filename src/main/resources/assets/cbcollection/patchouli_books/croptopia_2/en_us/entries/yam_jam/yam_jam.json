@@ -1,0 +1,12 @@
+{
+  "name": "Yam Jam",
+  "icon": "croptopia:yam_jam",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:yam_jam",
+      "text": "Not sure what to make of it. The vanilla makes it sweet."
+    }
+  ]
+}

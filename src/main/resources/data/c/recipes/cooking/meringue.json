@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:vanilla"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:egg"
+    }
+  ],
+  "result": {
+    "item": "croptopia:meringue",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Cutting Board",
+	"icon": "farmersdelight:cutting_board",
+	"category": "patchouli:utensils",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:cutting_board",
+			"text": "A protective surface on which to cut or slice things."
+		}
+	]
+}

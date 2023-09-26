@@ -1,0 +1,12 @@
+{
+  "name": "Apple Pie",
+  "icon": "farmersdelight:apple_pie",
+  "category": "patchouli:feasts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:apple_pie",
+      "text": "Freshly baked apple pie like GranGran made it. Take a knife and give your friends a slice."
+    }
+  ]
+}

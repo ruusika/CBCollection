@@ -1,0 +1,12 @@
+{
+  "name": "Apricot Jam",
+  "icon": "croptopia:apricot_jam",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:apricot_jam",
+      "text": "Not so bad. Just don't use to much on your bread. It gets soggy."
+    }
+  ]
+}

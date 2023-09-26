@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:oyster"
+    },
+    {
+      "item": "croptopia:oyster"
+    },
+    {
+      "item": "croptopia:lemon"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:garlic"
+    }
+  ],
+  "result": {
+    "item": "croptopia:grilled_oysters",
+    "count": 2
+  }
+}

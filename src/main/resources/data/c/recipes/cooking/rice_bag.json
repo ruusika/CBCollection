@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:rice"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:rice_bag"
+  }
+}

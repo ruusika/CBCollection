@@ -1,0 +1,19 @@
+{
+	"name": "Stuffed Pumpkin",
+	"icon": "farmersdelight:stuffed_pumpkin_block",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Stuffed Pumpkin",
+			"item0": "minecraft:baked_potato",
+			"item1": "minecraft:sweet_berries",
+			"item2": "farmersdelight:tomato_sauce",
+			"item3": "farmersdelight:brown_mushroom_colony",
+			"item4": "tag:c:rice",
+			"item5": "tag:c:onion",
+			"result": "farmersdelight:stuffed_pumpkin_block",
+			"subtext": "A feast to celebrate fall. Needs a pumpkin to fill it in."
+		}
+	]
+}

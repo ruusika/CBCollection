@@ -1,0 +1,19 @@
+{
+	"name": "Squid Ink Pasta",
+	"icon": "farmersdelight:squid_ink_pasta",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Squid Ink Pasta",
+			"item0": "farmersdelight:raw_pasta",
+			"item1": "farmersdelight:tomato",
+			"item2": "tag:c:raw_fishes",
+			"item3": "minecraft:air",
+			"item4": "minecraft:ink_sac",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:squid_ink_pasta",
+			"subtext": "A blue colored pasta with a fishy taste.  Needs a bowl to be served."
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Croptopia Part II",
+  "subtitle": "1st Edition by Zalih",
+  "landing_text": "A new cookbook for Croptopia and Croptopia's Chocolaterie! Old and new recipes collected in one book.$(br)$(br)Croptopia by thethonk. Croptopia's Chocolaterie by slomax907",
+  "version": 0,
+  "creative_tab": "minecraft:tools_and_utilities",
+  "use_resource_pack": true,
+  "model": "patchouli:book_purple",
+  "book_texture": "patchouli:textures/gui/book_purple.png"
+}

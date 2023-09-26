@@ -1,0 +1,19 @@
+{
+	"name": "Hot Cocoa",
+	"icon": "farmersdelight:hot_cocoa",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Hot Cocoa",
+			"item0": "tag:c:milks",
+			"item1": "minecraft:cocoa_beans",
+			"item2": "minecraft:cocoa_beans",
+			"item3": "minecraft:air",
+			"item4": "minecraft:sugar",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:hot_cocoa",
+			"subtext": "A drink to warm you up in winter or cold nights. Needs a bottle to be served."
+		}
+	]
+}

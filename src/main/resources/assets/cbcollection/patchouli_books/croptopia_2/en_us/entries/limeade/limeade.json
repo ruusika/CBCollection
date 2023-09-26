@@ -1,0 +1,12 @@
+{
+  "name": "Limeade",
+  "icon": "croptopia:limeade",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:limeade",
+      "text": "Is this a green version of the lemonade? It's not that sour tho."
+    }
+  ]
+}

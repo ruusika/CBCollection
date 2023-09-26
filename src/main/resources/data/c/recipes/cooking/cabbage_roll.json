@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "tag": "croptopia:meat_replacements"
+    },
+    {
+      "tag": "croptopia:meat_replacements"
+    },
+    {
+      "tag": "c:onion"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:rice"
+    },
+    {
+      "tag": "c:lettuce"
+    },
+    {
+      "tag": "c:lettuce"
+    },
+    {
+      "tag": "c:lettuce"
+    }
+  ],
+  "result": {
+    "item": "croptopia:cabbage_roll",
+    "count": 2
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Pecan Pie",
+  "icon": "croptopia:pecan_pie",
+  "category": "patchouli:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/pecan_pie",
+      "text": "I like the dusty variant more in this case. Especially with some hot chocolate."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:pecan_pie",
+      "text": "Could be one of my favorite pies to be honest."
+    }
+  ]
+}

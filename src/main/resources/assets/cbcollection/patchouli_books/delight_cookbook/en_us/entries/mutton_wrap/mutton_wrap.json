@@ -1,0 +1,12 @@
+{
+  "name": "Mutton Wrap",
+  "icon": "farmersdelight:mutton_wrap",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:mutton_wrap",
+      "text": "You can eat it without any forks and stuff. Might try a variant with beans though..."
+    }
+  ]
+}

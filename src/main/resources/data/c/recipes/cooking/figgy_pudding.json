@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:water_bottles"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "item": "croptopia:whipping_cream"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "croptopia:fig"
+    },
+    {
+      "item": "croptopia:date"
+    }
+  ],
+  "result": {
+    "item": "croptopia:figgy_pudding"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Raisins",
+  "icon": "croptopia:raisins",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:raisins_from_grape",
+      "text": "I hate them. But they have their uses for flavor."
+    }
+  ]
+}

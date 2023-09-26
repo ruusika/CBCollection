@@ -1,0 +1,17 @@
+{
+  "name": "Chicken and Noodles",
+  "icon": "croptopia:chicken_and_noodles",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:chicken_and_noodles",
+      "text": "Not sure if this is a soup or not."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/chicken_and_noodles",
+      "text": "But it smells very good."
+    }
+  ]
+}

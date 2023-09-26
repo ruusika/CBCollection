@@ -1,0 +1,18 @@
+{
+  "name": "Peanut Butter Milk Chocolate",
+  "icon": "cacao:peanut_butter_milk_chocolate",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Peanut Butter Milk",
+      "recipe": "c:chocolate/cbc_peanut_butter_milk_chocolate",
+      "text": "That one is better then the dark milk one. It's also more common."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Peanut Butter Milk",
+      "recipe": "cacao:peanut_butter_milk_chocolate"
+    }
+  ]
+}

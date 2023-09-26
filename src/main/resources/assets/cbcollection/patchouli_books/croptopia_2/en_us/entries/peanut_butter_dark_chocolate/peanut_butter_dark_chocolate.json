@@ -1,0 +1,13 @@
+{
+  "name": "Peanut Butter Dark Chocolate",
+  "icon": "cacao:peanut_butter_dark_chocolate",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Peanut Butter Dark",
+      "recipe": "cacao:peanut_butter_dark_chocolate",
+      "text": "I don't get how you you like a salty and bitter thing as a chocolate."
+    }
+  ]
+}

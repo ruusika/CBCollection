@@ -1,0 +1,12 @@
+{
+	"name": "Wheat Dough",
+	"icon": "farmersdelight:wheat_dough",
+	"category": "patchouli:ingredients",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:wheat_dough",
+			"text": "Bread isn't just three wheat in a row right?"
+		}
+	]
+}

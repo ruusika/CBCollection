@@ -1,0 +1,17 @@
+{
+  "name": "Spaghetti Squash",
+  "icon": "croptopia:spaghetti_squash",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:spaghetti_squash",
+      "text": "Not sure if this is considered a fall dish but I would."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/spaghetti_squash",
+      "text": "Needs more spice."
+    }
+  ]
+}

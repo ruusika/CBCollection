@@ -1,0 +1,12 @@
+{
+  "name": "Chicken Sandwich",
+  "icon": "farmersdelight:chicken_sandwich",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:chicken_sandwich",
+      "text": "Easy to make, easy to pack in your bags....Just don't leave it in there. Trust me."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Potato Chips",
+  "icon": "croptopia:potato_chips",
+  "category": "patchouli:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:potato_chips",
+      "text": "These are chips not crisps."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/potato_chips",
+      "text": "Unhealthy. Salty. But tasty as hell."
+    }
+  ]
+}

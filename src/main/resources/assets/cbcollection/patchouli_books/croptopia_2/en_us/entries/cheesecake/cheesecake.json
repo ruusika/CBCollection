@@ -1,0 +1,12 @@
+{
+  "name": "Cheesecake",
+  "icon": "croptopia:cheese_cake",
+  "category": "patchouli:desserts",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cheese_cake",
+      "text": "Not obtainable from what I can find."
+    }
+  ]
+}

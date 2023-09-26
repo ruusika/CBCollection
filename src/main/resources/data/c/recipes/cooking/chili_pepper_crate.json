@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:chile_pepper"
+    },
+    {
+      "tag": "c:chile_pepper"
+    },
+    {
+      "tag": "c:chile_pepper"
+    },
+    {
+      "tag": "c:chile_pepper"
+    },
+    {
+      "tag": "c:chile_pepper"
+    },
+    {
+      "tag": "c:chile_pepper"
+    },
+    {
+      "tag": "c:chile_pepper"
+    },
+    {
+      "tag": "c:chile_pepper"
+    },
+    {
+      "tag": "c:chile_pepper"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:chili_pepper_crate"
+  }
+}

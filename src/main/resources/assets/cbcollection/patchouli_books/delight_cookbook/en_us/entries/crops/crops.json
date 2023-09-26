@@ -1,0 +1,63 @@
+{
+	"name": "The Top Crops",
+	"icon": "minecraft:allium",
+	"category": "patchouli:ingredients",
+	"pages": [
+		{
+			"type": "patchouli:crop_template",
+			"header": "Wild Carrots",
+			"seed": "minecraft:air",
+			"plant": "farmersdelight:wild_carrots",
+			"harvest": "minecraft:carrot",
+			"subtext": "A flowering weed, with a conspicuous beige-colored base. Found in normal climates."
+		},
+		{
+			"type": "patchouli:crop_template",
+			"header": "Wild Potatoes",
+			"seed": "minecraft:air",
+			"plant": "farmersdelight:wild_potatoes",
+			"harvest": "minecraft:potato",
+			"subtext": "Similar to normal Potato patches, but with large flowers. Found in colder climates."
+		},
+		{
+			"type": "patchouli:crop_template",
+			"header": "Wild Cabbage",
+			"seed": "farmersdelight:cabbage_seeds",
+			"plant": "farmersdelight:wild_cabbages",
+			"harvest": "farmersdelight:cabbage",
+			"subtext": "A large bush with small yellow flowers. Found mostly on beaches."
+		},
+		{
+			"type": "patchouli:crop_template",
+			"header": "Sea Beet | Beet Root",
+			"seed": "minecraft:beetroot_seeds",
+			"plant": "farmersdelight:wild_beetroots",
+			"harvest": "minecraft:beetroot",
+			"subtext": "A type of beet with much larger leaves. Found mostly on beaches."
+		},
+		{
+			"type": "patchouli:crop_template",
+			"header": "Wild Onion",
+			"seed": "minecraft:air",
+			"plant": "farmersdelight:wild_onions",
+			"harvest": "farmersdelight:onion",
+			"subtext": "A thick cluster of Allium flowers usually has an onion bulb under them. Found in normal climates."
+		},
+		{
+			"type": "patchouli:crop_template",
+			"header": "Wild Tomatoes",
+			"seed": "farmersdelight:tomato_seeds",
+			"plant": "farmersdelight:wild_tomatoes",
+			"harvest": "farmersdelight:tomato",
+			"subtext": "Non-spiked floor vines covered in tiny tomatoes. Found in warmer climates."
+		},
+		{
+			"type": "patchouli:crop_template",
+			"header": "Wild Rice",
+			"seed": "minecraft:air",
+			"plant": "farmersdelight:wild_rice",
+			"harvest": "farmersdelight:rice",
+			"subtext": "A thinner form of cultivated rice. Thrives in shallow puddles of water. Found mostly in jungles or swamps. You will harvest a rice panicle which you can open in a crafting table"
+		}
+	]
+}

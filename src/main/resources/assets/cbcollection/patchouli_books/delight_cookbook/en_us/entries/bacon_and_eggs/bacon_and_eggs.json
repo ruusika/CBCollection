@@ -1,0 +1,12 @@
+{
+  "name": "Bacon and Eggs",
+  "icon": "farmersdelight:bacon_and_eggs",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:bacon_and_eggs",
+      "text": "Usually served for breakfast but also great when having an hangover."
+    }
+  ]
+}

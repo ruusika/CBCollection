@@ -1,0 +1,12 @@
+{
+  "name": "Cod Roll",
+  "icon": "farmersdelight:cod_roll",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:cod_roll",
+      "text": "Cod on Rice. Preferably raw salmon but it works with smoked too."
+    }
+  ]
+}

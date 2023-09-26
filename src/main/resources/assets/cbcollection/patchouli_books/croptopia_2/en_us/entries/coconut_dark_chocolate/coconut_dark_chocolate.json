@@ -1,0 +1,12 @@
+{
+  "name": "Coconut Dark Chocolate",
+  "icon": "cacao:coconut_dark_chocolate",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:coconut_dark_chocolate",
+      "text": "In my eyes another hellish invention but if you like it I won't judge."
+    }
+  ]
+}

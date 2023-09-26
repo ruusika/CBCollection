@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cacao:silicon_mold"
+    },
+    {
+      "item": "cacao:cacao_mass_bottle"
+    },
+    {
+      "item": "cacao:cacao_mass_bottle"
+    },
+    {
+      "tag": "c:cbc_milk"
+    },
+    {
+      "tag": "c:cbc_milk"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "croptopia:almond"
+    }
+  ],
+  "result": {
+    "item": "cacao:praline_milk_chocolate",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Cherry Jam",
+  "icon": "croptopia:cherry_jam",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cherry_jam",
+      "text": "Could be my favorite. Best used in cakes."
+    }
+  ]
+}

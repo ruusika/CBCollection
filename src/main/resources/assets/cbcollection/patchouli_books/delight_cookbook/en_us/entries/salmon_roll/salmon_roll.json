@@ -1,0 +1,12 @@
+{
+  "name": "Salmon Roll",
+  "icon": "farmersdelight:salmon_roll",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:salmon_roll",
+      "text": "Salmon on Rice. Preferably raw salmon but it works with smoked too."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Cinnamon",
+  "icon": "croptopia:cinnamon",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cinnamon",
+      "text": "Cinnamon bark is used as a spice. It is principally employed in cookery as a condiment and flavouring material. It is used in the preparation of chocolate."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cinnamon_sapling",
+      "text": "Cinnamon is an evergreen tree characterized by oval-shaped leaves, thick bark and a berry fruit. When harvesting the spice, the bark and leaves are the primary parts of the plant used."
+    },
+    {
+      "type": "patchouli:stripping",
+      "header": "Extracting Cinnamon",
+      "item0": "croptopia:cinnamon_log",
+      "item1": "minecraft:iron_axe",
+      "result": "croptopia:cinnamon",
+      "result2": "croptopia:stripped_cinnamon_log",
+      "subtext": "Carefully strip the wood to extract the cinnamon."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cinnamon_wood",
+      "recipe2": "croptopia:stripped_cinnamon_wood"
+    }
+  ]
+}

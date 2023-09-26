@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "c:lettuce"
+    },
+    {
+      "tag": "c:foods"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:cabbage_rolls"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

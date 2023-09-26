@@ -1,0 +1,12 @@
+{
+  "name": "Grilled Salmon",
+  "icon": "farmersdelight:grilled_salmon",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:grilled_salmon",
+      "text": "The berries and the onion are working surprisingly well together..."
+    }
+  ]
+}

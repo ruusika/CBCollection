@@ -1,0 +1,12 @@
+{
+  "name": "Blackberry Jam",
+  "icon": "croptopia:blackberry_jam",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:blackberry_jam",
+      "text": "Not sure if it should be sweet or sour."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Molasses",
+  "icon": "croptopia:molasses",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:molasses_from_sugar_cane",
+      "text": "Mixed with water and let it ferment. Delicious."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "c:croptopia/molasses_from_caramel",
+      "text": "A slightly sweeter version. Might stink a bit more."
+    }
+  ]
+}

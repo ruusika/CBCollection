@@ -1,0 +1,12 @@
+{
+  "name": "Nether Salad",
+  "icon": "farmersdelight:nether_salad",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:nether_salad",
+      "text": "Dunno...Tastes weird, smells weird and I don't even wanna know where you got those shrooms."
+    }
+  ]
+}

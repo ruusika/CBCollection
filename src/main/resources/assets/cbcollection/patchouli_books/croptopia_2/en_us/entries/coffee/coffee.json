@@ -1,0 +1,12 @@
+{
+  "name": "Coffee",
+  "icon": "croptopia:coffee",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:coffee",
+      "text": "The best thing apart from speed potions to get you awake and working."
+    }
+  ]
+}

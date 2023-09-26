@@ -1,0 +1,19 @@
+{
+	"name": "Ratatouille",
+	"icon": "farmersdelight:ratatouille",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Ratatouille",
+			"item0": "minecraft:beetroot",
+			"item1": "tag:c:tomato",
+			"item2": "tag:c:onion",
+			"item3": "tag:fabric:vegetables",
+			"item4": "minecraft:air",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:ratatouille",
+			"subtext": "A stew-like dish as I know.  Needs a bowl to be served."
+		}
+	]
+}

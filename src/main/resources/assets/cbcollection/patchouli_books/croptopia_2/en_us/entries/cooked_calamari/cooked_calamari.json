@@ -1,0 +1,13 @@
+{
+  "name": "Cooked Calamari",
+  "icon": "croptopia:cooked_calamari",
+  "category": "patchouli:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:cooked_calamari_from_calamari",
+      "recipe2": "croptopia:cooked_calamari_from_glowing_calamari",
+      "text": "More fishy than anchovy but good. I can taste the sea."
+    }
+  ]
+}

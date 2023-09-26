@@ -1,0 +1,12 @@
+{
+  "name": "Cacao Mass Bucket",
+  "icon": "cacao:cacao_mass_bucket",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:cacao_mass_bucket",
+      "text": "If you put those roasted nibs into the grinder and a bucket beneath you'll get a sticky liquid."
+    }
+  ]
+}

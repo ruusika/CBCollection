@@ -1,0 +1,17 @@
+{
+  "name": "Taco",
+  "icon": "croptopia:taco",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:taco",
+      "text": "I accidentally ate one with too much spice in it. My throat still burns."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/taco",
+      "text": "I want more. I'll just add more cheese."
+    }
+  ]
+}

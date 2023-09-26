@@ -1,0 +1,275 @@
+{
+  "name": "Trees",
+  "icon": "croptopia:starfruit_sapling",
+  "category": "patchouli:crops",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "In the world you can find various trees with custom crops growing on them. To harvest them you can right click on them when they're fully grown."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(br)$(br2)On the next few pages you'll see an overview of all the trees and their harvest in Croptopia."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:almond_sapling",
+      "text": "Almonds begin bearing an in the third year after planting. Trees reach full bearing five to six years after planting. The fruit matures in the autumn, 7–8 months after flowering."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:almond",
+      "text": "While the almond is often eaten on its own, raw or toasted, it is also a component of various dishes. Almonds are available in many forms, such as whole, slivered, and ground into flour."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:apple_sapling",
+      "text": "The fruit is a pome that matures in late summer or autumn, and cultivars exist in a wide range of sizes."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "minecraft:apple",
+      "text": "Apples are an important ingredient in many desserts, such as apple pie, apple crumble, apple crisp and apple cake. When cooked, some apple cultivars easily form a puree known as apple sauce."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:apricot_sapling",
+      "text": "The apricot is a small tree, 8–12 m tall, with a trunk up to 40 cm. The fruit is a drupe (stonefruit) similar to a small peach."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:apricot",
+      "text": "Liqueur amaretto and amaretti biscotti are flavoured with extract of apricot kernels rather than almonds. Oil pressed from these cultivar kernels, and known as oil of almond, has been used as cooking oil."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:avocado_sapling",
+      "text": "Avocado has a tree that grows to 9–20 m with a trunk diameter between 0.3–0.6 m. The leaves are 7.62–25 cm long and alternately arranged."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:avocado",
+      "text": "Generally, avocado is served raw, though some cultivars, can be cooked for a short time without becoming bitter. "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:banana_sapling",
+      "text": "The banana plant is the largest herbaceous flowering plant."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:banana",
+      "text": "In addition to being eaten raw, bananas are eaten deep fried, baked in their skin in a split bamboo, or steamed in glutinous rice wrapped in a banana leaf."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cashew_sapling",
+      "text": "The cashew tree is large and evergreen, growing to 14 metres tall, with a short, often irregularly shaped trunk."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cashew",
+      "text": "Culinary uses for cashew seeds in snacking and cooking are similar to those for all tree seeds called nuts."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cherry_sapling",
+      "text": "Like most temperate-latitude trees, cherry trees require a certain number of chilling hours each year to break dormancy and bloom and produce fruit."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:cherry",
+      "text": "Dried sour cherries are used in cooking including soups, pork dishes, cakes, tarts, and pies. Also used to make a jam/fruit spread."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:coconut_sapling",
+      "text": "The coconut is a large palm, growing up to 30 metres tall."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:coconut",
+      "text": "Coconut milk, not to be confused with coconut water, is obtained by pressing the grated coconut meat, usually with hot water added which extracts the coconut oil, proteins, and aromatic compounds."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:date_sapling",
+      "text": "Date trees reach up to 30 metres in height, growing singly or forming a clump with several stems from a single root system. Slow-growing, they can reach over 100 years of age when maintained properly."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:date",
+      "text": "Dry or soft dates are eaten out-of-hand, or may be pitted and stuffed with fillings such as almonds, walnuts, pecans, candied orange and lemon peel, tahini, marzipan or cream cheese."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:dragonfruit_sapling",
+      "text": "Seeds grow well in a compost or potting soil mix – even as a potted indoor plant."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:dragonfruit",
+      "text": "Dragon fruit is used to flavor and color juices and alcoholic beverages, such as \"Dragon's Blood Punch\" and the \"Dragotini\". The flowers can be eaten or steeped as tea."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:fig_sapling",
+      "text": "A fig plant is a small deciduous tree or large shrub growing up to 7–10 m tall, with smooth white bark."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:fig",
+      "text": "Figs can be eaten fresh or dried, and used in jam-making. Most commercial production is in dried or otherwise processed forms, since the ripe fruit does not transport well, and once picked does not keep well. "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:grapefruit_sapling",
+      "text": "The evergreen grapefruit trees usually grow to around 5–6 m tall, although they may reach 13–15 m."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:grapefruit",
+      "text": "Grapefruit are often cooked to remove their sourness, rendering them as sweets."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:kumquat_sapling",
+      "text": "Kumquat plants have thornless branches and extremely glossy leaves. They bear dainty white flowers that occur in clusters or individually inside the leaf axils."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:kumquat",
+      "text": "The essential oil of the kumquat peel contains much of the aroma of the fruit, and is composed principally of limonene."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:lemon_sapling",
+      "text": "Lemons need a minimum temperature of around 7 °C, so they are not hardy year-round in temperate climates, but become hardier as they mature."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:lemon",
+      "text": "Lemon juice, rind, and peel are used in a wide variety of foods and drinks. The whole lemon is used to make marmalade, lemon curd and lemon liqueur."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:lime_sapling",
+      "text": "The seeds must be kept moist until they can be planted, as they will not germinate if allowed to dry out."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:lime",
+      "text": "Lime juice is used to make limeade, and as an ingredient (typically as sour mix) in many cocktails."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:mango_sapling",
+      "text": "Mango trees grow to 30–40 metres tall, with a crown radius of 10–15 m. The trees are long-lived, as some specimens still fruit after 300 years."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:mango",
+      "text": "Mangoes are used in many cuisines. Sour, unripe mangoes are used in chutneys (i.e., mango chutney), pickles, daals and other side dishes."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:nectarine_sapling",
+      "text": "Nectarines grow in a fairly limited range in dry, continental or temperate climates, since the trees have a chilling requirement that tropical or subtropical areas generally do not satisfy except at high altitudes."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:nectarine",
+      "text": "Dunno can't find much on them."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:nutmeg_sapling",
+      "text": "The first harvest of nutmeg trees takes place 7-9 years after planting, and the trees reach full production after 20 years."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:nutmeg",
+      "text": "Nutmeg and mace have similar sensory qualities, with nutmeg having a slightly sweeter and mace a more delicate flavour."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:orange_sapling",
+      "text": "Like most citrus plants, oranges do well under moderate temperatures—between 15.5 and 29 °C — and require considerable amounts of sunshine and water."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:orange",
+      "text": "Oranges, whose flavor may vary from sweet to sour, are commonly peeled and eaten fresh raw or squeezed for juice."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:peach_sapling",
+      "text": "The fruit has yellow or whitish flesh, a delicate aroma, and a skin that is either velvety (peaches) or smooth (nectarines) in different cultivars."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:peach",
+      "text": "Peaches and nectarines are the same species, though they are regarded as different fruits."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:pear_sapling",
+      "text": "Summer and autumn cultivars of pears, being climacteric fruits, are gathered before they are fully ripe, while they are still green, but snap off when lifted."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:pear",
+      "text": "Pears are consumed fresh, canned, as juice, and dried. The juice can also be used in jellies and jams, usually in combination with other fruits, including berries."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:pecan_sapling",
+      "text": " 10-year-old sapling grown in optimal conditions will stand about 5 m tall."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:pecan",
+      "text": "Pecan seeds are edible, with a rich, buttery flavor. They can be eaten fresh, roasted or used in cooking, particularly in sweet desserts, such as pecan pie."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:persimmon_sapling",
+      "text": "Persimmon fruit matures late in the fall and can stay on the tree until winter. In color, the ripe fruit of the cultivated strains range from glossy light yellow-orange to dark red-orange depending on the species and variety."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:persimmon",
+      "text": "Persimmons are eaten fresh, dried, raw or cooked."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:plum_sapling",
+      "text": "The commercially important plum trees are medium-sized, usually pruned to 5–6 metres height."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:plum",
+      "text": "The pulp is edible and usually sweet, though some varieties are sour and require cooking with sugar to make them palatable."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:starfruit_sapling",
+      "text": "The carambola is a tropical and subtropical fruit which can be grown at elevations up to 1,200 metres."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:starfruit",
+      "text": "Ripe carambolas may also be used in cooking. In Southeast Asia, they are usually stewed in cloves and sugar, sometimes with apples."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:walnut_sapling",
+      "text": "Walnuts are light-demanding species that benefit from protection from wind. Walnuts are also very hardy against drought."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:walnut",
+      "text": "All walnuts can be eaten on their own (raw, toasted, or pickled), or as part of a mix such as muesli, or as an ingredient of a dish: e.g. walnut soup, walnut pie, walnut coffee cake, banana cake, brownie, fudge."
+    }
+  ]
+}

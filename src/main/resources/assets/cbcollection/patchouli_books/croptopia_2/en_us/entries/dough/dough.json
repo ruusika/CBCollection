@@ -1,0 +1,12 @@
+{
+  "name": "Dough",
+  "icon": "croptopia:dough",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:dough",
+      "text": "A very simple dough. With the right ingredients you can form it to bread, cake and everything else dough based."
+    }
+  ]
+}

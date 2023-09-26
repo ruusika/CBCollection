@@ -1,0 +1,16 @@
+{
+  "name": "Praline White Chocolate",
+  "icon": "cacao:praline_white_chocolate",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:chocolate/cbc_praline_white_chocolate",
+      "text": "I am not sure if that one is fancier than the dark one. Please explain."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:praline_white_chocolate"
+    }
+  ]
+}

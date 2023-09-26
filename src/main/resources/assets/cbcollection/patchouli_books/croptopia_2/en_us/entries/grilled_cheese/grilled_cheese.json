@@ -1,0 +1,17 @@
+{
+  "name": "Grilled Cheese Sandwich",
+  "icon": "croptopia:grilled_cheese",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:grilled_cheese",
+      "text": "I don't know how invented this one but this person deserves a medal."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/grilled_cheese",
+      "text": "Maybe try to use different cheese like spiced cheese."
+    }
+  ]
+}

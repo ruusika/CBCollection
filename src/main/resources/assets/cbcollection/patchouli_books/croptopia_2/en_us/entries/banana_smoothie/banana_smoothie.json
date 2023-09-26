@@ -1,0 +1,12 @@
+{
+  "name": "Banana Smoothie",
+  "icon": "croptopia:banana_smoothie",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:banana_smoothie",
+      "text": "Just some glorified iced banana milk. Awful in my eyes."
+    }
+  ]
+}

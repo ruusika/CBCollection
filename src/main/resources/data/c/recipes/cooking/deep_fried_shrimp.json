@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:shrimp"
+    },
+    {
+      "item": "croptopia:shrimp"
+    },
+    {
+      "item": "croptopia:shrimp"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:egg"
+    }
+  ],
+  "result": {
+    "item": "croptopia:deep_fried_shrimp",
+    "count": 2
+  }
+}

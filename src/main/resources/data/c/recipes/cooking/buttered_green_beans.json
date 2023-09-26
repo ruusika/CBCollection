@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:butter"
+    },
+    {
+      "item": "croptopia:ginger"
+    },
+    {
+      "item": "croptopia:greenbean"
+    },
+    {
+      "item": "croptopia:pepper"
+    },
+    {
+      "tag": "c:salt"
+    }
+  ],
+  "result": {
+    "item": "croptopia:buttered_green_beans"
+  }
+}

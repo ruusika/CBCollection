@@ -1,0 +1,19 @@
+{
+	"name": "Tomato Sauce",
+	"icon": "farmersdelight:tomato_sauce",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Tomato Sauce",
+			"item0": "tag:c:tomato",
+			"item1": "tag:c:tomato",
+			"item2": "minecraft:air",
+			"item3": "minecraft:air",
+			"item4": "minecraft:air",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:tomato_sauce",
+			"subtext": "A basic ingredient for $(br)several advanced recipies $(br)like pasta, etc. Needs a $(br)bowl to be served."
+		}
+	]
+}

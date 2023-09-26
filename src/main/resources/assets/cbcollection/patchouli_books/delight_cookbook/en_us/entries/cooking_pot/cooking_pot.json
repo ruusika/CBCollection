@@ -1,0 +1,12 @@
+{
+	"name": "Cooking Pot",
+	"icon": "farmersdelight:cooking_pot",
+	"category": "patchouli:utensils",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:cooking_pot",
+			"text": "The Cooking Pot is a workstation where you can prepare and store a large amount of meals. Meals that require a container will be held inside the pot, stacking up to 64 servings."
+		}
+	]
+}

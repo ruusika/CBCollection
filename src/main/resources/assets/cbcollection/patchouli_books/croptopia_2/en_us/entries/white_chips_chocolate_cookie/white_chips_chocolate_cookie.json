@@ -1,0 +1,12 @@
+{
+  "name": "White Chips Chocolate Cookie",
+  "icon": "cacao:white_chips_chocolate_cookie",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:white_chips_chocolate_cookie",
+      "text": "Amazing. 10/10"
+    }
+  ]
+}

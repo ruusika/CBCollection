@@ -1,0 +1,17 @@
+{
+  "name": "Sweet Potato Fries",
+  "icon": "croptopia:sweet_potato_fries",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:sweet_potato_fries",
+      "text": "A bit sweeter than normal fries."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/sweet_potato_fries",
+      "text": "Very good with chili or paprika powder."
+    }
+  ]
+}

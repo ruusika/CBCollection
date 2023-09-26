@@ -1,0 +1,19 @@
+{
+	"name": "Fried Rice",
+	"icon": "farmersdelight:fried_rice",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Fried Rice",
+			"item0": "tag:c:egg",
+			"item1": "tag:c:onion",
+			"item2": "minecraft:carrot",
+			"item3": "tag:c:rice",
+			"item4": "minecraft:air",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:fried_rice",
+			"subtext": "Roast it a bit in the pot. Needs a bowl to be served"
+		}
+	]
+}

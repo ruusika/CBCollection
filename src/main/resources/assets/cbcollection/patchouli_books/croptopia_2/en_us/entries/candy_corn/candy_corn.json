@@ -1,0 +1,12 @@
+{
+  "name": "Candy Corn",
+  "icon": "croptopia:candy_corn",
+  "category": "patchouli:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:candy_corn",
+      "text": "huh...so this is just sugarcoated corn?"
+    }
+  ]
+}

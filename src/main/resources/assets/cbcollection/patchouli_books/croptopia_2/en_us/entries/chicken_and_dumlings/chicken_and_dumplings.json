@@ -1,0 +1,17 @@
+{
+  "name": "Chicken and Dumplings",
+  "icon": "croptopia:chicken_and_dumplings",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:chicken_and_dumplings",
+      "text": "Those dough-bags can be filled with everything."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/chicken_and_dumplings",
+      "text": "Add some soup and it will be delicious."
+    }
+  ]
+}

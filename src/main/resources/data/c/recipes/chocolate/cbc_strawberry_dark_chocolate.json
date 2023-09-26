@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cacao:silicon_mold"
+    },
+    {
+      "item": "cacao:cacao_mass_bottle"
+    },
+    {
+      "item": "cacao:cacao_mass_bottle"
+    },
+    {
+      "item": "cacao:cacao_mass_bottle"
+    },
+    {
+      "item": "cacao:cacao_mass_bottle"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "croptopia:strawberry"
+    },
+    {
+      "tag": "c:cbc_milk"
+    }
+  ],
+  "result": {
+    "item": "cacao:strawberry_cream_dark_chocolate",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Paprika",
+  "icon": "croptopia:paprika",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:paprika",
+      "text": "Ohhhh...spicy. But it gives your dishes an interesting flavour."
+    }
+  ]
+}

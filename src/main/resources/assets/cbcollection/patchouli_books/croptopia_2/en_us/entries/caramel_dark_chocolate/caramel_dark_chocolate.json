@@ -1,0 +1,12 @@
+{
+  "name": "Caramel Dark Chocolate",
+  "icon": "cacao:caramel_dark_chocolate",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:caramel_dark_chocolate",
+      "text": "You add something sticky to something else sticky. But people will like it."
+    }
+  ]
+}

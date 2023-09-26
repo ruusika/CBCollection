@@ -1,0 +1,16 @@
+{
+  "name": "Praline Milk Chocolate",
+  "icon": "cacao:praline_milk_chocolate",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:chocolate/cbc_praline_milk_chocolate",
+      "text": "Less fancy than the dark chocolate. If you're poor but want to eat fancy...That's the way."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:praline_milk_chocolate"
+    }
+  ]
+}

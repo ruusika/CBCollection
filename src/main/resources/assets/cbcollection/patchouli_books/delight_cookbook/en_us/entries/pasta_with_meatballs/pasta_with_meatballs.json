@@ -1,0 +1,19 @@
+{
+	"name": "Pasta with Meatballs",
+	"icon": "farmersdelight:pasta_with_meatballs",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Pasta with Meatballs",
+			"item0": "farmersdelight:raw_pasta",
+			"item1": "farmersdelight:minced_beef",
+			"item2": "farmersdelight:tomato_sauce",
+			"item3": "minecraft:air",
+			"item4": "minecraft:air",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:pasta_with_meatballs",
+			"subtext": "A common dish from the pot. Some like it with cheese as well. Needs a bowl to be served."
+		}
+	]
+}

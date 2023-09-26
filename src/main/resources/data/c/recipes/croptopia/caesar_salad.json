@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:toast"
+    },
+    {
+      "item": "croptopia:olive"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "c:lettuce"
+    },
+    {
+      "tag": "c:garlic"
+    }
+  ],
+  "result": {
+    "item": "croptopia:caesar_salad"
+  }
+}

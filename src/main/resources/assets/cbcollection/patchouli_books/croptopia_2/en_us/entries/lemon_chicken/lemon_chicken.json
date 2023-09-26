@@ -1,0 +1,17 @@
+{
+  "name": "Lemon Chicken",
+  "icon": "croptopia:lemon_chicken",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:lemon_chicken",
+      "text": "With a little tweak you can make this dish vegetarian."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/lemon_chicken",
+      "text": "But I want to add more spice."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Roasted Nuts",
+  "icon": "croptopia:roasted_nuts",
+  "category": "patchouli:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:roasted_nuts",
+      "text": "Roasting them makes them able to store longer. I am sold."
+    }
+  ]
+}

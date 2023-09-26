@@ -1,0 +1,19 @@
+{
+	"name": "Pasta with Mutton Chops",
+	"icon": "farmersdelight:pasta_with_mutton_chop",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Pasta with Meatballs",
+			"item0": "tag:c:raw_mutton",
+			"item1": "farmersdelight:raw_pasta",
+			"item2": "farmersdelight:tomato_sauce",
+			"item3": "minecraft:air",
+			"item4": "minecraft:air",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:pasta_with_mutton_chop",
+			"subtext": "An alternative to meatball pasta. Needs a bowl to be served."
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Tofuburger",
+  "icon": "croptopia:tofuburger",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:tofuburger",
+      "text": "Those are tasty. I am surprised."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/tofuburger",
+      "text": "The onions make a lot of difference."
+    }
+  ]
+}

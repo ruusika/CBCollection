@@ -1,0 +1,17 @@
+{
+  "name": "Caesar Salad",
+  "icon": "croptopia:caesar_salad",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:caesar_salad",
+      "text": "I heard people once refer to it as an emperor's dish."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/caesar_salad",
+      "text": "Don't know why tho...Just an ordinary salad with bread an olives."
+    }
+  ]
+}

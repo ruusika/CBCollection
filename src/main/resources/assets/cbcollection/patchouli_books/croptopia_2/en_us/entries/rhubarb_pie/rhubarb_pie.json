@@ -1,0 +1,17 @@
+{
+  "name": "Rhubarb Pie",
+  "icon": "croptopia:rhubarb_pie",
+  "category": "patchouli:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/rhubarb_pie",
+      "text": "If you ask me this is a pathetic try to make a healthy cake."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:rhubarb_pie",
+      "text": "It also tastes like that."
+    }
+  ]
+}

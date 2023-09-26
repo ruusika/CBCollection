@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:pepper"
+    },
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "item": "croptopia:cooking_pot"
+    },
+    {
+      "tag": "c:onion"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:garlic"
+    }
+  ],
+  "result": {
+    "item": "croptopia:pumpkin_soup",
+    "count": 2
+  }
+}

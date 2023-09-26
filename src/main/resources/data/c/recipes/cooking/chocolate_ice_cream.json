@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "tag": "c:milks"
+    },
+    {
+      "tag": "c:chocolates"
+    },
+    {
+      "item": "croptopia:cooking_pot"
+    }
+  ],
+  "result": {
+    "item": "croptopia:chocolate_ice_cream"
+  }
+}

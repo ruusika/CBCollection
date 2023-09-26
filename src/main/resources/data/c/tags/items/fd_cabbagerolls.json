@@ -1,0 +1,23 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:mutton",
+		"farmersdelight:mutton_chops",
+		"minecraft:porkchop",
+		"farmersdelight:bacon",
+		"minecraft:beef",
+		"farmersdelight:minced_beef",
+		"minecraft:chicken",
+		"farmersdelight:chicken_cuts",
+		"minecraft:cod",
+		"farmersdelight:cod_slice",
+		"minecraft:salmon",
+		"farmersdelight:salmon_slice",
+		"minecraft:tropical_fish",
+		"minecraft:carrot",
+		"minecraft:beetroot",
+		"minecraft:potato",
+		"minecraft:red_mushroom",
+		"minecraft:brown_mushroom"
+	]
+}

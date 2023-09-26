@@ -1,0 +1,35 @@
+{
+	"name": "Advanced Farming",
+	"icon": "farmersdelight:organic_compost",
+	"category": "patchouli:blocks",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:organic_compost_from_rotten_flesh",
+			"recipe2": "farmersdelight:organic_compost_from_tree_bark"
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "farmersdelight:rich_soil",
+			"text": "Rich Soil is an enhanced type of dirt, more fertile and durable to the elements. Rich Soil cannot be directly crafted. To make it, you must craft Organic Compost and place it into the world, letting it decompose over time. Go to next page."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Organic Compost will decompose more easily under sunlight and moisture from nearby water but doesn't actually hydrate like farmland. When any growable plant is placed on Rich Soil, its growth will be randomly boosted, similar to the usage of Bone Meal."
+		},
+		{
+			"type": "patchouli:text",
+			"text": "Rich Soil can be tilled into Rich Farmland through the use of hoes. Rich Farmland is immune to mob trampling and won't unravel to Melons or Pumpkins, but requires hydration in order to boost crops."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "farmersdelight:brown_mushroom_colony",
+			"text": "Mushrooms planted on Rich Soil under sufficient darkness will eventually form a Mushroom Colony."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "farmersdelight:red_mushroom_colony",
+			"text": "Such colonies will grow from 2 to 5 mushroom caps over time, dropping them when harvested."
+		}
+	]
+}

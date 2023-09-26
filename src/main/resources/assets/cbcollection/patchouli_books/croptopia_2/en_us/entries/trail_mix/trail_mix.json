@@ -1,0 +1,17 @@
+{
+  "name": "Trail Mix",
+  "icon": "croptopia:trail_mix",
+  "category": "patchouli:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:trail_mix",
+      "text": "Roast some nuts, add salt and chocolate. Then you get a perfect adventure snack."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/trail_mix",
+      "text": "The chocolate in there makes it the real winner."
+    }
+  ]
+}

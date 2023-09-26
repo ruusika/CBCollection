@@ -1,0 +1,16 @@
+{
+  "name": "Caramel Milk Chocolate",
+  "icon": "cacao:caramel_milk_chocolate",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:chocolate/cbc_caramel_milk_chocolate",
+      "text": "For some too sweet, but loved by many? I don't know."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:caramel_milk_chocolate"
+    }
+  ]
+}

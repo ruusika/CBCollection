@@ -1,0 +1,17 @@
+{
+  "name": "Noodle",
+  "icon": "croptopia:noodle",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/noodle",
+      "text": "Raw noodles aren't tasty. Even if some people want to tell you otherwise."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:noodle",
+      "text": "Best in spaghetti with some tomato sauce in my opinion."
+    }
+  ]
+}

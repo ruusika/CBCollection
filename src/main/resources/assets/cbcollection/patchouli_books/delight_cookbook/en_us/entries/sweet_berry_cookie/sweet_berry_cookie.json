@@ -1,0 +1,12 @@
+{
+  "name": "Sweet Berry Cookie",
+  "icon": "farmersdelight:sweet_berry_cookie",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:sweet_berry_cookie",
+      "text": "I first thought it might be a funny looking raisin cookie."
+    }
+  ]
+}

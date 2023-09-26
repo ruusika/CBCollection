@@ -1,0 +1,12 @@
+{
+  "name": "Mixed Salad",
+  "icon": "farmersdelight:mixed_salad",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:mixed_salad",
+      "text": "An underestimated side dish which can also served as main course."
+    }
+  ]
+}

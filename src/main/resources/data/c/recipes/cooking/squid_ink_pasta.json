@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "minecraft:fishes"
+    },
+    {
+      "tag": "c:tomato"
+    },
+    {
+      "item": "minecraft:ink_sac"
+    },
+    {
+      "item": "farmersdelight:raw_pasta"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:squid_ink_pasta"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

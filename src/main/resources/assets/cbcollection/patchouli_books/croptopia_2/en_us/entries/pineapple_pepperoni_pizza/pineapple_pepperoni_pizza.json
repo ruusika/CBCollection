@@ -1,0 +1,19 @@
+{
+  "name": "Pineapple Pepperoni Pizza",
+  "icon": "croptopia:pineapple_pepperoni_pizza",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Pineapple Pizza",
+      "recipe": "croptopia:pineapple_pepperoni_pizza",
+      "text": "I don't know about the pineapple on pizza."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Pineapple Pizza",
+      "recipe": "c:croptopia/pineapple_pepperoni_pizza",
+      "text": "I heard it's named after a random island?"
+    }
+  ]
+}

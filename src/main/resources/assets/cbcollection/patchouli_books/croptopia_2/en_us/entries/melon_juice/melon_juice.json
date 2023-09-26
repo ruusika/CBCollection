@@ -1,0 +1,12 @@
+{
+  "name": "Melon Juice",
+  "icon": "croptopia:melon_juice",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:melon_juice",
+      "text": "Mostly an I don't know kind of type. I can see why people like it. But it's better with vodka."
+    }
+  ]
+}

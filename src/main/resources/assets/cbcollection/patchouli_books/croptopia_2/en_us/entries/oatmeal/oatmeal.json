@@ -1,0 +1,12 @@
+{
+  "name": "Oatmeal",
+  "icon": "croptopia:oatmeal",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:oatmeal",
+      "text": "You'll need it for some cookies. I forgot which tho."
+    }
+  ]
+}

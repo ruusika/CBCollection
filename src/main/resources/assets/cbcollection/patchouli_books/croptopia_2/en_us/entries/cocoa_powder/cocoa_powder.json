@@ -1,0 +1,12 @@
+{
+  "name": "Cocoa Powder",
+  "icon": "cacao:cocoa_powder",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:cocoa_powder",
+      "text": "Just grind the pressed cone - you'll have left over from filtering - with some sugar and you'll get a tasty powder."
+    }
+  ]
+}

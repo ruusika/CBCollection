@@ -1,0 +1,12 @@
+{
+  "name": "Sushi",
+  "icon": "croptopia:sushi",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:sushi",
+      "text": "You can either eat it cold or warm. That's up to you."
+    }
+  ]
+}

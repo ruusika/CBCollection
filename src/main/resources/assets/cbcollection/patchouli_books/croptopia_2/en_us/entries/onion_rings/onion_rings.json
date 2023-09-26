@@ -1,0 +1,17 @@
+{
+  "name": "Onion Rings",
+  "icon": "croptopia:onion_rings",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:onion_rings",
+      "text": "I confused them once with squid rings...never again."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/onion_rings",
+      "text": "Not that tasty in my opinion."
+    }
+  ]
+}

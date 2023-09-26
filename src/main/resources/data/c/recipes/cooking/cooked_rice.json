@@ -1,0 +1,14 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "c:rice"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:cooked_rice"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

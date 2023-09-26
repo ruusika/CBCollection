@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X#",
+    "O#O"
+  ],
+  "key": {
+    "X": {
+      "tag": "mobz:speed_boots"
+    },
+    "#": {
+      "tag": "minecraft:emerald"
+    },
+    "O": {
+      "tag": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "mobz:speed2_boots",
+    "count": 1
+  }
+}

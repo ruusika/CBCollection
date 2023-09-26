@@ -1,0 +1,12 @@
+{
+  "name": "Yoghurt",
+  "icon": "croptopia:yoghurt",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:yoghurt",
+      "text": "I like it. Especially for breakfast. Try to switch the fruits maybe."
+    }
+  ]
+}

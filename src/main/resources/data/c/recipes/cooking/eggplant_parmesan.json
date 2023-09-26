@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:olive_oil"
+    },
+    {
+      "item": "croptopia:basil"
+    },
+    {
+      "item": "croptopia:pepper"
+    },
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:eggplants"
+    },
+    {
+      "tag": "c:egg"
+    }
+  ],
+  "result": {
+    "item": "croptopia:eggplant_parmesan"
+  }
+}

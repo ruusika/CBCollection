@@ -1,0 +1,19 @@
+{
+	"name": "Vegetable Soup",
+	"icon": "farmersdelight:vegetable_soup",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Vegetable Soup",
+			"item0": "minecraft:carrot",
+			"item1": "tag:c:lettuce",
+			"item2": "minecraft:air",
+			"item3": "minecraft:potato",
+			"item4": "minecraft:beetroot",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:vegetable_soup",
+			"subtext": "A healthy soup. Not everyone might like it. Needs a bowl to be served"
+		}
+	]
+}

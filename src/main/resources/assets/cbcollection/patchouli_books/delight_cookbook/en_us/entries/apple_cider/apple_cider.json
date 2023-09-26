@@ -1,0 +1,19 @@
+{
+  "name": "Apple Cider",
+  "icon": "farmersdelight:apple_cider",
+  "category": "patchouli:potmeals",
+  "pages": [
+    {
+      "type": "patchouli:pot_template",
+      "header": "Apple Cider",
+      "item0": "minecraft:apple",
+      "item1": "minecraft:apple",
+      "item2": "minecraft:sugar",
+      "item3": "minecraft:air",
+      "item4": "minecraft:air",
+      "item5": "minecraft:air",
+      "result": "farmersdelight:apple_cider",
+      "subtext": "If you ever thought apple juice can't be an alcoholic beverage. Needs a bottle to be served."
+    }
+  ]
+}

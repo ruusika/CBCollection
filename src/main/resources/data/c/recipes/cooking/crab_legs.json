@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:crab"
+    },
+    {
+      "item": "croptopia:crab"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "item": "croptopia:butter"
+    },
+    {
+      "item": "croptopia:pepper"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:garlic"
+    }
+  ],
+  "result": {
+    "item": "croptopia:crab_legs",
+    "count": 2
+  }
+}

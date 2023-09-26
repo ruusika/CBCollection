@@ -1,0 +1,17 @@
+{
+  "name": "Steamed Rice",
+  "icon": "croptopia:steamed_rice",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:steamed_rice",
+      "text": "Lacks some taste. Might add a fried egg or so."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/steamed_rice",
+      "text": "Might be a good base for other dishes which require steamed rice."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:asparagus"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "item": "croptopia:olive_oil"
+    },
+    {
+      "item": "croptopia:pepper"
+    }
+  ],
+  "result": {
+    "item": "croptopia:cheesy_asparagus"
+  }
+}

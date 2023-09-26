@@ -1,0 +1,12 @@
+{
+  "name": "Caramel",
+  "icon": "croptopia:caramel",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:caramel_from_sugar",
+      "text": "Sticky. Usable for chocolate or candy bars."
+    }
+  ]
+}

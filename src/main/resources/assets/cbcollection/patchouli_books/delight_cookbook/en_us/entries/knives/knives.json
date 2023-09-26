@@ -1,0 +1,25 @@
+{
+	"name": "Knives",
+	"icon": "farmersdelight:iron_knife",
+	"category": "patchouli:utensils",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:flint_knife",
+			"recipe2": "farmersdelight:iron_knife"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:golden_knife",
+			"recipe2": "farmersdelight:diamond_knife"
+		},
+		{
+			"type": "patchouli:smithing_template",
+			"header": "Netherite Knife",
+			"item0": "farmersdelight:diamond_knife",
+			"item1": "minecraft:netherite_ingot",
+			"result": "farmersdelight:netherite_knife",
+			"subtext": "Your go-to tool for getting straw and cutting your ingridients. Animals usually drop more when a knife is in used. The Netherite Knife has to be crafted in a smithing table"
+		}
+	]
+}

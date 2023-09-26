@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "tag": "c:corn"
+    },
+    {
+      "item": "croptopia:pepper"
+    },
+    {
+      "tag": "croptopia:meat_replacements"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "c:onion"
+    },
+    {
+      "tag": "c:garlic"
+    },
+    {
+      "tag": "c:tomato"
+    }
+  ],
+  "result": {
+    "item": "croptopia:shepherds_pie"
+  }
+}

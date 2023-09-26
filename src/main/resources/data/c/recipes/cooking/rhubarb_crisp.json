@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:cinnamon"
+    },
+    {
+      "item": "croptopia:rhubarb"
+    },
+    {
+      "item": "croptopia:butter"
+    },
+    {
+      "item": "croptopia:oat"
+    }
+  ],
+  "result": {
+    "item": "croptopia:rhubarb_crisp"
+  }
+}

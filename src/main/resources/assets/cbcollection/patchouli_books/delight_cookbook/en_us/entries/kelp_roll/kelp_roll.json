@@ -1,0 +1,12 @@
+{
+  "name": "Kelp Roll",
+  "icon": "farmersdelight:kelp_roll",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:kelp_roll",
+      "text": "The classic sushi roll. You can slice it up with a knife."
+    }
+  ]
+}

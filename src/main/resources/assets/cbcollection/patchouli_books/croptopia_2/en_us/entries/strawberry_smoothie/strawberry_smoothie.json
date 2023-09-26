@@ -1,0 +1,12 @@
+{
+  "name": "Strawberry Smoothie",
+  "icon": "croptopia:strawberry_smoothie",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:strawberry_smoothie",
+      "text": "Why do you wanna drink iced strawberry milk?"
+    }
+  ]
+}

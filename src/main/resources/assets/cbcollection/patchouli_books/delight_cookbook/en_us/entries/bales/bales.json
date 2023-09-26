@@ -1,0 +1,12 @@
+{
+	"name": "Bales",
+	"icon": "farmersdelight:straw_bale",
+	"category": "patchouli:blocks",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:rice_bale",
+			"recipe2": "farmersdelight:straw_bale"
+		}
+	]
+}

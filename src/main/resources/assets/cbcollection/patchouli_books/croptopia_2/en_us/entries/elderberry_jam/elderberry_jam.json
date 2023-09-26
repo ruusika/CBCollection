@@ -1,0 +1,12 @@
+{
+  "name": "Elderberry Jam",
+  "icon": "croptopia:elderberry_jam",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:elderberry_jam",
+      "text": "Nevermind. That one is even better for cakes."
+    }
+  ]
+}

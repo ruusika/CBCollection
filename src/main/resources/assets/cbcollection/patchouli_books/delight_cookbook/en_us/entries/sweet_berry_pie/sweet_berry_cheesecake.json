@@ -1,0 +1,12 @@
+{
+  "name": "Sweet Berry Cheesecake",
+  "icon": "farmersdelight:sweet_berry_cheesecake",
+  "category": "patchouli:feasts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:sweet_berry_cheesecake",
+      "text": "Fresh, fluffy and fruity. Take a knife and give your friends a slice."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Cheeseburger",
+  "icon": "croptopia:cheeseburger",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cheeseburger",
+      "text": "Those are tasty. Even with tofu."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cheeseburger",
+      "text": "Maybe change the buns or the meat. Brings some change."
+    }
+  ]
+}

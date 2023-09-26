@@ -1,0 +1,17 @@
+{
+  "name": "Tomato Juice",
+  "icon": "croptopia:tomato_juice",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/tomato_juice",
+      "text": "As I heard it's a vampires favourite. At least for vampire kids."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:tomato_juice",
+      "text": "But honestly I can stand the taste."
+    }
+  ]
+}

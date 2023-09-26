@@ -1,0 +1,12 @@
+{
+  "name": "Dark Chocolate Covered Apple",
+  "icon": "cacao:dark_chocolate_covered_apple",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:dark_chocolate_covered_apple",
+      "text": "A bit like a candied apple. Tastes surprisingly good"
+    }
+  ]
+}

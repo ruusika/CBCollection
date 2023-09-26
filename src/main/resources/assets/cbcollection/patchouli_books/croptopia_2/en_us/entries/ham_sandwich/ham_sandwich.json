@@ -1,0 +1,17 @@
+{
+  "name": "Ham Sandwich",
+  "icon": "croptopia:ham_sandwich",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:ham_sandwich",
+      "text": "The stronger the cheese the better the sandwich."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/ham_sandwich",
+      "text": "Maybe use some bacon as well. Might add some flavour."
+    }
+  ]
+}

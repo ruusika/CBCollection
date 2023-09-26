@@ -1,0 +1,17 @@
+{
+  "name": "Protein Bar",
+  "icon": "croptopia:protein_bar",
+  "category": "patchouli:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:protein_bar",
+      "text": "A bit more complicated then the trail mix."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/protein_bar",
+      "text": "But I prefer it a lot."
+    }
+  ]
+}

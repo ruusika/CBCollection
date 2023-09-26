@@ -1,0 +1,17 @@
+{
+  "name": "Bacon",
+  "icon": "croptopia:bacon",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_bacon",
+      "text": "The taste depends on how much fat is on the porkchop. Trust me."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "croptopia:cooked_bacon_from_bacon",
+      "text": "A base ingredient in sandwiches and scrambled eggs."
+    }
+  ]
+}

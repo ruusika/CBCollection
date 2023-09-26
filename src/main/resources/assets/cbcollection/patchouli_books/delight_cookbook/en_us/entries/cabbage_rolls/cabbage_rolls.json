@@ -1,0 +1,19 @@
+{
+	"name": "Cabbage Rolls",
+	"icon": "farmersdelight:cabbage_rolls",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Cabbage Roll",
+			"item0": "tag:c:lettuce",
+			"item1": "tag:farmersdelight:cabbage_roll_ingredients",
+			"item2": "minecraft:air",
+			"item3": "minecraft:air",
+			"item4": "minecraft:air",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:cabbage_rolls",
+			"subtext": "Cooked in a pot, rolled in some cabbage. You can switch the filling with carrots, potatoes or every type of raw meat"
+		}
+	]
+}

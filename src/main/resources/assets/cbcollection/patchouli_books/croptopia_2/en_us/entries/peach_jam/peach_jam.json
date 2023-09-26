@@ -1,0 +1,12 @@
+{
+  "name": "Peach Jam",
+  "icon": "croptopia:peach_jam",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:peach_jam",
+      "text": "Good with lighter cakes. Can't think of other good uses."
+    }
+  ]
+}

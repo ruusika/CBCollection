@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "###",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:wolfpelts"
+    }
+  },
+  "result": {
+    "item": "betteranimalsplus:wolf_cape_arctic"
+  }
+}

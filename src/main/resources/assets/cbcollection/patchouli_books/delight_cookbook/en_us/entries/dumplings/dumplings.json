@@ -1,0 +1,19 @@
+{
+	"name": "Dumplings",
+	"icon": "farmersdelight:dumplings",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Dumplings",
+			"item0": "tag:c:dough",
+			"item1": "tag:c:lettuce",
+			"item2": "tag:c:onion",
+			"item3": "tag:c:cbc_dumpling_fills",
+			"item4": "minecraft:air",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:dumplings",
+			"subtext": "Cooked in a pot for a bit. You can use chicken cuts or a whole chicken"
+		}
+	]
+}

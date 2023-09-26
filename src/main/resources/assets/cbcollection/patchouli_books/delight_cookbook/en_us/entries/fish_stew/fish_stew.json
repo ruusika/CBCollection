@@ -1,0 +1,19 @@
+{
+	"name": "Fish Stew",
+	"icon": "farmersdelight:fish_stew",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Fish Stew",
+			"item0": "tag:c:raw_fishes",
+			"item1": "farmersdelight:tomato_sauce",
+			"item2": "tag:c:onion",
+			"item3": "minecraft:air",
+			"item4": "minecraft:air",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:fish_stew",
+			"subtext": "A strong stew. Loved by fishermen. Needs a bowl to be served"
+		}
+	]
+}

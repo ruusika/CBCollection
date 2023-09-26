@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "tag": "c:lettuce"
+    },
+    {
+      "tag": "c:onion"
+    },
+    {
+      "tag": "c:tomato"
+    },
+    {
+      "tag": "c:garlic"
+    },
+    {
+      "tag": "c:water_bottles"
+    },
+    {
+      "item": "croptopia:cooking_pot"
+    }
+  ],
+  "result": {
+    "item": "croptopia:borscht",
+    "count": 2
+  }
+}

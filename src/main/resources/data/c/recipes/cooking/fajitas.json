@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:bellpepper"
+    },
+    {
+      "tag": "c:cheese"
+    },
+    {
+      "tag": "c:tomato"
+    },
+    {
+      "tag": "c:onion"
+    },
+    {
+      "tag": "croptopia:meat_replacements"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ],
+  "result": {
+    "item": "croptopia:fajitas",
+    "count": 2
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:egg"
+    },
+    {
+      "item": "croptopia:coconut"
+    },
+    {
+      "item": "croptopia:butter"
+    },
+    {
+      "item": "croptopia:lemon"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "croptopia:lemon_coconut_bar",
+    "count": 2
+  }
+}

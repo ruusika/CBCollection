@@ -1,0 +1,18 @@
+{
+  "name": "Strawberry White Chocolate",
+  "icon": "cacao:strawberry_cream_white_chocolate",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Strawberry White",
+      "recipe": "c:chocolate/cbc_strawberry_white_chocolate",
+      "text": "It could be good?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Strawberry White",
+      "recipe": "cacao:strawberry_cream_white_chocolate"
+    }
+  ]
+}

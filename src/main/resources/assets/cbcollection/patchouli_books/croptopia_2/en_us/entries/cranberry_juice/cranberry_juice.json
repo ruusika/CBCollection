@@ -1,0 +1,12 @@
+{
+  "name": "Cranberry Juice",
+  "icon": "croptopia:cranberry_juice",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cranberry_juice",
+      "text": "Looks like tomato juice in my eyes. Better stay away from it."
+    }
+  ]
+}

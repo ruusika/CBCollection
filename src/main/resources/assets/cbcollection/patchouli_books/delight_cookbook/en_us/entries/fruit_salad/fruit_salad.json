@@ -1,0 +1,12 @@
+{
+  "name": "Fruit Salad",
+  "icon": "farmersdelight:fruit_salad",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:fruit_salad",
+      "text": "Fresh and healthy. You should eat that more."
+    }
+  ]
+}

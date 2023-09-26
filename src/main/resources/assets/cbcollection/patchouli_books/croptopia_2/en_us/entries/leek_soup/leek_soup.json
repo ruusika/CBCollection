@@ -1,0 +1,12 @@
+{
+  "name": "Leek Soup",
+  "icon": "croptopia:leek_soup",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:leek_soup",
+      "text": "I remember my mother making this whenever I was sick. Still don't like the taste."
+    }
+  ]
+}

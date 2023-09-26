@@ -1,0 +1,17 @@
+{
+  "name": "Veggie Salad",
+  "icon": "croptopia:veggie_salad",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:veggie_salad",
+      "text": "You take a leaf salad and fill other veggies inside it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_veggie_salad",
+      "text": "Adds some crunch in my opinion."
+    }
+  ]
+}

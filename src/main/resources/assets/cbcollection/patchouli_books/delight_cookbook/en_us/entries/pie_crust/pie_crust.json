@@ -1,0 +1,12 @@
+{
+	"name": "Pie Crust",
+	"icon": "farmersdelight:pie_crust",
+	"category": "patchouli:ingredients",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:pie_crust",
+			"text": "Most pies need a good crust."
+		}
+	]
+}

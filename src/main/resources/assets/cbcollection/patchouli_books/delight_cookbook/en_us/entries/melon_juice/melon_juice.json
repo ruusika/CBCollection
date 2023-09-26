@@ -1,0 +1,12 @@
+{
+  "name": "Melon Juice",
+  "icon": "farmersdelight:melon_juice",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:melon_juice",
+      "text": "Great beverage. A bit too sweet for my taste."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Nougat",
+  "icon": "croptopia:nougat",
+  "category": "patchouli:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:nougat",
+      "text": "Some say it's just a chocolate filling."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/nougat",
+      "text": "I'd say it can stand alone as a snack as well."
+    }
+  ]
+}

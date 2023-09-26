@@ -1,0 +1,17 @@
+{
+  "name": "Cheese Pizza",
+  "icon": "croptopia:cheese_pizza",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cheese_pizza",
+      "text": "You never ever say that there is too much cheese."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cheese_pizza",
+      "text": "There is never too much cheese."
+    }
+  ]
+}

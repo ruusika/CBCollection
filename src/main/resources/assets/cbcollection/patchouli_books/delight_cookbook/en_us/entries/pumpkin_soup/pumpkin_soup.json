@@ -1,0 +1,19 @@
+{
+	"name": "Pumpkin Soup",
+	"icon": "farmersdelight:pumpkin_soup",
+	"category": "patchouli:potmeals",
+	"pages": [
+		{
+			"type": "patchouli:pot_template",
+			"header": "Pumpkin Soup",
+			"item0": "farmersdelight:pumpkin_slice",
+			"item1": "tag:c:lettuce",
+			"item2": "tag:c:raw_pork",
+			"item3": "tag:c:milks",
+			"item4": "minecraft:air",
+			"item5": "minecraft:air",
+			"result": "farmersdelight:pumpkin_soup",
+			"subtext": "A soup commonly served in fall. Needs a bowl to be served"
+		}
+	]
+}

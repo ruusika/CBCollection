@@ -1,0 +1,12 @@
+{
+  "name": "Fruit Salad",
+  "icon": "croptopia:fruit_salad",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:fruit_salad",
+      "text": "It's something different to all the green salads in this book."
+    }
+  ]
+}

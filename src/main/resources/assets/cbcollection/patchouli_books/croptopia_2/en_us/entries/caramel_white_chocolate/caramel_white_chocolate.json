@@ -1,0 +1,16 @@
+{
+  "name": "Caramel White Chocolate",
+  "icon": "cacao:caramel_white_chocolate",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:chocolate/cbc_caramel_white_chocolate",
+      "text": "I don't know if there are people eating that. Proof me wrong."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cacao:caramel_white_chocolate"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Jerky",
+  "icon": "croptopia:beef_jerky",
+  "category": "patchouli:snacks",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:beef_jerky",
+      "text": "Not obtainable from what I can find."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:pork_jerky",
+      "text": "I just can't leave it unmentioned."
+    }
+  ]
+}

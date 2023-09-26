@@ -1,0 +1,17 @@
+{
+  "name": "Banana Nut Bread",
+  "icon": "croptopia:banana_nut_bread",
+  "category": "patchouli:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:banana_nut_bread",
+      "text": "Not sure if this is a dessert or not."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/banana_nut_bread",
+      "text": "I don't like it that much."
+    }
+  ]
+}

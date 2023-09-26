@@ -1,0 +1,13 @@
+{
+  "name": "White Chocolate Apple",
+  "icon": "cacao:white_chocolate_covered_apple",
+  "category": "patchouli:chocolate",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "White Chocolate Apple",
+      "recipe": "cacao:white_chocolate_covered_apple",
+      "text": "That one is just interesting."
+    }
+  ]
+}

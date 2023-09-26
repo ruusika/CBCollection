@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:chicken",
+    "farmersdelight:chicken_cuts",
+    "minecraft:porkchop",
+    "farmersdelight:bacon",
+    "minecraft:beef",
+    "farmersdelight:minced_beef",
+    "minecraft:brown_mushroom"
+  ]
+}

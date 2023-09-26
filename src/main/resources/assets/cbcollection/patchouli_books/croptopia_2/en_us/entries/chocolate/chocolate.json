@@ -1,0 +1,12 @@
+{
+  "name": "Chocolate",
+  "icon": "croptopia:chocolate",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:chocolate",
+      "text": "This one is chocolate for cooking. A bit bitter but perfect for cakes and sweets."
+    }
+  ]
+}

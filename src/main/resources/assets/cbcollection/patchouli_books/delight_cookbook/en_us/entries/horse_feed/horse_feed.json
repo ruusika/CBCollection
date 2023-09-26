@@ -1,0 +1,12 @@
+{
+	"name": "Horse Feed",
+	"icon": "farmersdelight:horse_feed",
+	"category": "patchouli:meals",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:horse_feed",
+			"text": "A little gift for your trusty horse."
+		}
+	]
+}

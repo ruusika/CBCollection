@@ -1,0 +1,12 @@
+{
+  "name": "Toast with Jam",
+  "icon": "croptopia:toast_with_jam",
+  "category": "patchouli:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:toast_with_jam",
+      "text": "Some people will eat it with butter underneath."
+    }
+  ]
+}

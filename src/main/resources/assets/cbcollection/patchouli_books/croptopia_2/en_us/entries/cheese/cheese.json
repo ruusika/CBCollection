@@ -1,0 +1,17 @@
+{
+  "name": "Cheese",
+  "icon": "croptopia:cheese",
+  "category": "patchouli:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cheese",
+      "text": "There are so many types of cheeses. Gouda, Mozzarella, cottage cheese and many many more."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cheese",
+      "text": "Just slowly cook the milk put the other ingredients in the pot and after cooking let it ripe in a barrel or a cellar."
+    }
+  ]
+}

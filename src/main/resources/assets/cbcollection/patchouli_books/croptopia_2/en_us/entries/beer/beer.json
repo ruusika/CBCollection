@@ -1,0 +1,12 @@
+{
+  "name": "Beer",
+  "icon": "croptopia:beer",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:beer",
+      "text": "Some people say drinking ten beer equals a full meal. I have not yet tested this theory."
+    }
+  ]
+}

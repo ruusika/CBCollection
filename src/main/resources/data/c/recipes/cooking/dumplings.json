@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "c:dough"
+    },
+    {
+      "tag": "c:lettuce"
+    },
+    {
+      "tag": "c:onion"
+    },
+    {
+      "tag": "cbc_dumpling_fills.json"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:dumplings",
+    "count": 2
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Wine",
+  "icon": "croptopia:wine",
+  "category": "patchouli:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:wine",
+      "text": "In my eyes a drink for fancy people. I think this is not tasty at all."
+    }
+  ]
+}

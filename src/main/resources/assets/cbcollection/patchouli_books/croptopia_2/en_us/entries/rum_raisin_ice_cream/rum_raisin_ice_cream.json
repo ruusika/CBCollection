@@ -1,0 +1,17 @@
+{
+  "name": "Rum Raisin Ice Cream",
+  "icon": "croptopia:rum_raisin_ice_cream",
+  "category": "patchouli:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:rum_raisin_ice_cream",
+      "text": "My mother loved to add some rum to her ice cream."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/rum_raisin_ice_cream",
+      "text": "I don't get why you have to add raisins."
+    }
+  ]
+}

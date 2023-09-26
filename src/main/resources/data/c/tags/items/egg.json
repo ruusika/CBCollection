@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "betteranimalsplus:goose_egg",
+    "betteranimalsplus:golden_goose_egg",
+    "valley:duck_egg",
+    "minecraft:turtle_egg",
+    "betteranimalsplus:pheasant_egg",
+    "betteranimalsplus:turkey_egg",
+    "minecraft:egg"
+  ]
+}

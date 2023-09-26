@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "###",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "tag": "c:bearpelts"
+    }
+  },
+  "result": {
+    "item": "betteranimalsplus:bear_cape_black"
+  }
+}

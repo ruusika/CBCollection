@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tomato"
+    },
+    {
+      "tag": "c:chile_pepper"
+    },
+    {
+      "tag": "c:salt"
+    },
+    {
+      "item": "croptopia:lime"
+    },
+    {
+      "item": "croptopia:tomatillo"
+    }
+  ],
+  "result": {
+    "item": "croptopia:salsa",
+    "count": 4
+  }
+}

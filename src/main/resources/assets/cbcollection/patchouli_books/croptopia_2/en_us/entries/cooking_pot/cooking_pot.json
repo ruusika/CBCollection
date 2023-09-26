@@ -1,0 +1,12 @@
+{
+  "name": "Cooking Pot",
+  "icon": "croptopia:cooking_pot",
+  "category": "patchouli:utensils",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cooking_pot",
+      "text": "A massive iron pot. Only a dragon or a very good blacksmith can melt it."
+    }
+  ]
+}
