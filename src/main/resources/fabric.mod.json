@@ -36,6 +36,16 @@
 		"patchouli": "*"
 	},
 	"suggests": {
-		"another-mod": "*"
+		"croptopia": "*",
+		"valley": "*",
+		"farmersdelight": "*",
+		"betteranimalsplus": "*",
+		"cacao": "*",
+		"expandeddelight": "*",
+		"adventurez": "*",
+		"environmentz": "*",
+		"locksmith": "*",
+		"mcda": "*",
+		"mobz": "*"
 	}
 }
