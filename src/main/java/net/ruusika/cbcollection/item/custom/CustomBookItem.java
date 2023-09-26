@@ -14,8 +14,8 @@ import vazkii.patchouli.common.base.PatchouliSounds;
 import vazkii.patchouli.common.book.Book;
 import vazkii.patchouli.common.book.BookRegistry;
 
-public class BookItem extends Item {
-    public BookItem(Settings settings) {
+public class CustomBookItem extends Item {
+    public CustomBookItem(Settings settings) {
         super(settings);
     }
 
