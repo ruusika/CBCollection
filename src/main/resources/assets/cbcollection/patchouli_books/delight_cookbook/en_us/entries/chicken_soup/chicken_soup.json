@@ -1,10 +1,10 @@
 {
 	"name": "Chicken Soup",
 	"icon": "farmersdelight:chicken_soup",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Chicken Soup",
 			"item0": "tag:c:raw_chicken",
 			"item1": "tag:c:lettuce",

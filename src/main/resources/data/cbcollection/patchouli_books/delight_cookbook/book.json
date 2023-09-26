@@ -1,10 +1,11 @@
 {
-	"name": "A Delight Cookbook",
-	"subtitle": "1st Edition by Zalih",
+	"name": "item.cbcollection.delight_cookbook",
+	"subtitle": "item.cbcollection.delight_cookbook.subtitle",
 	"landing_text": "Comforting meals, feasts and much much more!$(br)$(br)Farmer's Delight by vectorwing, NewHoryzon and Zifiv.",
 	"version": 0,
-	"creative_tab": "minecraft:tools_and_utilities",
+	"creative_tab": "cbcollection:cookbooks",
 	"use_resource_pack": true,
 	"model": "patchouli:book_brown",
-	"book_texture": "patchouli:textures/gui/book_brown.png"
+	"book_texture": "patchouli:textures/gui/book_brown.png",
+	"dont_generate_book": true
 }

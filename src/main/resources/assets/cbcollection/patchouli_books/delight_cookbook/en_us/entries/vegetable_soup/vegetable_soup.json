@@ -1,10 +1,10 @@
 {
 	"name": "Vegetable Soup",
 	"icon": "farmersdelight:vegetable_soup",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Vegetable Soup",
 			"item0": "minecraft:carrot",
 			"item1": "tag:c:lettuce",

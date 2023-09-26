@@ -1,7 +1,7 @@
 {
 	"name": "Bales",
 	"icon": "farmersdelight:straw_bale",
-	"category": "patchouli:blocks",
+	"category": "cbcollection:blocks",
 	"pages": [
 		{
 			"type": "patchouli:crafting",

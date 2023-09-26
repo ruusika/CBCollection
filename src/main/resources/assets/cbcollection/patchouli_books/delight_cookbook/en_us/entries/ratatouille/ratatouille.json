@@ -1,10 +1,10 @@
 {
 	"name": "Ratatouille",
 	"icon": "farmersdelight:ratatouille",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Ratatouille",
 			"item0": "minecraft:beetroot",
 			"item1": "tag:c:tomato",

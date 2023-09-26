@@ -1,10 +1,10 @@
 {
 	"name": "Pasta with Mutton Chops",
 	"icon": "farmersdelight:pasta_with_mutton_chop",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Pasta with Meatballs",
 			"item0": "tag:c:raw_mutton",
 			"item1": "farmersdelight:raw_pasta",

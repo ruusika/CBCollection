@@ -1,10 +1,10 @@
 {
 	"name": "Pumpkin Soup",
 	"icon": "farmersdelight:pumpkin_soup",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Pumpkin Soup",
 			"item0": "farmersdelight:pumpkin_slice",
 			"item1": "tag:c:lettuce",

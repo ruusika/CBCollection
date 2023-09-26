@@ -1,10 +1,10 @@
 {
 	"name": "Cabbage Rolls",
 	"icon": "farmersdelight:cabbage_rolls",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Cabbage Roll",
 			"item0": "tag:c:lettuce",
 			"item1": "tag:farmersdelight:cabbage_roll_ingredients",

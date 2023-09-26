@@ -1,7 +1,7 @@
 {
 	"name": "Pie Crust",
 	"icon": "farmersdelight:pie_crust",
-	"category": "patchouli:ingredients",
+	"category": "cbcollection:ingredients",
 	"pages": [
 		{
 			"type": "patchouli:crafting",

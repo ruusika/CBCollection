@@ -1,10 +1,10 @@
 {
 	"name": "The Top Crops",
 	"icon": "minecraft:allium",
-	"category": "patchouli:ingredients",
+	"category": "cbcollection:ingredients",
 	"pages": [
 		{
-			"type": "patchouli:crop_template",
+			"type": "cbcollection:crop_template",
 			"header": "Wild Carrots",
 			"seed": "minecraft:air",
 			"plant": "farmersdelight:wild_carrots",

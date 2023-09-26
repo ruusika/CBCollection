@@ -1,10 +1,10 @@
 {
 	"name": "Stuffed Pumpkin",
 	"icon": "farmersdelight:stuffed_pumpkin_block",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Stuffed Pumpkin",
 			"item0": "minecraft:baked_potato",
 			"item1": "minecraft:sweet_berries",

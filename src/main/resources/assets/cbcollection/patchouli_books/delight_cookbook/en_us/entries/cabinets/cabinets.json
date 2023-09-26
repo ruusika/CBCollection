@@ -1,7 +1,7 @@
 {
 	"name": "Cabinets",
 	"icon": "farmersdelight:spruce_cabinet",
-	"category": "patchouli:utensils",
+	"category": "cbcollection:utensils",
 	"pages": [
 		{
 			"type": "patchouli:crafting",

@@ -1,10 +1,10 @@
 {
 	"name": "Tomato Sauce",
 	"icon": "farmersdelight:tomato_sauce",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Tomato Sauce",
 			"item0": "tag:c:tomato",
 			"item1": "tag:c:tomato",

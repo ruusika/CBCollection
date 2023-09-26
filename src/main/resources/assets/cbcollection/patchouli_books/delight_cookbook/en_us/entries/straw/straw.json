@@ -1,7 +1,7 @@
 {
 	"name": "Crafted from straw",
 	"icon": "farmersdelight:straw",
-	"category": "patchouli:blocks",
+	"category": "cbcollection:blocks",
 	"pages": [
 		{
 			"type": "patchouli:crafting",

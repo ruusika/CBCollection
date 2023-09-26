@@ -1,10 +1,10 @@
 {
 	"name": "Fried Egg",
 	"icon": "farmersdelight:fried_egg",
-	"category": "patchouli:ingredients",
+	"category": "cbcollection:ingredients",
 	"pages": [
 		{
-			"type": "patchouli:smithing_addon_template",
+			"type": "cbcollection:smithing_addon_template",
 			"header": "Fried Egg",
 			"result0": "minecraft:egg",
 			"cooked": "farmersdelight:fried_egg",

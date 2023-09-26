@@ -1,7 +1,7 @@
 {
 	"name": "Knives",
 	"icon": "farmersdelight:iron_knife",
-	"category": "patchouli:utensils",
+	"category": "cbcollection:utensils",
 	"pages": [
 		{
 			"type": "patchouli:crafting",

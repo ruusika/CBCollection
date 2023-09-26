@@ -1,7 +1,7 @@
 {
 	"name": "Crates",
 	"icon": "farmersdelight:carrot_crate",
-	"category": "patchouli:blocks",
+	"category": "cbcollection:blocks",
 	"pages": [
 		{
 			"type": "patchouli:crafting",

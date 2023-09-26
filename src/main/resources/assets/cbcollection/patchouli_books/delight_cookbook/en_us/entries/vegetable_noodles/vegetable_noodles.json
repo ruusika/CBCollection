@@ -1,10 +1,10 @@
 {
 	"name": "Vegetable Noodles",
 	"icon": "farmersdelight:vegetable_noodles",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Vegetable Noodles",
 			"item0": "minecraft:carrot",
 			"item1": "tag:c:lettuce",

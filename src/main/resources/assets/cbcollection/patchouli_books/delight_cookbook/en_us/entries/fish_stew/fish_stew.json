@@ -1,10 +1,10 @@
 {
 	"name": "Fish Stew",
 	"icon": "farmersdelight:fish_stew",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Fish Stew",
 			"item0": "tag:c:raw_fishes",
 			"item1": "farmersdelight:tomato_sauce",

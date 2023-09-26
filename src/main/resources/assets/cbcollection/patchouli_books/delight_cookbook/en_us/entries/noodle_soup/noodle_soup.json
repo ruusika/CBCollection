@@ -1,10 +1,10 @@
 {
 	"name": "Noodle Soup",
 	"icon": "farmersdelight:noodle_soup",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Noodle Soup",
 			"item0": "farmersdelight:raw_pasta",
 			"item1": "tag:c:fried_egg",

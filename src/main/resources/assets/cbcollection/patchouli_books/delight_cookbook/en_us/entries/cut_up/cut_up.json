@@ -1,10 +1,10 @@
 {
 	"name": "Cut and Chopped",
 	"icon": "farmersdelight:ham",
-	"category": "patchouli:ingredients",
+	"category": "cbcollection:ingredients",
 	"pages": [
 		{
-			"type": "patchouli:smithing_addon_template",
+			"type": "cbcollection:smithing_addon_template",
 			"header": "Raw Beef",
 			"item0": "farmersdelight:iron_knife",
 			"item1": "minecraft:beef",

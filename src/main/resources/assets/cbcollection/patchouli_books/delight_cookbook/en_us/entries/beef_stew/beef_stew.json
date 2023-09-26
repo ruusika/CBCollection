@@ -1,10 +1,10 @@
 {
 	"name": "Beef Stew",
 	"icon": "farmersdelight:beef_stew",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Beef Stew",
 			"item0": "tag:c:raw_beef",
 			"item1": "minecraft:carrot",

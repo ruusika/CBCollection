@@ -1,10 +1,10 @@
 {
 	"name": "Squid Ink Pasta",
 	"icon": "farmersdelight:squid_ink_pasta",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Squid Ink Pasta",
 			"item0": "farmersdelight:raw_pasta",
 			"item1": "farmersdelight:tomato",

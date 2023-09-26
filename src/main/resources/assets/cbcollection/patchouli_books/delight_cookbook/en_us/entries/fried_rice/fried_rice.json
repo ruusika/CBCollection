@@ -1,10 +1,10 @@
 {
 	"name": "Fried Rice",
 	"icon": "farmersdelight:fried_rice",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Fried Rice",
 			"item0": "tag:c:egg",
 			"item1": "tag:c:onion",

@@ -1,10 +1,10 @@
 {
 	"name": "Dog Food",
 	"icon": "farmersdelight:dog_food",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Dog Food",
 			"item0": "minecraft:rabbit",
 			"item1": "minecraft:rotten_flesh",

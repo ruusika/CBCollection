@@ -1,10 +1,10 @@
 {
 	"name": "Baked Cod Stew",
 	"icon": "farmersdelight:baked_cod_stew",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Baked Cod Stew",
 			"item0": "tag:c:raw_fishes",
 			"item1": "minecraft:potato",

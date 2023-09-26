@@ -1,7 +1,7 @@
 {
 	"name": "Stove",
 	"icon": "farmersdelight:stove",
-	"category": "patchouli:utensils",
+	"category": "cbcollection:utensils",
 	"pages": [
 		{
 			"type": "patchouli:crafting",

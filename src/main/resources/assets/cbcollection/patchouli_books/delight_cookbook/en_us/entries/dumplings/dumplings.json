@@ -1,10 +1,10 @@
 {
 	"name": "Dumplings",
 	"icon": "farmersdelight:dumplings",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Dumplings",
 			"item0": "tag:c:dough",
 			"item1": "tag:c:lettuce",

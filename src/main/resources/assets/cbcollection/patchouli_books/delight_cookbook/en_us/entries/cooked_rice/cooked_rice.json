@@ -1,10 +1,10 @@
 {
 	"name": "Cooked Rice",
 	"icon": "farmersdelight:cooked_rice",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Cooked Rice",
 			"item0": "tag:c:rice",
 			"item1": "minecraft:air",

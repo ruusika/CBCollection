@@ -1,10 +1,10 @@
 {
 	"name": "Pasta with Meatballs",
 	"icon": "farmersdelight:pasta_with_meatballs",
-	"category": "patchouli:potmeals",
+	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "patchouli:pot_template",
+			"type": "cbcollection:pot_template",
 			"header": "Pasta with Meatballs",
 			"item0": "farmersdelight:raw_pasta",
 			"item1": "farmersdelight:minced_beef",

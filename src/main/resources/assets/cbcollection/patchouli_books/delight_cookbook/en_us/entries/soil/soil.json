@@ -1,7 +1,7 @@
 {
 	"name": "Advanced Farming",
 	"icon": "farmersdelight:organic_compost",
-	"category": "patchouli:blocks",
+	"category": "cbcollection:blocks",
 	"pages": [
 		{
 			"type": "patchouli:crafting",

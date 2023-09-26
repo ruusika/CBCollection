@@ -1,7 +1,7 @@
 {
 	"name": "Milkbottle",
 	"icon": "farmersdelight:milk_bottle",
-	"category": "patchouli:ingredients",
+	"category": "cbcollection:ingredients",
 	"pages": [
 		{
 			"type": "patchouli:crafting",
