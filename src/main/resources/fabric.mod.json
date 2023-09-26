@@ -35,7 +35,7 @@
 		"fabric-api": "*",
 		"patchouli": "*"
 	},
-	"suggests": {
+	"recommends": {
 		"croptopia": "*",
 		"valley": "*",
 		"farmersdelight": "*",
