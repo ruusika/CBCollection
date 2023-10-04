@@ -21,6 +21,9 @@
     },
     {
       "tag": "c:egg"
+    },
+    {
+      "tag": "c:flour"
     }
   ],
   "result": {

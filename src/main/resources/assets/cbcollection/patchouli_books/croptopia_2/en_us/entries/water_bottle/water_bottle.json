@@ -1,0 +1,12 @@
+{
+  "name": "Water Bottle",
+  "icon": "croptopia:water_bottle",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_water_bottle",
+      "text": "Sometimes you just need some smaller bottles. Also if you need salt. It's the size of your tears."
+    }
+  ]
+}

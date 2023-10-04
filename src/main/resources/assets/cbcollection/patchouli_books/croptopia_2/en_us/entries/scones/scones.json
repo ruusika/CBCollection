@@ -1,0 +1,17 @@
+{
+  "name": "Scones",
+  "icon": "croptopia:scones",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_scones",
+      "text": "Those are amazing."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/scones",
+      "text": "I might use some milk for those the next time."
+    }
+  ]
+}

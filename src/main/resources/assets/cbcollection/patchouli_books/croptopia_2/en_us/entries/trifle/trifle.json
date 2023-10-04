@@ -1,0 +1,17 @@
+{
+  "name": "Trifle",
+  "icon": "croptopia:trifle",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_trifle",
+      "text": "You can really taste the wine."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/trifle",
+      "text": "Don't use your horse after this one."
+    }
+  ]
+}

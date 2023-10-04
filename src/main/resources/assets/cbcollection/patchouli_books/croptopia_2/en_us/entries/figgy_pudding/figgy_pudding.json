@@ -1,0 +1,17 @@
+{
+  "name": "Figgy Pudding",
+  "icon": "croptopia:figgy_pudding",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_figgy_pudding",
+      "text": "This is sweet? The dates make it weird."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/figgy_pudding",
+      "text": "Some call it a festive dish."
+    }
+  ]
+}

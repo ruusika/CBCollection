@@ -1,0 +1,12 @@
+{
+  "name": "Tea",
+  "icon": "croptopia:tea",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_tea",
+      "text": "Some say it's too fancy but it's calming."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Beef Wellington",
+  "icon": "croptopia:beef_wellington",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_beef_wellington",
+      "text": "Smells at least tasty. Can be so sure about the name though."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/beef_wellington",
+      "text": "It sounds more fancy than it actually is."
+    }
+  ]
+}

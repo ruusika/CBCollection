@@ -1,0 +1,17 @@
+{
+  "name": "Eton Mess",
+  "icon": "croptopia:eton_mess",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_eton_mess",
+      "text": "This is a glorified whipping cream with fruit?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/eton_mess",
+      "text": "Actually never mind this is tasty."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Shepherd's Pie",
+  "icon": "croptopia:shepherds_pie",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_shepherds_pie",
+      "text": "A very rich meal."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/shepherds_pie",
+      "text": "This is way to expensive for a shepherd...I don't get this."
+    }
+  ]
+}

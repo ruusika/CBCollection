@@ -1,0 +1,17 @@
+{
+  "name": "Ajvar",
+  "icon": "croptopia:ajvar",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_ajvar",
+      "text": "It's spicy. But not as spicy as chili peppers."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/ajvar",
+      "text": "People with zero tolerance to spice won't like it though."
+    }
+  ]
+}

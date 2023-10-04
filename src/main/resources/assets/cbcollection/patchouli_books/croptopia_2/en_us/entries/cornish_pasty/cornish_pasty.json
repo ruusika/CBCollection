@@ -1,0 +1,17 @@
+{
+  "name": "Cornish Pasty",
+  "icon": "croptopia:cornish_pasty",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_cornish_pasty",
+      "text": "I WAS TRICKED!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cornish_pasty",
+      "text": "There is a difference between pasty and pastry?!"
+    }
+  ]
+}

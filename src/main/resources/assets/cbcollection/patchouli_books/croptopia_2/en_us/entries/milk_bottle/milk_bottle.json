@@ -1,0 +1,12 @@
+{
+  "name": "Milk Bottle",
+  "icon": "croptopia:milk_bottle",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_milk_bottle",
+      "text": "Essential for chocolate making or if you just have one bucket of milk and need 16 dishes."
+    }
+  ]
+}
