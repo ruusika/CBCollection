@@ -1,0 +1,17 @@
+{
+  "name": "Stuffed Poblanos",
+  "icon": "croptopia:stuffed_poblanos",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:stuffed_poblanos",
+      "text": "So you stuff a bunch of corn?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/stuffed_poblanos",
+      "text": "A bit spicy tho and the beans don't make it better."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Tamales",
+  "icon": "croptopia:tamales",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:tamales",
+      "text": "Not sure what to make of it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/tamales",
+      "text": "Be careful with the peppers tho."
+    }
+  ]
+}

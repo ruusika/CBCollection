@@ -1,0 +1,17 @@
+{
+  "name": "Tres Leche Cake",
+  "icon": "croptopia:tres_leche_cake",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:tres_leche_cake",
+      "text": "I taste vanilla, rum and cream."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/tres_leche_cake",
+      "text": "A very very sweet thing."
+    }
+  ]
+}

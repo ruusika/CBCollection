@@ -1,0 +1,17 @@
+{
+  "name": "Churros",
+  "icon": "croptopia:churros",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:churros",
+      "text": "This is very sweet."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/churros",
+      "text": "Best idea I had so far? Dip it in chocolate."
+    }
+  ]
+}

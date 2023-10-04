@@ -1,0 +1,12 @@
+{
+  "name": "Almond Brittle",
+  "icon": "croptopia:almond_brittle",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:almond_brittle",
+      "text": "At first I wasn't sure about it but they are tasty actually."
+    }
+  ]
+}

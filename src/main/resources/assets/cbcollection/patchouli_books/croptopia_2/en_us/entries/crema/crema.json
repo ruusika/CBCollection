@@ -1,0 +1,17 @@
+{
+  "name": "Crema",
+  "icon": "croptopia:crema",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:crema",
+      "text": "Is this supposed to be sweet?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/crema",
+      "text": "Sour? Salty? Sweet? Dunno?"
+    }
+  ]
+}

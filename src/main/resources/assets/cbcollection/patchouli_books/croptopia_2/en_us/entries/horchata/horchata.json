@@ -1,0 +1,17 @@
+{
+  "name": "Horchata",
+  "icon": "croptopia:horchata",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:horchata",
+      "text": "Not sure what's that about...Is this rice juice?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/horchata",
+      "text": "I taste lime and cinnamon...weird combination"
+    }
+  ]
+}

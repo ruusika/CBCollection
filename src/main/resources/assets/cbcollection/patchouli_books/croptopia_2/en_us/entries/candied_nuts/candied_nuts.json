@@ -1,0 +1,12 @@
+{
+  "name": "Candied Nuts",
+  "icon": "croptopia:candied_nuts",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:candied_nuts",
+      "text": "Sweet actually. Just don't eat too much of them."
+    }
+  ]
+}

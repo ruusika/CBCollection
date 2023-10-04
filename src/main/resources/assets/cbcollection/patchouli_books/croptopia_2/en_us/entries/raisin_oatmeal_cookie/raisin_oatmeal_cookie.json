@@ -1,0 +1,12 @@
+{
+  "name": "Raisin Oatmeal Cookie",
+  "icon": "croptopia:raisin_oatmeal_cookie",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:raisin_oatmeal_cookie",
+      "text": "Whoever invented those I really really hope you burn in hell."
+    }
+  ]
+}

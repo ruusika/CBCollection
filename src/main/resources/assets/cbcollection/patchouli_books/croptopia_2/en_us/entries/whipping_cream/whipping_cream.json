@@ -1,0 +1,12 @@
+{
+  "name": "Whipping Cream",
+  "icon": "croptopia:whipping_cream",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:whipping_cream",
+      "text": "This one is important for several desserts."
+    }
+  ]
+}

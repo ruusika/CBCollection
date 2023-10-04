@@ -1,0 +1,17 @@
+{
+  "name": "Chili Relleno",
+  "icon": "croptopia:chili_relleno",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:chili_relleno",
+      "text": "So you stuff a chili pepper?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/chili_relleno",
+      "text": "Very spicy."
+    }
+  ]
+}

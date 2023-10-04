@@ -1,0 +1,17 @@
+{
+  "name": "Refried Beans",
+  "icon": "croptopia:refried_beans",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:refried_beans",
+      "text": "Honestly? I don't like this one."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/refried_beans",
+      "text": "Too many beans. Too spicy. Only the cheese is a plus."
+    }
+  ]
+}

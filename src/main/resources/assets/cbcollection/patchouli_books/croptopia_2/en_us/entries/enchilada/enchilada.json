@@ -1,0 +1,17 @@
+{
+  "name": "Enchilada",
+  "icon": "croptopia:enchilada",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:enchilada",
+      "text": "Simple. I like it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/enchilada",
+      "text": "It needs more spice."
+    }
+  ]
+}

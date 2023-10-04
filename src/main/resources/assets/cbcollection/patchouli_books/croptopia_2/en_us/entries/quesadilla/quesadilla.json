@@ -1,0 +1,17 @@
+{
+  "name": "Quesadilla",
+  "icon": "croptopia:quesadilla",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:quesadilla",
+      "text": "The avocado adds some interesting flavour."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/quesadilla",
+      "text": "Not sure if I like it or not."
+    }
+  ]
+}

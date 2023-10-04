@@ -1,0 +1,17 @@
+{
+  "name": "Fajitas",
+  "icon": "croptopia:fajitas",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:fajitas",
+      "text": "I don't get how you make this dish so spicy?!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/fajitas",
+      "text": "This needs more cheese."
+    }
+  ]
+}

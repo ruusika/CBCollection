@@ -1,0 +1,17 @@
+{
+  "name": "Burrito",
+  "icon": "croptopia:burrito",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:burrito",
+      "text": "This is extremely tasty."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/burrito",
+      "text": "Not sure about the beans tho...I can hear the toilet seat singing."
+    }
+  ]
+}

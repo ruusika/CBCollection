@@ -1,0 +1,12 @@
+{
+  "name": "Nutty Cookie",
+  "icon": "croptopia:nutty_cookie",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:nutty_cookie",
+      "text": "Nutty. Pfff... Sounds a lot like slutty."
+    }
+  ]
+}
