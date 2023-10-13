@@ -1,0 +1,12 @@
+{
+  "name": "Avocado Toast",
+  "icon": "croptopia:avocado_toast",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_avocado_toast",
+      "text": "Not sure if the raw avocado is enough. I feel like something is missing."
+    }
+  ]
+}

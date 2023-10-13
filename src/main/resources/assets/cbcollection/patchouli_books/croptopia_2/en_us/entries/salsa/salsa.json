@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/salsa",
+      "recipe": "croptopia:salsa",
       "text": "A very spicy sauce."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:salsa",
+      "recipe": "c:croptopia/cbc_salsa",
       "text": "Mostly used to dip stuff in or as a filling in a taco."
     }
   ]

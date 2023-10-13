@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/brownies",
+      "recipe": "c:croptopia/cbc_brownies",
       "text": "It gets better if you add different types of chocolates."
     }
   ]

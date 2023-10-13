@@ -2,31 +2,31 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "c:chile_pepper"
+      "tag": "c:cbc_chile_pepper"
     },
     {
-      "tag": "c:chile_pepper"
+      "tag": "c:cbc_chile_pepper"
     },
     {
-      "tag": "c:chile_pepper"
+      "tag": "c:cbc_chile_pepper"
     },
     {
-      "tag": "c:chile_pepper"
+      "tag": "c:cbc_chile_pepper"
     },
     {
-      "tag": "c:chile_pepper"
+      "tag": "c:cbc_chile_pepper"
     },
     {
-      "tag": "c:chile_pepper"
+      "tag": "c:cbc_chile_pepper"
     },
     {
-      "tag": "c:chile_pepper"
+      "tag": "c:cbc_chile_pepper"
     },
     {
-      "tag": "c:chile_pepper"
+      "tag": "c:cbc_chile_pepper"
     },
     {
-      "tag": "c:chile_pepper"
+      "tag": "c:cbc_chile_pepper"
     }
   ],
   "result": {

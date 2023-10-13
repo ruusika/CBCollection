@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/taco",
+      "recipe": "c:croptopia/cbc_taco",
       "text": "I want more. I'll just add more cheese."
     }
   ]

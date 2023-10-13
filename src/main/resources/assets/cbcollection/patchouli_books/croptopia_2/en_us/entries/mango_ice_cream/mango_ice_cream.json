@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/mango_ice_cream",
+      "recipe": "croptopia:mango_ice_cream",
       "text": "Sweet. Yet fruity."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:mango_ice_cream",
+      "recipe": "c:croptopia/cbc_mango_ice_cream",
       "text": "I would call it a sporty persons favorite for cheating."
     }
   ]

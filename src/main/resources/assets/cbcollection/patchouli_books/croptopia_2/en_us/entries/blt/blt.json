@@ -12,7 +12,7 @@
     {
       "type": "patchouli:crafting",
       "title": "BLT",
-      "recipe": "c:croptopia/blt",
+      "recipe": "c:croptopia/cbc_blt",
       "text": "I need to find another dressing for this one."
     }
   ]

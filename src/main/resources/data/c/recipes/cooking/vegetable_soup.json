@@ -3,7 +3,7 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:lettuce"
+      "tag": "c:cbc_lettuce"
     },
     {
       "item": "minecraft:carrot"

@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "c:cheese"
+      "tag": "c:cbc_cheese"
     },
     {
-      "tag": "c:salt"
+      "tag": "c:cbc_salt"
     },
     {
       "item": "croptopia:artichoke"

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cornish_pasty",
+      "recipe": "c:croptopia/cbc_cornish_pasty",
       "text": "There is a difference between pasty and pastry?!"
     }
   ]

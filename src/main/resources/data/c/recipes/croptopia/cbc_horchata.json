@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "item": "croptopia:almond"
+    },
+    {
+      "item": "croptopia:lime"
+    },
+    {
+      "tag": "c:water_bottles"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:cbc_cinnamon"
+    }
+  ],
+  "result": {
+    "item": "croptopia:horchata"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_noodles"
+    },
+    {
+      "tag": "c:cbc_cheese"
+    }
+  ],
+  "result": {
+    "item": "croptopia:ravioli",
+    "count": 2
+  }
+}

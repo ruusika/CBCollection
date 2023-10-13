@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:dough"
+    },
+    {
+      "tag": "c:cbc_lettuce"
+    },
+    {
+      "tag": "c:cbc_egg"
+    },
+    {
+      "tag": "croptopia:meat_replacements"
+    }
+  ],
+  "result": {
+    "item": "croptopia:egg_roll"
+  }
+}

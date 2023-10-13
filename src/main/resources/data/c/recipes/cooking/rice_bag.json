@@ -2,31 +2,31 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "c:rice"
+      "tag": "c:cbc_rice"
     },
     {
-      "tag": "c:rice"
+      "tag": "c:cbc_rice"
     },
     {
-      "tag": "c:rice"
+      "tag": "c:cbc_rice"
     },
     {
-      "tag": "c:rice"
+      "tag": "c:cbc_rice"
     },
     {
-      "tag": "c:rice"
+      "tag": "c:cbc_rice"
     },
     {
-      "tag": "c:rice"
+      "tag": "c:cbc_rice"
     },
     {
-      "tag": "c:rice"
+      "tag": "c:cbc_rice"
     },
     {
-      "tag": "c:rice"
+      "tag": "c:cbc_rice"
     },
     {
-      "tag": "c:rice"
+      "tag": "c:cbc_rice"
     }
   ],
   "result": {

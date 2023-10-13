@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    " H "
+  ],
+  "key": {
+    "A": {
+      "tag": "c:cbc_onion"
+    },
+    "B": {
+      "item": "croptopia:rutabaga"
+    },
+    "C": {
+      "item": "croptopia:pepper"
+    },
+    "D": {
+      "tag": "c:flour"
+    },
+    "E": {
+      "item": "minecraft:beef"
+    },
+    "F": {
+      "item": "minecraft:potato"
+    },
+    "H": {
+      "item": "croptopia:frying_pan"
+    }
+  },
+  "result": {
+    "item": "croptopia:cornish_pasty"
+  }
+}

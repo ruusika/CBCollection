@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:smelting",
-      "recipe": "c:croptopia/molasses_from_caramel",
+      "recipe": "c:croptopia/cbc_molasses_from_caramel",
       "text": "A slightly sweeter version. Might stink a bit more."
     }
   ]

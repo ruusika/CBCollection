@@ -3,10 +3,10 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:lettuce"
+      "tag": "c:cbc_lettuce"
     },
     {
-      "tag": "c:milks"
+      "tag": "c:cbc_milk"
     },
     {
       "item": "expandeddelight:asparagus"

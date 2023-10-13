@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "B": {
+      "item": "croptopia:strawberry"
+    },
+    "D": {
+      "item": "minecraft:bread"
+    },
+    "E": {
+      "item": "croptopia:wine"
+    },
+    "F": {
+      "item": "croptopia:butter"
+    },
+    "G": {
+      "tag": "c:cbc_egg"
+    },
+    "H": {
+      "tag": "c:cbc_milk"
+    },
+    "I": {
+      "item": "croptopia:vanilla"
+    }
+  },
+  "result": {
+    "item": "croptopia:trifle"
+  }
+}

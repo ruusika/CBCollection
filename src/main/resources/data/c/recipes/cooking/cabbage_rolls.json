@@ -2,10 +2,10 @@
   "type": "farmersdelight:cooking",
   "ingredients": [
     {
-      "tag": "c:lettuce"
+      "tag": "c:cbc_lettuce"
     },
     {
-      "tag": "c:foods"
+      "tag": "c:cbc_cabbageroll_ingredients"
     }
   ],
   "result": {

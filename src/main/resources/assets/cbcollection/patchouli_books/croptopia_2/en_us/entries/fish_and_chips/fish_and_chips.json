@@ -10,8 +10,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/fish_and_chips",
-      "text": "To be honest? It's better if you add beer the flour."
+      "recipe": "c:croptopia/cbc_fish_and_chips",
+      "text": "To be honest? It's better if you add beer to the flour."
     }
   ]
 }

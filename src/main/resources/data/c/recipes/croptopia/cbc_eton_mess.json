@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "item": "croptopia:strawberry"
+    },
+    "B": {
+      "item": "croptopia:whipping_cream"
+    },
+    "C": {
+      "item": "croptopia:strawberry"
+    },
+    "D": {
+      "tag": "c:cbc_egg"
+    },
+    "E": {
+      "item": "minecraft:sugar"
+    },
+    "F": {
+      "tag": "c:cbc_egg"
+    }
+  },
+  "result": {
+    "item": "croptopia:eton_mess"
+  }
+}

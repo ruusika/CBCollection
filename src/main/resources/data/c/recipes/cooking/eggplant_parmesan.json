@@ -14,13 +14,13 @@
       "item": "minecraft:bread"
     },
     {
-      "tag": "c:cheese"
+      "tag": "c:cbc_cheese"
     },
     {
-      "tag": "c:eggplants"
+      "tag": "c:cbc_eggplants"
     },
     {
-      "tag": "c:egg"
+      "tag": "c:cbc_egg"
     }
   ],
   "result": {

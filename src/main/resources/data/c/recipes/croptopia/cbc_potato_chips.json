@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    },
+    {
+      "tag": "c:cbc_salt"
+    },
+    {
+      "item": "croptopia:olive_oil"
+    }
+  ],
+  "result": {
+    "item": "croptopia:potato_chips"
+  }
+}

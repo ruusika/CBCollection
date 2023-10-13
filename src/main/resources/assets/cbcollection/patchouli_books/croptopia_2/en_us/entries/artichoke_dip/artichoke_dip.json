@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/artichoke_dip",
+      "recipe": "croptopia:artichoke_dip",
       "text": "I don't know what to think of it. It's cheesy."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:artichoke_dip",
+      "recipe": "c:croptopia/cbc_artichoke_dip",
       "text": "You'll need it as a dip. "
     }
   ]

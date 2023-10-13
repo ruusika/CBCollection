@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "item": "croptopia:date"
+    },
+    "B": {
+      "item": "croptopia:fig"
+    },
+    "C": {
+      "item": "minecraft:sugar"
+    },
+    "D": {
+      "tag": "c:cbc_egg"
+    },
+    "E": {
+      "tag": "c:water_bottles"
+    },
+    "F": {
+      "item": "croptopia:whipping_cream"
+    }
+  },
+  "result": {
+    "item": "croptopia:figgy_pudding"
+  }
+}

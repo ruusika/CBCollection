@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "croptopia:rice",
+    "croptopia:steamed_rice",
+    "valley:rice",
+    "farmersdelight:rice",
+    "farmersdelight:cooked_rice"
+  ]
+}

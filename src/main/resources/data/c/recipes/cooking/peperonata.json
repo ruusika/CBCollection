@@ -6,13 +6,13 @@
       "tag": "c:crops"
     },
     {
-      "tag": "c:chile_pepper"
+      "tag": "c:cbc_chile_pepper"
     },
     {
-      "tag": "c:onion"
+      "tag": "c:cbc_onion"
     },
     {
-      "tag": "c:tomato"
+      "tag": "c:cbc_tomato"
     },
     {
       "item": "farmersdelight:raw_pasta"

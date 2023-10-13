@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/apple_pie",
+      "recipe": "croptopia:apple_pie",
       "text": "There are several variants of apple pie. Those really really dusty ones where you need coffee to even eat it."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:apple_pie",
+      "recipe": "c:croptopia/cbc_apple_pie",
       "text": "But there can be some very fruity ones as well. Depends on the amount of ingredients mostly."
     }
   ]

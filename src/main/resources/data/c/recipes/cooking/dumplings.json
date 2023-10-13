@@ -6,10 +6,10 @@
       "tag": "c:dough"
     },
     {
-      "tag": "c:lettuce"
+      "tag": "c:cbc_lettuce"
     },
     {
-      "tag": "c:onion"
+      "tag": "c:cbc_onion"
     },
     {
       "tag": "cbc_dumpling_fills.json"

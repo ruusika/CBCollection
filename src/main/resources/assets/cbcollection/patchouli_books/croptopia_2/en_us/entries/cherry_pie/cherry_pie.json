@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cherry_pie",
+      "recipe": "croptopia:cherry_pie",
       "text": "I've never seen a dusty cherry pie."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:cherry_pie",
+      "recipe": "c:croptopia/cbc_cherry_pie",
       "text": "But there always be a first time."
     }
   ]

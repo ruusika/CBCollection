@@ -6,10 +6,10 @@
 		{
 			"type": "cbcollection:pot_template",
 			"header": "Fried Rice",
-			"item0": "tag:c:egg",
-			"item1": "tag:c:onion",
+			"item0": "tag:c:cbc_egg",
+			"item1": "tag:c:cbc_onion",
 			"item2": "minecraft:carrot",
-			"item3": "tag:c:rice",
+			"item3": "tag:c:cbc_rice",
 			"item4": "minecraft:air",
 			"item5": "minecraft:air",
 			"result": "farmersdelight:fried_rice",

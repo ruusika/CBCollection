@@ -5,13 +5,13 @@
       "tag": "c:flour"
     },
     {
-      "tag": "c:salt"
+      "tag": "c:cbc_salt"
     },
     {
       "item": "minecraft:sugar"
     },
     {
-      "tag": "c:cinnamon"
+      "tag": "c:cbc_cinnamon"
     },
     {
       "item": "croptopia:rhubarb"

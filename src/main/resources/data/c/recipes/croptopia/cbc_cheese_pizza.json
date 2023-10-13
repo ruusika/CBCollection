@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:dough"
+    },
+    {
+      "tag": "c:cbc_cheese"
+    },
+    {
+      "tag": "c:cbc_tomato"
+    },
+    {
+      "tag": "c:cbc_cheese"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ],
+  "result": {
+    "item": "croptopia:cheese_pizza"
+  }
+}

@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/vanilla_ice_cream",
+      "recipe": "croptopia:vanilla_ice_cream",
       "text": "One of the old classics. Best served with cold coffee and some whipped cream."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:vanilla_ice_cream",
+      "recipe": "c:croptopia/cbc_vanilla_ice_cream",
       "text": "This one is liked by adults more than kids. It's sweet but not too sweet."
     }
   ]

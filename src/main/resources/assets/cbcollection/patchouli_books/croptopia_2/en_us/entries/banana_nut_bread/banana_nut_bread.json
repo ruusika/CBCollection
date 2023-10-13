@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/banana_nut_bread",
+      "recipe": "c:croptopia/cbc_banana_nut_bread",
       "text": "I don't like it that much."
     }
   ]

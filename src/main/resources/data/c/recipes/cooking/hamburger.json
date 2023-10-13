@@ -8,13 +8,13 @@
       "item": "farmersdelight:beef_patty"
     },
     {
-      "tag": "c:onion"
+      "tag": "c:cbc_onion"
     },
     {
-      "tag": "c:lettuce"
+      "tag": "c:cbc_lettuce"
     },
     {
-      "tag": "c:tomato"
+      "tag": "c:cbc_tomato"
     }
   ],
   "result": {

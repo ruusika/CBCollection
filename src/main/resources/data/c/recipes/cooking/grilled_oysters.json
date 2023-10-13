@@ -14,13 +14,13 @@
       "item": "croptopia:frying_pan"
     },
     {
-      "tag": "c:cheese"
+      "tag": "c:cbc_cheese"
     },
     {
-      "tag": "c:salt"
+      "tag": "c:cbc_salt"
     },
     {
-      "tag": "c:garlic"
+      "tag": "c:cbc_garlic"
     }
   ],
   "result": {

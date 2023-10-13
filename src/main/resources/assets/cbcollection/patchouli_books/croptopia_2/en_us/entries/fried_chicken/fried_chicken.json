@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/fried_chicken",
+      "recipe": "c:croptopia/cbc_fried_chicken",
       "text": "You can fry other things as well."
     }
   ]

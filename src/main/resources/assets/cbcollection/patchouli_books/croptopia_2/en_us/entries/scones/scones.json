@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/scones",
+      "recipe": "c:croptopia/cbc_scones",
       "text": "I might use some milk for those the next time."
     }
   ]

@@ -6,8 +6,8 @@
 		{
 			"type": "cbcollection:pot_template",
 			"header": "Tomato Sauce",
-			"item0": "tag:c:tomato",
-			"item1": "tag:c:tomato",
+			"item0": "tag:c:cbc_tomato",
+			"item1": "tag:c:cbc_tomato",
 			"item2": "minecraft:air",
 			"item3": "minecraft:air",
 			"item4": "minecraft:air",

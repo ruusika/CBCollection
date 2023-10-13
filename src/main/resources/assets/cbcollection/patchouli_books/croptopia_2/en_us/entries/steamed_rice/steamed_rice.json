@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/steamed_rice",
+      "recipe": "c:croptopia/cbc_steamed_rice",
       "text": "Might be a good base for other dishes which require steamed rice."
     }
   ]

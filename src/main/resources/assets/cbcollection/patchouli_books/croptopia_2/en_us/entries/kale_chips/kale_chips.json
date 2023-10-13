@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/kale_chips",
+      "recipe": "c:croptopia/cbc_kale_chips",
       "text": "A sad excuse for a unhealthy snack. Too healthy."
     }
   ]

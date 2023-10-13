@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cheese_pizza",
+      "recipe": "c:croptopia/cbc_cheese_pizza",
       "text": "There is never too much cheese."
     }
   ]

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/sticky_toffee_pudding",
+      "recipe": "c:croptopia/cbc_sticky_toffee_pudding",
       "text": "But better than the figgy pudding"
     }
   ]

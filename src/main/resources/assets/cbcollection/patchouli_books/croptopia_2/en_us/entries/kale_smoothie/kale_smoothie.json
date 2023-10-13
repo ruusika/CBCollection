@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/kale_smoothie",
+      "recipe": "croptopia:kale_smoothie",
       "text": "It's a green milk?"
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:kale_smoothie",
+      "recipe": "c:croptopia/cbc_kale_smoothie",
       "text": "Seems like a healthy try again."
     }
   ]

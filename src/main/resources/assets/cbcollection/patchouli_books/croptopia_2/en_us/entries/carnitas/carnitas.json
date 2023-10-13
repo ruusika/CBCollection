@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/carnitas",
+      "recipe": "c:croptopia/cbc_carnitas",
       "text": "Just throw everything in the pan..."
     }
   ]

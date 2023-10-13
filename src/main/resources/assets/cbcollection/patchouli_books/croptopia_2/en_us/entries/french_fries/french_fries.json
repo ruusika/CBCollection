@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/french_fries",
+      "recipe": "c:croptopia/cbc_french_fries",
       "text": "Needs more salt sometimes."
     }
   ]

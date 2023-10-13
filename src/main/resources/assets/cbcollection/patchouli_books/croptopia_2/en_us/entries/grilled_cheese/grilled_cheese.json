@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/grilled_cheese",
+      "recipe": "c:croptopia/cbc_grilled_cheese",
       "text": "Maybe try to use different cheese like spiced cheese."
     }
   ]

@@ -1,0 +1,17 @@
+{
+  "name": "Tostada",
+  "icon": "croptopia:tostada",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:tostada",
+      "text": "Is this a burrito?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_tostada",
+      "text": "More beans apparently..."
+    }
+  ]
+}

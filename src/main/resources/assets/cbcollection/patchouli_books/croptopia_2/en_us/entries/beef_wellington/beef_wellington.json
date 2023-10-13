@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/beef_wellington",
+      "recipe": "c:croptopia/cbc_beef_wellington",
       "text": "It sounds more fancy than it actually is."
     }
   ]

@@ -6,7 +6,7 @@
 		{
 			"type": "cbcollection:pot_template",
 			"header": "Hot Cocoa",
-			"item0": "tag:c:milks",
+			"item0": "tag:c:cbc_milk",
 			"item1": "minecraft:cocoa_beans",
 			"item2": "minecraft:cocoa_beans",
 			"item3": "minecraft:air",

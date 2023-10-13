@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/pecan_pie",
+      "recipe": "croptopia:pecan_pie",
       "text": "I like the dusty variant more in this case. Especially with some hot chocolate."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:pecan_pie",
+      "recipe": "c:croptopia/cbc_pecan_pie",
       "text": "Could be one of my favorite pies to be honest."
     }
   ]

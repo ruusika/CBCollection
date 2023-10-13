@@ -3,7 +3,7 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:rice"
+      "tag": "c:cbc_rice"
     },
     {
       "tag": "fabric:raw_mutton"

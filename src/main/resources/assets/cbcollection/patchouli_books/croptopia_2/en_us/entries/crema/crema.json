@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/crema",
+      "recipe": "c:croptopia/cbc_crema",
       "text": "Sour? Salty? Sweet? Dunno?"
     }
   ]

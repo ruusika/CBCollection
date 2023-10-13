@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/ham_sandwich",
+      "recipe": "c:croptopia/cbc_ham_sandwich",
       "text": "Maybe use some bacon as well. Might add some flavour."
     }
   ]

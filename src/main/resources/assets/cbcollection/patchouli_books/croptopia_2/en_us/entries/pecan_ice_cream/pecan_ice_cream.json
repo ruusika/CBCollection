@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/pecan_ice_cream",
+      "recipe": "croptopia:pecan_ice_cream",
       "text": "I never had a thing for ice creams with nuts in them."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:pecan_ice_cream",
+      "recipe": "c:croptopia/cbc_pecan_ice_cream",
       "text": "But that one could seriously change my mind."
     }
   ]

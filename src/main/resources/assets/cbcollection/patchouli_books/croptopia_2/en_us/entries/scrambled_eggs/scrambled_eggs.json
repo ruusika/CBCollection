@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/scrambled_eggs",
+      "recipe": "c:croptopia/cbc_scrambled_eggs",
       "text": "The best meal while being drunk or after a hangover."
     }
   ]

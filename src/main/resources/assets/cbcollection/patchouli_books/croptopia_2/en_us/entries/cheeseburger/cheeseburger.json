@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cheeseburger",
+      "recipe": "c:croptopia/cbc_cheeseburger",
       "text": "Maybe change the buns or the meat. Brings some change."
     }
   ]

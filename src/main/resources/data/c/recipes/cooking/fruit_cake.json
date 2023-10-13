@@ -2,16 +2,16 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "c:salt"
+      "tag": "c:cbc_salt"
     },
     {
-      "tag": "c:egg"
+      "tag": "c:cbc_egg"
     },
     {
       "tag": "c:fruits"
     },
     {
-      "tag": "c:cinnamon"
+      "tag": "c:cbc_cinnamon"
     },
     {
       "item": "croptopia:lemon"

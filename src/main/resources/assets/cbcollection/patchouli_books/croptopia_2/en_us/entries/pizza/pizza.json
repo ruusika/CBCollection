@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/pizza",
+      "recipe": "c:croptopia/cbc_pizza",
       "text": "You can decide what comes on top of it."
     }
   ]

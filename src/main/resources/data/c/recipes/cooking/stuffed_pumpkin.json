@@ -2,7 +2,7 @@
   "type": "farmersdelight:cooking",
   "ingredients": [
     {
-      "tag": "c:rice"
+      "tag": "c:cbc_rice"
     },
     {
       "tag": "c:veges"

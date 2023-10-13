@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/stuffed_poblanos",
+      "recipe": "c:croptopia/cbc_stuffed_poblanos",
       "text": "A bit spicy tho and the beans don't make it better."
     }
   ]

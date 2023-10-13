@@ -3,13 +3,13 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:cheese"
+      "tag": "c:cbc_cheese"
     },
     {
-      "tag": "c:milks"
+      "tag": "c:cbc_milk"
     },
     {
-      "tag": "c:salt"
+      "tag": "c:cbc_salt"
     },
     {
       "item": "farmersdelight:raw_pasta"

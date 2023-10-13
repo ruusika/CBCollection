@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/fajitas",
+      "recipe": "c:croptopia/cbc_fajitas",
       "text": "This needs more cheese."
     }
   ]

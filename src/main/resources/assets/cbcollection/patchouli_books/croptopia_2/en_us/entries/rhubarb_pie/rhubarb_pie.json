@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/rhubarb_pie",
+      "recipe": "croptopia:rhubarb_pie",
       "text": "If you ask me this is a pathetic try to make a healthy cake."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:rhubarb_pie",
+      "recipe": "c:croptopia/cbc_rhubarb_pie",
       "text": "It also tastes like that."
     }
   ]

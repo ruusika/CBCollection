@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/potato_chips",
+      "recipe": "c:croptopia/cbc_potato_chips",
       "text": "Unhealthy. Salty. But tasty as hell."
     }
   ]

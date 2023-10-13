@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/churros",
+      "recipe": "c:croptopia/cbc_churros",
       "text": "Best idea I had so far? Dip it in chocolate."
     }
   ]

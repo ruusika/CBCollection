@@ -7,7 +7,7 @@
 			"type": "cbcollection:pot_template",
 			"header": "Noodle Soup",
 			"item0": "farmersdelight:raw_pasta",
-			"item1": "tag:c:fried_egg",
+			"item1": "tag:c:cbc_fried_egg",
 			"item2": "minecraft:dried_kelp",
 			"item3": "tag:c:raw_pork",
 			"item4": "minecraft:air",

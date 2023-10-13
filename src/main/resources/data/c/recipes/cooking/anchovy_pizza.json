@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "c:cheese"
+      "tag": "c:cbc_cheese"
     },
     {
       "tag": "minecraft:fishes"
     },
     {
-      "tag": "c:tomato"
+      "tag": "c:cbc_tomato"
     },
     {
       "item": "croptopia:dough"

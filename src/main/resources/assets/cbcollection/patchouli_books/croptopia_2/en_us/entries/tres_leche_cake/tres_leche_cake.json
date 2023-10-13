@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/tres_leche_cake",
+      "recipe": "c:croptopia/cbc_tres_leche_cake",
       "text": "A very very sweet thing."
     }
   ]

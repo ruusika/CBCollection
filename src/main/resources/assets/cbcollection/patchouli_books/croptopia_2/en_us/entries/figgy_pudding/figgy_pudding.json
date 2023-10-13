@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/figgy_pudding",
+      "recipe": "c:croptopia/cbc_figgy_pudding",
       "text": "Some call it a festive dish."
     }
   ]

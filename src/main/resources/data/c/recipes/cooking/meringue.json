@@ -8,16 +8,16 @@
       "item": "minecraft:sugar"
     },
     {
-      "tag": "c:salt"
+      "tag": "c:cbc_salt"
     },
     {
-      "tag": "c:egg"
+      "tag": "c:cbc_egg"
     },
     {
-      "tag": "c:egg"
+      "tag": "c:cbc_egg"
     },
     {
-      "tag": "c:egg"
+      "tag": "c:cbc_egg"
     }
   ],
   "result": {

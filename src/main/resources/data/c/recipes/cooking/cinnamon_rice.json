@@ -3,10 +3,10 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:rice"
+      "tag": "c:cbc_rice"
     },
     {
-      "tag": "c:cinnamon"
+      "tag": "c:cbc_cinnamon"
     },
     {
       "item": "sugar"

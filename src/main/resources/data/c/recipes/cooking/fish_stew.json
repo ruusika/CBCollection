@@ -3,7 +3,7 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:onion"
+      "tag": "c:cbc_onion"
     },
     {
       "tag": "minecraft:fishes"

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/spaghetti_squash",
+      "recipe": "c:croptopia/cbc_spaghetti_squash",
       "text": "Needs more spice."
     }
   ]

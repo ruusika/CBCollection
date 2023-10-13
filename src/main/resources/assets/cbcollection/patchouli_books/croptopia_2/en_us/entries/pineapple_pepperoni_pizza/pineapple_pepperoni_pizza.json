@@ -12,7 +12,7 @@
     {
       "type": "patchouli:crafting",
       "title": "Pineapple Pizza",
-      "recipe": "c:croptopia/pineapple_pepperoni_pizza",
+      "recipe": "c:croptopia/cbc_pineapple_pepperoni_pizza",
       "text": "I heard it's named after a random island?"
     }
   ]

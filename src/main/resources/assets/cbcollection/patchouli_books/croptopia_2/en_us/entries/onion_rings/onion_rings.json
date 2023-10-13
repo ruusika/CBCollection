@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/onion_rings",
+      "recipe": "c:croptopia/cbc_onion_rings",
       "text": "Not that tasty in my opinion."
     }
   ]

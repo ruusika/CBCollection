@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB ",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:flour"
+    },
+    "B": {
+      "tag": "c:cbc_onion"
+    },
+    "D": {
+      "item": "croptopia:mustard"
+    },
+    "E": {
+      "item": "croptopia:frying_pan"
+    },
+    "F": {
+      "item": "croptopia:pepper"
+    },
+    "G": {
+      "tag": "c:cbc_egg"
+    },
+    "H": {
+      "item": "minecraft:beef"
+    },
+    "I": {
+      "item": "minecraft:brown_mushroom"
+    }
+  },
+  "result": {
+    "item": "croptopia:beef_wellington",
+    "count": 1
+  }
+}

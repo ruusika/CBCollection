@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "item": "croptopia:pepper"
+    },
+    "B": {
+      "item": "croptopia:olive_oil"
+    },
+    "C": {
+      "tag": "c:cbc_salt"
+    },
+    "D": {
+      "item": "croptopia:bellpepper"
+    },
+    "E": {
+      "tag": "c:cbc_eggplant"
+    },
+    "F": {
+      "tag": "c:cbc_garlic"
+    }
+  },
+  "result": {
+    "item": "croptopia:ajvar",
+    "count": 1
+  }
+}

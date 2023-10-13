@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/caesar_salad",
+      "recipe": "c:croptopia/cbc_caesar_salad",
       "text": "Don't know why tho...Just an ordinary salad with bread an olives."
     }
   ]

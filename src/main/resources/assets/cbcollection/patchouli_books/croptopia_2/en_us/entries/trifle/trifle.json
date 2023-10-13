@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/trifle",
+      "recipe": "c:croptopia/cbc_trifle",
       "text": "Don't use your horse after this one."
     }
   ]

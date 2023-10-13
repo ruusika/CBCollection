@@ -7,7 +7,7 @@
 			"type": "cbcollection:pot_template",
 			"header": "Vegetable Noodles",
 			"item0": "minecraft:carrot",
-			"item1": "tag:c:lettuce",
+			"item1": "tag:c:cbc_lettuce",
 			"item2": "farmersdelight:raw_pasta",
 			"item3": "minecraft:brown_mushroom",
 			"item4": "tag:fabric:vegetables",

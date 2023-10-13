@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/lemon_chicken",
+      "recipe": "c:croptopia/cbc_lemon_chicken",
       "text": "But I want to add more spice."
     }
   ]

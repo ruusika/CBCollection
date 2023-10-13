@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/shepherds_pie",
+      "recipe": "c:croptopia/cbc_shepherds_pie",
       "text": "This is way to expensive for a shepherd...I don't get this."
     }
   ]

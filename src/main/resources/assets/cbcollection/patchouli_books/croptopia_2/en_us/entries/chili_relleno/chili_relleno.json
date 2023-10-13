@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/chili_relleno",
+      "recipe": "c:croptopia/cbc_chili_relleno",
       "text": "Very spicy."
     }
   ]

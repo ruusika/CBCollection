@@ -7,7 +7,7 @@
 			"type": "cbcollection:pot_template",
 			"header": "Vegetable Soup",
 			"item0": "minecraft:carrot",
-			"item1": "tag:c:lettuce",
+			"item1": "tag:c:cbc_lettuce",
 			"item2": "minecraft:air",
 			"item3": "minecraft:potato",
 			"item4": "minecraft:beetroot",

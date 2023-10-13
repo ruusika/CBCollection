@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "croptopia:salt",
+    "valley:salt",
+    "bewitchment:salt",
+    "expandeddelight:salt_rock",
+    "expandeddelight:ground_salt"
+  ]
+}

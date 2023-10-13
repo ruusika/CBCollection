@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/ajvar",
+      "recipe": "c:croptopia/cbc_ajvar",
       "text": "People with zero tolerance to spice won't like it though."
     }
   ]

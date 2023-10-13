@@ -3,13 +3,13 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:cheese"
+      "tag": "c:cbc_cheese"
     },
     {
       "tag": "fabric:raw_pork"
     },
     {
-      "tag": "c:onion"
+      "tag": "c:cbc_onion"
     },
     {
       "item": "expandeddelight:asparagus"

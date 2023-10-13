@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A C",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "croptopia:date"
+    },
+    "C": {
+      "tag": "c:cbc_salt"
+    },
+    "D": {
+      "item": "croptopia:whipping_cream"
+    },
+    "E": {
+      "item": "minecraft:sugar"
+    },
+    "F": {
+      "item": "croptopia:butter"
+    },
+    "G": {
+      "tag": "c:cbc_egg"
+    },
+    "H": {
+      "tag": "c:water_bottles"
+    },
+    "I": {
+      "item": "croptopia:vanilla"
+    }
+  },
+  "result": {
+    "item": "croptopia:sticky_toffee_pudding"
+  }
+}

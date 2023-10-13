@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/egg_roll",
+      "recipe": "c:croptopia/cbc_egg_roll",
       "text": "I might want to add some cheese to the fillings."
     }
   ]

@@ -11,16 +11,16 @@
       "item": "minecraft:beetroot"
     },
     {
-      "tag": "c:lettuce"
+      "tag": "c:cbc_lettuce"
     },
     {
-      "tag": "c:onion"
+      "tag": "c:cbc_onion"
     },
     {
-      "tag": "c:tomato"
+      "tag": "c:cbc_tomato"
     },
     {
-      "tag": "c:garlic"
+      "tag": "c:cbc_garlic"
     },
     {
       "tag": "c:water_bottles"

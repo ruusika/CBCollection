@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/strawberry_ice_cream",
+      "recipe": "croptopia:strawberry_ice_cream",
       "text": "One of the old classics. The first you actually learn when making ice cream."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "croptopia:strawberry_ice_cream",
+      "recipe": "c:croptopia/cbc_strawberry_ice_cream",
       "text": "This one is a kids favorite. Fruity but very sweet."
     }
   ]

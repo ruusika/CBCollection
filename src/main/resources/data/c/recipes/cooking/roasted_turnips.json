@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "c:garlic"
+      "tag": "c:cbc_garlic"
     },
     {
       "item": "croptopia:olive_oil"
     },
     {
-      "tag": "c:salt"
+      "tag": "c:cbc_salt"
     },
     {
       "item": "croptopia:turnip"

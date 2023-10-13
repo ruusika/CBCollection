@@ -8,13 +8,13 @@
       "item": "minecraft:bread"
     },
     {
-      "tag": "c:milks"
+      "tag": "c:cbc_milk"
     },
     {
-      "tag": "c:tomato"
+      "tag": "c:cbc_tomato"
     },
     {
-      "tag": "c:lettuce"
+      "tag": "c:cbc_lettuce"
     }
   ],
   "result": {

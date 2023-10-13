@@ -14,10 +14,10 @@
       "item": "minecraft:stick"
     },
     {
-      "tag": "c:tomato"
+      "tag": "c:cbc_tomato"
     },
     {
-      "tag": "c:onion"
+      "tag": "c:cbc_onion"
     }
   ],
   "result": {

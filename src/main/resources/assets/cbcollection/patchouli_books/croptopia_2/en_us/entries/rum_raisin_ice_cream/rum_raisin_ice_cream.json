@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/rum_raisin_ice_cream",
+      "recipe": "c:croptopia/cbc_rum_raisin_ice_cream",
       "text": "I don't get why you have to add raisins."
     }
   ]

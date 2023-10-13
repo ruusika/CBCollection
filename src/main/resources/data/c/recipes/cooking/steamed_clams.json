@@ -5,10 +5,10 @@
       "item": "croptopia:butter"
     },
     {
-      "tag": "c:clam"
+      "tag": "c:cbc_clam"
     },
     {
-      "tag": "c:clam"
+      "tag": "c:cbc_clam"
     },
     {
       "item": "croptopia:frying_pan"
@@ -17,10 +17,10 @@
       "item": "croptopia:pepper"
     },
     {
-      "tag": "c:garlic"
+      "tag": "c:cbc_garlic"
     },
     {
-      "tag": "c:salt"
+      "tag": "c:cbc_salt"
     }
   ],
   "result": {

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/horchata",
+      "recipe": "c:croptopia/cbc_horchata",
       "text": "I taste lime and cinnamon...weird combination"
     }
   ]

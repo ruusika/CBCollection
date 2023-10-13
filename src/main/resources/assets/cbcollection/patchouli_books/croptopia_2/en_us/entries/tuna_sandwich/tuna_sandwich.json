@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/tuna_sandwich",
+      "recipe": "c:croptopia/cbc_tuna_sandwich",
       "text": "My cat likes those too much. But I can understand her. Those are tasty."
     }
   ]

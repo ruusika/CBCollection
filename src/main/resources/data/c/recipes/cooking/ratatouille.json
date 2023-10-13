@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "c:tomato"
+      "tag": "c:cbc_tomato"
     },
     {
       "item": "croptopia:olive_oil"
@@ -14,7 +14,7 @@
       "item": "croptopia:zucchini"
     },
     {
-      "tag": "c:onion"
+      "tag": "c:cbc_onion"
     },
     {
       "item": "croptopia:bellpepper"
@@ -23,7 +23,7 @@
       "item": "croptopia:basil"
     },
     {
-      "tag": "c:eggplants"
+      "tag": "c:cbc_eggplants"
     },
     {
       "item": "croptopia:frying_pan"

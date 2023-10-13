@@ -17,10 +17,10 @@
       "item": "croptopia:pepper"
     },
     {
-      "tag": "c:salt"
+      "tag": "c:cbc_salt"
     },
     {
-      "tag": "c:garlic"
+      "tag": "c:cbc_garlic"
     }
   ],
   "result": {

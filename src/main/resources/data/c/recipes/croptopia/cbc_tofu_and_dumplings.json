@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "c:chile_pepper"
+      "item": "croptopia:dough"
     },
     {
-      "item": "croptopia:dough"
+      "tag": "c:cbc_chile_pepper"
     },
     {
       "item": "croptopia:tofu"

@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "c:rice"
+      "tag": "c:cbc_rice"
     },
     {
-      "tag": "c:onion"
+      "tag": "c:cbc_onion"
     },
     {
       "item": "croptopia:tuna"

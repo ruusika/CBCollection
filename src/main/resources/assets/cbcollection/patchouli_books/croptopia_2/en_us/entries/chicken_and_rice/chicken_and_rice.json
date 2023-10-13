@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/chicken_and_rice",
+      "recipe": "c:croptopia/cbc_chicken_and_rice",
       "text": "Or I'll fry that chicken. Options over options."
     }
   ]

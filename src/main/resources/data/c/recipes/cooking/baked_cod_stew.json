@@ -3,10 +3,10 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:egg"
+      "tag": "c:cbc_egg"
     },
     {
-      "tag": "c:tomato"
+      "tag": "c:cbc_tomato"
     },
     {
       "tag": "fabric:raw_fishes"

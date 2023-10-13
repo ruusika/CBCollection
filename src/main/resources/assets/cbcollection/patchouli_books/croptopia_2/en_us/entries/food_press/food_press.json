@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/a_food_press",
+      "recipe": "c:croptopia/cbc_food_press",
       "text": "A simplified version. Not tested yet."
     }
   ]
