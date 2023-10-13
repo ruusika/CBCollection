@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "croptopia:snicker_doodle",
       "text": "ohhh...a cinnamon cookie."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_snicker_doodle",
+      "text": "A bit dusty though."
     }
   ]
 }

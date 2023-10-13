@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "tag": "c:fruits"
+    },
+    {
+      "tag": "c:fruits"
+    },
+    {
+      "tag": "c:fruits"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "tag": "c:cbc_milk"
+    }
+  ],
+  "result": {
+    "item": "croptopia:fruit_smoothie",
+    "count": 2
+  }
+}

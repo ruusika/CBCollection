@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:cbc_milk"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:flour"
+    }
+  ],
+  "result": {
+    "item": "croptopia:doughnut"
+  }
+}

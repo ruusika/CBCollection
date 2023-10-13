@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "croptopia:yam_jam",
       "text": "Not sure what to make of it. The vanilla makes it sweet."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_yam_jam",
+      "text": "I think you can put this one on some toast."
     }
   ]
 }

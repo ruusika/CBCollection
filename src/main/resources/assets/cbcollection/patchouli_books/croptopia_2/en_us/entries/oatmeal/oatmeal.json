@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "croptopia:oatmeal",
       "text": "You'll need it for some cookies. I forgot which tho."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_oatmeal",
+      "text": "I think you can use it for a popular breakfast dish."
     }
   ]
 }

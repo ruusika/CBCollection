@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "croptopia:strawberry_smoothie",
       "text": "Why do you wanna drink iced strawberry milk?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_strawberry_smoothie",
+      "text": "It's not that bad. Still not my favourite."
     }
   ]
 }

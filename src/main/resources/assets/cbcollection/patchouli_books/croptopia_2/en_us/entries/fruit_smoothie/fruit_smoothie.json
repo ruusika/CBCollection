@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "croptopia:fruit_smoothie",
       "text": "It seems healthy and unhealthy at the same time."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_fruit_smoothie",
+      "text": "Just don't combine too many different foods. It ruins the taste."
     }
   ]
 }

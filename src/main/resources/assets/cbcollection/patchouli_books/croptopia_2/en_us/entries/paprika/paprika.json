@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "croptopia:paprika",
       "text": "Ohhhh...spicy. But it gives your dishes an interesting flavour."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_paprika",
+      "text": "I fear that you can overuse this kind of spice."
     }
   ]
 }

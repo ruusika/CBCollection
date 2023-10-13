@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "croptopia:banana_smoothie",
       "text": "Just some glorified iced banana milk. Awful in my eyes."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_banana_smoothie",
+      "text": "It also smells awful. Like baby puke."
     }
   ]
 }

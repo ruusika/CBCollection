@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "croptopia:pepperoni",
       "text": "A spice sausage for your pizza. I can recommend it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_pepperoni",
+      "text": "Is there a less spicy version? I just had a too spicy one with extra garlic."
     }
   ]
 }

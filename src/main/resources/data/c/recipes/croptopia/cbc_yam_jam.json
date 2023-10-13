@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:yam"
+    },
+    {
+      "item": "croptopia:vanilla"
+    },
+    {
+      "tag": "c:cbc_milk"
+    },
+    {
+      "tag": "c:cbc_milk"
+    }
+  ],
+  "result": {
+    "item": "croptopia:yam_jam",
+    "count": 1
+  }
+}
