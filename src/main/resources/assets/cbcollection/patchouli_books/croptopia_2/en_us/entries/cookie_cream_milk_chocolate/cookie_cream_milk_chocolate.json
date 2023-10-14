@@ -6,13 +6,13 @@
     {
       "type": "patchouli:crafting",
       "title": "Milk Cookie Chocolate",
-      "recipe": "c:chocolate/cbc_cookie_milk_chocolate",
+      "recipe": "cacao:cookie_cream_milk_chocolate",
       "text": "Also a kids favourite. But please no raisin cookies."
     },
     {
       "type": "patchouli:crafting",
       "title": "Milk Cookie Chocolate",
-      "recipe": "cacao:cookie_cream_milk_chocolate"
+      "recipe": "c:chocolate/cbc_cookie_milk_chocolate"
     }
   ]
 }

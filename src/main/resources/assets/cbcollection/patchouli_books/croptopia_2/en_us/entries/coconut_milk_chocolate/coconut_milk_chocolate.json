@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:chocolate/cbc_coconut_milk_chocolate",
+      "recipe": "cacao:coconut_milk_chocolate",
       "text": "Still nope."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "cacao:coconut_milk_chocolate"
+      "recipe": "c:chocolate/cbc_coconut_milk_chocolate"
     }
   ]
 }

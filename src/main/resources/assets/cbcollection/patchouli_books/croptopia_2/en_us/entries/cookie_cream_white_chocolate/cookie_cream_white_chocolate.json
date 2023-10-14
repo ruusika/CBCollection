@@ -6,13 +6,13 @@
     {
       "type": "patchouli:crafting",
       "title": "White Cookie Chocolate",
-      "recipe": "c:chocolate/cbc_cookie_white_chocolate",
+      "recipe": "cacao:cookie_cream_white_chocolate",
       "text": "That one I like. I can recommend. Especially with dark chocolate cookies."
     },
     {
       "type": "patchouli:crafting",
       "title": "White Cookie Chocolate",
-      "recipe": "cacao:cookie_cream_white_chocolate"
+      "recipe": "c:chocolate/cbc_cookie_white_chocolate"
     }
   ]
 }

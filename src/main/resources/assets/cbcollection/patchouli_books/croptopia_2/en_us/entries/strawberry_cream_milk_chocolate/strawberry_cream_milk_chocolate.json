@@ -6,13 +6,13 @@
     {
       "type": "patchouli:crafting",
       "title": "Strawberry Milk",
-      "recipe": "c:chocolate/cbc_strawberry_milk_chocolate",
+      "recipe": "cacao:strawberry_cream_milk_chocolate",
       "text": "Fruity and loved by kids cause it's not that bitter."
     },
     {
       "type": "patchouli:crafting",
       "title": "Strawberry Milk",
-      "recipe": "cacao:strawberry_cream_milk_chocolate"
+      "recipe": "c:chocolate/cbc_strawberry_milk_chocolate"
     }
   ]
 }

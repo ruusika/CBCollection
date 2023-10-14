@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:chocolate/cbc_white_chocolate",
-      "text": "It took me a while to like it. I still prefer white chocolate mixed with milk one though."
+      "recipe": "cacao:white_chocolate",
+      "text": "It took me a while to like it. I still prefer white chocolate mixed with milk chocolate one though."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "cacao:white_chocolate"
+      "recipe": "c:chocolate/cbc_white_chocolate"
     }
   ]
 }

@@ -6,13 +6,13 @@
     {
       "type": "patchouli:crafting",
       "title": "Peanut Butter White",
-      "recipe": "c:chocolate/cbc_peanut_butter_white_chocolate",
+      "recipe": "cacao:peanut_butter_white_chocolate",
       "text": "It's more common than the dark chocolate one. I am not a fan. Too sweet and too salty."
     },
     {
       "type": "patchouli:crafting",
       "title": "Peanut Butter White",
-      "recipe": "cacao:peanut_butter_white_chocolate"
+      "recipe": "c:chocolate/cbc_peanut_butter_white_chocolate"
     }
   ]
 }

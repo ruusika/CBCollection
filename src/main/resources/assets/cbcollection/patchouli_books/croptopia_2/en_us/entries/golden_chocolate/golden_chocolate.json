@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:chocolate/cbc_golden_chocolate",
+      "recipe": "cacao:shaped_golden_chocolate",
       "text": "What the hell is wrong with you?! You can't eat that without loosing your teeth!"
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "cacao:shaped_golden_chocolate"
+      "recipe": "c:chocolate/cbc_golden_chocolate"
     }
   ]
 }

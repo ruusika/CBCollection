@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:chocolate/cbc_caramel_milk_chocolate",
+      "recipe": "cacao:caramel_milk_chocolate",
       "text": "For some too sweet, but loved by many? I don't know."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "cacao:caramel_milk_chocolate"
+      "recipe": "c:chocolate/cbc_caramel_milk_chocolate"
     }
   ]
 }

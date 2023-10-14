@@ -6,6 +6,11 @@
     {
       "type": "patchouli:crafting",
       "recipe": "croptopia:cucumber_salad",
+      "text": "I don't know...some say it tastes refreshing."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_cucumber_salad",
       "text": "Refreshing? I accidentally had some bad cucumber in it."
     }
   ]

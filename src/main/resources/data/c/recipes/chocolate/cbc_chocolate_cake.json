@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_milk"
+    },
+    {
+      "tag": "c:cbc_milk"
+    },
+    {
+      "tag": "c:cbc_milk"
+    },
+    {
+      "item": "cacao:cocoa_powder"
+    },
+    {
+      "tag": "c:cbc_egg"
+    },
+    {
+      "item": "cacao:cocoa_powder"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:flour"
+    },
+    {
+      "tag": "c:flour"
+    }
+  ],
+  "result": {
+    "item": "cacao:chocolate_cake"
+  }
+}

@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "croptopia:leek_soup",
       "text": "I remember my mother making this whenever I was sick. Still don't like the taste."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_leek_soup",
+      "text": "Add some fried bread pieces. Tastes better with it."
     }
   ]
 }

@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:chocolate/cbc_coconut_white_chocolate",
+      "recipe": "cacao:coconut_white_chocolate",
       "text": "Defintely a Hellspawn."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "cacao:coconut_white_chocolate"
+      "recipe": "c:chocolate/cbc_coconut_white_chocolate"
     }
   ]
 }

@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "croptopia:cashew_chicken",
       "text": "An interesting version to sesame chicken. I can get behind that."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_cashew_chicken",
+      "text": "I might try to add some sugar to the cashews. This might bring some good results"
     }
   ]
 }

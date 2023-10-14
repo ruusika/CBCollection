@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "croptopia:yoghurt",
       "text": "I like it. Especially for breakfast. Try to switch the fruits maybe."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_yoghurt",
+      "text": "Chocolate also works. As well as vanilla yogurt."
     }
   ]
 }

@@ -6,13 +6,13 @@
     {
       "type": "patchouli:crafting",
       "title": "White Nuts Chocolate",
-      "recipe": "c:chocolate/cbc_mixed_nuts_white_chocolate",
+      "recipe": "cacao:mixed_nuts_white_chocolate",
       "text": "Still not sure if that one is a hellspawn or not."
     },
     {
       "type": "patchouli:crafting",
       "title": "White Nuts Chocolate",
-      "recipe": "cacao:mixed_nuts_white_chocolate"
+      "recipe": "c:chocolate/cbc_mixed_nuts_white_chocolate"
     }
   ]
 }

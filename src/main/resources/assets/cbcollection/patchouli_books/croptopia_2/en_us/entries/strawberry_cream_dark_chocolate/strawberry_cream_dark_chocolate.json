@@ -6,13 +6,13 @@
     {
       "type": "patchouli:crafting",
       "title": "Strawberry Dark",
-      "recipe": "c:chocolate/cbc_strawberry_dark_chocolate",
+      "recipe": "cacao:strawberry_cream_dark_chocolate",
       "text": "The strawberries and the chocolate go surprisingly well together. I don't believe it."
     },
     {
       "type": "patchouli:crafting",
       "title": "Strawberry Dark",
-      "recipe": "cacao:strawberry_cream_dark_chocolate"
+      "recipe": "c:chocolate/cbc_strawberry_dark_chocolate"
     }
   ]
 }

@@ -8,6 +8,11 @@
       "title": "Dark Cookie Chocoolate",
       "recipe": "cacao:cookie_cream_dark_chocolate",
       "text": "Cookies and Chocolate. A match made in heaven. Except for raisin cookies. You belong into hell for that one"
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Dark Cookie Chocoolate",
+      "recipe": "c:chocolate/cbc_cookie_cream_dark_chocolate"
     }
   ]
 }

@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "croptopia:sushi",
       "text": "You can either eat it cold or warm. That's up to you."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_sushi",
+      "text": "Different kinds of fish or spicing the rice also helps."
     }
   ]
 }

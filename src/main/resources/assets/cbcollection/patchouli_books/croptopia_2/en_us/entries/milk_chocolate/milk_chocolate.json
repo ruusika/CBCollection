@@ -5,12 +5,12 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:chocolate/cbc_milk_chocolate",
+      "recipe": "cacao:milk_chocolate",
       "text": "Some hate it. Some love it. I don't know. It's just not as bitter."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "cacao:milk_chocolate"
+      "recipe": "c:chocolate/cbc_milk_chocolate"
     }
   ]
 }

@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "cacao:chocolate_cake",
       "text": "Interesting kind of cake. I prefer the cookies though."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:chocolate/cbc_chocolate_cake",
+      "text": "Interesting kind of cake. I prefer the cookies though."
     }
   ]
 }
