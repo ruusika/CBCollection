@@ -1,0 +1,17 @@
+{
+  "name": "Croque Monsieur",
+  "icon": "croptopia:croque_monsieur",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:croque_monsieur",
+      "text": "It's the same like a croque madame without an egg though."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_croque_monsieur",
+      "text": "It's still tasty. I know this cheese variant."
+    }
+  ]
+}

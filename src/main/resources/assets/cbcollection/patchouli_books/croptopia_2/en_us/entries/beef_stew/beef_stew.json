@@ -1,0 +1,12 @@
+{
+  "name": "Beef Stew",
+  "icon": "croptopia:beef_stew",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_beef_stew",
+      "text": "Very simple. Many say it's plain but the secret are the spices."
+    }
+  ]
+}

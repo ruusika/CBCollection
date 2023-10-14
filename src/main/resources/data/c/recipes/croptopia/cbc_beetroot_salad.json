@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    " H "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:beetroot"
+    },
+    "B": {
+      "item": "minecraft:beetroot"
+    },
+    "C": {
+      "item": "minecraft:beetroot"
+    },
+    "D": {
+      "tag": "c:cbc_lettuce"
+    },
+    "E": {
+      "tag": "c:cbc_cheese"
+    },
+    "F": {
+      "item": "croptopia:lemon"
+    },
+    "H": {
+      "item": "croptopia:cooking_pot"
+    }
+  },
+  "result": {
+    "item": "croptopia:beetroot_salad"
+  }
+}

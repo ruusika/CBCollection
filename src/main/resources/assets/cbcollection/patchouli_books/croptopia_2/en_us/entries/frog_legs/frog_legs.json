@@ -1,0 +1,16 @@
+{
+  "name": "Frog Legs",
+  "icon": "croptopia:frog_legs",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:frog_legs",
+      "text": "Not obtainable/usable from what I can find."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:fried_frog_legs"
+    }
+  ]
+}

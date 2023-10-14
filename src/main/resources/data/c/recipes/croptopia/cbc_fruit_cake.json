@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB ",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:cbc_salt"
+    },
+    "B": {
+      "tag": "c:fruits"
+    },
+    "D": {
+      "item": "croptopia:lemon"
+    },
+    "E": {
+      "item": "minecraft:sugar"
+    },
+    "F": {
+      "item": "croptopia:pecan"
+    },
+    "G": {
+      "tag": "c:cbc_egg"
+    },
+    "H": {
+      "tag": "c:cbc_cinnamon"
+    },
+    "I": {
+      "item": "croptopia:nutmeg"
+    }
+  },
+  "result": {
+    "item": "croptopia:fruit_cake",
+    "count": 3
+  }
+}

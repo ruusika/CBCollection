@@ -1,0 +1,17 @@
+{
+  "name": "Rhubarb Crisp",
+  "icon": "croptopia:rhubarb_crisp",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_rhubarb_crisp",
+      "text": "Similar to the lemon bar."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_rhubarb_crisp",
+      "text": "Not sure if it's a sweet or a snack."
+    }
+  ]
+}

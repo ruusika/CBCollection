@@ -1,0 +1,17 @@
+{
+  "name": "Sunny Side Up Eggs",
+  "icon": "croptopia:sunny_side_eggs",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:sunny_side_eggs",
+      "text": "You just need a pan and eggs for those gorgeous ones."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_sunny_side_eggs",
+      "text": "Very good with cooked bacon."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Beef Stir Fry",
+  "icon": "croptopia:beef_stir_fry",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_beef_stir_fry",
+      "text": "It's richer in taste than the stew."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_beef_stir_fry",
+      "text": "You might want to add other veggies."
+    }
+  ]
+}

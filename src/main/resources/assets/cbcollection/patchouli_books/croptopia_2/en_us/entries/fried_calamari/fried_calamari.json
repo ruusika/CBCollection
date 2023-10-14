@@ -1,0 +1,17 @@
+{
+  "name": "Fried Calamari",
+  "icon": "croptopia:fried_calamari",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:fried_calamari",
+      "text": "This one is amazing."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_fried_calamari",
+      "text": "It also doesn't need you to go shrimp hunting."
+    }
+  ]
+}

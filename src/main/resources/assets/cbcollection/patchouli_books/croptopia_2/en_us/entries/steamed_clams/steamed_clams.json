@@ -1,0 +1,17 @@
+{
+  "name": "Steamed Clams",
+  "icon": "croptopia:steamed_clams",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:steamed_clams",
+      "text": "Not so much my taste."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_steamed_clams",
+      "text": "But the garlic smell is amazing."
+    }
+  ]
+}

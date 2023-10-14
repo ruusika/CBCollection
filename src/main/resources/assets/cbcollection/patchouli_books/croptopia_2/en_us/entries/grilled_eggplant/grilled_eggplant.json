@@ -1,0 +1,17 @@
+{
+  "name": "Grilled Eggplant",
+  "icon": "croptopia:grilled_eggplant",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_grilled_eggplant",
+      "text": "I miss the cheese."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_grilled_eggplant",
+      "text": "But it's a good dish option for a campfire. So succes."
+    }
+  ]
+}

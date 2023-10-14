@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:cbc_milk"
+    },
+    "B": {
+      "item": "croptopia:dough"
+    },
+    "C": {
+      "tag": "c:cbc_egg"
+    },
+    "D": {
+      "item": "croptopia:butter"
+    },
+    "E": {
+      "tag": "c:cbc_salt"
+    },
+    "F": {
+      "item": "minecraft:sugar"
+    },
+    "G": {
+      "tag": "c:cbc_cinnamon"
+    },
+    "H": {
+      "item": "croptopia:frying_pan"
+    },
+    "I": {
+      "item": "croptopia:whipping_cream"
+    }
+  },
+  "result": {
+    "item": "croptopia:cinnamon_roll",
+    "count": 3
+  }
+}

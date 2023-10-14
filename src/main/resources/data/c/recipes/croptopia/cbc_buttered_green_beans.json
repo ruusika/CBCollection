@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB ",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:cbc_salt"
+    },
+    "B": {
+      "item": "croptopia:pepper"
+    },
+    "D": {
+      "item": "croptopia:butter"
+    },
+    "E": {
+      "item": "croptopia:greenbean"
+    },
+    "F": {
+      "item": "croptopia:ginger"
+    }
+},
+  "result": {
+    "item": "croptopia:buttered_green_beans"
+  }
+}

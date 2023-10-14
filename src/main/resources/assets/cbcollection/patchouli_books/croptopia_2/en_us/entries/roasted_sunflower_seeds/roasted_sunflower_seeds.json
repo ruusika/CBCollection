@@ -1,0 +1,17 @@
+{
+  "name": "Roasted Sunflower Seeds",
+  "icon": "croptopia:roasted_sunflower_seeds",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:roasted_sunflower_seeds",
+      "text": "Easy to make. Very light."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_roasted_sunflower_seeds",
+      "text": "Perfect for an adventure."
+    }
+  ]
+}

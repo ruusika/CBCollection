@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:corn"
+    },
+    "B": {
+      "tag": "c:corn"
+    },
+    "C": {
+      "tag": "c:corn"
+    }
+  },
+  "result": {
+    "item": "croptopia:corn_bread"
+  }
+}

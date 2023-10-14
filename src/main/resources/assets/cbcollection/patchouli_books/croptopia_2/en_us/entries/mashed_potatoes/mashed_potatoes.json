@@ -1,0 +1,17 @@
+{
+  "name": "Mashed Potatoes",
+  "icon": "croptopia:mashed_potatoes",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:mashed_potatoes",
+      "text": "Old people love it. Nothing to chew."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_mashed_potatoes",
+      "text": "But it's very tasty."
+    }
+  ]
+}

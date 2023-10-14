@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "D",
+    "G"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:cbc_crab"
+    },
+    "D": {
+      "tag": "c:water_bottles"
+    },
+    "G": {
+      "item": "croptopia:cooking_pot"
+    }
+  },
+  "result": {
+    "item": "croptopia:steamed_crab",
+    "count": 1
+  }
+}

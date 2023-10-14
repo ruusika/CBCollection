@@ -1,0 +1,12 @@
+{
+  "name": "Hashed Browns",
+  "icon": "croptopia:hashed_brown",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:hashed_brown",
+      "text": "Fried potatoes needed for a bit breakfast."
+    }
+  ]
+}

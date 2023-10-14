@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "item": "croptopia:olive_oil"
+    },
+    "B": {
+      "item": "croptopia:radish"
+    },
+    "C": {
+      "tag": "c:cbc_garlic"
+    },
+    "D": {
+      "tag": "c:cbc_salt"
+    },
+    "E": {
+      "item": "croptopia:frying_pan"
+    },
+    "F": {
+      "item": "croptopia:pepper"
+    }
+  },
+  "result": {
+    "item": "croptopia:roasted_radishes",
+    "count": 2
+  }
+}

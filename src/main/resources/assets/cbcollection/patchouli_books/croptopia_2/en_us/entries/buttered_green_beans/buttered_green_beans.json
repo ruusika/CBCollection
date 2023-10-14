@@ -1,0 +1,17 @@
+{
+  "name": "Buttered Green Beans",
+  "icon": "croptopia:buttered_green_beans",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_buttered_green_beans",
+      "text": "I feel like this dish needs cheese or anything to get rid of this smell."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_buttered_green_beans",
+      "text": "I don't like beans that much."
+    }
+  ]
+}

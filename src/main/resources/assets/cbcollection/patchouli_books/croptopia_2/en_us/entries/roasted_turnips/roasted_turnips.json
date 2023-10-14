@@ -1,0 +1,17 @@
+{
+  "name": "Roasted Turnips",
+  "icon": "croptopia:roasted_turnips",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_roasted_turnips",
+      "text": "Not sure if I choose those over the radishes."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_roasted_turnips",
+      "text": "They are easier to cook though."
+    }
+  ]
+}

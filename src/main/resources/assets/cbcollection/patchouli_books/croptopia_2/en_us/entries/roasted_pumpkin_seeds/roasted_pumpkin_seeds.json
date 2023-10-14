@@ -1,0 +1,17 @@
+{
+  "name": "Roasted Pumpkin Seeds",
+  "icon": "croptopia:roasted_pumpkin_seeds",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:roasted_pumpkin_seeds",
+      "text": "Easy to make. Be careful not to burn the seeds."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_roasted_pumpkin_seeds",
+      "text": "It's a traveller snack. Not filling but it's something."
+    }
+  ]
+}

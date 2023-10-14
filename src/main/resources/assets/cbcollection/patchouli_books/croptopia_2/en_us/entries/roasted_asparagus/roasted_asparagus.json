@@ -1,0 +1,17 @@
+{
+  "name": "Roasted Asparagus",
+  "icon": "croptopia:roasted_asparagus",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_roasted_asparagus",
+      "text": "I don't like it that much."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_roasted_asparagus",
+      "text": "But some people will enjoy it with some sauce."
+    }
+  ]
+}

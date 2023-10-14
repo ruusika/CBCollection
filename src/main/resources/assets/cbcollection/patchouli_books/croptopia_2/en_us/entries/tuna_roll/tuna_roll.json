@@ -1,0 +1,17 @@
+{
+  "name": "Tuna Roll",
+  "icon": "croptopia:tuna_roll",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:tuna_roll",
+      "text": "I was skeptical due to the dried kelp but you hardly taste it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_tuna_roll",
+      "text": "Those rolls are awesome."
+    }
+  ]
+}

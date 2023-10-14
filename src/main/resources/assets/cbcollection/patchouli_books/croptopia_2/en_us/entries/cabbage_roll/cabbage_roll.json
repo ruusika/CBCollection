@@ -1,0 +1,17 @@
+{
+  "name": "Cabbage Roll",
+  "icon": "croptopia:cabbage_roll",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cabbage_roll",
+      "text": "Small. Easy to pack your likings into the leafs."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_cabbage_roll",
+      "text": "Be careful though. Some sauce and juices might drip out."
+    }
+  ]
+}

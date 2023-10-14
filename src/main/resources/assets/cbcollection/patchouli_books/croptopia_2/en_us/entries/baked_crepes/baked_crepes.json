@@ -1,0 +1,17 @@
+{
+  "name": "Baked Crêpes",
+  "icon": "croptopia:baked_crepes",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:baked_crepes",
+      "text": "This is amazing for breakfast."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_baked_crepes",
+      "text": "I had the option to add bacon. I need to try the next time."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Sea Lettuce",
+  "icon": "croptopia:sea_lettuce",
+  "category": "cbcollection:crops",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "croptopia:sea_lettuce",
+      "text": "You can gather it by fishing it or diving down salty water. It's an excellent replacement for any kind of lettuce."
+    }
+  ]
+}

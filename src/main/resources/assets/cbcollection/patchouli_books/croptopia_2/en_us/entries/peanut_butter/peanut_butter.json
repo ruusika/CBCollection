@@ -1,0 +1,12 @@
+{
+  "name": "Peanut Butter",
+  "icon": "croptopia:peanut_butter",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_peanut_butter",
+      "text": "For me it's another thing you put on bread. Proof me otherwise."
+    }
+  ]
+}

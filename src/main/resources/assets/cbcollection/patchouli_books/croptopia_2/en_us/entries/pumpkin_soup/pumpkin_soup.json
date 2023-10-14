@@ -1,0 +1,17 @@
+{
+  "name": "Pumpkin Soup",
+  "icon": "croptopia:pumpkin_soup",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:pumpkin_soup",
+      "text": "It's a perfect dish for a fall celebration."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_pumpkin_soup",
+      "text": "I like those little fried bread crumbs swimming in there."
+    }
+  ]
+}

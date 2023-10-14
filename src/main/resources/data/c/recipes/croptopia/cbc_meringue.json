@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:cbc_salt"
+    },
+    "B": {
+      "item": "croptopia:vanilla"
+    },
+    "C": {
+      "item": "minecraft:sugar"
+    },
+    "D": {
+      "tag": "c:cbc_egg"
+    },
+    "E": {
+      "tag": "c:cbc_egg"
+    },
+    "F": {
+      "tag": "c:cbc_egg"
+    }
+  },
+  "result": {
+    "item": "croptopia:meringue",
+    "count": 2
+  }
+}

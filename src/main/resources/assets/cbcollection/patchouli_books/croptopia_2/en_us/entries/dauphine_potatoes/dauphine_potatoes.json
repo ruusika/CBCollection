@@ -1,0 +1,17 @@
+{
+  "name": "Dauphine Potatoes",
+  "icon": "croptopia:dauphine_potatoes",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:dauphine_potatoes",
+      "text": "Those are just called potatoes."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_dauphine_potatoes",
+      "text": "It's just fried stuff."
+    }
+  ]
+}

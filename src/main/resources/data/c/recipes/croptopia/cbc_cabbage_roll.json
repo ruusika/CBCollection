@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "croptopia:beef_replacements"
+    },
+    "B": {
+      "tag": "c:cbc_onion"
+    },
+    "C": {
+      "tag": "croptopia:beef_replacements"
+    },
+    "D": {
+      "tag": "c:cbc_salt"
+    },
+    "E": {
+      "tag": "c:cbc_lettuce"
+    },
+    "F": {
+      "tag": "c:cbc_rice"
+    },
+    "G": {
+      "tag": "c:cbc_lettuce"
+    },
+    "H": {
+      "item": "croptopia:frying_pan"
+    },
+    "I": {
+      "tag": "c:cbc_lettuce"
+    }
+  },
+  "result": {
+    "item": "croptopia:cabbage_roll",
+    "count": 2
+  }
+}

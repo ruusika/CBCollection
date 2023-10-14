@@ -1,0 +1,17 @@
+{
+  "name": "Sausage",
+  "icon": "croptopia:sausage",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:sausage",
+      "text": "The process looks a bit gross but the result is tasty."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_sausage",
+      "text": "You can cook or grill it and use it in dishes with meat."
+    }
+  ]
+}

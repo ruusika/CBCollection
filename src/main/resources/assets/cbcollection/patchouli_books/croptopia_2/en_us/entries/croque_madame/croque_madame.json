@@ -1,0 +1,17 @@
+{
+  "name": "Croque Madame",
+  "icon": "croptopia:croque_madame",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:croque_madame",
+      "text": "This is good. I feel like eating a muffin with egg on top."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_croque_madame",
+      "text": "People who like sweets for breakfast won't really like it."
+    }
+  ]
+}

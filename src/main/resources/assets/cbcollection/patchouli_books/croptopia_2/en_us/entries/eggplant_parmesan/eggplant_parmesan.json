@@ -1,0 +1,17 @@
+{
+  "name": "Eggplant Parmesan",
+  "icon": "croptopia:eggplant_parmesan",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_eggplant_parmesan",
+      "text": "It's an alternative to meat baked with cheese."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_eggplant_parmesan",
+      "text": "Vegetarians will like this dish."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "B": {
+      "item": "croptopia:frying_pan"
+    },
+    "D": {
+      "tag": "c:cbc_egg"
+    },
+    "E": {
+      "item": "minecraft:bread"
+    },
+    "F": {
+      "tag": "c:flour"
+    },
+    "G": {
+      "tag": "croptopia:pork_replacements"
+    },
+    "H": {
+      "tag": "c:cbc_cheese"
+    },
+    "I": {
+      "item": "croptopia:butter"
+    }
+  },
+  "result": {
+    "item": "croptopia:croque_madame",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Borscht",
+  "icon": "croptopia:borscht",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:borscht",
+      "text": "A very very rich stew."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_borscht",
+      "text": "People from the taiga seem to love it."
+    }
+  ]
+}

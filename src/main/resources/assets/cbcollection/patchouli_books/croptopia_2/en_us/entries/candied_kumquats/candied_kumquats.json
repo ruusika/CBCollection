@@ -1,0 +1,17 @@
+{
+  "name": "Candied Kumquats",
+  "icon": "croptopia:candied_kumquats",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:candied_kumquats",
+      "text": "Very very sweet."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_candied_kumquats",
+      "text": "I don't like it that much."
+    }
+  ]
+}

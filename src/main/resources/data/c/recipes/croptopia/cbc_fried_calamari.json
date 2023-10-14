@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "item": "croptopia:calamari"
+    },
+    "B": {
+      "item": "croptopia:lemon"
+    },
+    "C": {
+      "item": "croptopia:olive_oil"
+    },
+    "D": {
+      "tag": "c:flour"
+    },
+    "E": {
+      "item": "croptopia:frying_pan"
+    },
+    "F": {
+      "tag": "c:cbc_lettuce"
+    }
+  },
+  "result": {
+    "item": "croptopia:fried_calamari",
+    "count": 2
+  }
+}

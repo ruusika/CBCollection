@@ -1,0 +1,17 @@
+{
+  "name": "Goulash",
+  "icon": "croptopia:goulash",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:goulash",
+      "text": "A very rich very filling kind of stew."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_goulash",
+      "text": "There are variants where people add potatoes, sausages or paprika."
+    }
+  ]
+}

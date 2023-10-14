@@ -1,0 +1,12 @@
+{
+  "name": "Ground Pork",
+  "icon": "croptopia:ground_pork",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:ground_pork",
+      "text": "It's the base for sausages. It looks a bit gross though."
+    }
+  ]
+}

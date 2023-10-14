@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    " H "
+  ],
+  "key": {
+    "A": {
+      "item": "croptopia:oyster"
+    },
+    "B": {
+      "tag": "c:cbc_cheese"
+    },
+    "C": {
+      "item": "croptopia:oyster"
+    },
+    "D": {
+      "item": "croptopia:lemon"
+    },
+    "E": {
+      "tag": "c:cbc_garlic"
+    },
+    "F": {
+      "tag": "c:cbc_salt"
+    },
+    "H": {
+      "item": "croptopia:frying_pan"
+    }
+  },
+  "result": {
+    "item": "croptopia:grilled_oysters",
+    "count": 2
+  }
+}

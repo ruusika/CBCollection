@@ -1,0 +1,17 @@
+{
+  "name": "Stuffed Artichoke",
+  "icon": "croptopia:stuffed_artichoke",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_stuffed_artichoke",
+      "text": "Not sure how you get all this stuff into the artichoke."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_stuffed_artichoke",
+      "text": "I am positively surprised. The lemon adds a good taste."
+    }
+  ]
+}

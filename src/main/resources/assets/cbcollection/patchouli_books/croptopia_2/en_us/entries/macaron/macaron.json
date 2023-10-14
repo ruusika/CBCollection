@@ -1,0 +1,17 @@
+{
+  "name": "Macaron",
+  "icon": "croptopia:macaron",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:macaron",
+      "text": "Sweet. Very sweet."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_macaron",
+      "text": "Some feel very dusty. I need coffee."
+    }
+  ]
+}

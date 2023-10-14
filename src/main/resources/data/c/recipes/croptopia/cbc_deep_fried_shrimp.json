@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "item": "croptopia:shrimp"
+    },
+    "B": {
+      "item": "croptopia:shrimp"
+    },
+    "C": {
+      "item": "croptopia:shrimp"
+    },
+    "D": {
+      "tag": "c:cbc_egg"
+    },
+    "E": {
+      "item": "croptopia:frying_pan"
+    },
+    "F": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "croptopia:deep_fried_shrimp",
+    "count": 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A  ",
+    "DE ",
+    "G  "
+  ],
+  "key": {
+    "A": {
+      "tag": "c:potatoes"
+    },
+    "D": {
+      "tag": "c:cbc_salt"
+    },
+    "E": {
+      "tag": "c:cbc_milk"
+    },
+    "G": {
+      "item": "croptopia:mortar_and_pestle"
+    }
+  },
+  "result": {
+    "item": "croptopia:mashed_potatoes",
+    "count": 1
+  }
+}

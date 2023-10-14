@@ -1,0 +1,12 @@
+{
+  "name": "Toast Sandwich",
+  "icon": "croptopia:toast_sandwich",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_toast_sandwich",
+      "text": "Bread. Toast. Bread. Hardly anything you can do wrong."
+    }
+  ]
+}

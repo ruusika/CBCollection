@@ -1,0 +1,17 @@
+{
+  "name": "Sweet Crêpes",
+  "icon": "croptopia:sweet_crepes",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:sweet_crepes",
+      "text": "This is a favourite of people who like something sweet and warm for breakfast"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_sweet_crepes",
+      "text": "Try as many different jams as you want."
+    }
+  ]
+}

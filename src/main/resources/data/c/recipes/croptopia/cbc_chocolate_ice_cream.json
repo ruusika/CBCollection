@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "DEF",
+    " H "
+  ],
+  "key": {
+    "B": {
+      "tag": "c:cbc_egg"
+    },
+    "D": {
+      "tag": "c:cbc_milk"
+    },
+    "E": {
+      "tag": "c:cbc_chocolate"
+    },
+    "F": {
+      "item": "minecraft:sugar"
+    },
+    "H": {
+      "item": "croptopia:cooking_pot"
+    }
+  },
+  "result": {
+    "item": "croptopia:chocolate_ice_cream"
+  }
+}

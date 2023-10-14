@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "DEF",
+    "G I"
+  ],
+  "key": {
+    "B": {
+      "item": "croptopia:frying_pan"
+    },
+    "D": {
+      "tag": "c:cbc_milk"
+    },
+    "E": {
+      "tag": "c:cbc_egg"
+    },
+    "F": {
+      "item": "croptopia:basil"
+    },
+    "G": {
+      "tag": "c:flour"
+    },
+    "I": {
+      "tag": "c:cbc_onion"
+    }
+  },
+  "result": {
+    "item": "croptopia:quiche",
+    "count": 1
+  }
+}

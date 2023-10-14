@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "G I"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:bread"
+    },
+    "B": {
+      "tag": "c:cbc_cheese"
+    },
+    "C": {
+      "item": "croptopia:olive_oil"
+    },
+    "D": {
+      "item": "croptopia:artichoke"
+    },
+    "E": {
+      "item": "croptopia:pepper"
+    },
+    "F": {
+      "item": "croptopia:lemon"
+    },
+    "G": {
+      "tag": "c:cbc_salt"
+    },
+    "I": {
+      "item": "croptopia:frying_pan"
+    }
+  },
+  "result": {
+    "item": "croptopia:stuffed_artichoke"
+  }
+}

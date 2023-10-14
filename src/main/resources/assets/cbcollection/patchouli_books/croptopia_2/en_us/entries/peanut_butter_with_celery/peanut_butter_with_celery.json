@@ -1,0 +1,12 @@
+{
+  "name": "Peanut Butter With Celery",
+  "icon": "croptopia:peanut_butter_with_celery",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_peanut_butter_with_celery",
+      "text": "Why would you be dipping celery in peanut butter??"
+    }
+  ]
+}

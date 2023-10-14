@@ -1,0 +1,12 @@
+{
+  "name": "Steamed Broccoli",
+  "icon": "croptopia:steamed_broccoli",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_steamed_broccoli",
+      "text": "I don't like it. It smells. It can bring kids to cry."
+    }
+  ]
+}

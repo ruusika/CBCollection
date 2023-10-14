@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "DEF"
+  ],
+  "key": {
+    "B": {
+      "tag": "c:asparagus"
+    },
+    "D": {
+      "tag": "c:cbc_cheese"
+    },
+    "E": {
+      "item": "croptopia:olive_oil"
+    },
+    "F": {
+      "item": "croptopia:pepper"
+    }
+  },
+  "result": {
+    "item": "croptopia:cheesy_asparagus"
+  }
+}

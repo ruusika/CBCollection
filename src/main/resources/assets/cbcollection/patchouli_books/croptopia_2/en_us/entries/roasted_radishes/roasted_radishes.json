@@ -1,0 +1,17 @@
+{
+  "name": "Roasted Radishes",
+  "icon": "croptopia:roasted_radishes",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_roasted_radishes",
+      "text": "Better than the asparagus."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_roasted_radishes",
+      "text": "It's also a great camping meal if you manage to bring the oil and the spices."
+    }
+  ]
+}

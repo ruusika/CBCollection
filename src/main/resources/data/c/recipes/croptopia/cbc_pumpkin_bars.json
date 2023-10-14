@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:cbc_cinnamon"
+    },
+    "B": {
+      "item": "croptopia:vanilla"
+    },
+    "C": {
+      "tag": "c:cbc_salt"
+    },
+    "D": {
+      "tag": "c:cbc_egg"
+    },
+    "E": {
+      "item": "minecraft:sugar"
+    },
+    "F": {
+      "tag": "c:flour"
+    },
+    "G": {
+      "item": "minecraft:pumpkin"
+    },
+    "H": {
+      "item": "croptopia:butter"
+    },
+    "I": {
+      "item": "minecraft:pumpkin"
+    }
+  },
+  "result": {
+    "item": "croptopia:pumpkin_bars",
+    "count": 3
+  }
+}

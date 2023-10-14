@@ -1,0 +1,17 @@
+{
+  "name": "Stir Fry",
+  "icon": "croptopia:stir_fry",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_stir_fry",
+      "text": "This one is wonderful in fall."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_stir_fry",
+      "text": "Maybe add some paprika or ginger. It misses something."
+    }
+  ]
+}

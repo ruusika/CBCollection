@@ -1,0 +1,17 @@
+{
+  "name": "Cinnamon Roll",
+  "icon": "croptopia:cinnamon_roll",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:cinnamon_roll",
+      "text": "Some northerners are swearing on this for their form of breakfast."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_cinnamon_roll",
+      "text": "It's better for coffee time in my eyes."
+    }
+  ]
+}

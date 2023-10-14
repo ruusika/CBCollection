@@ -1,0 +1,17 @@
+{
+  "name": "Steamed Crab",
+  "icon": "croptopia:steamed_crab",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:steamed_crab",
+      "text": "A very simple way to cook a crab."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_steamed_crab",
+      "text": "Just don't try to put it in while it's alive."
+    }
+  ]
+}

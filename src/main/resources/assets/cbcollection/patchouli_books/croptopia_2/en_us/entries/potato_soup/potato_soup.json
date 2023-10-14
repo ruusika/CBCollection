@@ -1,0 +1,17 @@
+{
+  "name": "Potato Soup",
+  "icon": "croptopia:potato_soup",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_potato_soup",
+      "text": "Creamy soup. Not that bad though."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_potato_soup",
+      "text": "The bacon makes it better."
+    }
+  ]
+}

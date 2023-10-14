@@ -1,0 +1,17 @@
+{
+  "name": "Pumpkin Bar",
+  "icon": "croptopia:pumpkin_bars",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:pumpkin_bars",
+      "text": "A nice ending for an autumn dinner."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_pumpkin_bars",
+      "text": "Slightly sweet with the taste of pumpkins captured."
+    }
+  ]
+}

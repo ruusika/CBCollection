@@ -1,0 +1,17 @@
+{
+  "name": "The Big Breakfast",
+  "icon": "croptopia:the_big_breakfast",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:the_big_breakfast",
+      "text": "This one is like a whole buffet."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_the_big_breakfast",
+      "text": "So nourishing. I don't think I can eat any more today."
+    }
+  ]
+}

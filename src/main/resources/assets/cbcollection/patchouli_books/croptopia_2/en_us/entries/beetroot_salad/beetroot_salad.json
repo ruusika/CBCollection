@@ -1,0 +1,17 @@
+{
+  "name": "Beetroot Salad",
+  "icon": "croptopia:beetroot_salad",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:beetroot_salad",
+      "text": "The cheese is a surprising ingredient."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_beetroot_salad",
+      "text": "The beetroot is crunchy."
+    }
+  ]
+}

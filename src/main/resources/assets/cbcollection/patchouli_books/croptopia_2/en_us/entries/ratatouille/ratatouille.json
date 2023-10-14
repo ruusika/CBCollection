@@ -1,0 +1,17 @@
+{
+  "name": "Ratatouille",
+  "icon": "croptopia:ratatouille",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_ratatouille",
+      "text": "A fancy dish from the back of your garden."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_ratatouille",
+      "text": "Will impress some stubborn critics."
+    }
+  ]
+}

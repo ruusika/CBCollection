@@ -1,0 +1,17 @@
+{
+  "name": "Crab Legs",
+  "icon": "croptopia:crab_legs",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:crab_legs",
+      "text": "The butter adds much to the taste."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_crab_legs",
+      "text": "I still feel like there is something missing."
+    }
+  ]
+}

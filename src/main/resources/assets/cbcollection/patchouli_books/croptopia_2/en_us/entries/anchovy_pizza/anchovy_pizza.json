@@ -1,0 +1,17 @@
+{
+  "name": "Anchovy Pizza",
+  "icon": "croptopia:anchovy_pizza",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:anchovy_pizza",
+      "text": "Very tasty. I can recommend using tuna as well."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_anchovy_pizza",
+      "text": "A very simple pizza."
+    }
+  ]
+}

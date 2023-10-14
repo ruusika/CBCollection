@@ -1,0 +1,17 @@
+{
+  "name": "Meringue",
+  "icon": "croptopia:meringue",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:meringue",
+      "text": "Sweet? Wait...do I taste salt?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_meringue",
+      "text": "I feel like this belongs onto a cake as decor."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Chocolate Ice Cream",
+  "icon": "croptopia:chocolate_ice_cream",
+  "category": "cbcollection:desserts",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_chocolate_ice_cream",
+      "text": "It's a pure classic."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_chocolate_ice_cream",
+      "text": "Kids love it."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    " HI"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:cbc_egg"
+    },
+    "B": {
+      "item": "croptopia:bacon"
+    },
+    "C": {
+      "item": "croptopia:hashed_brown"
+    },
+    "D": {
+      "item": "croptopia:frying_pan"
+    },
+    "E": {
+      "item": "croptopia:hashed_brown"
+    },
+    "F": {
+      "item": "croptopia:toast"
+    },
+    "H": {
+      "item": "croptopia:baked_beans"
+    },
+    "I": {
+      "item": "croptopia:sausage"
+    }
+  },
+  "result": {
+    "item": "croptopia:the_big_breakfast",
+    "count": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "G  "
+  ],
+  "key": {
+    "A": {
+      "item": "croptopia:oat"
+    },
+    "B": {
+      "tag": "c:flour"
+    },
+    "C": {
+      "item": "croptopia:butter"
+    },
+    "D": {
+      "item": "croptopia:rhubarb"
+    },
+    "E": {
+      "item": "minecraft:sugar"
+    },
+    "F": {
+      "tag": "c:cbc_cinnamon"
+    },
+    "G": {
+      "tag": "c:cbc_salt"
+    }
+  },
+  "result": {
+    "item": "croptopia:rhubarb_crisp"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:cbc_garlic"
+    },
+    "B": {
+      "item": "croptopia:broccoli"
+    },
+    "C": {
+      "tag": "c:cbc_onion"
+    },
+    "D": {
+      "item": "croptopia:bellpepper"
+    },
+    "E": {
+      "item": "croptopia:olive_oil"
+    },
+    "F": {
+      "item": "minecraft:carrot"
+    }
+  },
+  "result": {
+    "item": "croptopia:stir_fry"
+  }
+}

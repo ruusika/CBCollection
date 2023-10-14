@@ -1,0 +1,17 @@
+{
+  "name": "Quiche",
+  "icon": "croptopia:quiche",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:quiche",
+      "text": "This is what I call a breakfast cake."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_quiche",
+      "text": "You can also add some meat if you want."
+    }
+  ]
+}

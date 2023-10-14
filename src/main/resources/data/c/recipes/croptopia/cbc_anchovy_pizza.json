@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    " E ",
+    " H "
+  ],
+  "key": {
+    "A": {
+      "tag": "c:cbc_tomato"
+    },
+    "B": {
+      "item": "croptopia:anchovy"
+    },
+    "C": {
+      "tag": "c:cbc_cheese"
+    },
+    "E": {
+      "item": "croptopia:dough"
+    },
+    "H": {
+      "item": "croptopia:frying_pan"
+    }
+  },
+  "result": {
+    "item": "croptopia:anchovy_pizza"
+  }
+}

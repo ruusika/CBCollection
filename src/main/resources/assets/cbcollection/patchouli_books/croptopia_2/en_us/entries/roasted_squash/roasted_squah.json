@@ -1,0 +1,17 @@
+{
+  "name": "Roasted Squash",
+  "icon": "croptopia:roasted_squash",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:shaped_roasted_squash",
+      "text": "This one is wonderful in fall."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_roasted_squash",
+      "text": "Maybe add some paprika or ginger. It misses something."
+    }
+  ]
+}

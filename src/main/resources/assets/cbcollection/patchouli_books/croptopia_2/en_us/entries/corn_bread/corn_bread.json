@@ -1,0 +1,12 @@
+{
+  "name": "Corn Bread",
+  "icon": "croptopia:corn_bread",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:corn_bread",
+      "text": "A good alternative to wheat bread."
+    }
+  ]
+}

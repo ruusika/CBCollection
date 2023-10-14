@@ -1,0 +1,17 @@
+{
+  "name": "Grilled Oysters",
+  "icon": "croptopia:grilled_oysters",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:grilled_oysters",
+      "text": "I smell lemon and cheese."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_grilled_oysters",
+      "text": "Those are better than the clams."
+    }
+  ]
+}

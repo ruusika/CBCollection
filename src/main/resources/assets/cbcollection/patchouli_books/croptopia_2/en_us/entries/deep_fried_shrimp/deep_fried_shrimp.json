@@ -1,0 +1,17 @@
+{
+  "name": "Deep Fried Shrimp",
+  "icon": "croptopia:deep_fried_shrimp",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "croptopia:deep_fried_shrimp",
+      "text": "Very tasty. Maybe add some beer to the flour."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:croptopia/cbc_deep_fried_shrimp",
+      "text": "You just need to find a shrimp to fry."
+    }
+  ]
+}
