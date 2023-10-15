@@ -7,5 +7,6 @@
   "use_resource_pack": true,
   "model": "patchouli:book_purple",
   "book_texture": "patchouli:textures/gui/book_purple.png",
-  "dont_generate_book": true
+  "dont_generate_book": true,
+  "custom_book_item": "cbcollection:croptopia_2"
 }
