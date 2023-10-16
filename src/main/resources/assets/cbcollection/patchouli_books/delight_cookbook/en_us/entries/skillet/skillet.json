@@ -6,7 +6,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:skillet",
-      "text": "The Stove is a direct upgrade to the Campfire's cooking features, and a suitable heat source for the Cooking Pot."
+      "text": "Skillets can process any campfire cooking recipe, taking roughly 20% of the original time to cook each item."
     }
   ]
 }

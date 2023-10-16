@@ -1,0 +1,12 @@
+{
+  "name": "Basket",
+  "icon": "farmersdelight:basket",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:basket",
+      "text": "The Basket is a container block that can capture dropped items through its open side, like a Hopper."
+    }
+  ]
+}

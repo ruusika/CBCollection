@@ -34,19 +34,16 @@
 		"minecraft": "~1.18.2",
 		"java": ">=17",
 		"fabric-api": "*",
-		"patchouli": "*"
-	},
-	"recommends": {
+		"patchouli": "*",
 		"croptopia": "*",
 		"valley": "*",
 		"farmersdelight": "*",
 		"betteranimalsplus": "*",
 		"cacao": "*",
 		"expandeddelight": "*",
-		"adventurez": "*",
-		"environmentz": "*",
-		"locksmith": "*",
-		"mcda": "*",
-		"mobz": "*"
+		"bewitchment": "*"
+	},
+	"recommends": {
+
 	}
 }
