@@ -9,11 +9,11 @@ So I started working on my first new recipe book with [Patchouli](https://www.cu
 ## Content
 
 ##### A Delight Cookbook
-- ![Static Badge](https://img.shields.io/badge/Status-finetuning-yellow)
+- ![Static Badge](https://img.shields.io/badge/Status-WIP-orange)
 - Based on [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) by [vectorwing](https://github.com/vectorwing).
 
 ##### Croptopia Part II
-- ![Static Badge](https://img.shields.io/badge/Status-WIP-orange)
+- ![Static Badge](https://img.shields.io/badge/Status-finetuning-yellow)
 - Based on [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia) by [thethonk](https://github.com/ExcessiveAmountsOfZombies).
 - Also includes [Croptopia's Choclaterie](https://www.curseforge.com/minecraft/mc-mods/croptopias-chocolaterie-fabric) by [slomax907](https://github.com/Slomaxonical-907).
 
