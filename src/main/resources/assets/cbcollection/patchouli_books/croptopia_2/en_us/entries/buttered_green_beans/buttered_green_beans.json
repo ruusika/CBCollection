@@ -6,12 +6,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "croptopia:shaped_buttered_green_beans",
-      "text": "I feel like this dish needs cheese or anything to get rid of this smell."
+      "text": "They smell awful."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "c:croptopia/cbc_buttered_green_beans",
-      "text": "I don't like beans that much."
+      "text": "Is there anything to make them better?"
     }
   ]
 }
