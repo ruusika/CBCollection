@@ -1,0 +1,12 @@
+{
+  "name": "Blue Canvas Sign",
+  "icon": "farmersdelight:blue_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:blue_canvas_sign",
+      "text": "Blue. Shimmering sapphires."
+    }
+  ]
+}

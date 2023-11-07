@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "B": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "C": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "D": {
+      "tag": "c:cbc_milk"
+    },
+    "E": {
+      "tag": "c:cbc_milk"
+    },
+    "F": {
+      "tag": "c:cbc_milk"
+    },
+    "G": {
+      "item": "minecraft:sugar"
+    },
+    "H": {
+      "item": "farmersdelight:pie_crust"
+    },
+    "I": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:chocolate_pie",
+    "count": 1
+  }
+}

@@ -14,19 +14,19 @@
       "item": "minecraft:carrot"
     },
     {
-      "item": "minecraft:carrot"
-    },
-    {
       "item": "minecraft:cooked_chicken"
     },
     {
       "item": "minecraft:baked_potato"
     },
     {
-      "item": "minecraft:baked_potato"
+      "item": "minecraft:carrot"
     },
     {
       "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:baked_potato"
     }
   ],
   "result": {

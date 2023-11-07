@@ -1,28 +1,47 @@
 {
 	"name": "Cabinets",
 	"icon": "farmersdelight:spruce_cabinet",
-	"category": "cbcollection:utensils",
+	"category": "cbcollection:blocks",
 	"pages": [
 		{
 			"type": "patchouli:crafting",
 			"recipe": "farmersdelight:oak_cabinet",
-			"recipe2": "farmersdelight:birch_cabinet"
+			"text": "A piece of natural oak wood can take on virtually any hue; from light beige through brown and red. White oak tends to look more beige-to-brown and red oak looks rosier."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:birch_cabinet",
+			"text": "The most prized part of the tree where birch is concerned is the sapwood or outermost section of the tree. Its usually more of a creamy white, but can be almost a pure white in some cases."
 		},
 		{
 			"type": "patchouli:crafting",
 			"recipe": "farmersdelight:spruce_cabinet",
-			"recipe2": "farmersdelight:jungle_cabinet"
+			"text": "Sap and heartwood are in distinguishable in colour. The wood colour is yellowish-white and darkens under the influence of light."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:jungle_cabinet",
+			"text": "The wood is a light yellow to light brown in color, and has a fine to medium texture. It is typically straight grained, with a coarse, uneven texture."
 		},
 		{
 			"type": "patchouli:crafting",
 			"recipe": "farmersdelight:acacia_cabinet",
-			"recipe2": "farmersdelight:dark_oak_cabinet"
+			"text": "Acacia wood ranges in color from yellow to golden brown. Aged acacia wood has a reddish or deep brown hue."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:dark_oak_cabinet",
+			"text": "Moreover, the same oak tree can have different colors throughout, and both red and white oak stain well, meaning a piece can look as dark as walnut or even brighten a whole room when stained a vibrant hue."
 		},
 		{
 			"type": "patchouli:crafting",
 			"recipe": "farmersdelight:crimson_cabinet",
-			"recipe2": "farmersdelight:warped_cabinet",
-			"text": "A cupboard to store your wonderful dishes and a good interior choice for your kitchen!"
+			"text": "Natural browns and black and gray tones are accented with mellow shades of burgundy and raspberry that make a truly unique and sophisticated color combination."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:warped_cabinet",
+			"text": "Some warped wood is quite brown, whereas that sold below has blue, violet, light blue, steel blue, green and rarely even a royal blue color."
 		}
 	]
 }

@@ -1,0 +1,12 @@
+{
+  "name": "Light Gray Canvas Sign",
+  "icon": "farmersdelight:light_gray_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:light_gray_canvas_sign",
+      "text": "Light Gray. A morning covered in mist."
+    }
+  ]
+}

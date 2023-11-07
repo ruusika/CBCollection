@@ -1,0 +1,12 @@
+{
+  "name": "Yellow Canvas Sign",
+  "icon": "farmersdelight:yellow_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:yellow_canvas_sign",
+      "text": "Yellow. A field of sunflowers."
+    }
+  ]
+}

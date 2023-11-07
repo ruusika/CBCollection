@@ -1,0 +1,6 @@
+{
+  "name": "Signs",
+  "description": "Street signs, so many street signs pass me by every night...",
+  "icon": "farmersdelight:canvas_sign",
+  "parent": "cbcollection:blocks"
+}

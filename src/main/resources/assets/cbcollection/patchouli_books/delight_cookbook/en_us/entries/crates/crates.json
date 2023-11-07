@@ -6,22 +6,62 @@
 		{
 			"type": "patchouli:crafting",
 			"recipe": "farmersdelight:carrot_crate",
-			"recipe2": "farmersdelight:potato_crate"
+			"text": "Carrots can be stored for several months or over winter in a dry but humid, cool place. For long term storage, unwashed carrots can be placed in a bucket between dry layers of sand, a 50/50 mix of sand and wood shavings, or in soil."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:potato_crate",
+			"text": "It is crucial that the storage area be dark, ventilated well, and, for long-term storage, maintain cold temperatures."
 		},
 		{
 			"type": "patchouli:crafting",
 			"recipe": "farmersdelight:beetroot_crate",
-			"recipe2": "farmersdelight:cabbage_crate"
+			"text": "It's best to keep the skin on, which protects the interior and keeps the beet fresh for longer. Avoid washing the beets, no matter how ruddy they are, as the moisture will cause them to rot more quickly. Store whole beets in the cool, dry environments."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:rice_bale",
+			"text": "Not exactly a crate but it's a way to store unprocessed rice."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:cabbage_crate",
+			"text": "Cabbage can be stored the longest at −1 to 2 °C with a humidity of 90–100 percent; these conditions will result in up to six months of longevity."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "c:farmersdelight/cbc_cabbage_crate",
+			"text": "When stored under less ideal conditions, cabbage can still last up to four months."
 		},
 		{
 			"type": "patchouli:crafting",
 			"recipe": "farmersdelight:tomato_crate",
-			"recipe2": "farmersdelight:onion_crate"
+			"text": "Tomatoes keep best unwashed at room temperature and out of direct sunlight. Tomatoes stored cold tend to lose their flavour permanently."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "c:farmersdelight/cbc_tomato_crate",
+			"text": "Storing stem down can prolong shelf life, as it may keep from rotting too quickly."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:onion_crate",
+			"text": "Onions are better stored at room temperature, optimally in a single layer, in large mesh bags in a dry, cool, dark, well-ventilated location."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "c:farmersdelight/cbc_onion_crate",
+			"text": "Onions will absorb odours from apples and pears. Also, they draw moisture from vegetables with which they are stored which may cause them to decay."
 		},
 		{
 			"type": "patchouli:crafting",
 			"recipe": "farmersdelight:rice_bag",
-			"text": "Crates and Bags to store your bountiful harvest in!"
+			"text": "As with many dry goods, uncooked rice should be stored in a dry and cool environment."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "c:farmersdelight/cbc_rice_bag",
+			"text": "Rice will absorb strong aromas, so it is very important to store rice far away from foods such as onions or garlic."
 		}
 	]
 }

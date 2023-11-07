@@ -6,7 +6,17 @@
     {
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:roast_chicken_block",
-      "text": "Remember Thanksgiving? It's the same just with a chicken. You need a bowl to share it."
+      "text": "Remember Thanksgiving? It's the same just with a chicken."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_roast_chicken_block",
+      "text": "You have to stuff the chicken a bit - I can recommend cabbage."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "farmersdelight:roast_chicken",
+      "text": "Take a bowl and take your portion of this perfectly roasted chicken."
     }
   ]
 }

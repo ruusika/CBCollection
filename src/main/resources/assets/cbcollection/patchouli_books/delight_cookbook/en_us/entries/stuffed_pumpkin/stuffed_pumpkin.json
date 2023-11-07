@@ -6,14 +6,15 @@
 		{
 			"type": "cbcollection:pot_template",
 			"header": "Stuffed Pumpkin",
-			"item0": "minecraft:baked_potato",
-			"item1": "minecraft:sweet_berries",
-			"item2": "farmersdelight:tomato_sauce",
-			"item3": "farmersdelight:brown_mushroom_colony",
-			"item4": "tag:c:cbc_rice",
-			"item5": "tag:c:cbc_onion",
+			"slot1": "tag:c:crops/rice",
+			"slot2": "tag:c:vegetables/onion",
+			"slot3": "minecraft:brown_mushroom",
+			"slot4": "minecraft:potato",
+			"slot5": "tag:c:berries",
+			"slot6": "tag:c:vegetables",
 			"result": "farmersdelight:stuffed_pumpkin_block",
-			"subtext": "A feast to celebrate fall. Needs a pumpkin to fill it in."
+			"served": "minecraft:pumpkin",
+			"text": "A feast to celebrate fall. Needs a pumpkin to fill it in."
 		}
 	]
 }

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:sweet_berries"
+    },
+    "B": {
+      "item": "minecraft:sweet_berries"
+    },
+    "C": {
+      "item": "minecraft:sweet_berries"
+    },
+    "D": {
+      "item": "minecraft:sweet_berries"
+    },
+    "E": {
+      "item": "minecraft:sweet_berries"
+    },
+    "F": {
+      "item": "minecraft:sweet_berries"
+    },
+    "G": {
+      "tag": "c:cbc_milk"
+    },
+    "H": {
+      "item": "farmersdelight:pie_crust"
+    },
+    "I": {
+      "tag": "c:cbc_milk"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:sweet_berry_cheesecake",
+    "count": 1
+  }
+}

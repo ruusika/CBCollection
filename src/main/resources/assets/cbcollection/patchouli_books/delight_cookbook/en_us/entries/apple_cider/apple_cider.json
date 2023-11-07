@@ -6,14 +6,15 @@
     {
       "type": "cbcollection:pot_template",
       "header": "Apple Cider",
-      "item0": "minecraft:apple",
-      "item1": "minecraft:apple",
-      "item2": "minecraft:sugar",
-      "item3": "minecraft:air",
-      "item4": "minecraft:air",
-      "item5": "minecraft:air",
+      "slot1": "minecraft:apple",
+      "slot2": "minecraft:apple",
+      "slot3": "minecraft:sugar",
+      "slot4": "minecraft:air",
+      "slot5": "minecraft:air",
+      "slot6": "minecraft:air",
       "result": "farmersdelight:apple_cider",
-      "subtext": "If you ever thought apple juice can't be an alcoholic beverage. Needs a bottle to be served."
+      "served": "minecraft:glass_bottle",
+      "text": "If you ever thought apple juice can't be an alcoholic beverage."
     }
   ]
 }

@@ -1,63 +1,120 @@
 {
-	"name": "The Top Crops",
-	"icon": "minecraft:allium",
-	"category": "cbcollection:ingredients",
+	"name": "Plants",
+	"icon": "farmersdelight:wild_tomatoes",
+	"category": "cbcollection:plants",
 	"pages": [
 		{
 			"type": "cbcollection:crop_template",
 			"header": "Wild Carrots",
 			"seed": "minecraft:air",
 			"plant": "farmersdelight:wild_carrots",
-			"harvest": "minecraft:carrot",
-			"subtext": "A flowering weed, with a conspicuous beige-colored base. Found in normal climates."
+			"text": "A flowering weed, with a conspicuous beige-colored base. Found in normal climates."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "minecraft:carrot",
+			"text": "Carrots can be eaten in a variety of ways. They can be pulped, cooked or fried in oil. Alternatively they may be chopped and boiled, steamed, and cooked in soups and stews, as well as used in baby and pet foods."
 		},
 		{
 			"type": "cbcollection:crop_template",
 			"header": "Wild Potatoes",
 			"seed": "minecraft:air",
 			"plant": "farmersdelight:wild_potatoes",
-			"harvest": "minecraft:potato",
-			"subtext": "Similar to normal Potato patches, but with large flowers. Found in colder climates."
+			"text": "Similar to normal Potato patches, but with large flowers. Found in colder climates."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "minecraft:potato",
+			"text": "Potatoes are prepared in many ways: skin-on or peeled, whole or cut up, with seasonings or without. Most potato dishes are served hot but some are first cooked, then served cold, notably potato salad and potato chips."
 		},
 		{
 			"type": "cbcollection:crop_template",
 			"header": "Wild Cabbage",
 			"seed": "farmersdelight:cabbage_seeds",
 			"plant": "farmersdelight:wild_cabbages",
-			"harvest": "farmersdelight:cabbage",
-			"subtext": "A large bush with small yellow flowers. Found mostly on beaches."
+			"text": "A large bush with small yellow flowers. Found mostly on beaches."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "farmersdelight:cabbage",
+			"text": "Cabbage is prepared and consumed in many ways. The simplest options include eating the vegetable raw or steaming it, though many cuisines pickle, stew, sautée or braise cabbage."
 		},
 		{
 			"type": "cbcollection:crop_template",
 			"header": "Sea Beet | Beet Root",
 			"seed": "minecraft:beetroot_seeds",
 			"plant": "farmersdelight:wild_beetroots",
-			"harvest": "minecraft:beetroot",
-			"subtext": "A type of beet with much larger leaves. Found mostly on beaches."
+			"text": "A type of beet with much larger leaves. Found mostly on beaches."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "minecraft:beetroot",
+			"text": "Usually, the deep purple roots of beetroot are eaten boiled, roasted, or raw, and either alone or combined with any salad vegetable."
 		},
 		{
 			"type": "cbcollection:crop_template",
 			"header": "Wild Onion",
 			"seed": "minecraft:air",
 			"plant": "farmersdelight:wild_onions",
-			"harvest": "farmersdelight:onion",
-			"subtext": "A thick cluster of Allium flowers usually has an onion bulb under them. Found in normal climates."
+			"text": "A thick cluster of Allium flowers usually has an onion bulb under them. Found in normal climates."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "farmersdelight:onion",
+			"text": "Onions are commonly chopped and used as an ingredient in various hearty warm dishes, and may also be used as a main ingredient in their own right, for example in onion soup, creamed onions, and onion chutney."
 		},
 		{
 			"type": "cbcollection:crop_template",
 			"header": "Wild Tomatoes",
 			"seed": "farmersdelight:tomato_seeds",
 			"plant": "farmersdelight:wild_tomatoes",
-			"harvest": "farmersdelight:tomato",
-			"subtext": "Non-spiked floor vines covered in tiny tomatoes. Found in warmer climates."
+			"text": "Non-spiked floor vines covered with tiny tomatoes. Found in warmer climates."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "farmersdelight:tomato",
+			"text": "Tomatoes are used in diverse ways, including raw in salads or in slices, stewed, incorporated into a wide variety of dishes, or processed into ketchup or tomato soup."
 		},
 		{
 			"type": "cbcollection:crop_template",
 			"header": "Wild Rice",
 			"seed": "minecraft:air",
 			"plant": "farmersdelight:wild_rice",
-			"harvest": "farmersdelight:rice",
-			"subtext": "A thinner form of cultivated rice. Thrives in shallow puddles of water. Found mostly in jungles or swamps. You will harvest a rice panicle which you can open in a crafting table"
+			"text": "A thinner form of cultivated rice. Thrives in shallow puddles of water. Found mostly in jungles or swamps. You will harvest a rice panicle which you can open in a crafting table."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "farmersdelight:rice",
+			"text": "Rice is an ingredient of many soups and dishes with fish, poultry, and other types of meat. It is used to stuff vegetables or is wrapped in grape leaves"
+		},
+		{
+			"type": "cbcollection:crop_template",
+			"header": "Brown Mushroom Colony",
+			"seed": "minecraft:air",
+			"plant": "farmersdelight:brown_mushroom_colony",
+			"text": "Mushroom Colonies are clustered, fertilized growths of Mushrooms, which are easier to farm overall. Colonies grow between 2 to 5 Mushrooms over time, but can't get boosted by the Rich Soil they're planted on."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "minecraft:brown_mushroom",
+			"text": "They are eaten and enjoyed raw, sautéed with butter, ground into pasta, in soups, and in many other dishes."
+		},
+		{
+			"type": "cbcollection:crop_template",
+			"header": "Red Mushroom Colony",
+			"seed": "minecraft:air",
+			"plant": "farmersdelight:red_mushroom_colony",
+			"text": "For a Mushroom Colony to grow, Mushroom must be planted on Rich Soil, while under sufficient darkness for mushrooms to grow. They can be broken with any tool to harvest all caps grown so far, or broken with Shears to obtain the entire colony as an item."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "minecraft:red_mushroom",
+			"text": "They have generally been presumed to be edible for the most part, but there are reports of poisoning after eating unidentified kinds, even after thorough cooking."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "farmersdelight:sandy_shrub",
+			"text": "I havn't found any use for it, nor any hint on where it's found but I can't just leave it out of the book you know?"
 		}
 	]
 }

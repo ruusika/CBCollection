@@ -1,34 +1,39 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
       "tag": "c:cbc_onion"
     },
-    {
+    "B": {
       "tag": "c:cbc_onion"
     },
-    {
+    "C": {
       "tag": "c:cbc_onion"
     },
-    {
+    "D": {
       "tag": "c:cbc_onion"
     },
-    {
+    "E": {
       "tag": "c:cbc_onion"
     },
-    {
+    "F": {
       "tag": "c:cbc_onion"
     },
-    {
+    "G": {
       "tag": "c:cbc_onion"
     },
-    {
+    "H": {
       "tag": "c:cbc_onion"
     },
-    {
+    "I": {
       "tag": "c:cbc_onion"
     }
-  ],
+  },
   "result": {
     "item": "farmersdelight:onion_crate"
   }

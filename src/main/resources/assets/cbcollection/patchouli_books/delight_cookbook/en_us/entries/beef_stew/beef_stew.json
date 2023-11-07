@@ -6,14 +6,15 @@
 		{
 			"type": "cbcollection:pot_template",
 			"header": "Beef Stew",
-			"item0": "tag:c:raw_beef",
-			"item1": "minecraft:carrot",
-			"item2": "minecraft:potato",
-			"item3": "minecraft:air",
-			"item4": "minecraft:air",
-			"item5": "minecraft:air",
+			"slot1": "tag:c:raw_beef",
+			"slot2": "minecraft:carrot",
+			"slot3": "minecraft:potato",
+			"slot4": "minecraft:air",
+			"slot5": "minecraft:air",
+			"slot6": "minecraft:air",
 			"result": "farmersdelight:beef_stew",
-			"subtext": "A strong meal. You can use a piece of raw beef as well. Needs a bowl to be served."
+			"served": "minecraft:bowl",
+			"text": "A meal with a very strong taste. I think the pepper is at fault here."
 		}
 	]
 }

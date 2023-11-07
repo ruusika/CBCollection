@@ -1,0 +1,12 @@
+{
+  "name": "Magenta Canvas Sign",
+  "icon": "farmersdelight:magenta_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:magenta_canvas_sign",
+      "text": "Magenta. You are living the pastel dream. In a way."
+    }
+  ]
+}

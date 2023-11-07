@@ -1,34 +1,39 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
       "tag": "c:cbc_tomato"
     },
-    {
+    "B": {
       "tag": "c:cbc_tomato"
     },
-    {
+    "C": {
       "tag": "c:cbc_tomato"
     },
-    {
+    "D": {
       "tag": "c:cbc_tomato"
     },
-    {
+    "E": {
       "tag": "c:cbc_tomato"
     },
-    {
+    "F": {
       "tag": "c:cbc_tomato"
     },
-    {
+    "G": {
       "tag": "c:cbc_tomato"
     },
-    {
+    "H": {
       "tag": "c:cbc_tomato"
     },
-    {
+    "I": {
       "tag": "c:cbc_tomato"
     }
-  ],
+  },
   "result": {
     "item": "farmersdelight:tomato_crate"
   }

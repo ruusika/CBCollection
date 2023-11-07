@@ -1,0 +1,12 @@
+{
+  "name": "Gray Canvas Sign",
+  "icon": "farmersdelight:gray_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:gray_canvas_sign",
+      "text": "Gray. A sky at the beginning of a thunderstorm."
+    }
+  ]
+}

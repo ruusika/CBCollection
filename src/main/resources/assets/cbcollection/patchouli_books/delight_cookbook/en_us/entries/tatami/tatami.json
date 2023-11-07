@@ -1,0 +1,32 @@
+{
+  "name": "Tatami",
+  "icon": "farmersdelight:tatami",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:tatami",
+      "text": "A tatami is a type of mat used as a flooring material."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:tatami_block_from_full",
+      "text": "Tatami were originally a luxury item for the nobility. The lower classes had mat-covered earthen floors."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:full_tatami_mat",
+      "text": " Tatamis are made in standard sizes, twice as long as wide."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:full_tatami_mat_from_halves",
+      "text": "In martial arts, tatami are the floor used for training in a dojo and for competition."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:half_tatami_mat",
+      "text": "There are rules concerning the number of tatami mats and the layout of the tatami mats in a room. \"auspicious\" which form a \"T\" shape and \"inauspicious\" form a \"+\" shape."
+    }
+  ]
+}

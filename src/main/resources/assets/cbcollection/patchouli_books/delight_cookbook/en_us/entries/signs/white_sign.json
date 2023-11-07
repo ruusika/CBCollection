@@ -1,0 +1,12 @@
+{
+  "name": "White Canvas Sign",
+  "icon": "farmersdelight:white_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:white_canvas_sign",
+      "text": "White. Could be life or death. That's up to you."
+    }
+  ]
+}

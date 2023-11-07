@@ -1,0 +1,12 @@
+{
+  "name": "Light Blue Canvas Sign",
+  "icon": "farmersdelight:light_blue_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:light_blue_canvas_sign",
+      "text": "Light blue. A bright sky in the summer."
+    }
+  ]
+}

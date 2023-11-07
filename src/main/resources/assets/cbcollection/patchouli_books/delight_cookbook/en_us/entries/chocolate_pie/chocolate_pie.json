@@ -7,6 +7,16 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:chocolate_pie",
       "text": "Loved by kids. Very sweet. Take a knife and give your friends a slice."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_chocolate_pie",
+      "text": "I wonder if it stays this good when using white chocolate."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:chocolate_pie_from_slices",
+      "text": "Depending on when you add the chocolate it becomes easier to transport."
     }
   ]
 }

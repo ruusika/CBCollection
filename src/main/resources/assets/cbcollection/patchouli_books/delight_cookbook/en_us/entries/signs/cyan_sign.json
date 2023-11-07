@@ -1,0 +1,12 @@
+{
+  "name": "Cyan Canvas Sign",
+  "icon": "farmersdelight:cyan_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:cyan_canvas_sign",
+      "text": "Cyan. I always picture the sea in the south."
+    }
+  ]
+}

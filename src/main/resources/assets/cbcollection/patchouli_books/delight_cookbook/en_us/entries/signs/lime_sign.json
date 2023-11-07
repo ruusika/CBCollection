@@ -1,0 +1,12 @@
+{
+  "name": "Lime Canvas Sign",
+  "icon": "farmersdelight:lime_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:lime_canvas_sign",
+      "text": "Lime. I can't stop thinking about a certain bird."
+    }
+  ]
+}

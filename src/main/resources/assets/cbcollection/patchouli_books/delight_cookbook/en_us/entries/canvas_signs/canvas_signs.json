@@ -1,0 +1,46 @@
+{
+  "name": "Canvas Signs",
+  "icon": "farmersdelight:canvas_sign",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:canvas_sign",
+      "text": "Think of your signs being paintings. Expensive paintings."
+    },
+    {
+      "type": "patchouli:empty"
+    },
+    {
+      "type": "patchouli:relations",
+      "entries": [
+        "cbcollection:signs/white_sign",
+        "cbcollection:signs/orange_sign",
+        "cbcollection:signs/magenta_sign",
+        "cbcollection:signs/light_blue_sign",
+        "cbcollection:signs/yellow_sign",
+        "cbcollection:signs/lime_sign",
+        "cbcollection:signs/pink_sign",
+        "cbcollection:signs/purple_sign"
+      ],
+      "title": "Colorful Signs",
+      "text": "The canvas is yours."
+    },
+    {
+      "type": "patchouli:relations",
+      "entries": [
+        "cbcollection:signs/grey_sign",
+        "cbcollection:signs/light_grey_sign",
+        "cbcollection:signs/cyan_sign",
+        "cbcollection:signs/blue_sign",
+        "cbcollection:signs/brown_sign",
+        "cbcollection:signs/green_sign",
+        "cbcollection:signs/red_sign",
+        "cbcollection:signs/black_sign"
+        ],
+      "title": "Colorful Signs",
+      "text": "It's up to you now."
+    }
+
+  ]
+}

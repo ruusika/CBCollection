@@ -1,0 +1,12 @@
+{
+  "name": "Brown Canvas Sign",
+  "icon": "farmersdelight:brown_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:brown_canvas_sign",
+      "text": "Brown. Some say there isn't anything beautiful to it but what about wood?"
+    }
+  ]
+}

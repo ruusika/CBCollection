@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:apple_pie",
       "text": "Freshly baked apple pie like GranGran made it. Take a knife and give your friends a slice."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:apple_pie_from_slices",
+      "text": "If you ever made more and need an easier way to transport the leftovers home."
     }
   ]
 }

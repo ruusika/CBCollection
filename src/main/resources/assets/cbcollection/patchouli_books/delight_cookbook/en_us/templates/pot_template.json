@@ -1,65 +1,79 @@
 {
-	"components": [
-		{
-			"type": "patchouli:header",
-			"text": "#header",
-			"x": -1,
-			"y": -1
-		},
-		{
-			"type": "patchouli:item",
-			"item": "#item0",
-			"framed": true,
-			"x": 10,
-			"y": 30
-		},
-		{
-			"type": "patchouli:item",
-			"item": "#item1",
-			"framed": true,
-			"x": 33,
-			"y": 30
-		},
-		{
-			"type": "patchouli:item",
-			"item": "#item2",
-			"framed": true,
-			"x": 56,
-			"y": 30
-		},
-		{
-			"type": "patchouli:item",
-			"item": "#result",
-			"framed": true,
-			"x": 88,
-			"y": 42
-		},
-		{
-			"type": "patchouli:item",
-			"item": "#item3",
-			"framed": true,
-			"x": 10,
-			"y": 53
-		},
-		{
-			"type": "patchouli:item",
-			"item": "#item4",
-			"framed": true,
-			"x": 33,
-			"y": 53
-		},
-		{
-			"type": "patchouli:item",
-			"item": "#item5",
-			"framed": true,
-			"x": 56,
-			"y": 53
-		},
-		{
-			"type": "patchouli:text",
-			"text": "#subtext",
-			"x": 5,
-			"y": 80
-		}
-	]
+  "components": [
+    {
+      "type": "patchouli:header",
+      "text": "#header",
+      "x": -1,
+      "y": -1
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot1",
+      "framed": true,
+      "x": 12,
+      "y": 15
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot2",
+      "framed": true,
+      "x": 31,
+      "y": 15
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot3",
+      "framed": true,
+      "x": 50,
+      "y": 15
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot4",
+      "framed": true,
+      "x": 12,
+      "y": 34
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot5",
+      "framed": true,
+      "x": 31,
+      "y": 34
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot5",
+      "framed": true,
+      "x": 50,
+      "y": 34
+    },
+    {
+      "type": "patchouli:item",
+      "item": "farmersdelight:cooking_pot",
+      "framed": false,
+      "x": 70,
+      "y": 23
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#served",
+      "framed": false,
+      "x": 70,
+      "y": 38
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#result",
+      "framed": true,
+      "x": 90,
+      "y": 23
+    },
+    {
+      "type": "patchouli:text",
+      "text": "#text",
+      "x": 2,
+      "y": 57
+    }
+  ]
 }

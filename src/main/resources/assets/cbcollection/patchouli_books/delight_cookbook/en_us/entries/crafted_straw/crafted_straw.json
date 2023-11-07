@@ -1,0 +1,30 @@
+{
+	"name": "Using Straw",
+	"icon": "farmersdelight:straw",
+	"category": "cbcollection:blocks",
+	"pages": [
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:straw_bale",
+			"text": "Choose a hard flat stone surface and place bales in straight-sided stacks, round bales should be placed on their ends."
+		},
+		{
+			"type": "patchouli:empty"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:rope",
+			"text": "Ropes are intangible, but climbable blocks, behaving in a similar manner to Vines and Ladders. Can be used to ring bells."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:rope_from_safety_net",
+			"text": "Of course you can untangle a safety net to gain the ropes. It just might take a while."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:safety_net",
+			"text": "A safety net is used to protect you from injury after falling from heights by limiting the distance you fall."
+		}
+	]
+}

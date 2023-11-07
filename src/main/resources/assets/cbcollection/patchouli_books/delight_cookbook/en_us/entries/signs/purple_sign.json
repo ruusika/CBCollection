@@ -1,0 +1,12 @@
+{
+  "name": "Purple Canvas Sign",
+  "icon": "farmersdelight:purple_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:purple_canvas_sign",
+      "text": "Purple. I always think of the king's robe."
+    }
+  ]
+}

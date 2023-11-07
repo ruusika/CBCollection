@@ -1,0 +1,12 @@
+{
+  "name": "Green Canvas Sign",
+  "icon": "farmersdelight:green_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:green_canvas_sign",
+      "text": "Green. A meadow to lay down in summer."
+    }
+  ]
+}

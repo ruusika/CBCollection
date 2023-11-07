@@ -1,0 +1,12 @@
+{
+  "name": "Red Canvas Sign",
+  "icon": "farmersdelight:red_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:red_canvas_sign",
+      "text": "Red. A camping fire in the night."
+    }
+  ]
+}

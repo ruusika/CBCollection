@@ -1,0 +1,12 @@
+{
+  "name": "Orange Canvas Sign",
+  "icon": "farmersdelight:orange_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:orange_canvas_sign",
+      "text": "Orange. I can picture a dawn."
+    }
+  ]
+}

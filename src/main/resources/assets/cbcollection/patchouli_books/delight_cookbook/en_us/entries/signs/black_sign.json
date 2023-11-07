@@ -1,0 +1,12 @@
+{
+  "name": "Black Canvas Sign",
+  "icon": "farmersdelight:black_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:black_canvas_sign",
+      "text": "Black. Fresh ink on a writer's manuscript."
+    }
+  ]
+}

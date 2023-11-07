@@ -1,0 +1,12 @@
+{
+  "name": "Pink Canvas Sign",
+  "icon": "farmersdelight:pink_canvas_sign",
+  "category": "cbcollection:signs",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:pink_canvas_sign",
+      "text": "Pink. I think of those pink clouds you can eat."
+    }
+  ]
+}

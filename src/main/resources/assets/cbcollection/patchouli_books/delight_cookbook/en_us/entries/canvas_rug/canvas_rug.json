@@ -1,0 +1,12 @@
+{
+  "name": "Canvas Rug",
+  "icon": "farmersdelight:canvas_rug",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:canvas_rug",
+      "text": "It ain't a carpet. Not comfy at all but better than blank stone floor."
+    }
+  ]
+}
