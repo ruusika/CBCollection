@@ -11,14 +11,21 @@ base {
 }
 
 repositories {
-	// Add repositories to retrieve artifacts from in here.
-	// You should only use this when depending on other mods because
-	// Loom adds the essential maven repositories to download Minecraft and libraries from automatically.
-	// See https://docs.gradle.org/current/userguide/declaring_repositories.html
-	// for more information about repositories.
-
 	// Maven Repository for Patchouli
 	maven { url 'https://maven.blamejared.com' }
+
+	// Modrinth Maven Repository
+	exclusiveContent {
+		forRepository {
+			maven {
+				name = "Modrinth"
+				url = "https://api.modrinth.com/maven"
+			}
+		}
+		filter {
+			includeGroup "maven.modrinth"
+		}
+	}
 }
 
 loom {
@@ -55,6 +62,9 @@ dependencies {
 
 	// Dependency for Patchouli
 	modImplementation "vazkii.patchouli:Patchouli:${project.patchouli_version}"
+
+	// FarmersDelight Dependency
+	modImplementation "maven.modrinth:farmers-delight-fabric:${project.farmers_delight_version}"
 }
 
 processResources {
