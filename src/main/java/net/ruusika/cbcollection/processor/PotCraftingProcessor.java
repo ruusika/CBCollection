@@ -3,11 +3,13 @@ package net.ruusika.cbcollection.processor;
 import com.nhoryzon.mc.farmersdelight.recipe.CookingPotRecipe;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.item.ItemStack;
+import net.minecraft.item.Items;
 import net.minecraft.recipe.RecipeManager;
 import net.minecraft.recipe.RecipeType;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 import net.ruusika.cbcollection.CBCollection;
+import net.ruusika.cbcollection.util.LoggerUtilities;
 import vazkii.patchouli.api.IComponentProcessor;
 import vazkii.patchouli.api.IVariable;
 import vazkii.patchouli.api.IVariableProvider;
@@ -29,16 +31,17 @@ public class PotCraftingProcessor implements IComponentProcessor {
 
     @Override
     public IVariable process(String key) {
+        LoggerUtilities.devLogger(String.format("Key: %s", key));
         switch (key) {
             case "result" -> IVariable.from(recipe.getOutput());
             case "header" -> IVariable.from(recipe.getOutput().getName());
-            case "container" ->  IVariable.from(recipe.getContainer());
+            case "container" -> IVariable.from(recipe.getContainer());
         }
-
         int listedIngredientsCount = recipe.getIngredients().size();
-
-        for (int i = 0; i < listedIngredientsCount; i++) {
+        for (int i = 0; i < 6; i++) {
             if (key.equals("slot" + i)) {
+                LoggerUtilities.devLogger(String.format("Slot: %s", i));
+                if (i > listedIngredientsCount - 1) return IVariable.from(new ItemStack(Items.AIR));
                 ItemStack[] stack = recipe.getIngredients().get(i).getMatchingStacks();
                 return stack.length > 0 ? IVariable.from(stack[0]) : null;
             }

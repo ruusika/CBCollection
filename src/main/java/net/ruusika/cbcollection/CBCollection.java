@@ -21,6 +21,7 @@ public class CBCollection implements ModInitializer {
     }
 
     public static boolean isFarmerdsDelightLoaded() {
+        LoggerUtilities.devLogger("FarmersDelight is installed for CBCollection!");
         return FabricLoader.getInstance().isModLoaded(MODID_FARMERSDELIGHT);
     }
 }
