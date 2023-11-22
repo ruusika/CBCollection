@@ -33,17 +33,23 @@ public class PotCraftingProcessor implements IComponentProcessor {
     public IVariable process(String key) {
         LoggerUtilities.devLogger(String.format("Key: %s", key));
         switch (key) {
-            case "result" -> IVariable.from(recipe.getOutput());
-            case "header" -> IVariable.from(recipe.getOutput().getName());
-            case "container" -> IVariable.from(recipe.getContainer());
+            case "result" -> {
+                return IVariable.from(recipe.getOutput());
+            }
+            case "header" -> {
+                return IVariable.from(recipe.getOutput().getName());
+            }
+            case "container" -> {
+                return IVariable.from(recipe.getContainer());
+            }
         }
         int listedIngredientsCount = recipe.getIngredients().size();
         for (int i = 0; i < 6; i++) {
             if (key.equals("slot" + i)) {
                 LoggerUtilities.devLogger(String.format("Slot: %s", i));
-                if (i > listedIngredientsCount - 1) return IVariable.from(new ItemStack(Items.AIR));
+                if (i >= listedIngredientsCount) return IVariable.from(new ItemStack(Items.AIR));
                 ItemStack[] stack = recipe.getIngredients().get(i).getMatchingStacks();
-                return stack.length > 0 ? IVariable.from(stack[0]) : null;
+                return stack.length > 0 ? IVariable.from(stack) : null;
             }
         }
         return null;
