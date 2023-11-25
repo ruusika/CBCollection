@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farmersdelight:cod_slice"
+    },
+    {
+      "item": "farmersdelight:cod_slice"
+    },
+    {
+      "tag": "c:cbc_rice"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:cod_roll",
+    "count": 2
+  }
+}

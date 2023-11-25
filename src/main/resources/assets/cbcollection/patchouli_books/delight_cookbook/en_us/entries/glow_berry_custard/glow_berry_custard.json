@@ -4,16 +4,14 @@
   "category": "cbcollection:potmeals",
   "pages": [
     {
-      "type": "cbcollection:pot_template_alt",
-      "header": "Glow Berry Custard",
-      "item0": "minecraft:glow_berries",
-      "item1": "tag:c:milk",
-      "item2": "tag:c:cbc_egg",
-      "item3": "minecraft:sugar",
-      "item4": "minecraft:air",
-      "item5": "minecraft:air",
-      "result": "farmersdelight:glow_berry_custard",
-      "subtext": "A fancy dessert. So if you wanna impress your friends go ahead. Needs a bottle to be served."
+      "type": "cbcollection:pot_template",
+      "recipe": "farmersdelight:cooking/glow_berry_custard",
+      "text": "A fancy dessert. So if you wanna impress your friends go ahead."
+    },
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "c:farmersdelight/cbc_glow_berry_custard",
+      "text": "It tastes a bit like you squished some fruits and mixed it with yogurt."
     }
   ]
 }

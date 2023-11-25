@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:salmon_roll",
       "text": "Salmon on Rice. Preferably raw salmon but it works with smoked too."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_salmon_roll",
+      "text": "The next time I spice the rice a bit."
     }
   ]
 }

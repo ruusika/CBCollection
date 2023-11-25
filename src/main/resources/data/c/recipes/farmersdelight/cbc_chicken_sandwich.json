@@ -5,19 +5,16 @@
       "item": "minecraft:bread"
     },
     {
-      "item": "farmersdelight:beef_patty"
-    },
-    {
-      "tag": "c:cbc_onion"
+      "tag": "c:cooked_chicken"
     },
     {
       "tag": "c:cbc_lettuce"
     },
     {
-      "tag": "c:cbc_tomato"
+      "item": "minecraft:carrot"
     }
   ],
   "result": {
-    "item": "farmersdelight:hamburger"
+    "item": "farmersdelight:chicken_sandwich"
   }
 }

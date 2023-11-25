@@ -4,16 +4,14 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Cooked Rice",
-			"item0": "tag:c:cbc_rice",
-			"item1": "minecraft:air",
-			"item2": "minecraft:air",
-			"item3": "minecraft:air",
-			"item4": "minecraft:air",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:cooked_rice",
-			"subtext": "A basic ingredient for $(br)several advanced $(br)rice dishes. Needs a $(br)bowl to be served."
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/cooked_rice",
+			"text": "A basic ingredient for several advanced rice dishes. Don't let it burn."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_cooked_rice",
+			"text": "The rice gets some more flavour if you add an onion spicked with some carnations."
 		}
 	]
 }

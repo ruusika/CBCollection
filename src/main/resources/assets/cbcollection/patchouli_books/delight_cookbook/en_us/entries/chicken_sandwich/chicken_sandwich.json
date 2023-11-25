@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:chicken_sandwich",
       "text": "Easy to make, easy to pack in your bags....Just don't leave it in there. Trust me."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_chicken_sandwich",
+      "text": "Maybe switch the carrot with tomatoes or something similar."
     }
   ]
 }

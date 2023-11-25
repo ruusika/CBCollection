@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "tag": "c:cbc_rice"
+    },
+    "B": {
+      "item": "minecraft:carrot"
+    },
+    "C": {
+      "tag": "c:cbc_rice"
+    },
+    "D": {
+      "item": "minecraft:dried_kelp"
+    },
+    "E": {
+      "item": "minecraft:dried_kelp"
+    },
+    "F": {
+      "item": "minecraft:dried_kelp"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:kelp_roll"
+  }
+}

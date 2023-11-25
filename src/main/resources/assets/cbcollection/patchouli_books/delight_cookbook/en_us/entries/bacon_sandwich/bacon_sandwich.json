@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:bacon_sandwich",
       "text": "A real classic. Especially when the bacon is crispy."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_bacon_sandwich",
+      "text": "I might put an scrambled egg in there next time."
     }
   ]
 }

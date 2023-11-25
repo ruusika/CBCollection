@@ -6,7 +6,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:cod_roll",
-      "text": "Cod on Rice. Preferably raw salmon but it works with smoked too."
+      "text": "Cod on Rice. Preferably raw cod but it works with smoked too."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_cod_roll",
+      "text": "What if I fried the roll? This might be worth a try."
     }
   ]
 }

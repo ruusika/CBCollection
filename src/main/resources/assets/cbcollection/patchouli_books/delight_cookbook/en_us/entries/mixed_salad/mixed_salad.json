@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:mixed_salad",
       "text": "An underestimated side dish which can also served as main course."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_mixed_salad",
+      "text": "Slice up the beetroot and add some bread crumbs for the crunch."
     }
   ]
 }

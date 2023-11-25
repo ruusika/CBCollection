@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:egg_sandwich",
       "text": "Seems unconventional but it tastes pretty good actually."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_egg_sandwich",
+      "text": "I can recommend scrambled eggs instead of baked eggs."
     }
   ]
 }

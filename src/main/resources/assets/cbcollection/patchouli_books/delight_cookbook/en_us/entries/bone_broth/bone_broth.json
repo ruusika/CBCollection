@@ -4,64 +4,14 @@
   "category": "cbcollection:potmeals",
   "pages": [
     {
-      "type": "cbcollection:pot_template_alt",
-      "header": "Bone Broth",
-      "item0": "minecraft:bone",
-      "item1": "minecraft:brown_mushroom",
-      "item2": "minecraft:air",
-      "item3": "minecraft:air",
-      "item4": "minecraft:air",
-      "item5": "minecraft:air",
-      "result": "farmersdelight:bone_broth",
-      "subtext": "Something smelly for emergencies. The shrooms add at least a bit of taste"
+      "type": "cbcollection:pot_template",
+      "recipe": "farmersdelight:cooking/bone_broth",
+      "text": "Something smelly for emergencies. If I had to pick an ingredient I would choose the shrooms."
     },
     {
-      "type": "cbcollection:pot_template_alt",
-      "header": "Bone Broth",
-      "item0": "minecraft:bone",
-      "item1": "minecraft:red_mushroom",
-      "item2": "minecraft:air",
-      "item3": "minecraft:air",
-      "item4": "minecraft:air",
-      "item5": "minecraft:air",
-      "result": "farmersdelight:bone_broth",
-      "subtext": "Something smelly for emergencies. The shrooms add at least a bit of taste"
-    },
-    {
-      "type": "cbcollection:pot_template_alt",
-      "header": "Bone Broth",
-      "item0": "minecraft:bone",
-      "item1": "minecraft:glow_berries",
-      "item2": "minecraft:air",
-      "item3": "minecraft:air",
-      "item4": "minecraft:air",
-      "item5": "minecraft:air",
-      "result": "farmersdelight:bone_broth",
-      "subtext": "Something smelly for emergencies. Better than nothing. Not sure if it's better than the shrooms"
-    },
-    {
-      "type": "cbcollection:pot_template_alt",
-      "header": "Bone Broth",
-      "item0": "minecraft:bone",
-      "item1": "minecraft:hanging_roots",
-      "item2": "minecraft:air",
-      "item3": "minecraft:air",
-      "item4": "minecraft:air",
-      "item5": "minecraft:air",
-      "result": "farmersdelight:bone_broth",
-      "subtext": "Something smelly for emergencies. Dude...you are in trouble if you need to eat that."
-    },
-    {
-      "type": "cbcollection:pot_template_alt",
-      "header": "Bone Broth",
-      "item0": "minecraft:bone",
-      "item1": "minecraft:glow_lichen",
-      "item2": "minecraft:air",
-      "item3": "minecraft:air",
-      "item4": "minecraft:air",
-      "item5": "minecraft:air",
-      "result": "farmersdelight:bone_broth",
-      "subtext": "Something smelly for emergencies. Dude...you are in trouble if you need to eat that."
+      "type": "cbcollection:pot_template",
+      "recipe": "c:farmersdelight/cbc_bone_broth",
+      "text": "But if you are really really desperate you can take the liches as well."
     }
   ]
 }

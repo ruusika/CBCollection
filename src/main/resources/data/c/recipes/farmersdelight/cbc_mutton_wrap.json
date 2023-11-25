@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "tag": "c:cooked_mutton"
+    },
+    {
+      "tag": "c:cbc_lettuce"
+    },
+    {
+      "tag": "c:cbc_onion"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:mutton_wrap"
+  }
+}

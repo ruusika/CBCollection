@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:stuffed_potato",
       "text": "Pretty easy to make. I would call this a starter meal."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_stuffed_potato",
+      "text": "You can hardly do anything wrong there."
     }
   ]
 }

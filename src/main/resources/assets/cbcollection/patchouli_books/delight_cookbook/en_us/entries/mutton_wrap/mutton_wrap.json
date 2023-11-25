@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:mutton_wrap",
       "text": "You can eat it without any forks and stuff. Might try a variant with beans though..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_mutton_wrap",
+      "text": "Some people like to add chili or other spicy stuff - for me the beans are enough trouble."
     }
   ]
 }

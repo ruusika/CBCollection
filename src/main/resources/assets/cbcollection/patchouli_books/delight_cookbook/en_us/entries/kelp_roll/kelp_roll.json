@@ -6,7 +6,17 @@
     {
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:kelp_roll",
-      "text": "The classic sushi roll. You can slice it up with a knife."
+      "text": "The classic sushi roll. You can change the carrot with cucumber or raw fish."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_kelp_roll",
+      "text": "Note for next time: spice the rice with furikake and fry the rice before."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "farmersdelight:kelp_roll_slice",
+      "text": "Just be careful. The kelp or the rice can be a bit slippery at times."
     }
   ]
 }

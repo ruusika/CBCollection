@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:barbecue_stick",
       "text": "You can choose what to put on the stick. This is great."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_barbecue_stick",
+      "text": "Grill it or bake it in the oven. Just a reminder that your ingredients will behave differently."
     }
   ]
 }

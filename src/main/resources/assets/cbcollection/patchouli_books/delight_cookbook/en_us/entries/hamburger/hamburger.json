@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:hamburger",
       "text": "Some people call this a fast food. I don't get it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_hamburger",
+      "text": "Add pickles or egg or cheese and you can get a delicacy."
     }
   ]
 }

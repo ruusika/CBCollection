@@ -12,7 +12,7 @@
       "tag": "c:cbc_onion"
     },
     {
-      "tag": "cbc_dumpling_fills.json"
+      "tag": "c:cbc_dumpling_fills"
     }
   ],
   "result": {

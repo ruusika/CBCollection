@@ -2,22 +2,19 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "minecraft:beetroot"
+      "item": "minecraft:bread"
     },
     {
-      "item": "minecraft:bowl"
+      "tag": "c:cooked_bacon"
     },
     {
       "tag": "c:cbc_lettuce"
     },
     {
       "tag": "c:cbc_tomato"
-    },
-    {
-      "tag": "c:cbc_onion"
     }
   ],
   "result": {
-    "item": "farmersdelight:mixed_salad"
+    "item": "farmersdelight:bacon_sandwich"
   }
 }

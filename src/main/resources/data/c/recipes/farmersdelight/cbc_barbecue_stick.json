@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_tomato"
+    },
+    {
+      "tag": "c:cbc_onion"
+    },
+    {
+      "tag": "c:cbc_barbecue_ingredients"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:barbecue_stick"
+  }
+}

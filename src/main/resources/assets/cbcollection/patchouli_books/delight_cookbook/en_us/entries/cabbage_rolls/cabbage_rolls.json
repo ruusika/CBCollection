@@ -4,17 +4,14 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Cabbage Roll",
-			"item0": "tag:c:cbc_lettuce",
-			"item1": "tag:farmersdelight:cabbage_roll_ingredients",
-			"item2": "minecraft:air",
-			"item3": "minecraft:air",
-			"item4": "minecraft:air",
-			"item5": "minecraft:air",
-			"container": "minecraft:stick",
-			"result": "farmersdelight:cabbage_rolls",
-			"subtext": "Cooked in a pot, rolled in some cabbage. You can switch the filling with carrots, potatoes or every type of raw meat"
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/cabbage_rolls",
+			"text": "Cooked in a pot, rolled in some cabbage. They need some simmering as well."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_cabbage_rolls",
+			"text": "Depending on the fillings and the spices you can get different rolls. My sister told me about a roll called Summer Roll."
 		}
 	]
 }
