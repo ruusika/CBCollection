@@ -5,15 +5,13 @@
 	"pages": [
 		{
 			"type": "cbcollection:pot_template",
-			"header": "Tomato Sauce",
-			"item0": "tag:c:cbc_tomato",
-			"item1": "tag:c:cbc_tomato",
-			"item2": "minecraft:air",
-			"item3": "minecraft:air",
-			"item4": "minecraft:air",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:tomato_sauce",
-			"subtext": "A basic ingredient for $(br)several advanced recipies $(br)like pasta, etc. Needs a $(br)bowl to be served."
+			"recipe": "farmersdelight:cooking/tomato_sauce",
+			"text": "A basic ingredient for several advanced recipes like pasta, etc."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_tomato_sauce",
+			"text": "You can change the taste by adding spices or even basil."
 		}
 	]
 }

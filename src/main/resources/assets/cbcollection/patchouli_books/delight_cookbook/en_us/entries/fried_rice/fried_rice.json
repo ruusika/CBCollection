@@ -4,7 +4,7 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template",
+			"type": "cbcollection:pot_template_alt",
 			"header": "Fried Rice",
 			"item0": "tag:c:cbc_egg",
 			"item1": "tag:c:cbc_onion",

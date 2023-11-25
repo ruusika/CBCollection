@@ -6,7 +6,17 @@
     {
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:shepherds_pie_block",
-      "text": "Seems a bit weird but it's rich taste surprises. You need a bowl to share it."
+      "text": "Seems a bit weird but it's rich taste surprises."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_shepherds_pie_block",
+      "text": "I never thought cheese, onion and potatoes would work so well together."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "farmersdelight:shepherds_pie",
+      "text": "I don't know if you need that many onions but you might need it for the taste."
     }
   ]
 }

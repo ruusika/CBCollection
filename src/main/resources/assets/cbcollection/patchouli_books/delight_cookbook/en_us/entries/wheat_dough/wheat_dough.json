@@ -7,6 +7,26 @@
 			"type": "patchouli:crafting",
 			"recipe": "farmersdelight:wheat_dough",
 			"text": "Bread isn't just three wheat in a row right?"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:wheat_dough_from_water",
+			"text": "Carefully knead the dough till you receive the desired consistency."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:wheat_dough_from_eggs",
+			"text": "Eggs works as well as water they just might another taste to it."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "c:farmersdelight/cbc_wheat_dough_from_eggs",
+			"text": "Not sure if I prefer the use of eggs over water."
+		},
+		{
+			"type": "patchouli:smelting",
+			"recipe": "farmersdelight:bread_from_smelting",
+			"text": "Be careful that the oven is not too hot. You might get a brick."
 		}
 	]
 }

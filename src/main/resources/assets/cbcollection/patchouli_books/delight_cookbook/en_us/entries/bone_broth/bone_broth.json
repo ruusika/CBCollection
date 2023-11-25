@@ -4,7 +4,7 @@
   "category": "cbcollection:potmeals",
   "pages": [
     {
-      "type": "cbcollection:pot_template",
+      "type": "cbcollection:pot_template_alt",
       "header": "Bone Broth",
       "item0": "minecraft:bone",
       "item1": "minecraft:brown_mushroom",
@@ -16,7 +16,7 @@
       "subtext": "Something smelly for emergencies. The shrooms add at least a bit of taste"
     },
     {
-      "type": "cbcollection:pot_template",
+      "type": "cbcollection:pot_template_alt",
       "header": "Bone Broth",
       "item0": "minecraft:bone",
       "item1": "minecraft:red_mushroom",
@@ -28,7 +28,7 @@
       "subtext": "Something smelly for emergencies. The shrooms add at least a bit of taste"
     },
     {
-      "type": "cbcollection:pot_template",
+      "type": "cbcollection:pot_template_alt",
       "header": "Bone Broth",
       "item0": "minecraft:bone",
       "item1": "minecraft:glow_berries",
@@ -40,7 +40,7 @@
       "subtext": "Something smelly for emergencies. Better than nothing. Not sure if it's better than the shrooms"
     },
     {
-      "type": "cbcollection:pot_template",
+      "type": "cbcollection:pot_template_alt",
       "header": "Bone Broth",
       "item0": "minecraft:bone",
       "item1": "minecraft:hanging_roots",
@@ -52,7 +52,7 @@
       "subtext": "Something smelly for emergencies. Dude...you are in trouble if you need to eat that."
     },
     {
-      "type": "cbcollection:pot_template",
+      "type": "cbcollection:pot_template_alt",
       "header": "Bone Broth",
       "item0": "minecraft:bone",
       "item1": "minecraft:glow_lichen",

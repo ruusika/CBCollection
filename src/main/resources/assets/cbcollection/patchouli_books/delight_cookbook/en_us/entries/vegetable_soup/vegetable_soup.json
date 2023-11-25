@@ -4,7 +4,7 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template",
+			"type": "cbcollection:pot_template_alt",
 			"header": "Vegetable Soup",
 			"item0": "minecraft:carrot",
 			"item1": "tag:c:cbc_lettuce",

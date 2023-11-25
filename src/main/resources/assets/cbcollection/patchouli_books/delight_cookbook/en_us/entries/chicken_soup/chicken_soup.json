@@ -4,7 +4,7 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template",
+			"type": "cbcollection:pot_template_alt",
 			"header": "Chicken Soup",
 			"item0": "tag:c:raw_chicken",
 			"item1": "tag:c:cbc_lettuce",

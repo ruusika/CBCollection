@@ -4,7 +4,7 @@
   "category": "cbcollection:potmeals",
   "pages": [
     {
-      "type": "cbcollection:pot_template",
+      "type": "cbcollection:pot_template_alt",
       "header": "Mushroom Rice",
       "item0": "minecraft:brown_mushroom",
       "item1": "minecraft:red_mushroom",

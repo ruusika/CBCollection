@@ -6,7 +6,17 @@
     {
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:honey_glazed_ham_block",
-      "text": "Honey works wonders with ham. You need a bowl to share it."
+      "text": "Honey works wonders with ham. Use it before you smoke the ham."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_honey_glazed_ham_block",
+      "text": "The berries add a little more sweetness to the honey and bring contrast to the rice."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "farmersdelight:honey_glazed_ham",
+      "text": "The longer you let the ham smoke the more you get a smokey aroma which you might like or not."
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "processor": "net.ruusika.cbcollection.processor.PotCraftingProcessor",
   "components": [
     {
       "type": "patchouli:header",
@@ -8,35 +9,35 @@
     },
     {
       "type": "patchouli:item",
-      "item": "#slot1",
+      "item": "#slot0",
       "framed": true,
       "x": 12,
       "y": 15
     },
     {
       "type": "patchouli:item",
-      "item": "#slot2",
+      "item": "#slot1",
       "framed": true,
       "x": 31,
       "y": 15
     },
     {
       "type": "patchouli:item",
-      "item": "#slot3",
+      "item": "#slot2",
       "framed": true,
       "x": 50,
       "y": 15
     },
     {
       "type": "patchouli:item",
-      "item": "#slot4",
+      "item": "#slot3",
       "framed": true,
       "x": 12,
       "y": 34
     },
     {
       "type": "patchouli:item",
-      "item": "#slot5",
+      "item": "#slot4",
       "framed": true,
       "x": 31,
       "y": 34
@@ -57,7 +58,7 @@
     },
     {
       "type": "patchouli:item",
-      "item": "#served",
+      "item": "#container",
       "framed": false,
       "x": 70,
       "y": 38

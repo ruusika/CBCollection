@@ -4,7 +4,7 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template",
+			"type": "cbcollection:pot_template_alt",
 			"header": "Cooked Rice",
 			"item0": "tag:c:cbc_rice",
 			"item1": "minecraft:air",

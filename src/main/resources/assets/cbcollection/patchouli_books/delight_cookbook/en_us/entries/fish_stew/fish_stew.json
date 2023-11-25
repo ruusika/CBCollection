@@ -4,7 +4,7 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template",
+			"type": "cbcollection:pot_template_alt",
 			"header": "Fish Stew",
 			"item0": "tag:c:raw_fishes",
 			"item1": "farmersdelight:tomato_sauce",

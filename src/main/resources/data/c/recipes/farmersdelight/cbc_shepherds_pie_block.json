@@ -5,28 +5,28 @@
       "tag": "c:cbc_onion"
     },
     {
-      "tag": "c:cbc_onion"
-    },
-    {
       "tag": "c:cbc_milk"
     },
     {
-      "tag": "fabric:cooked_mutton"
+      "tag": "c:cbc_onion"
     },
     {
-      "tag": "fabric:cooked_mutton"
+      "tag": "c:cooked_mutton"
     },
     {
-      "tag": "fabric:cooked_mutton"
+      "tag": "c:cooked_mutton"
     },
     {
-      "item": "minecraft:baked_potato"
+      "tag": "c:cooked_mutton"
     },
     {
       "item": "minecraft:baked_potato"
     },
     {
       "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:baked_potato"
     }
   ],
   "result": {

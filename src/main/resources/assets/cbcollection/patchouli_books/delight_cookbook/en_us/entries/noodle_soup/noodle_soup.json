@@ -4,7 +4,7 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template",
+			"type": "cbcollection:pot_template_alt",
 			"header": "Noodle Soup",
 			"item0": "farmersdelight:raw_pasta",
 			"item1": "tag:c:cbc_fried_egg",

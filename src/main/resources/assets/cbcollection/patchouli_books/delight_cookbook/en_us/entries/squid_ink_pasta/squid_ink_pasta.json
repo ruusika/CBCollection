@@ -4,7 +4,7 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template",
+			"type": "cbcollection:pot_template_alt",
 			"header": "Squid Ink Pasta",
 			"item0": "farmersdelight:raw_pasta",
 			"item1": "farmersdelight:tomato",

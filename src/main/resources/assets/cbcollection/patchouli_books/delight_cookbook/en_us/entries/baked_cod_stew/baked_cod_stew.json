@@ -4,7 +4,7 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template",
+			"type": "cbcollection:pot_template_alt",
 			"header": "Baked Cod Stew",
 			"item0": "tag:c:raw_fishes",
 			"item1": "minecraft:potato",

@@ -4,8 +4,9 @@
   "category": "cbcollection:potmeals",
   "pages": [
     {
-      "type": "cbcollection:cooking_pot_template",
-      "recipe": "c:farmersdelight/cabbage_rolls"
+      "type": "cbcollection:pot_template",
+      "recipe": "c:farmersdelight/cabbage_rolls",
+      "text": "TEST!"
     }
   ]
 }

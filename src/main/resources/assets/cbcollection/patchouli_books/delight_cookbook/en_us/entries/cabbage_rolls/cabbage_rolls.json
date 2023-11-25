@@ -4,7 +4,7 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template",
+			"type": "cbcollection:pot_template_alt",
 			"header": "Cabbage Roll",
 			"item0": "tag:c:cbc_lettuce",
 			"item1": "tag:farmersdelight:cabbage_roll_ingredients",

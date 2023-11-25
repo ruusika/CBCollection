@@ -1,0 +1,17 @@
+{
+  "name": "Canvas",
+  "icon": "farmersdelight:canvas",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:canvas",
+      "text": "Carefully weave the straws into a basic canvas."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "farmersdelight:canvas_from_canvas_rug",
+      "text": "If you pull out the sewing you can re-use this rug as a canvas."
+    }
+  ]
+}

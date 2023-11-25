@@ -6,7 +6,7 @@
 		{
 			"type": "patchouli:crafting",
 			"recipe": "farmersdelight:milk_bottle",
-			"text": "Some milk in a bottle."
+			"text": "Some milk in a bottle. If you are careful enough you manage to fill four bottles with one bucket."
 		}
 	]
 }

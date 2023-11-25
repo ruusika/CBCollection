@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "farmersdelight:smoked_ham"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "c:cbc_rice"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:honey_glazed_ham_block"
+  }
+}

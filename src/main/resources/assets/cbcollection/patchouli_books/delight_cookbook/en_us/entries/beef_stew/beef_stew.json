@@ -4,7 +4,7 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template",
+			"type": "cbcollection:pot_template_alt",
 			"header": "Beef Stew",
 			"slot1": "tag:c:raw_beef",
 			"slot2": "minecraft:carrot",

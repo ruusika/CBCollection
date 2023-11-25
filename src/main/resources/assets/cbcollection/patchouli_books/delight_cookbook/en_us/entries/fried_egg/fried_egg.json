@@ -4,11 +4,9 @@
 	"category": "cbcollection:ingredients",
 	"pages": [
 		{
-			"type": "cbcollection:smithing_addon_template",
-			"header": "Fried Egg",
-			"result0": "minecraft:egg",
-			"cooked": "farmersdelight:fried_egg",
-			"subtext": "An essential ingredient for breakfast and sandwiches. Can be done in a skillet as well."
+			"type": "patchouli:smelting",
+			"recipe": "farmersdelight:fried_egg",
+			"text": "You can do this one in the oven, on the grill, in the skilled or even in the smoker. The state and taste just change a bit."
 		}
 	]
 }

@@ -5,16 +5,8 @@
   "pages": [
     {
       "type": "cbcollection:pot_template",
-      "header": "Apple Cider",
-      "slot1": "minecraft:apple",
-      "slot2": "minecraft:apple",
-      "slot3": "minecraft:sugar",
-      "slot4": "minecraft:air",
-      "slot5": "minecraft:air",
-      "slot6": "minecraft:air",
-      "result": "farmersdelight:apple_cider",
-      "served": "minecraft:glass_bottle",
-      "text": "If you ever thought apple juice can't be an alcoholic beverage."
+      "recipe": "farmersdelight:cooking/apple_cider",
+      "text": "If you ever thought apple juice can't be an alcoholic beverage. I just don't like it. Tastes like wine."
     }
   ]
 }

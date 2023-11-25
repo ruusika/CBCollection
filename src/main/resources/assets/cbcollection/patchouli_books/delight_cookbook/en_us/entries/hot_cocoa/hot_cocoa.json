@@ -5,15 +5,13 @@
 	"pages": [
 		{
 			"type": "cbcollection:pot_template",
-			"header": "Hot Cocoa",
-			"item0": "tag:c:cbc_milk",
-			"item1": "minecraft:cocoa_beans",
-			"item2": "minecraft:cocoa_beans",
-			"item3": "minecraft:air",
-			"item4": "minecraft:sugar",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:hot_cocoa",
-			"subtext": "A drink to warm you up in winter or cold nights. Needs a bottle to be served."
+			"recipe": "farmersdelight:cooking/hot_cocoa",
+			"text": "A drink to warm you up in winter or cold nights."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_hot_cocoa",
+			"text": "Depending on what kind and on how much beans you use it might get a bit bitter."
 		}
 	]
 }

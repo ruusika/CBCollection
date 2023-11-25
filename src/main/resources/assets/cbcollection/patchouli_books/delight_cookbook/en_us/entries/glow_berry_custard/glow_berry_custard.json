@@ -4,7 +4,7 @@
   "category": "cbcollection:potmeals",
   "pages": [
     {
-      "type": "cbcollection:pot_template",
+      "type": "cbcollection:pot_template_alt",
       "header": "Glow Berry Custard",
       "item0": "minecraft:glow_berries",
       "item1": "tag:c:milk",

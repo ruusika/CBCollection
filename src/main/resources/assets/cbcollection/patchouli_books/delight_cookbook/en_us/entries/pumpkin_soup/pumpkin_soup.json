@@ -4,7 +4,7 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template",
+			"type": "cbcollection:pot_template_alt",
 			"header": "Pumpkin Soup",
 			"item0": "farmersdelight:pumpkin_slice",
 			"item1": "tag:c:cbc_lettuce",

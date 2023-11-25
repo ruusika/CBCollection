@@ -5,12 +5,21 @@
 	"pages": [
 		{
 			"type": "patchouli:crafting",
-			"recipe": "farmersdelight:raw_pasta_from_eggs",
-			"recipe2": "farmersdelight:raw_pasta_from_water"
+			"recipe": "farmersdelight:raw_pasta_from_water",
+			"text": "In all honesty...Please don't eat them raw. Cook them and make good pasta dishes from them."
 		},
 		{
-			"type": "patchouli:text",
-			"text": "Just don't eat it raw like some people do."
+			"type": "patchouli:empty"
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:raw_pasta_from_eggs",
+			"text": "This version is a bit more inefficient than the water-based one."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "c:farmersdelight/cbc_raw_pasta_from_eggs",
+			"text": "Be careful. The eggs add another flavour to your pasta and to your dish as well."
 		}
 	]
 }

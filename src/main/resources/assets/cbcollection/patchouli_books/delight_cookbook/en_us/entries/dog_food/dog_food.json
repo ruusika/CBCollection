@@ -4,7 +4,7 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template",
+			"type": "cbcollection:pot_template_alt",
 			"header": "Dog Food",
 			"item0": "minecraft:rabbit",
 			"item1": "minecraft:rotten_flesh",

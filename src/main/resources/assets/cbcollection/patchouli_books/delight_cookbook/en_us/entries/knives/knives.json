@@ -6,20 +6,27 @@
 		{
 			"type": "patchouli:crafting",
 			"recipe": "farmersdelight:flint_knife",
-			"recipe2": "farmersdelight:iron_knife"
+			"text": "A very very basic yet beautiful knife. Some far-eastern cook I met swears on it."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:iron_knife",
+			"text": "Way more durable than flint, not as beautiful though."
 		},
 		{
 			"type": "patchouli:crafting",
 			"recipe": "farmersdelight:golden_knife",
-			"recipe2": "farmersdelight:diamond_knife"
+			"text": "You probably use a gold knife if you have way too many coins in my opinion..."
 		},
 		{
-			"type": "cbcollection:smithing_template",
-			"header": "Netherite Knife",
-			"item0": "farmersdelight:diamond_knife",
-			"item1": "minecraft:netherite_ingot",
-			"result": "farmersdelight:netherite_knife",
-			"subtext": "Your go-to tool for getting straw and cutting your ingridients. Animals usually drop more when a knife is in used. The Netherite Knife has to be crafted in a smithing table"
+			"type": "patchouli:crafting",
+			"recipe": "farmersdelight:diamond_knife",
+			"text": "Very very durable but extremely expensive. Not sure if it's worth your family savings."
+		},
+		{
+			"type": "patchouli:smithing",
+			"recipe": "farmersdelight:netherite_knife_smithing",
+			"text": "Very very durable but extremely expensive. Not sure if it's worth your family savings."
 		}
 	]
 }

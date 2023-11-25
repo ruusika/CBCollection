@@ -12,6 +12,9 @@
   "result": {
     "item": "farmersdelight:tomato_sauce"
   },
+  "container":{
+    "item": "minecraft:bowl"
+  },
   "experience": 1.0,
   "cookingtime": 200
 }

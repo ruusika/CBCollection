@@ -4,7 +4,7 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template",
+			"type": "cbcollection:pot_template_alt",
 			"header": "Ratatouille",
 			"item0": "minecraft:beetroot",
 			"item1": "tag:c:cbc_tomato",

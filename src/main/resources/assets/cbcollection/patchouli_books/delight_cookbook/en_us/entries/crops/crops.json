@@ -113,6 +113,11 @@
 		},
 		{
 			"type": "patchouli:spotlight",
+			"item": "farmersdelight:rotten_tomato",
+			"text": "I don't know how you get one but I haven't farmed a rotten one yet."
+		},
+		{
+			"type": "patchouli:spotlight",
 			"item": "farmersdelight:sandy_shrub",
 			"text": "I havn't found any use for it, nor any hint on where it's found but I can't just leave it out of the book you know?"
 		}

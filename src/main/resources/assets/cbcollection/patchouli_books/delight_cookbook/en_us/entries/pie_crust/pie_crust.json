@@ -6,7 +6,12 @@
 		{
 			"type": "patchouli:crafting",
 			"recipe": "farmersdelight:pie_crust",
-			"text": "Most pies need a good crust."
+			"text": "Most pies need a good crust or better a floor."
+		},
+		{
+			"type": "patchouli:crafting",
+			"recipe": "c:farmersdelight/cbc_pie_crust",
+			"text": "It's easily made. Just don't use too much milk."
 		}
 	]
 }

@@ -5,16 +5,18 @@
 	"pages": [
 		{
 			"type": "cbcollection:pot_template",
-			"header": "Stuffed Pumpkin",
-			"slot1": "tag:c:crops/rice",
-			"slot2": "tag:c:vegetables/onion",
-			"slot3": "minecraft:brown_mushroom",
-			"slot4": "minecraft:potato",
-			"slot5": "tag:c:berries",
-			"slot6": "tag:c:vegetables",
-			"result": "farmersdelight:stuffed_pumpkin_block",
-			"served": "minecraft:pumpkin",
-			"text": "A feast to celebrate fall. Needs a pumpkin to fill it in."
+			"recipe": "farmersdelight:cooking/stuffed_pumpkin_block",
+			"text": "A feast to celebrate fall. The mushrooms are a key ingredient."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_stuffed_pumpkin_block",
+			"text": "The filling differs from garden to garden. Depending on what grew there."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "farmersdelight:stuffed_pumpkin",
+			"text": "You might try to use different pumpkins to add more flavour."
 		}
 	]
 }
