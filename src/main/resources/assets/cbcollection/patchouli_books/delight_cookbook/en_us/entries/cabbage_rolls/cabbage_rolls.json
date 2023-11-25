@@ -12,6 +12,7 @@
 			"item3": "minecraft:air",
 			"item4": "minecraft:air",
 			"item5": "minecraft:air",
+			"container": "minecraft:stick",
 			"result": "farmersdelight:cabbage_rolls",
 			"subtext": "Cooked in a pot, rolled in some cabbage. You can switch the filling with carrots, potatoes or every type of raw meat"
 		}

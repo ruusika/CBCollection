@@ -1,0 +1,80 @@
+{
+  "processor": "net.ruusika.cbcollection.processor.PotCraftingProcessor",
+  "components": [
+    {
+      "type": "patchouli:header",
+      "text": "#header",
+      "x": -1,
+      "y": -1
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot0",
+      "framed": true,
+      "x": 12,
+      "y": 15
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot1",
+      "framed": true,
+      "x": 31,
+      "y": 15
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot2",
+      "framed": true,
+      "x": 50,
+      "y": 15
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot3",
+      "framed": true,
+      "x": 12,
+      "y": 34
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot4",
+      "framed": true,
+      "x": 31,
+      "y": 34
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot5",
+      "framed": true,
+      "x": 50,
+      "y": 34
+    },
+    {
+      "type": "patchouli:item",
+      "item": "farmersdelight:cooking_pot",
+      "framed": false,
+      "x": 70,
+      "y": 23
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#container",
+      "framed": false,
+      "x": 70,
+      "y": 38
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#result",
+      "framed": true,
+      "x": 90,
+      "y": 23
+    },
+    {
+      "type": "patchouli:text",
+      "text": "#text",
+      "x": 2,
+      "y": 57
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Test entry",
+  "icon": "farmersdelight:squid_ink_pasta",
+  "category": "cbcollection:potmeals",
+  "pages": [
+    {
+      "type": "cbcollection:cooking_pot_template",
+      "recipe": "c:farmersdelight/cabbage_rolls"
+    }
+  ]
+}
