@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:steak_and_potatoes",
       "text": "You still need to choose how raw you like your steak. I won't judge you."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_steak_and_potatoes",
+      "text": "The rice and the potatoes work really really well together. I might not need any sauce after all."
     }
   ]
 }

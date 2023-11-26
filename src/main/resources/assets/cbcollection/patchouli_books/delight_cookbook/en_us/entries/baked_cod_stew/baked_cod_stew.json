@@ -4,16 +4,14 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Baked Cod Stew",
-			"item0": "tag:c:raw_fishes",
-			"item1": "minecraft:potato",
-			"item2": "tag:c:cbc_egg",
-			"item3": "tag:c:cbc_tomato",
-			"item4": "minecraft:air",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:baked_cod_stew",
-			"subtext": "A fancier version of a fish stew. Baked and with more vegetables. Needs a bowl to be served"
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/baked_cod_stew",
+			"text": "A fancier version of a fish stew. Baked and with more vegetables."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_baked_cod_stew",
+			"text": "It's a very light dish in comparison to a fish stew. Can recommend for dinner."
 		}
 	]
 }

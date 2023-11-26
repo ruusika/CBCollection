@@ -4,16 +4,8 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Beef Stew",
-			"slot1": "tag:c:raw_beef",
-			"slot2": "minecraft:carrot",
-			"slot3": "minecraft:potato",
-			"slot4": "minecraft:air",
-			"slot5": "minecraft:air",
-			"slot6": "minecraft:air",
-			"result": "farmersdelight:beef_stew",
-			"served": "minecraft:bowl",
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/beef_stew",
 			"text": "A meal with a very strong taste. I think the pepper is at fault here."
 		}
 	]

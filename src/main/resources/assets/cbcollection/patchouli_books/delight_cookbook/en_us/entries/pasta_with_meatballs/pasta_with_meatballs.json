@@ -4,16 +4,9 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Pasta with Meatballs",
-			"item0": "farmersdelight:raw_pasta",
-			"item1": "farmersdelight:minced_beef",
-			"item2": "farmersdelight:tomato_sauce",
-			"item3": "minecraft:air",
-			"item4": "minecraft:air",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:pasta_with_meatballs",
-			"subtext": "A common dish from the pot. Some like it with cheese as well. Needs a bowl to be served."
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/pasta_with_meatballs",
+			"text": "A common dish from the pot. Some like it with cheese as well. Someone called this a dish from the north...This is typically southern."
 		}
 	]
 }

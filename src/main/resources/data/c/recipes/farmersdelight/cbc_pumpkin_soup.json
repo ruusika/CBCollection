@@ -3,20 +3,23 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:cbc_milk"
+      "item": "farmersdelight:pumpkin_slice"
     },
     {
       "tag": "c:cbc_lettuce"
     },
     {
-      "item": "farmersdelight:pumpkin_slice"
+      "tag": "c:raw_pork"
     },
     {
-      "tag": "fabric:raw_pork"
+      "tag": "c:cbc_milk"
     }
   ],
   "result": {
     "item": "farmersdelight:pumpkin_soup"
+  },
+  "container":{
+    "item": "minecraft:bowl"
   },
   "experience": 1.0,
   "cookingtime": 200

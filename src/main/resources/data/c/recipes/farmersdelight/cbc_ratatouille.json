@@ -3,17 +3,23 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
+      "tag": "c:cbc_tomato"
+    },
+    {
       "tag": "c:cbc_onion"
     },
     {
-      "tag": "minecraft:fishes"
+      "item": "minecraft:beetroot"
     },
     {
-      "item": "farmersdelight:tomato_sauce"
+      "tag": "c:vegetables"
     }
   ],
   "result": {
-    "item": "farmersdelight:fish_stew"
+    "item": "farmersdelight:ratatouille"
+  },
+  "container":{
+    "item": "minecraft:bowl"
   },
   "experience": 1.0,
   "cookingtime": 200

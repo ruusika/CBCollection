@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:roasted_mutton_chops",
       "text": "You might know them as lamb chops. Tomato and cooked rice will add a special flavour."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "cfarmersdelight/cbc_roasted_mutton_chops",
+      "text": "This dish is a bit heavier on the stomach but worth every bite."
     }
   ]
 }

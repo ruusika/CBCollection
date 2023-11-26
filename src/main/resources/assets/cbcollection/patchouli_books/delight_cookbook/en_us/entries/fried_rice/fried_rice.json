@@ -4,16 +4,14 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Fried Rice",
-			"item0": "tag:c:cbc_egg",
-			"item1": "tag:c:cbc_onion",
-			"item2": "minecraft:carrot",
-			"item3": "tag:c:cbc_rice",
-			"item4": "minecraft:air",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:fried_rice",
-			"subtext": "Roast it a bit in the pot. Needs a bowl to be served"
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/fried_rice",
+			"text": "Roast it a bit in the pot. Then add your preferred vegetables."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_fried_rice",
+			"text": "I like fried rice with egg and spicy sauce more than with vegetables."
 		}
 	]
 }

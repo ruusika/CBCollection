@@ -4,16 +4,14 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Vegetable Soup",
-			"item0": "minecraft:carrot",
-			"item1": "tag:c:cbc_lettuce",
-			"item2": "minecraft:air",
-			"item3": "minecraft:potato",
-			"item4": "minecraft:beetroot",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:vegetable_soup",
-			"subtext": "A healthy soup. Not everyone might like it. Needs a bowl to be served"
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/vegetable_soup",
+			"text": "A healthy soup. Not everyone might like it."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_vegetable_soup",
+			"text": "I mostly hate the consistency of this kind of soup."
 		}
 	]
 }

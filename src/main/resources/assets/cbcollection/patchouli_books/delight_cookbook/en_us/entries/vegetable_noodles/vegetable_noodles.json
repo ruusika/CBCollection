@@ -4,16 +4,14 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Vegetable Noodles",
-			"item0": "minecraft:carrot",
-			"item1": "tag:c:cbc_lettuce",
-			"item2": "farmersdelight:raw_pasta",
-			"item3": "minecraft:brown_mushroom",
-			"item4": "tag:fabric:vegetables",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:vegetable_noodles",
-			"subtext": "An alternative to pasta with meat. Liked by vegetarian species. Needs a bowl to be served."
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/vegetable_noodles",
+			"text": "An alternative to pasta with meat. Loved by vegetarians."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_vegetable_noodles",
+			"text": "They change their flavour based on the added vegges."
 		}
 	]
 }

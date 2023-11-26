@@ -4,16 +4,14 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Ratatouille",
-			"item0": "minecraft:beetroot",
-			"item1": "tag:c:cbc_tomato",
-			"item2": "tag:c:cbc_onion",
-			"item3": "tag:fabric:vegetables",
-			"item4": "minecraft:air",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:ratatouille",
-			"subtext": "A stew-like dish as I know.  Needs a bowl to be served."
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/ratatouille",
+			"text": "A stew-like dish as I know. As far as I know it is considered a farmer's dish."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_ratatouille",
+			"text": "Why do I have to think of a fairytale involving a cooking rat?"
 		}
 	]
 }

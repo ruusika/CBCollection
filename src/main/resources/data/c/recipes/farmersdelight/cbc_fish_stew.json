@@ -3,20 +3,20 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:cbc_lettuce"
+      "tag": "minecraft:fishes"
     },
     {
-      "item": "minecraft:carrot"
+      "item": "farmersdelight:tomato_sauce"
     },
     {
-      "item": "minecraft:potato"
-    },
-    {
-      "item": "minecraft:beetroot"
+      "tag": "c:cbc_onion"
     }
   ],
   "result": {
-    "item": "farmersdelight:vegetable_soup"
+    "item": "farmersdelight:fish_stew"
+  },
+  "container":{
+    "item": "minecraft:bowl"
   },
   "experience": 1.0,
   "cookingtime": 200

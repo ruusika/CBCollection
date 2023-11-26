@@ -3,20 +3,23 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:cbc_lettuce"
-    },
-    {
-      "tag": "c:veges"
+      "tag": "c:raw_chicken"
     },
     {
       "item": "minecraft:carrot"
     },
     {
-      "tag": "fabric:raw_chicken"
+      "tag": "c:cbc_lettuce"
+    },
+    {
+      "tag": "c:vegetables"
     }
   ],
   "result": {
     "item": "farmersdelight:chicken_soup"
+  },
+  "container":{
+    "item": "minecraft:bowl"
   },
   "experience": 1.0,
   "cookingtime": 200

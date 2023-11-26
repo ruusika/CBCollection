@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "farmersdelight:grilled_salmon",
       "text": "The berries and the onion are working surprisingly well together..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:farmersdelight/cbc_grilled_salmon",
+      "text": "The taste of grilled salmon is just something unique."
     }
   ]
 }

@@ -6,17 +6,20 @@
       "tag": "minecraft:fishes"
     },
     {
+      "item": "farmersdelight:raw_pasta"
+    },
+    {
       "tag": "c:cbc_tomato"
     },
     {
       "item": "minecraft:ink_sac"
-    },
-    {
-      "item": "farmersdelight:raw_pasta"
     }
   ],
   "result": {
     "item": "farmersdelight:squid_ink_pasta"
+  },
+  "container":{
+    "item": "minecraft:bowl"
   },
   "experience": 1.0,
   "cookingtime": 200

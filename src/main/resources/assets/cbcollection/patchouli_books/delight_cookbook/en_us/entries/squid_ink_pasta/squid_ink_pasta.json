@@ -4,16 +4,14 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Squid Ink Pasta",
-			"item0": "farmersdelight:raw_pasta",
-			"item1": "farmersdelight:tomato",
-			"item2": "tag:c:raw_fishes",
-			"item3": "minecraft:air",
-			"item4": "minecraft:ink_sac",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:squid_ink_pasta",
-			"subtext": "A blue colored pasta with a fishy taste.  Needs a bowl to be served."
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/squid_ink_pasta",
+			"text": "A blue colored pasta with a fishy taste. Looks not edible."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_squid_ink_pasta",
+			"text": "Also I am not so fond of squid. Ew..."
 		}
 	]
 }

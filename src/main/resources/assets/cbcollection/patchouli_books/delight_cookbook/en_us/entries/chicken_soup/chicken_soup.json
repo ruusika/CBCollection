@@ -4,16 +4,14 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Chicken Soup",
-			"item0": "tag:c:raw_chicken",
-			"item1": "tag:c:cbc_lettuce",
-			"item2": "minecraft:carrot",
-			"item3": "tag:c:cbc_tomato",
-			"item4": "minecraft:air",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:chicken_soup",
-			"subtext": "A healthy soup. Cooked with a complete chicken or cuts of it. Needs a bowl to be served"
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/chicken_soup",
+			"text": "A healthy soup. Cooked with a complete chicken or cuts of it."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_chicken_soup",
+			"text": "My father would always cook it whenever I was sick."
 		}
 	]
 }

@@ -4,16 +4,14 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Noodle Soup",
-			"item0": "farmersdelight:raw_pasta",
-			"item1": "tag:c:cbc_fried_egg",
-			"item2": "minecraft:dried_kelp",
-			"item3": "tag:c:raw_pork",
-			"item4": "minecraft:air",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:noodle_soup",
-			"subtext": "A healthy and tasty soup. Needs a bowl to be served"
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/noodle_soup",
+			"text": "A healthy and tasty soup. Also very easy to make."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_noodle_soup",
+			"text": "Very tasty when sick or when having a hangover."
 		}
 	]
 }

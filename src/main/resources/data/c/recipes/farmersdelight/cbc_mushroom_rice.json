@@ -3,20 +3,23 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:cbc_egg"
+      "item": "minecraft:brown_mushroom"
     },
     {
-      "tag": "c:cbc_tomato"
+      "item": "minecraft:red_mushroom"
     },
     {
-      "tag": "fabric:raw_fishes"
+      "tag": "c:cbc_rice"
     },
     {
       "item": "minecraft:potato"
     }
   ],
   "result": {
-    "item": "farmersdelight:baked_cod_stew"
+    "item": "farmersdelight:mushroom_rice"
+  },
+  "container":{
+    "item": "minecraft:bowl"
   },
   "experience": 1.0,
   "cookingtime": 200

@@ -4,16 +4,14 @@
   "category": "cbcollection:potmeals",
   "pages": [
     {
-      "type": "cbcollection:pot_template_alt",
-      "header": "Mushroom Rice",
-      "item0": "minecraft:brown_mushroom",
-      "item1": "minecraft:red_mushroom",
-      "item2": "tag:c:cbc_rice",
-      "item3": "minecraft:potato",
-      "item4": "minecraft:air",
-      "item5": "minecraft:air",
-      "result": "farmersdelight:mushroom_rice",
-      "subtext": "No weird shrooms. I promise."
+      "type": "cbcollection:pot_template",
+      "recipe": "farmersdelight:cooking/mushroom_rice",
+      "text": "No weird shrooms. I promise."
+    },
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "c:farmersdelight/cbc_mushroom_rice",
+      "text": "I just hope you haven't put any living shrooms in there."
     }
   ]
 }

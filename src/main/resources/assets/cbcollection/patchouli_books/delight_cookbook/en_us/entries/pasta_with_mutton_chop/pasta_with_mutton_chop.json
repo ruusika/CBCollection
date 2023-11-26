@@ -4,16 +4,9 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Pasta with Meatballs",
-			"item0": "tag:c:raw_mutton",
-			"item1": "farmersdelight:raw_pasta",
-			"item2": "farmersdelight:tomato_sauce",
-			"item3": "minecraft:air",
-			"item4": "minecraft:air",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:pasta_with_mutton_chop",
-			"subtext": "An alternative to meatball pasta. Needs a bowl to be served."
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/pasta_with_mutton_chop",
+			"text": "An alternative to meatball pasta. It's actually pretty great."
 		}
 	]
 }

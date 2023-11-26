@@ -4,16 +4,14 @@
 	"category": "cbcollection:potmeals",
 	"pages": [
 		{
-			"type": "cbcollection:pot_template_alt",
-			"header": "Pumpkin Soup",
-			"item0": "farmersdelight:pumpkin_slice",
-			"item1": "tag:c:cbc_lettuce",
-			"item2": "tag:c:raw_pork",
-			"item3": "tag:c:cbc_milk",
-			"item4": "minecraft:air",
-			"item5": "minecraft:air",
-			"result": "farmersdelight:pumpkin_soup",
-			"subtext": "A soup commonly served in fall. Needs a bowl to be served"
+			"type": "cbcollection:pot_template",
+			"recipe": "farmersdelight:cooking/pumpkin_soup",
+			"text": "A soup commonly served in fall."
+		},
+		{
+			"type": "cbcollection:pot_template",
+			"recipe": "c:farmersdelight/cbc_pumpkin_soup",
+			"text": "It gets very good if you add fried bread crumbs into the soup."
 		}
 	]
 }

@@ -6,17 +6,20 @@
       "item": "farmersdelight:raw_pasta"
     },
     {
-      "tag": "fabric:raw_pork"
+      "tag": "c:cbc_fried_egg"
     },
     {
       "item": "minecraft:dried_kelp"
     },
     {
-      "tag": "c:cbc_fried_egg"
+      "tag": "c:raw_pork"
     }
   ],
   "result": {
     "item": "farmersdelight:noodle_soup"
+  },
+  "container":{
+    "item": "minecraft:bowl"
   },
   "experience": 1.0,
   "cookingtime": 200
