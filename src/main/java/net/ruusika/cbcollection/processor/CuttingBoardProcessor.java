@@ -31,10 +31,9 @@ public class CuttingBoardProcessor implements IComponentProcessor {
         LoggerUtilities.devLogger(String.format("Key: %s", key));
         return switch (key) {
             case "header" -> IVariable.from(recipe.getOutput().getName());
-            case "item0" -> IVariable.from(recipe.getIngredients().get(0));
-            case "item1" -> IVariable.from(recipe.getIngredients().get(1));
-            case "result" -> IVariable.from(recipe.getResultList().get(0));
-            case "result2" -> IVariable.from(recipe.getResultList().get(1));
+            case "slot0" -> IVariable.from(recipe.getIngredients().get(0));
+            case "result0" -> IVariable.from(recipe.getResultList().get(0));
+            case "result1" -> IVariable.from(recipe.getResultList().get(1));
             case "tool" -> IVariable.from(recipe.getTool().getMatchingStacks());
             default -> null;
         };

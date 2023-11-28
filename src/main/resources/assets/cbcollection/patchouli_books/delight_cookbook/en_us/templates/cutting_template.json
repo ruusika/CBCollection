@@ -1,4 +1,5 @@
 {
+  "processor": "net.ruusika.cbcollection.processor.CuttingBoardProcessor",
   "components": [
     {
       "type": "patchouli:header",
@@ -8,14 +9,14 @@
     },
     {
       "type": "patchouli:item",
-      "item": "#slot0",
+      "item": "#tool",
       "framed": true,
       "x": 20,
       "y": 30
     },
     {
       "type": "patchouli:item",
-      "item": "#slot1",
+      "item": "#slot0",
       "framed": true,
       "x": 54,
       "y": 30
