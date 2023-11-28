@@ -29,9 +29,14 @@ public class CuttingBoardProcessor implements IComponentProcessor {
     @Override
     public IVariable process(String key) {
         LoggerUtilities.devLogger(String.format("Key: %s", key));
-
-        // TODO: implement keys from cutting board template
-
-        return null;
+        return switch (key) {
+            case "header" -> IVariable.from(recipe.getOutput().getName());
+            case "item0" -> IVariable.from(recipe.getIngredients().get(0));
+            case "item1" -> IVariable.from(recipe.getIngredients().get(1));
+            case "result" -> IVariable.from(recipe.getResultList().get(0));
+            case "result2" -> IVariable.from(recipe.getResultList().get(1));
+            case "tool" -> IVariable.from(recipe.getTool().getMatchingStacks());
+            default -> null;
+        };
     }
 }
