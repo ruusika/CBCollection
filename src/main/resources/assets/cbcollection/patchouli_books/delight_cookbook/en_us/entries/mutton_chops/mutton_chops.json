@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "cfarmersdelight/cbc_roasted_mutton_chops",
+      "recipe": "c:farmersdelight/cbc_roasted_mutton_chops",
       "text": "This dish is a bit heavier on the stomach but worth every bite."
     }
   ]

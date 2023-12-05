@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "item": "farmersdelight:straw",
+      "recipe": "farmersdelight:straw",
       "text": "You easily can pick out some straw from bales. Just don't let the local farmer catch you."
     }
   ]

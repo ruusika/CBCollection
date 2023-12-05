@@ -12,41 +12,41 @@
       "item": "#tool",
       "framed": true,
       "x": 20,
-      "y": 30
+      "y": 15
     },
     {
       "type": "patchouli:item",
       "item": "#slot0",
       "framed": true,
-      "x": 54,
-      "y": 30
+      "x": 20,
+      "y": 38
     },
     {
       "type": "patchouli:item",
       "item": "farmersdelight:cutting_board",
       "framed": false,
-      "x": 45,
-      "y": 30
+      "x": 43,
+      "y": 25
     },
     {
       "type": "patchouli:item",
       "item": "#result0",
       "framed": true,
-      "x": 70,
-      "y": 18
+      "x": 65,
+      "y": 30
     },
     {
       "type": "patchouli:item",
       "item": "#result1",
       "framed": true,
-      "x": 70,
-      "y": 42
+      "x": 88,
+      "y": 30
     },
     {
       "type": "patchouli:text",
       "text": "#text",
-      "x": 5,
-      "y": 70
+      "x": 2,
+      "y": 60
     }
   ]
 }

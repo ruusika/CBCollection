@@ -14,8 +14,8 @@
       "text": "Note for next time: spice the rice with furikake and fry the rice before."
     },
     {
-      "type": "patchouli:spotlight",
-      "item": "farmersdelight:kelp_roll_slice",
+      "type": "cbcollection:cutting_template",
+      "recipe": "farmersdelight:cutting/kelp_roll",
       "text": "Just be careful. The kelp or the rice can be a bit slippery at times."
     }
   ]

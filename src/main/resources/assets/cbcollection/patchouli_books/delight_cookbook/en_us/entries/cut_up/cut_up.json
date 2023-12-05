@@ -9,13 +9,13 @@
 			"text": "Cut it very thin so you use them properly in a salad or a soup."
 		},
 		{
-			"type": "patchouli:spotlight",
-			"item": "farmersdelight:cabbage_leaf",
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/cabbage",
 			"text": "A good cut leaf will perfectly fit in your sandwiches or salads."
 		},
 		{
-			"type": "patchouli:spotlight",
-			"item": "farmersdelight:minced_beef",
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/beef",
 			"text": "You can call this mashed instead of chopped. But the secret is spice."
 		},
 		{
@@ -34,8 +34,8 @@
 			"text": "You really really make sure you cook this thoroughly or you will regret it."
 		},
 		{
-			"type": "patchouli:spotlight",
-			"item": "farmersdelight:bacon",
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/porkchop",
 			"text": "The taste depends on how much fat you leave on the cut."
 		},
 		{
@@ -44,8 +44,8 @@
 			"text": "Freshly cooked bacon is something amazing right after a hangover."
 		},
 		{
-			"type": "patchouli:spotlight",
-			"item": "farmersdelight:mutton_chops",
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/mutton",
 			"text": "Some say mutton is the best when fully bled out before chopping it. Haven't tested this theory yet."
 		},
 		{
@@ -64,8 +64,8 @@
 			"text": "The smokey taste depends on the heat of the smoker, the marinade and the time in the smoker."
 		},
 		{
-			"type": "patchouli:spotlight",
-			"item": "farmersdelight:cod_slice",
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/cod",
 			"text": "Carefully try to extract the fish bones. Or don't if you want to kill someone."
 		},
 		{
@@ -74,8 +74,8 @@
 			"text": "I found this tastes best when rolled in bread crumbs and baked."
 		},
 		{
-			"type": "patchouli:spotlight",
-			"item": "farmersdelight:salmon_slice",
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/salmon",
 			"text": "Salmon fish bones aren't as small as the cod ones. So they are easier to extract."
 		},
 		{
@@ -84,8 +84,8 @@
 			"text": "Not sure if I prefer cooked salmon over raw. Too many good options."
 		},
 		{
-			"type": "patchouli:spotlight",
-			"item": "farmersdelight:cake_slice",
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/cake",
 			"text": "If you slice carefully enough you can get seven slices of your best cake."
 		},
 		{
@@ -96,6 +96,7 @@
 		{
 			"type": "patchouli:spotlight",
 			"item": "farmersdelight:sweet_berry_cheesecake_slice",
+			"title": "Slice of Berry Cake",
 			"text": "Here you need to make sure that you won't loose the filling."
 		},
 		{

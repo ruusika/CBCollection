@@ -4,9 +4,75 @@
 	"category": "cbcollection:blocks",
 	"pages": [
 		{
-			"type": "patchouli:spotlight",
-			"item": "farmersdelight:tree_bark",
-			"text": "Tree bark is gathered by using the cutting board and an axe. Be aware of splinters though"
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/oak_wood",
+			"text": "Be aware of splinters."
+		},
+		{
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/oak_log",
+			"text": "Did you even listen to me? I said SPLINTERS!"
+		},
+		{
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/dark_oak_wood",
+			"text": "Hello? Earth to Reader? There are splinters."
+		},
+		{
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/dark_oak_log",
+			"text": "Boy. It's not that hard to be careful."
+		},
+		{
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/spruce_wood",
+			"text": "If you have a very sharp axe and you hack off the bark you get splinters everywhere."
+		},
+		{
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/spruce_log",
+			"text": "Those splinters are nasty to remove and very painful to you."
+		},
+		{
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/birch_wood",
+			"text": "Maybe I did explain it badly... I am obviously talking to a child."
+		},
+		{
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/birch_log",
+			"text": "Axe = sharp. Bark = brittle. Bark + Axe = Splinters. Splinters -> BAD. Splinters = Pain."
+		},
+		{
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/acacia_wood",
+			"text": "Not listening are we?"
+		},
+		{
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/acacia_log",
+			"text": "Please please be careful. Those splinters are nasty."
+		},
+		{
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/crimson_hyphae",
+			"text": "I will give you gold if you are careful enough."
+		},
+		{
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/crimson_stem",
+			"text": "Please! I will do anything. Just hear my warning."
+		},
+		{
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/warped_hyphae",
+			"text": "GOD DAMMIT LISTEN TO ME WHEN I WANNA WARN YOU ABOUT SPLINTERS!"
+		},
+		{
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/warped_stem",
+			"text": "Congrats. You are now spiked with splinters. I am not pulling them out."
 		}
+
 	]
 }
