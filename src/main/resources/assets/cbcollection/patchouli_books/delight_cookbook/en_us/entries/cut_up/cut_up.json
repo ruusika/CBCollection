@@ -4,8 +4,8 @@
 	"category": "cbcollection:ingredients",
 	"pages": [
 		{
-			"type": "patchouli:cutting_template",
-			"item": "farmersdelight:pumpkin_slice",
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/pumpkin",
 			"text": "Cut it very thin so you use them properly in a salad or a soup."
 		},
 		{
@@ -24,8 +24,8 @@
 			"text": "Carefully grill both sides to the degree you like it. From bloody as fuck to almost brittle."
 		},
 		{
-			"type": "patchouli:spotlight",
-			"item": "farmersdelight:chicken_cuts",
+			"type": "cbcollection:cutting_template",
+			"recipe": "farmersdelight:cutting/chicken",
 			"text": "You really need to be careful to not cut through the bones. It's nasty."
 		},
 		{

@@ -21,17 +21,14 @@ public class PotCraftingProcessor implements IComponentProcessor {
     public void setup(IVariableProvider variables) {
         if (!CBCollection.isFarmerdsDelightLoaded()) return;
         RecipeType<?> potRecipe = Registry.RECIPE_TYPE.get(new Identifier(CBCollection.MODID_FARMERSDELIGHT, "cooking"));
-
         if (MinecraftClient.getInstance().world == null) return;
         RecipeManager manager = MinecraftClient.getInstance().world.getRecipeManager();
-
         Identifier id = new Identifier(variables.get("recipe").asString());
         this.recipe = (CookingPotRecipe) manager.get(id).filter(recipe -> recipe.getType().equals(potRecipe)).orElseThrow(IllegalArgumentException::new);
     }
 
     @Override
     public IVariable process(String key) {
-        LoggerUtilities.devLogger(String.format("Key: %s", key));
         switch (key) {
             case "result" -> {
                 return IVariable.from(recipe.getOutput());
