@@ -6,7 +6,7 @@
 		{
 			"type": "cbcollection:pot_template",
 			"recipe": "farmersdelight:cooking/ratatouille",
-			"text": "A stew-like dish as I know. As far as I know it is considered a farmer's dish."
+			"text": "A stew-like dish. As far as I know it is considered a farmer's dish."
 		},
 		{
 			"type": "cbcollection:pot_template",
