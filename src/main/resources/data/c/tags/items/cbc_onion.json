@@ -1,8 +1,6 @@
 {
   "replace": false,
   "values": [
-    "valley:onion",
-    "valley:golden_onion",
     "farmersdelight:onion",
     "croptopia:greenonion",
     "croptopia:onion"
