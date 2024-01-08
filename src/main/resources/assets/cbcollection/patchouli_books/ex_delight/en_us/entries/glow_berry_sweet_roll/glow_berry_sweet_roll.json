@@ -1,0 +1,17 @@
+{
+  "name": "Glow Berry Sweet Roll",
+  "icon": "expandeddelight:glow_berry_sweet_roll",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/glow_berry_sweet_roll",
+      "text": "Still no milk in this recipe. How do they make the topping?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:expandeddelight/cbc_glow_berry_sweet_roll",
+      "text": "Sweeter than the other variants. The topping is the key."
+    }
+  ]
+}

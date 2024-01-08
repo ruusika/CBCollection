@@ -31,7 +31,7 @@ So I started working on my first new recipe book with [Patchouli](https://www.cu
 
 ##### Datapack
 - ![Static Badge](https://img.shields.io/badge/Status-WIP-orange)
-- with Tags and Recipies to make all the mods from above compatible with each other
+- with Tags and Recipies to make all the mods from above more compatible with each other
 - First Draft by Uccash - JustARoy on Discord
 
 #

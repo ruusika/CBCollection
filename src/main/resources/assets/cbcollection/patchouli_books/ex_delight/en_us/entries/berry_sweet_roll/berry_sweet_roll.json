@@ -1,0 +1,17 @@
+{
+  "name": "Berry Sweet Roll",
+  "icon": "expandeddelight:berry_sweet_roll",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/berry_sweet_roll",
+      "text": "No milk....It gets crumbly."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:expandeddelight/cbc_berry_sweet_roll",
+      "text": "Quite sweet. Those sweet berries add quite some flavour."
+    }
+  ]
+}

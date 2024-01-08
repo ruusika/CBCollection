@@ -1,0 +1,13 @@
+{
+  "name": "Peanut Sweet Jelly Sandwich",
+  "icon": "expandeddelight:sweet_berry_jelly_sandwich",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "header": "Peanut Sweet Jelly Sandwich",
+      "recipe": "expandeddelight:minecraft/crafting/sweet_berry_jelly_sandwich",
+      "text": "I can't exactly describe what I am tasting here."
+    }
+  ]
+}

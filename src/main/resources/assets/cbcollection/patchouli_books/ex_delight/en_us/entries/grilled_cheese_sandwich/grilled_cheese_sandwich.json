@@ -1,0 +1,12 @@
+{
+  "name": "Grilled Cheese Sandwich",
+  "icon": "expandeddelight:grilled_cheese",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:campfire",
+      "recipe": "expandeddelight:minecraft/smelting/grilled_cheese",
+      "text": "Just a cheese sandwich sounds boring? No worries I can help ya. Just put it on the campfire and wait a bit."
+    }
+  ]
+}

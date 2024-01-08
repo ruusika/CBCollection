@@ -1,0 +1,13 @@
+{
+  "name": "Peanut Honey Sandwich",
+  "icon": "expandeddelight:peanut_butter_honey_sandwich",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "header": "Peanut Honey Sandwich",
+      "recipe": "expandeddelight:minecraft/crafting/peanut_butter_honey_sandwich",
+      "text": "I have seen all kinds of weird combinations but that is one if not the weirdest."
+    }
+  ]
+}

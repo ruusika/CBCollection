@@ -1,0 +1,17 @@
+{
+  "name": "Cheese",
+  "icon": "expandeddelight:cheese_wheel",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "expandeddelight:cheese_wheel",
+      "text": "Apparently there is something from a thing named create where you can make it. I don't get it just annoy milk long enough."
+    },
+    {
+      "type": "cbcollection:cutting_template",
+      "recipe": "expandeddelight:farmersdelight/cutting/cheese_slice",
+      "text": "Depending on the kind of cheese it is going to be easier or more difficult to cut it in edible sizes."
+    }
+  ]
+}

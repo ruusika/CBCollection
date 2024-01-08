@@ -1,0 +1,52 @@
+{
+  "processor": "net.ruusika.cbcollection.processor.CuttingBoardProcessor",
+  "components": [
+    {
+      "type": "patchouli:header",
+      "text": "#header",
+      "x": -1,
+      "y": -1
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#tool",
+      "framed": true,
+      "x": 20,
+      "y": 15
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot0",
+      "framed": true,
+      "x": 20,
+      "y": 30
+    },
+    {
+      "type": "patchouli:item",
+      "item": "minecraft:diamond_axe",
+      "framed": false,
+      "x": 43,
+      "y": 30
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#result0",
+      "framed": true,
+      "x": 65,
+      "y": 30
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#result1",
+      "framed": true,
+      "x": 88,
+      "y": 30
+    },
+    {
+      "type": "patchouli:text",
+      "text": "#text",
+      "x": 2,
+      "y": 60
+    }
+  ]
+}

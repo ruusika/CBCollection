@@ -1,0 +1,55 @@
+{
+  "name": "Plants",
+  "icon": "expandeddelight:wild_sweet_potatoes",
+  "category": "cbcollection:plants",
+  "pages": [
+    {
+      "type": "cbcollection:crop_template",
+      "header": "Wild Asparagus",
+      "seed": "expandeddelight:asparagus_seeds",
+      "plant": "expandeddelight:wild_asparagus",
+      "text": "Asparagus is an herbaceous, perennial plant growing to 100–150 centimetres tall, with stout stems with much-branched, feathery foliage. "
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "expandeddelight:asparagus",
+      "text": "The shoots are prepared and served in a number of ways, typically as an appetizer or vegetable side dish."
+    },
+    {
+      "type": "cbcollection:crop_template",
+      "header": "Wild Chili Pepper",
+      "seed": "expandeddelight:chili_pepper_seeds",
+      "plant": "expandeddelight:wild_chili_pepper",
+      "text": "Though there are only a few commonly used species, there are many cultivars and methods of preparing chili peppers that have different names for culinary use."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "expandeddelight:chili_pepper",
+      "text": "Many fresh chilies such as poblano have a tough outer skin that does not break down on cooking. Chilies are sometimes used whole or in large slices, by roasting, or other means."
+    },
+    {
+      "type": "cbcollection:crop_template",
+      "header": "Wild Sweet Potatoes",
+      "seed": "minecraft:air",
+      "plant": "expandeddelight:wild_sweet_potatoes",
+      "text": "The stems are usually crawling on the ground and form adventitious roots at the nodes. The leaves are screwed along the stems."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "expandeddelight:sweet_potato",
+      "text": "Globally, sweet potatoes are now a staple ingredient of modern sushi cuisine, specifically used in maki rolls."
+    },
+    {
+      "type": "cbcollection:crop_template",
+      "header": "Wild Peanuts",
+      "seed": "minecraft:air",
+      "plant": "expandeddelight:wild_peanuts",
+      "text": "The peanut is an annual herbaceous plant growing 30 to 50 cm tall. Peanut fruits develop underground. Peanuts grow best in light, sandy loam soil"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "expandeddelight:peanut",
+      "text": "Dry-roasting peanuts is a common form of preparation. Dry peanuts can be roasted in the shell or shelled in a home oven if spread out one layer deep in a pan and baked."
+    }
+  ]
+}

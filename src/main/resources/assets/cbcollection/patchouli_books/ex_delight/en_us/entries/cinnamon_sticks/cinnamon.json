@@ -1,0 +1,17 @@
+{
+  "name": "Cinnamon Sticks",
+  "icon": "expandeddelight:raw_cinnamon",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "cbcollection:stripping_template",
+      "recipe": "expandeddelight:farmersdelight/cutting/cinnamon_log",
+      "text": "Cinnamon is a spice obtained from the inner bark of trees. Cinnamon is used mainly as an aromatic condiment and flavouring additive in a wide variety of cuisines."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "expandeddelight:ground_cinnamon",
+      "text": "Cinnamon bark is used as a spice. It is principally employed in cookery as a condiment and flavouring material. It is used in the preparation of chocolate. Cinnamon is often used in savoury dishes of chicken and lamb."
+    }
+  ]
+}

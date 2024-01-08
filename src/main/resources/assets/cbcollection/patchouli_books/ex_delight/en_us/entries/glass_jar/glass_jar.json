@@ -1,0 +1,12 @@
+{
+  "name": "Glass Jar",
+  "icon": "expandeddelight:glass_jar",
+  "category": "cbcollection:utensils",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/glass_jar",
+      "text": "A basic container needed for jellies or for the good looks on the shelf."
+    }
+  ]
+}

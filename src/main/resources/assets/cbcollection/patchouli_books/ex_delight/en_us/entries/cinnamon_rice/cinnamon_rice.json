@@ -1,0 +1,17 @@
+{
+  "name": "Cinnamon Rice",
+  "icon": "expandeddelight:cinnamon_rice",
+  "category": "cbcollection:potmeals",
+  "pages": [
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "expandeddelight:farmersdelight/cooking/cinnamon_rice",
+      "text": "A fancier version of a fish stew. Baked and with more vegetables."
+    },
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "c:expandeddelight/cbc_cinnamon_rice",
+      "text": "It's a very light dish in comparison to a fish stew. Can recommend for dinner."
+    }
+  ]
+}

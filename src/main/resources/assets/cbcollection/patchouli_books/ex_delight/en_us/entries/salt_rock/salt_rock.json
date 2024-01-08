@@ -1,0 +1,22 @@
+{
+  "name": "Salt Ore",
+  "icon": "expandeddelight:ground_salt",
+  "category": "cbcollection:utensils",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "expandeddelight:minecraft/smelting/salt_rock",
+      "text": "Salt evaporation ponds are filled from the ocean and salt crystals can be harvested as the water dries up."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "expandeddelight:minecraft/smelting/salt_rock_from_deepslate",
+      "text": "Elsewhere, salt is extracted from the vast sedimentary deposits which have been laid down over the millennia from the evaporation of seas and lakes. These sources are either mined directly, producing rock salt, or are extracted by pumping water into the deposit."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "expandeddelight:ground_salt",
+      "text": "Salt is present in most foods, but in naturally occurring foodstuffs such as meats, vegetables and fruit, it is present in very small quantities. It is often added to processed foods."
+    }
+  ]
+}

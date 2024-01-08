@@ -1,0 +1,17 @@
+{
+  "name": "Sweet Roll",
+  "icon": "expandeddelight:sweet_roll",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/sweet_roll",
+      "text": "Apparently this one works without milk....Weird."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:expandeddelight/cbc_sweet_roll",
+      "text": "This recipe needs milk. Probably for the topping."
+    }
+  ]
+}

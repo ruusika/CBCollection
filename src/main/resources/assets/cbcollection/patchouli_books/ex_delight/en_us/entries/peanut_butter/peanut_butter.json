@@ -1,0 +1,12 @@
+{
+  "name": "Peanut Butter",
+  "icon": "expandeddelight:peanut_butter",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/peanut_butter",
+      "text": "Apparently there is a war going on between crunchy and creamy."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Peanut Glow Jelly Sandwich",
+  "icon": "expandeddelight:glow_berry_jelly_sandwich",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "header": "Peanut Glow Jelly Sandwich",
+      "recipe": "expandeddelight:minecraft/crafting/glow_berry_jelly_sandwich",
+      "text": "Peanut Butter Jelly. Peanut Butter Jelly...Sorry this is somehow stuck in my head."
+    }
+  ]
+}

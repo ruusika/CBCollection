@@ -1,0 +1,12 @@
+{
+  "name": "Baked Sweet Potato",
+  "icon": "expandeddelight:baked_sweet_potato",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "expandeddelight:minecraft/smelting/baked_sweet_potato",
+      "text": "A basic container needed for jellies or for the good looks on the shelf."
+    }
+  ]
+}
