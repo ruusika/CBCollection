@@ -9,7 +9,7 @@ So I started working on my first new recipe book with [Patchouli](https://www.cu
 ## Content
 
 ##### A Delight Cookbook
-- ![Static Badge](https://img.shields.io/badge/Status-finetuning-yellow)
+- ![Static Badge](https://img.shields.io/badge/Status-finished-green)
 - Based on [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) by [vectorwing](https://github.com/vectorwing).
 
 ##### Croptopia Part II
