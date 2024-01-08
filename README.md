@@ -18,7 +18,7 @@ So I started working on my first new recipe book with [Patchouli](https://www.cu
 - Also includes [Croptopia's Choclaterie](https://www.curseforge.com/minecraft/mc-mods/croptopias-chocolaterie-fabric) by [slomax907](https://github.com/Slomaxonical-907).
 
 ##### An Expanded Delight
-- ![Static Badge](https://img.shields.io/badge/Status-concept-red)
+- ![Static Badge](https://img.shields.io/badge/Status-WIP-orange)
 - Based on [Expanded Delight](https://www.curseforge.com/minecraft/mc-mods/expanded-delight) by [ianm1647](https://github.com/ianm1647).
 
 ##### Cooking Valley [Not included in newer versions]
