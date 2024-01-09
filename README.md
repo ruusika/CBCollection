@@ -25,11 +25,6 @@ So I started working on my first new recipe book with [Patchouli](https://www.cu
 - ![Static Badge](https://img.shields.io/badge/Status-concept-red)
 - Based on [Culinaire](https://www.curseforge.com/minecraft/mc-mods/culinaire) by [Hugman_76](https://github.com/DawnTeamMC)
 
-##### Datapack
-- ![Static Badge](https://img.shields.io/badge/Status-WIP-orange)
-- with Tags and Recipies to make all the mods from above more compatible with each other
-- First Draft by Uccash - JustARoy on Discord
-
 #
 **What you need:**
 
