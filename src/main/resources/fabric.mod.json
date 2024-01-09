@@ -30,13 +30,12 @@
 		"cbcollection.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.14.22",
-		"minecraft": "~1.18.2",
+		"fabricloader": ">=0.15.3",
+		"minecraft": "~1.19.2",
 		"java": ">=17",
 		"fabric-api": "*",
 		"patchouli": "*",
 		"croptopia": "*",
-		"valley": "*",
 		"farmersdelight": "*",
 		"betteranimalsplus": "*",
 		"cacao": "*",

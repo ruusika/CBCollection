@@ -66,6 +66,8 @@ dependencies {
 	// FarmersDelight Dependency
 	modImplementation "maven.modrinth:farmers-delight-fabric:${project.farmers_delight_version}"
 
+	// Expanded Delight Dependency
+	modImplementation "maven.modrinth:expanded-delight:${project.expanded_delight_version}"
 }
 
 processResources {
