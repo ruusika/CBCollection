@@ -1,0 +1,17 @@
+{
+  "name": "Mac and Cheese",
+  "icon": "expandeddelight:mac_and_cheese",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "expandeddelight:farmersdelight/cooking/mac_and_cheese",
+      "text": "This kind of dish is great. There is never enough cheese."
+    },
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "c:expandeddelight/cbc_mac_and_cheese",
+      "text": "I also had a version with bacon once. This was amazing."
+    }
+  ]
+}

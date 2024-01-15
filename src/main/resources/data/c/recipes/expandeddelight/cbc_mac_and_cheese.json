@@ -3,17 +3,20 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:cbc_lettuce"
-    },
-    {
       "tag": "c:cbc_milk"
     },
     {
-      "item": "expandeddelight:asparagus"
+      "tag": "c:cbc_cheese"
+    },
+    {
+      "item": "farmersdelight:raw_pasta"
+    },
+    {
+      "tag": "c:cbc_salt"
     }
   ],
   "result": {
-    "item": "expandeddelight:asparagus_soup_creamy"
+    "item": "expandeddelight:mac_and_cheese"
   },
   "experience": 1.0,
   "cookingtime": 200

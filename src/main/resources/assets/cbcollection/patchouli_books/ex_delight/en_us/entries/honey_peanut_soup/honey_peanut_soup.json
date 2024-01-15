@@ -1,0 +1,17 @@
+{
+  "name": "Honey Peanut Soup",
+  "icon": "expandeddelight:peanut_honey_soup",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "expandeddelight:farmersdelight/cooking/peanut_honey_soup",
+      "text": "I don't understand this dish. It is a bit smelly."
+    },
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "c:expandeddelight/cbc_peanut_honey_soup",
+      "text": "This is awfully sweet."
+    }
+  ]
+}

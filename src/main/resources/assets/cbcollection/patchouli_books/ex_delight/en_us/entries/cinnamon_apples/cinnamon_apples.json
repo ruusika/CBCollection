@@ -1,16 +1,16 @@
 {
-  "name": "Cinnamon Rice",
-  "icon": "expandeddelight:cinnamon_rice",
+  "name": "Cinnamon Apples",
+  "icon": "expandeddelight:cinnamon_apples",
   "category": "cbcollection:potmeals",
   "pages": [
     {
       "type": "cbcollection:pot_template",
-      "recipe": "expandeddelight:farmersdelight/cooking/cinnamon_rice",
+      "recipe": "expandeddelight:farmersdelight/cooking/cinnamon_apples",
       "text": "I need some milk for this kind of rice..."
     },
     {
       "type": "cbcollection:pot_template",
-      "recipe": "c:expandeddelight/cbc_cinnamon_rice",
+      "recipe": "c:expandeddelight/cbc_cinnamon_apples",
       "text": "Maybe I should add some apples."
     }
   ]

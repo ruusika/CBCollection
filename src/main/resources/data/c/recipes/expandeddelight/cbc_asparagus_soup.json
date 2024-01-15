@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "tag": "c:cbc_asparagus"
+    },
+    {
+      "tag": "c:cbc_lettuce"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:asparagus_soup"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

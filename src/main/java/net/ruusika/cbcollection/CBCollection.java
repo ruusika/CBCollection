@@ -10,6 +10,7 @@ import org.slf4j.LoggerFactory;
 public class CBCollection implements ModInitializer {
     public static String MODID = "cbcollection";
     public static String MODID_FARMERSDELIGHT = "farmersdelight";
+    public static String MODID_EXPANDEDDELIGHT = "expandeddelight";
     public static final Logger LOGGER = LoggerFactory.getLogger(MODID);
 
     @Override
@@ -20,8 +21,8 @@ public class CBCollection implements ModInitializer {
         LOGGER.info(MODID + " mod has been successfully initialized");
     }
 
-    public static boolean isFarmerdsDelightLoaded() {
+    public static boolean isModLoaded(String modid) {
         LoggerUtilities.devLogger("FarmersDelight is installed for CBCollection!");
-        return FabricLoader.getInstance().isModLoaded(MODID_FARMERSDELIGHT);
+        return FabricLoader.getInstance().isModLoaded(modid);
     }
 }

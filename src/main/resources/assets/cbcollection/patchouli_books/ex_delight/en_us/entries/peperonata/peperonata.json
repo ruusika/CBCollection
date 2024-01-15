@@ -1,0 +1,17 @@
+{
+  "name": "Peperonata",
+  "icon": "expandeddelight:peperonata",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "expandeddelight:farmersdelight/cooking/peperonata",
+      "text": "This was a bit more spicy than expected."
+    },
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "c:expandeddelight/cbc_peperonata",
+      "text": "But I love it. Maybe a bit less chili pepper the next time."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Asparagus Soup",
+  "icon": "expandeddelight:asparagus_soup",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "expandeddelight:farmersdelight/cooking/asparagus_soup",
+      "text": "Ew. This stinks."
+    },
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "c:expandeddelight/cbc_asparagus_soup",
+      "text": "I hate it. I just hate it."
+    }
+  ]
+}

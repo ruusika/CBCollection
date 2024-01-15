@@ -1,0 +1,17 @@
+{
+  "name": "Sweet Potato Salad",
+  "icon": "expandeddelight:sweet_potato_salad",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/sweet_potato_salad",
+      "text": "I usually find potato salad too sour."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:expandeddelight/cbc_sweet_potato_salad",
+      "text": "But this is one is not too sour."
+    }
+  ]
+}

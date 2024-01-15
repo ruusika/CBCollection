@@ -3,20 +3,20 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:cbc_cheese"
+      "item": "minecraft:water_bucket"
     },
     {
-      "tag": "fabric:raw_pork"
+      "item": "minecraft:apple"
     },
     {
-      "tag": "c:cbc_onion"
+      "tag": "c:cbc_cinnamon"
     },
     {
-      "item": "expandeddelight:asparagus"
+      "item": "minecraft:sugar"
     }
   ],
   "result": {
-    "item": "expandeddelight:asparagus_and_bacon_cheesy"
+    "item": "expandeddelight:cinnamon_apples"
   },
   "experience": 1.0,
   "cookingtime": 200

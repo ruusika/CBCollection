@@ -3,17 +3,17 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
+      "tag": "c:cbc_milk"
+    },
+    {
+      "tag": "c:cbc_asparagus"
+    },
+    {
       "tag": "c:cbc_lettuce"
-    },
-    {
-      "tag": "c:water_bottles"
-    },
-    {
-      "item": "expandeddelight:asparagus"
     }
   ],
   "result": {
-    "item": "expandeddelight:asparagus_soup"
+    "item": "expandeddelight:asparagus_soup_creamy"
   },
   "experience": 1.0,
   "cookingtime": 200

@@ -1,0 +1,12 @@
+{
+  "name": "Sweet Berry Jelly",
+  "icon": "expandeddelight:sweet_berry_jelly",
+  "category": "cbcollection:potmeals",
+  "pages": [
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "expandeddelight:farmersdelight/cooking/sweet_berry_jelly",
+      "text": "Be careful. You can overcook it and the sugar makes everything worse."
+    }
+  ]
+}

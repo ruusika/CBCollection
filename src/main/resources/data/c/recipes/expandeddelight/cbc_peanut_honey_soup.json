@@ -3,20 +3,20 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "item": "minecraft:apple"
+      "tag": "c:cbc_milk"
     },
     {
-      "tag": "c:cbc_cinnamon"
+      "tag": "c:crops/peanut"
     },
     {
-      "tag": "c:water_bottles"
+      "tag": "c:crops/peanut"
     },
     {
-      "item": "minecraft:sugar"
+      "item": "minecraft:honey_bottle"
     }
   ],
   "result": {
-    "item": "expandeddelight:cinnamon_apples"
+    "item": "expandeddelight:peanut_honey_soup"
   },
   "experience": 1.0,
   "cookingtime": 200

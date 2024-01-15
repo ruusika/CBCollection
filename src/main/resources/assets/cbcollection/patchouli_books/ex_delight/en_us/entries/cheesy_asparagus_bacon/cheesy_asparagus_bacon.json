@@ -1,0 +1,17 @@
+{
+  "name": "Cheesy Asparagus and Bacon",
+  "icon": "expandeddelight:asparagus_and_bacon_cheesy",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "expandeddelight:farmersdelight/cooking/asparagus_and_bacon_cheesy",
+      "text": "If you remove the asparagus it's a pretty good dish."
+    },
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "c:expandeddelight/cbc_cheesy_asparagus_and_bacon",
+      "text": "Maybe you need more cheese to cover the asparagus."
+    }
+  ]
+}

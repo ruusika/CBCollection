@@ -1,0 +1,12 @@
+{
+  "name": "Peanut Salad",
+  "icon": "expandeddelight:peanut_salad",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/peanut_salad",
+      "text": "The nuts add something to those plain veggies."
+    }
+  ]
+}

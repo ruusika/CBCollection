@@ -3,20 +3,20 @@
   "recipe_book_tab": "meals",
   "ingredients": [
     {
-      "tag": "c:cbc_milk"
+      "tag": "c:raw_pork"
     },
     {
-      "item": "expandeddelight:peanut"
+      "tag": "c:cbc_asparagus"
     },
     {
-      "item": "expandeddelight:peanut"
+      "tag": "c:cbc_onion"
     },
     {
-      "item": "minecraft:honey_bottle"
+      "tag": "c:cbc_cheese"
     }
   ],
   "result": {
-    "item": "expandeddelight:peanut_honey_soup"
+    "item": "expandeddelight:asparagus_and_bacon_cheesy"
   },
   "experience": 1.0,
   "cookingtime": 200

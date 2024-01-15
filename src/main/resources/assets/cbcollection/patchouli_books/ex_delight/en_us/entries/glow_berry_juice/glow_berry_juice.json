@@ -1,0 +1,12 @@
+{
+  "name": "Glow Berry Juice",
+  "icon": "expandeddelight:glow_berry_juice",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "cbcollection:juicing_template",
+      "recipe": "expandeddelight:expandeddelight/juicing/glow_berry_juice",
+      "text": "This one is golden. Hide it from your fellow thieves."
+    }
+  ]
+}

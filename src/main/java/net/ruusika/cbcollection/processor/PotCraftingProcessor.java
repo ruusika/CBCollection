@@ -19,7 +19,7 @@ public class PotCraftingProcessor implements IComponentProcessor {
 
     @Override
     public void setup(IVariableProvider variables) {
-        if (!CBCollection.isFarmerdsDelightLoaded()) return;
+        if (!CBCollection.isModLoaded(CBCollection.MODID_FARMERSDELIGHT)) return;
         RecipeType<?> potRecipe = Registry.RECIPE_TYPE.get(new Identifier(CBCollection.MODID_FARMERSDELIGHT, "cooking"));
         if (MinecraftClient.getInstance().world == null) return;
         RecipeManager manager = MinecraftClient.getInstance().world.getRecipeManager();

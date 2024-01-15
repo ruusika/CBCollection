@@ -1,0 +1,27 @@
+{
+  "name": "Crates",
+  "icon": "expandeddelight:chili_pepper_crate",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/asparagus_crate",
+      "text": "Trim the bottoms and stand the spears up in a glass or jar with about an inch of water."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/chili_pepper_crate",
+      "text": "The level of ripeness also plays a role in chili shelf life. Green, unripe chili peppers generally have a longer shelf life than fully ripe or overripe ones."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:expandeddelight/cbc_chili_pepper_crate",
+      "text": "You do not need to wash the peppers before storing. It is best for them to be dry, as water can speed up the rotting process."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/sweet_potato_crate",
+      "text": "Not all sweet potato tubers are suitable for storage. Tubers that are mechanically damaged, infested with pests, infected by pathogens, rotten, or sprouting should not be stored."
+    }
+  ]
+}

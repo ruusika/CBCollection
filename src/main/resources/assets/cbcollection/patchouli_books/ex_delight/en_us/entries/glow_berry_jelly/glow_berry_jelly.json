@@ -1,0 +1,12 @@
+{
+  "name": "Glow Berry Jelly",
+  "icon": "expandeddelight:glow_berry_jelly",
+  "category": "cbcollection:potmeals",
+  "pages": [
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "expandeddelight:farmersdelight/cooking/glow_berry_jelly",
+      "text": "I like the smell of it. It reminds me of something..."
+    }
+  ]
+}

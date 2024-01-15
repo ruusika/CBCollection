@@ -1,0 +1,17 @@
+{
+  "name": "Creamy Asparagus Soup",
+  "icon": "expandeddelight:asparagus_soup_creamy",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "expandeddelight:farmersdelight/cooking/asparagus_soup_creamy",
+      "text": "This is even more smellier then the other one."
+    },
+    {
+      "type": "cbcollection:pot_template",
+      "recipe": "c:expandeddelight/cbc_creamy_asparagus_soup",
+      "text": "I hate how thick this soup is."
+    }
+  ]
+}

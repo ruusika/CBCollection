@@ -1,0 +1,12 @@
+{
+  "name": "Mortar and Pestle",
+  "icon": "expandeddelight:mortar_and_pestle_item",
+  "category": "cbcollection:utensils",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/mortar_and_pestle_item",
+      "text": "You need this to crush some spices."
+    }
+  ]
+}

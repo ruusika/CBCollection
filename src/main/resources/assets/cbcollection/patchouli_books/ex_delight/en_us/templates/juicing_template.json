@@ -1,0 +1,45 @@
+{
+  "processor": "net.ruusika.cbcollection.processor.JuicerProcessor",
+  "components": [
+    {
+      "type": "patchouli:header",
+      "text": "#header",
+      "x": -1,
+      "y": -1
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot0",
+      "framed": true,
+      "x": 20,
+      "y": 15
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#slot1",
+      "framed": true,
+      "x": 20,
+      "y": 37
+    },
+    {
+      "type": "patchouli:item",
+      "item": "expandeddelight:juicer_item",
+      "framed": false,
+      "x": 45,
+      "y": 25
+    },
+    {
+      "type": "patchouli:item",
+      "item": "#result",
+      "framed": true,
+      "x": 75,
+      "y": 25
+    },
+    {
+      "type": "patchouli:text",
+      "text": "#text",
+      "x": 2,
+      "y": 60
+    }
+  ]
+}

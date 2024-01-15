@@ -1,0 +1,12 @@
+{
+  "name": "Juicer",
+  "icon": "expandeddelight:juicer_item",
+  "category": "cbcollection:utensils",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "expandeddelight:minecraft/crafting/juicer_item",
+      "text": "This machine is needed to make fresh juice."
+    }
+  ]
+}
