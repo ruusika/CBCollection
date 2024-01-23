@@ -6,12 +6,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "expandeddelight:minecraft/crafting/sweet_roll",
-      "text": "Apparently this one works without milk....Weird."
+      "text": "This looks like something a few northerners invented it."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "c:expandeddelight/cbc_sweet_roll",
-      "text": "This recipe needs milk. Probably for the topping."
+      "text": "Could this be a glorified cinnamon roll?"
     }
   ]
 }

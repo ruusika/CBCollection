@@ -6,12 +6,12 @@
     {
       "type": "cbcollection:pot_template",
       "recipe": "expandeddelight:farmersdelight/cooking/cinnamon_apples",
-      "text": "I need some milk for this kind of rice..."
+      "text": "Reminds me of a jolly old pal who comes around the cold times..."
     },
     {
       "type": "cbcollection:pot_template",
       "recipe": "c:expandeddelight/cbc_cinnamon_apples",
-      "text": "Maybe I should add some apples."
+      "text": "Could be great with alcohol..."
     }
   ]
 }

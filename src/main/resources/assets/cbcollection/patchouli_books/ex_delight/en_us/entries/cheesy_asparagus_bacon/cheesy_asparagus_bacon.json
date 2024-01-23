@@ -1,7 +1,7 @@
 {
   "name": "Cheesy Asparagus and Bacon",
   "icon": "expandeddelight:asparagus_and_bacon_cheesy",
-  "category": "cbcollection:meals",
+  "category": "cbcollection:potmeals",
   "pages": [
     {
       "type": "cbcollection:pot_template",

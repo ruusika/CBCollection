@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "header": "Peanut Sweet Jelly Sandwich",
+      "title": "PB & SJ Sandwich",
       "recipe": "expandeddelight:minecraft/crafting/sweet_berry_jelly_sandwich",
       "text": "I can't exactly describe what I am tasting here."
     }

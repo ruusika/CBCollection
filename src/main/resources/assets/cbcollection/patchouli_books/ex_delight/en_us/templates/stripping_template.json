@@ -19,14 +19,7 @@
       "item": "#slot0",
       "framed": true,
       "x": 20,
-      "y": 30
-    },
-    {
-      "type": "patchouli:item",
-      "item": "minecraft:diamond_axe",
-      "framed": false,
-      "x": 43,
-      "y": 30
+      "y": 38
     },
     {
       "type": "patchouli:item",

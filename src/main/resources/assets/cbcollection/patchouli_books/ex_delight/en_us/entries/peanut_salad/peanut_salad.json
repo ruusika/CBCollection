@@ -7,6 +7,11 @@
       "type": "patchouli:crafting",
       "recipe": "expandeddelight:minecraft/crafting/peanut_salad",
       "text": "The nuts add something to those plain veggies."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:expandeddelight/cbc_peanut_salad",
+      "text": "This something I was looking for is crunch."
     }
   ]
 }

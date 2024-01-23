@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "header": "Peanut Glow Jelly Sandwich",
+      "title": "PB & GJ Sandwich",
       "recipe": "expandeddelight:minecraft/crafting/glow_berry_jelly_sandwich",
       "text": "Peanut Butter Jelly. Peanut Butter Jelly...Sorry this is somehow stuck in my head."
     }
