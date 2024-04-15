@@ -71,6 +71,9 @@ dependencies {
 
 	// Culinaire Dependency
 	modImplementation "maven.modrinth:culinaire:${project.culinaire_version}"
+
+	// Valley Dependency
+	modImplementation "maven.modrinth:valleycraft:${project.valley_version}"
 }
 
 processResources {
