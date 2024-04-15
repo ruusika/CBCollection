@@ -11,6 +11,8 @@ public class CBCollection implements ModInitializer {
     public static String MODID = "cbcollection";
     public static String MODID_FARMERSDELIGHT = "farmersdelight";
     public static String MODID_EXPANDEDDELIGHT = "expandeddelight";
+
+    public static String MODID_CULINAIRE = "culinaire";
     public static final Logger LOGGER = LoggerFactory.getLogger(MODID);
 
     @Override

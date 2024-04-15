@@ -15,6 +15,8 @@ public class CBCollectionItems {
             new CustomBookItem(CBCollectionItemGroups.COOKBOOKS));
     private static final Item EX_DELIGHT_COOKBOOK = registerItem("ex_delight",
             new CustomBookItem(CBCollectionItemGroups.COOKBOOKS));
+    private static final Item CULINAIRE_COOKBOOK = registerItem("culinaires_need",
+            new CustomBookItem(CBCollectionItemGroups.COOKBOOKS));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(CBCollection.MODID, name), item);

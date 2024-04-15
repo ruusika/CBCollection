@@ -1,0 +1,12 @@
+{
+  "name": "item.cbcollection.culinaires_need",
+  "subtitle": "item.cbcollection.culinaires_need.subtitle",
+  "landing_text": "The art of a true culinary. Making tea and simple meals.$(br)$(br)Culinaire by DawnTeamMC (Hugman).",
+  "version": 0,
+  "creative_tab": "cbcollection:cookbooks",
+  "use_resource_pack": true,
+  "model": "patchouli:book_red",
+  "book_texture": "patchouli:textures/gui/book_red.png",
+  "dont_generate_book": true,
+  "custom_book_item": "cbcollection:culinaires_need"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Tea Kettle",
+  "icon": "culinaire:kettle",
+  "category": "cbcollection:tea",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/kettle",
+      "text": "The centerpiece of making delicious tea. In order to brew your tea bag into a bottle of water, follow those steps:"
+    }
+  ]
+}

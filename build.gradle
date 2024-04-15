@@ -68,6 +68,9 @@ dependencies {
 
 	// Expanded Delight Dependency
 	modImplementation "maven.modrinth:expanded-delight:${project.expanded_delight_version}"
+
+	// Culinaire Dependency
+	modImplementation "maven.modrinth:culinaire:${project.culinaire_version}"
 }
 
 processResources {
