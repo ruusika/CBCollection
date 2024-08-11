@@ -1,0 +1,17 @@
+{
+  "name": "Apple Pie",
+  "icon": "valley:apple_pie",
+  "category": "cbcollection:dough",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:apple_pie_dough",
+      "recipe2": "c:valley/cbc_apple_pie_dough"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:cooked_apple_pie_smelt",
+      "text": "I love the smell of freshly baked apple pie. The apples serve as binding."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cooked_cod"
+    },
+    {
+      "tag": "c:cbc_milk"
+    },
+    {
+      "tag": "c:cbc_salt"
+    },
+    {
+      "tag": "c:cbc_seashell"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "valley:cod_chowder"
+  }
+}

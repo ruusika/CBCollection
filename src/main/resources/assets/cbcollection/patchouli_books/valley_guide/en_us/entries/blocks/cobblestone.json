@@ -1,0 +1,27 @@
+{
+  "name": "Cobblestone Bricks",
+  "icon": "valley:cobblestone_bricks",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:cobblestone_tiles",
+      "recipe2": "valley:cobblestone_tile_stairs"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:cobblestone_tile_slab",
+      "text": "I wonder what you can build...."
+    },
+    {
+      "type": "patchouli:stonecutting",
+      "recipe": "valley:cobblestone_bricks_chiseled_stonecutter",
+      "text": "Be careful with that stonecutter..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:mossy_cobblestone_bricks",
+      "text": "Apparently the moss needs to grow..."
+    }
+  ]
+}

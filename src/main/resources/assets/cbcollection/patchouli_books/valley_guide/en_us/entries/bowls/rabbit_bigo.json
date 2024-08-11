@@ -1,0 +1,12 @@
+{
+  "name": "Rabbit Bigo",
+  "icon": "valley:rabbit_bigo",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:rabbit_bigo",
+      "text": "Is Bigo a fancy word for stew?"
+    }
+  ]
+}

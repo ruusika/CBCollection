@@ -1,0 +1,12 @@
+{
+  "name": "Message in a Bottle",
+  "icon": "valley:message_in_a_bottle",
+  "category": "cbcollection:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:message_in_a_bottle",
+      "text": "No matter how hard you try you won't get the message out of it."
+    }
+  ]
+}

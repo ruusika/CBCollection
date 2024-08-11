@@ -1,0 +1,27 @@
+{
+  "name": "Carmine",
+  "icon": "valley:cracked_carmine_bricks",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:stonecutting",
+      "recipe": "valley:carmine_chiseled_stonecutter",
+      "recipe2": "valley:carmine_bricks_chiseled_stonecutter"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:polished_carmine",
+      "recipe2": "valley:cracked_carmine_bricks"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:carmine_brick_stairs",
+      "recipe2": "valley:carmine_brick_slab"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mossy_carmine_bricks",
+      "text": "A beautiful dark red stone..."
+    }
+  ]
+}

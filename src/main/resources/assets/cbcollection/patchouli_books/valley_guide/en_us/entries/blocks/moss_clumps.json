@@ -1,0 +1,37 @@
+{
+  "name": "Moss Clump",
+  "icon": "valley:moss_clump",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:moss_clump",
+      "text": "The capacity of dried mosses to absorb fluids has made their use practical in both medical and culinary uses."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:moss_balls",
+      "text": "Quite a nice decorative block."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:moss_vines",
+      "text": "Sometimes you need a bit of slippery vines to form traps."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:dry_moss_clump",
+      "text": "Tribal people used mosses for diapers and wound dressing."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dry_moss_block",
+      "text": "This seems more like a faded out hay ball..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:moss_vines_dry",
+      "text": "You usually decorate with dry vines."
+    }
+  ]
+}

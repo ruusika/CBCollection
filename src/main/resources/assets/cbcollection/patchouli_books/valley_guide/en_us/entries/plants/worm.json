@@ -1,0 +1,12 @@
+{
+  "name": "Worm",
+  "icon": "valley:worm",
+  "category": "cbcollection:plants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:worm",
+      "text": "It removes litter from the soil surface, pulling it down into the mineral layer, and deposit casts of mixed organic and mineral material on the soil surface. It lives in semi-permanent burrows and can reside in or escape to deeper soil layers."
+    }
+  ]
+}

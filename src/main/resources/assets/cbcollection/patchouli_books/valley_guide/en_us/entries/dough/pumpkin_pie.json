@@ -1,0 +1,17 @@
+{
+  "name": "Pumpkin Pie",
+  "icon": "minecraft:pumpkin_pie",
+  "category": "cbcollection:dough",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:pumpkin_dough",
+      "recipe2": "c:valley/cbc_pumpkin_dough"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:pumpkin_pie_smelt",
+      "text": "I especially love this kind of pie with coffee in late fall."
+    }
+  ]
+}

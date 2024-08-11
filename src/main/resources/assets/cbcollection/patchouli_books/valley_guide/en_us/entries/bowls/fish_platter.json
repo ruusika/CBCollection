@@ -1,0 +1,12 @@
+{
+  "name": "Fish Platter",
+  "icon": "valley:fish_platter",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:fish_platter",
+      "text": "This is what I call a fishy salad."
+    }
+  ]
+}

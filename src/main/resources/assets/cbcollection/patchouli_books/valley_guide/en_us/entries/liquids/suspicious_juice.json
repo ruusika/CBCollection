@@ -1,0 +1,17 @@
+{
+  "name": "Suspicious Juice",
+  "icon": "valley:suspicious_juice",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:suspicious_juice",
+      "text": "Smells pretty bad."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_suspicious_juice",
+      "text": "Seriously I won't drink it."
+    }
+  ]
+}

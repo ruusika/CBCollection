@@ -1,0 +1,17 @@
+{
+  "name": "Pancake",
+  "icon": "valley:pancake",
+  "category": "cbcollection:dough",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:pancake_dough",
+      "recipe2": "c:valley/cbc_pancake_dough"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:cooked_pancake_smelt",
+      "text": "Some put jam on it, some sugar, some chocolate...I eat them plain."
+    }
+  ]
+}

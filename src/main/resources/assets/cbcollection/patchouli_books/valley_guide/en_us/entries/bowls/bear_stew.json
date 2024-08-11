@@ -1,0 +1,17 @@
+{
+  "name": "Bear Stew",
+  "icon": "valley:bear_stew",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bear_stew",
+      "text": "It smells strong, tastes strong."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_bear_stew",
+      "text": "Apparently you need some berries to cover the strong taste."
+    }
+  ]
+}

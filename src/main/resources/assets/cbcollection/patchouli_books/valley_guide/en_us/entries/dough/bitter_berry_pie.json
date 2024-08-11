@@ -1,0 +1,17 @@
+{
+  "name": "Bitter Berry Pie",
+  "icon": "valley:bitter_berry_pie",
+  "category": "cbcollection:dough",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bitter_berry_pie",
+      "recipe2": "c:valley/cbc_bitter_berry_pie_dough"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:bitter_berry_pie_smelt",
+      "text": "I love the smell of freshly baked apple pie. The apples serve as binding."
+    }
+  ]
+}

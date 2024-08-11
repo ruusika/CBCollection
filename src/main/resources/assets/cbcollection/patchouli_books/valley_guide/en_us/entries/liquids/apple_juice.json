@@ -1,0 +1,12 @@
+{
+  "name": "Apple Juice",
+  "icon": "valley:apple_juice",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:apple_juice",
+      "text": "A classic. Just don't let it ferment."
+    }
+  ]
+}

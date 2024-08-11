@@ -1,0 +1,12 @@
+{
+  "name": "Apple Cyser",
+  "icon": "valley:apple_cyser",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mead_apple",
+      "text": "When I was barkeeping I was dazzled that people don't call this apple mead..."
+    }
+  ]
+}

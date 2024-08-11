@@ -1,0 +1,17 @@
+{
+  "name": "Full Breakfast",
+  "icon": "valley:full_breakfast",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:full_breakfast_vege",
+      "text": "I can't remember the tavern where they served this dish to me but it offered a lot of options."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_full_breakfast",
+      "text": "I do prefer dried tomatoes over cut ones though."
+    }
+  ]
+}

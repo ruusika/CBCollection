@@ -1,0 +1,12 @@
+{
+  "name": "Sweet Berry Tea",
+  "icon": "valley:sweet_berry_tea",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:sweet_berry_tea",
+      "text": "This is as strong as coffee but you can drink more then three cups of it."
+    }
+  ]
+}

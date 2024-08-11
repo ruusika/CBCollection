@@ -1,0 +1,17 @@
+{
+  "name": "Poke Bowl",
+  "icon": "valley:poke_bowl",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:poke_bowl",
+      "text": "It is basically fish, rice and onion with some seaweed. Easy."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_poke_bowl",
+      "text": "It tastes refreshing. The salmon is working wonders."
+    }
+  ]
+}

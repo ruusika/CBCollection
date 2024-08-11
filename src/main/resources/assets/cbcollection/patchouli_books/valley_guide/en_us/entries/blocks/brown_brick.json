@@ -1,0 +1,32 @@
+{
+  "name": "Mixed Brick",
+  "icon": "valley:mixed_bricks",
+  "category": "cbcollection:items",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:brown_brick",
+      "text": "Mud is apparently as good as clay..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mixed_bricks",
+      "recipe2": "valley:brown_bricks_alt"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:cracked_brown_stone_smelt",
+      "text": "Cracks as easy as normal clay bricks."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mossy_brown_bricks",
+      "recipe2": "valley:brick_stairs"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mixed_brick_slab",
+      "text": "This is a good enough replacement for clay bricks."
+    }
+  ]
+}

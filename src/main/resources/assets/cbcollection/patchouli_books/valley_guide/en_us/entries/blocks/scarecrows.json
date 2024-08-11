@@ -1,0 +1,47 @@
+{
+  "name": "Scarecrows",
+  "icon": "valley:haunted_scarecrow",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:scarecrow_norm",
+      "recipe2": "valley:hatted_scarecrow"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:scarecr_o_lantern",
+      "recipe2": "valley:hatted_scarecr_o_lantern"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:haunted_scarecrow",
+      "recipe2": "valley:hatted_n_haunted_scarecrow"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:scarecrow_glow_copper",
+      "recipe2": "valley:scarecrow_hat_glow_copper"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:target_rarecrow",
+      "text": "A Scarecrow with a target."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:melonhead_rarecrow",
+      "text": "A Melonhead Scarecrow."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:zombie_rarecrow",
+      "text": "A Zombie Scarecrow."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:skeleton_rarecrow",
+      "text": "A Skeleton Scarecrow."
+    }
+  ]
+}

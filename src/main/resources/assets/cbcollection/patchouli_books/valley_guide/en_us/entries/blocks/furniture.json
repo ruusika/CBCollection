@@ -1,0 +1,67 @@
+{
+  "name": "Furniture",
+  "icon": "valley:birch_table",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:oak_table",
+      "recipe2": "valley:table_birch"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:spruce_table",
+      "recipe2": "valley:jungle_table"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:acacia_table",
+      "recipe2": "valley:dark_oak_table"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:warped_table",
+      "recipe2": "valley:crimson_table"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:stone_table",
+      "recipe2": "valley:plaid_table"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:oak_stool",
+      "recipe2": "valley:stool_birch"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:spruce_stool",
+      "recipe2": "valley:jungle_stool"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:acacia_stool",
+      "recipe2": "valley:dark_oak_stool"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:warped_stool",
+      "recipe2": "valley:crimson_stool"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:stone_stool",
+      "recipe2": "valley:plaid_stool"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:brazier",
+      "recipe2": "valley:soul_brazier"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:copperflame_brazier",
+      "text": "What about some Braziers to decorate your home?"
+    }
+  ]
+}

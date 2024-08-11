@@ -1,0 +1,17 @@
+{
+  "name": "Beetroot Juice",
+  "icon": "valley:beet_juice",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:beet_juice",
+      "text": "I'd never drink it pure but it's pretty good when mixed with orange, carrot and apple juice."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_beetroot_juice",
+      "text": "I never thought about adding salt to the mix but it works."
+    }
+  ]
+}

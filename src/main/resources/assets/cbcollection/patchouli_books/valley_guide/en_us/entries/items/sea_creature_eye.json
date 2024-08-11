@@ -1,0 +1,12 @@
+{
+  "name": "Sea Creature Eye",
+  "icon": "valley:sea_creature_eye",
+  "category": "cbcollection:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:sea_creature_eye",
+      "text": "This thing must have been massive..."
+    }
+  ]
+}

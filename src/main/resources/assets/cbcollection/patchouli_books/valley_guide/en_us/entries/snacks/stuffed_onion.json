@@ -1,0 +1,17 @@
+{
+  "name": "Stuffed Onion",
+  "icon": "valley:stuffed_onion",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:stuffed_onion",
+      "text": "How do you get the pumpkin in there?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_stuffed_onion",
+      "text": "But it's pretty tasty."
+    }
+  ]
+}

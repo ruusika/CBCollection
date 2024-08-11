@@ -1,0 +1,17 @@
+{
+  "name": "Rainbow Roll",
+  "icon": "valley:rainbow_roll",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:rainbow_roll",
+      "text": "Apparently this type of roll is very rare. Mostly due to this fish being rare."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_rainbow_roll",
+      "text": "Vendors will try to sell Pridefin Rolls as Rainbow rolls. Be careful."
+    }
+  ]
+}

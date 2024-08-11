@@ -1,0 +1,17 @@
+{
+  "name": "BLT",
+  "icon": "valley:blt",
+  "category": "cbcollection:sandwich",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:blt",
+      "text": "I wanna know what BLT stands for..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_blt",
+      "text": "BLT stands for Bacon, Lettuce and Tomato."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Sweet Berry Pie",
+  "icon": "valley:sweet_berry_pie",
+  "category": "cbcollection:dough",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:sweet_berry_pie_dough",
+      "recipe2": "c:valley/cbc_sweet_berry_pie_dough"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:sweet_berry_pie_smelt",
+      "text": "A delicious pie. Very sweet."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Sour Berry Cyser",
+  "icon": "valley:sour_berry_cyser",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mead_sour",
+      "text": "This one is pretty good it takes some of this honeyish taste away."
+    }
+  ]
+}

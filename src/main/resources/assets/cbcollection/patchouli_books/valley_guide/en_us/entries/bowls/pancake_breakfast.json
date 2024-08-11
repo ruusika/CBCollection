@@ -1,0 +1,12 @@
+{
+  "name": "Pancake Breakfast",
+  "icon": "valley:pancake_breakfast",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:pancake_breakfast",
+      "text": "This is a breakfast for all sweet tooth out there"
+    }
+  ]
+}

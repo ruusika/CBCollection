@@ -1,0 +1,12 @@
+{
+  "name": "Fern Tea",
+  "icon": "valley:fern_tea",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:tea",
+      "text": "My nonna gave me this one when my stomach got upset. Tastes way too bad."
+    }
+  ]
+}

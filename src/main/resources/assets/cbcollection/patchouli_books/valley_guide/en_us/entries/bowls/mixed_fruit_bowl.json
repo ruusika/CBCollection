@@ -1,0 +1,12 @@
+{
+  "name": "Mixed Fruit Bowl",
+  "icon": "valley:mixed_fruit_bowl",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mixed_fruit_bowl",
+      "text": "A fresh fruit salad is a blessing in hot summers."
+    }
+  ]
+}

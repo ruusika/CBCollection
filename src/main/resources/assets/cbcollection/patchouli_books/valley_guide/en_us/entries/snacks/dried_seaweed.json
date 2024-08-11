@@ -1,0 +1,17 @@
+{
+  "name": "Dried Seaweed",
+  "icon": "valley:dried_seaweed",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dried_seaweed_item",
+      "recipe2": "c:valley/cbc_dried_seaweed"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dried_seaweed_item_glow",
+      "recipe2": "c:valley/cbc_dried_seaweed_glow"
+    }
+  ]
+}

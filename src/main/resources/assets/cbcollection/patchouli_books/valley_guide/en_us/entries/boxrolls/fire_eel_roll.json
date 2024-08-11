@@ -1,0 +1,17 @@
+{
+  "name": "Fire Eel Roll",
+  "icon": "valley:fire_eel_roll",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:fire_eel_roll",
+      "text": "Why would you put some poisonous fish in sushi?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_fire_eel_roll",
+      "text": "Apparently you need to cut the fish carefully..."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Bitter Berry Tea",
+  "icon": "valley:bitter_berry_tea",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bitter_berry_tea",
+      "text": "I think this tea is used by some quack doctors to 'cure' bloody coughing."
+    }
+  ]
+}

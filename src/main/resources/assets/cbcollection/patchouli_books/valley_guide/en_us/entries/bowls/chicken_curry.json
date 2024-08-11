@@ -1,0 +1,17 @@
+{
+  "name": "Chicken Curry",
+  "icon": "valley:chicken_curry",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:chicken_curry",
+      "text": "It is tasty. It's just my stomach who seems to hate it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_chicken_curry",
+      "text": "It's also a bit to spicy for my taste."
+    }
+  ]
+}

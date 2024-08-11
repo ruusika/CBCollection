@@ -1,0 +1,17 @@
+{
+  "name": "Carrot Stew",
+  "icon": "valley:carrot_stew",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:carrot_soup",
+      "text": "This is a bland carrot soup."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_carrot_stew",
+      "text": "It's better with broth as a base..."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Mushroom Salad",
+  "icon": "valley:mushroom_salad",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mushroom_salad",
+      "text": "Just don't put the orange cap in there. It ruins the taste."
+    }
+  ]
+}

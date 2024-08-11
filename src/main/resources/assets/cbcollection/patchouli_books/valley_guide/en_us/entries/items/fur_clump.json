@@ -1,0 +1,12 @@
+{
+  "name": "Fur Clump",
+  "icon": "valley:fur_clump",
+  "category": "cbcollection:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:fur_clump",
+      "text": "I think this is cat fur...could be the barf of an owl as well."
+    }
+  ]
+}

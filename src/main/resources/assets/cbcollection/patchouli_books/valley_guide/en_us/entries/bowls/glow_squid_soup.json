@@ -1,0 +1,17 @@
+{
+  "name": "Glow Squid Soup",
+  "icon": "valley:glow_soup",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:squid_soup_glow",
+      "text": "This looks even more funky than the creamy pink stew."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_glow_squid_soup",
+      "text": "It smells weird. I hope my stomach won't glow."
+    }
+  ]
+}

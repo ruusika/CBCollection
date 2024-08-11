@@ -1,0 +1,37 @@
+{
+  "name": "Ladders",
+  "icon": "valley:ladder_oak",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:iron_ladder",
+      "recipe2": "valley:ladder_2"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bamboo_ladder",
+      "recipe2": "valley:oak_ladder"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:birch_ladder",
+      "recipe2": "valley:spruce_ladder"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:jungle_ladder",
+      "recipe2": "valley:acacia_ladder"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dark_oak_ladder",
+      "recipe2": "valley:crimson_ladder"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:warped_ladder",
+      "text": "Different ladders for different purposes."
+    }
+  ]
+}

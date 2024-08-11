@@ -1,0 +1,12 @@
+{
+  "name": "Sweet Berry Wine",
+  "icon": "valley:sweet_berry_wine",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:wine_bitter",
+      "text": "I think someone tried to make wine of chili peppers..."
+    }
+  ]
+}

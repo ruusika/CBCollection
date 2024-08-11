@@ -1,0 +1,12 @@
+{
+  "name": "Honeycomb Chunk",
+  "icon": "valley:honeycomb_chunk",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:honey_comb_chunk",
+      "text": "You can break little chunks out of a comb but be careful if bees are nearby."
+    }
+  ]
+}

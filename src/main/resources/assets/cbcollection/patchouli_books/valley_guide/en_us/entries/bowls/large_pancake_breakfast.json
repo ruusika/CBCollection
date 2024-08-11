@@ -1,0 +1,12 @@
+{
+  "name": "Large Pancake Breakfast",
+  "icon": "valley:large_pancake_breakfast",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bacon_pancake",
+      "text": "Sweet, salty and savoury. The three S of a perfect dish."
+    }
+  ]
+}

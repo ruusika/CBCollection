@@ -1,0 +1,17 @@
+{
+  "name": "Sour Berry Pie",
+  "icon": "valley:sour_berry_pie",
+  "category": "cbcollection:dough",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:sour_berry_pie_dough",
+      "recipe2": "c:valley/cbc_sour_berry_pie_dough"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:sour_berry_pie_smelt",
+      "text": "An interesting kind of pie. A bit sour though..."
+    }
+  ]
+}

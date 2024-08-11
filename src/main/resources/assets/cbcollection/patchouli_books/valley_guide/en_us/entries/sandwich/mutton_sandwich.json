@@ -1,0 +1,12 @@
+{
+  "name": "Mutton Sandwich",
+  "icon": "valley:mutton_sandwich",
+  "category": "cbcollection:sandwich",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:lamb_sandwich",
+      "text": "Never underestimate a good mutton sandwich."
+    }
+  ]
+}

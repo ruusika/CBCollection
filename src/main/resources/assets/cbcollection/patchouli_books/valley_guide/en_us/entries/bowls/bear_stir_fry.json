@@ -1,0 +1,17 @@
+{
+  "name": "Bear Stir Fry",
+  "icon": "valley:bear_stir_fry",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bear_stir_fry",
+      "text": "It's a bit heavy on the stomach after the meal."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_bear_stir_fry",
+      "text": "I think the oil brings out the refined taste."
+    }
+  ]
+}

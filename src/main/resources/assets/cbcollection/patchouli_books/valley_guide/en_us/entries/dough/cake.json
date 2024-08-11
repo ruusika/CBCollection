@@ -1,0 +1,22 @@
+{
+  "name": "Cake",
+  "icon": "minecraft:cake",
+  "category": "cbcollection:dough",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:cake_dough",
+      "recipe2": "c:valley/cbc_cake_dough"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:cake_slice",
+      "text": "You best share a cake with friends."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:cake_smelting",
+      "text": "The sugar can be burned very easily. Which ruins the cake..."
+    }
+  ]
+}

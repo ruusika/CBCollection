@@ -1,0 +1,12 @@
+{
+  "name": "Fox Food",
+  "icon": "valley:fox_food",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:fox_food",
+      "text": "If you wanna keep foxes - you definitely need to feed them an arrangement of berries."
+    }
+  ]
+}

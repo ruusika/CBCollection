@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "tag": "c:cbc_milk"
+    },
+    {
+      "item": "valley:tea_mug"
+    }
+  ],
+  "result": {
+    "item": "valley:hot_cocoa"
+  }
+}

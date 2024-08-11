@@ -1,0 +1,17 @@
+{
+  "name": "Pumpkin Soup",
+  "icon": "valley:pumpkin_soup",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:pumpkin_soup",
+      "text": "I don't like the consistency of this soup."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_pumpkin_soup",
+      "text": "It gets better tho if you put roasted bread in it."
+    }
+  ]
+}

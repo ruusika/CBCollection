@@ -1,0 +1,27 @@
+{
+  "name": "Saltpeter",
+  "icon": "valley:saltpeter",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:saltpeter",
+      "text": "Major uses of potassium nitrate are in fertilizers, tree stump removal, rocket propellants and fireworks. It is one of the major constituents of gunpowder (black powder)."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:saltpeter_ore",
+      "text": "Potassium nitrate has been a common ingredient of salted meat since antiquity or the Middle Ages. The widespread adoption of nitrate use is more recent and is linked to the development of large-scale meat processing."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:deepslate_saltpeter_ore",
+      "text": "The most famous use of potassium nitrate is probably as the oxidizer in blackpowder."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:saltpeter_block",
+      "text": "Potassium nitrate is used in fertilizers as a source of nitrogen and potassium – two of the macronutrients for plants."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Pridefin Roll",
+  "icon": "valley:pridefin_roll",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:pridefin_roll",
+      "text": "Surprisingly tasty. "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_pridefin_roll",
+      "text": "There are a lot of fish bones in this fish. Just be careful."
+    }
+  ]
+}

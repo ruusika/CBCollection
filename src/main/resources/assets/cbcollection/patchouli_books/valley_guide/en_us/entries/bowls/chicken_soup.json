@@ -1,0 +1,12 @@
+{
+  "name": "Chicken Soup",
+  "icon": "valley:chicken_soup",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:chicken_soup",
+      "text": "This dish cures my hangover. Mostly."
+    }
+  ]
+}

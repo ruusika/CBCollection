@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "tag": "c:cbc_salt"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "c:cbc_broth"
+    }
+  ],
+  "result": {
+    "item": "valley:pumpkin_soup"
+  }
+}

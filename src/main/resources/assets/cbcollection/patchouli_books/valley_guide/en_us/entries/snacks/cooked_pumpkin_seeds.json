@@ -1,0 +1,12 @@
+{
+  "name": "Cooked Pumpkin Seeds",
+  "icon": "valley:cooked_pumpkin_seeds",
+  "category": "cbcollection:dough",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:cooked_pumpkin_seeds_smelt",
+      "text": "It's a pretty good pie. A good alternative would be glow berry jam."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Milk Bottle",
+  "icon": "valley:milk_bottle",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:milk_bottle",
+      "text": "A classic. Just don't let it ferment."
+    }
+  ]
+}

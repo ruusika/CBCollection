@@ -1,0 +1,17 @@
+{
+  "name": "Sea Urchin Soup",
+  "icon": "valley:sea_urchin_soup",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:urchin_chowder",
+      "text": "This bento is one you give kids for school."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_sea_urchin_soup",
+      "text": "Very nourishing and if you use cooked salmon you can store it for a while."
+    }
+  ]
+}

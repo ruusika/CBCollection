@@ -19,10 +19,10 @@
       "item": "croptopia:pepper"
     },
     "E": {
-      "item": "croptopia:clam"
+      "tag": "c:cbc_seashell"
     },
     "F": {
-      "item": "croptopia:clam"
+      "tag": "c:cbc_seashell"
     },
     "H": {
       "item": "croptopia:frying_pan"

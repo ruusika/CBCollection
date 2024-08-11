@@ -1,0 +1,13 @@
+{
+  "name": "Bomb Bag",
+  "icon": "valley:bomb_bag",
+  "category": "cbcollection:items",
+  "advancement": "cbcollection:valley_gatekeep",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:bomb_bag",
+      "text": "Bomb Bags can be found deep underground in abandoned mineshafts, right clicking them will give you some TNT. Always use with caution."
+    }
+  ]
+}

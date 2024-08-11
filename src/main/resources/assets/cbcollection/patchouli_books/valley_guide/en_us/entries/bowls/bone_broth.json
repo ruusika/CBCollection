@@ -1,0 +1,17 @@
+{
+  "name": "Bone Broth",
+  "icon": "valley:bone_broth",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bone_broth",
+      "text": "This is basically the base for all soups and stews. You might wanna add some meat."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_bone_broth",
+      "text": "Just be careful with the salt."
+    }
+  ]
+}

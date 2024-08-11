@@ -1,0 +1,17 @@
+{
+  "name": "Grass Turf",
+  "icon": "valley:grass_turf",
+  "category": "cbcollection:plants",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:grass_turf",
+      "text": "When ever you need to touch grass"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:grass_block",
+      "text": "Sometimes watching grass grow is not fast enough."
+    }
+  ]
+}

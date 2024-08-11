@@ -1,0 +1,12 @@
+{
+  "name": "Bitter Berry Cyser",
+  "icon": "valley:bitter_berry_cyser",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mead_bitter",
+      "text": "I've never seen purple mead. Imma sell this as ''King's Mead''."
+    }
+  ]
+}

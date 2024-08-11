@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "tag": "c:cbc_onion"
+    },
+    {
+      "tag": "c:cbc_salt"
+    },
+    {
+      "tag": "c:cbc_tomato"
+    }
+  ],
+  "result": {
+    "item": "valley:stuffed_baked_potato"
+  }
+}

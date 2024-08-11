@@ -1,0 +1,27 @@
+{
+  "name": "Salt",
+  "icon": "valley:salt",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:salt",
+      "text": "Salt is one of the oldest and most ubiquitous food seasonings, and is known to uniformly improve the taste perception of food, including otherwise unpalatable food. Salting, brining, and pickling are also ancient and important methods of food preservation."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:salt_ore",
+      "text": "Salt is processed from salt mines, and by the evaporation of seawater (sea salt) and mineral-rich spring water in shallow pools. The greatest single use for salt (sodium chloride) is as a feedstock for the production of chemicals."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:nether_salt_ore",
+      "text": "Salt is essential to the health of humans and other animals, and it is one of the five basic taste sensations. Salt is used in many cuisines, and it is often found in salt shakers on diners' eating tables for their personal use on food."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:salt_block",
+      "text": "Salts have diverse mineralities depending on their source, giving each one a unique flavour. Fleur de sel, a natural sea salt from the surface of evaporating brine in salt pans, has a distinctive flavour varying with its source."
+    }
+  ]
+}

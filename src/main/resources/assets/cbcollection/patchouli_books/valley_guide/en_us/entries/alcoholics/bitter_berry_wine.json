@@ -1,0 +1,12 @@
+{
+  "name": "Bitter Berry Wine",
+  "icon": "valley:bitter_berry_wine",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:wine_bb",
+      "text": "The wine is expressive, aromatic, very elegant and clean, with classical aromas of long aging in barrel and slow oxidation through the years in wood."
+    }
+  ]
+}

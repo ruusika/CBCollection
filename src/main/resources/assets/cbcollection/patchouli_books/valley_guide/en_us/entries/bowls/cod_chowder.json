@@ -1,0 +1,17 @@
+{
+  "name": "Cod Chowder",
+  "icon": "valley:cod_chowder",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:cod_chowder",
+      "text": "The seashells make it exotic to say the least..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_cod_chowder",
+      "text": "It took me a while to find out that this is some sort of thick fish soup."
+    }
+  ]
+}

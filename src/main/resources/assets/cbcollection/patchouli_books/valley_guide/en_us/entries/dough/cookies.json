@@ -1,0 +1,17 @@
+{
+  "name": "Cookie",
+  "icon": "minecraft:cookie",
+  "category": "cbcollection:dough",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:cookie_dough",
+      "recipe2": "c:valley/cbc_cookie_dough"
+    },
+    {
+      "type": "patchouli:campfire",
+      "recipe": "valley:cooked_cookie_campfire",
+      "text": "I don't know why you can make better cookies on a campfire than in the oven..."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_seashell"
+    },
+    {
+      "tag": "c:cbc_seashell"
+    },
+    {
+      "tag": "c:cbc_milk"
+    },
+    {
+      "tag": "c:cbc_salt"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "valley:creamy_chowder"
+  }
+}

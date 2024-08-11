@@ -1,0 +1,12 @@
+{
+  "name": "item.cbcollection.valley_guide",
+  "subtitle": "item.cbcollection.valley_guide.subtitle",
+  "landing_text": "A guide to the hidden secrets of Valley. Mod by GoblinGrowl",
+  "version": 0,
+  "creative_tab": "cbcollection:cookbooks",
+  "use_resource_pack": true,
+  "model": "patchouli:book_cyan",
+  "book_texture": "patchouli:textures/gui/book_cyan.png",
+  "dont_generate_book": true,
+  "custom_book_item": "cbcollection:valley_guide"
+}

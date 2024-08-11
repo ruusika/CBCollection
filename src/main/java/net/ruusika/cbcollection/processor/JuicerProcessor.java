@@ -15,6 +15,7 @@ public class JuicerProcessor implements IComponentProcessor {
 
     private JuicerRecipe recipe;
 
+    @SuppressWarnings("NullableProblems")
     @Override
     public void setup(IVariableProvider variables) {
         if (!CBCollection.isModLoaded(CBCollection.MODID_EXPANDEDDELIGHT)) return;

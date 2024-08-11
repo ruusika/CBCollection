@@ -1,0 +1,17 @@
+{
+  "name": "Corn Porridge",
+  "icon": "valley:corn_porridge",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:corn_porridge",
+      "text": "This one looks very slimy..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_corn_porridge",
+      "text": "Someone told me you get this either in prison or as ration in the military."
+    }
+  ]
+}

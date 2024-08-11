@@ -1,0 +1,17 @@
+{
+  "name": "Bottle of Pumpkin Soup",
+  "icon": "valley:pumpkin_soup_bottle",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:pumpkin_soup_bottle",
+      "text": "It's practical for travels."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_pumpkin_soup_bottle",
+      "text": "Just be careful when filling it into the bottle. It's hot."
+    }
+  ]
+}

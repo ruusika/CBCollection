@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "croptopia:clam",
+    "valley:clam",
+    "valley:mussel",
+    "valley:brown_mussel",
+    "valley:cerith_snail",
+    "valley:marlin_spike"
+  ]
+}

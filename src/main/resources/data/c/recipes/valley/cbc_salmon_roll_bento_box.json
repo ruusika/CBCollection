@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valley:salmon_roll"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "valley:dried_seaweed"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "item": "valley:bento_box"
+    },
+    {
+      "item": "valley:bento_box"
+    },
+    {
+      "item": "valley:bento_box"
+    }
+  ],
+  "result": {
+    "item": "valley:salmon_roll_bento_box",
+    "count": 3
+  }
+}

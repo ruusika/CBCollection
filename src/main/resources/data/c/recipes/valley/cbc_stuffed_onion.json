@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "tag": "c:cbc_onion"
+    },
+    {
+      "tag": "c:cbc_onion"
+    },
+    {
+      "tag": "c:cbc_onion"
+    },
+    {
+      "tag": "c:cbc_salt"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    }
+  ],
+  "result": {
+    "item": "valley:stuffed_onion",
+    "count": 3
+  }
+}

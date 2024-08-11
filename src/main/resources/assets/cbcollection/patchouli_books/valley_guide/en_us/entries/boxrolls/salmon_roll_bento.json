@@ -1,0 +1,17 @@
+{
+  "name": "Salmon Roll Bento Box",
+  "icon": "valley:salmon_roll_bento_box",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:salmon_bbox",
+      "text": "This bento is one you give kids for school."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_salmon_roll_bento_box",
+      "text": "Very nourishing and if you use cooked salmon you can store it for a while."
+    }
+  ]
+}

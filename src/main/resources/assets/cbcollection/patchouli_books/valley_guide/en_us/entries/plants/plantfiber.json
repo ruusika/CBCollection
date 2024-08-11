@@ -1,0 +1,17 @@
+{
+  "name": "Plant Fiber",
+  "icon": "valley:plant_fiber",
+  "category": "cbcollection:plants",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:sugarcane_fiber",
+      "text": "You'll get fiber by carefully cutting the sugar cane."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:fiber_bamboo",
+      "text": "The same goes for bamboo."
+    }
+  ]
+}

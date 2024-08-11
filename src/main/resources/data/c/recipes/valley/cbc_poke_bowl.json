@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valley:dried_seaweed"
+    },
+    {
+      "item": "minecraft:salmon"
+    },
+    {
+      "tag": "c:cbc_onion"
+    },
+    {
+      "item": "valley:grilled_sucker"
+    },
+    {
+      "item": "valley:rice_bowl"
+    }
+  ],
+  "result": {
+    "item": "valley:poke_bowl"
+  }
+}

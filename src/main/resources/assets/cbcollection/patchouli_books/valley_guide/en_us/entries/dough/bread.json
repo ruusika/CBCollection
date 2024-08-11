@@ -1,0 +1,27 @@
+{
+  "name": "Bread",
+  "icon": "minecraft:bread",
+  "category": "cbcollection:dough",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bread_dough",
+      "recipe2": "c:valley/cbc_bread_dough_1"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bread_dough_two",
+      "recipe2": "c:valley/cbc_bread_dough_2"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bread_dough_three",
+      "recipe2": "c:valley/cbc_bread_dough_3"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:bread_smelt",
+      "text": "The egg binds the flour and the amount of flour the result."
+    }
+  ]
+}

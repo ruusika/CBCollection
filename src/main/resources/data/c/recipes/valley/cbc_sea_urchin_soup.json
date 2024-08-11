@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_seashell"
+    },
+    {
+      "tag": "c:cbc_milk"
+    },
+    {
+      "tag": "c:cbc_salt"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "valley:cooked_sea_urchin"
+    }
+  ],
+  "result": {
+    "item": "valley:sea_urchin_soup"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Mixed Vegetable Bowl",
+  "icon": "valley:mixed_vegetable_bowl",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mixed_vegetable_bowl",
+      "text": "Depending on the kind of vegetable it tastes widely different."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_mixed_vegetable_bowl",
+      "text": "I prefer the tomato one."
+    }
+  ]
+}

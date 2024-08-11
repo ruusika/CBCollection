@@ -1,0 +1,12 @@
+{
+  "name": "Frozen Slime Ball",
+  "icon": "valley:frozen_slime_ball",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:frozen_slime_ball",
+      "text": "I dunno why you would eat that but it has a similar consistency to squid..."
+    }
+  ]
+}

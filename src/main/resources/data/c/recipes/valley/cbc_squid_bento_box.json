@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valley:grilled_sucker"
+    },
+    {
+      "item": "valley:dried_seaweed"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "item": "valley:bento_box"
+    },
+    {
+      "item": "valley:bento_box"
+    },
+    {
+      "item": "valley:bento_box"
+    }
+  ],
+  "result": {
+    "item": "valley:squid_bento_box",
+    "count": 3
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Crab Roll",
+  "icon": "valley:crab_roll",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:crab_roll",
+      "text": "I still wonder how they get the crab meat out of the shell..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_crab_roll",
+      "text": "I would be careful with the spice...The rice tends to absorb it pretty well."
+    }
+  ]
+}

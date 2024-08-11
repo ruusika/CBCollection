@@ -1,0 +1,17 @@
+{
+  "name": "Tropical Roll",
+  "icon": "valley:tropical_roll",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:tropical_roll",
+      "text": "The carrot helps with the extremely fishy taste."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_tropical_roll",
+      "text": "Otherwise not that bad."
+    }
+  ]
+}

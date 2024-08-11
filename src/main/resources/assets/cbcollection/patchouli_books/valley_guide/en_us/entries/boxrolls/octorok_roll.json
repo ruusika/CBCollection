@@ -1,0 +1,17 @@
+{
+  "name": "Oktorok Roll",
+  "icon": "valley:octorok_roll",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:octorok_roll",
+      "text": "Again with this mushy consistency..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_oktorok_roll",
+      "text": "I still can't eat that."
+    }
+  ]
+}

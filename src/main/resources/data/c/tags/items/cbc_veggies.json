@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "valley:living_mandrake",
+    "valley:corn",
+    "croptopia:corn",
+    "valley:snow_yam",
+    "farmersdelight:onion",
+    "croptopia:greenonion",
+    "croptopia:onion",
+    "croptopia:eggplant",
+    "valley:eggplant",
+    "valley:golden_eggplant",
+    "croptopia:tomato",
+    "culinaire:tomato",
+    "farmersdelight:tomato",
+    "croptopia:chile_pepper",
+    "expandeddelight:chili_pepper",
+    "valley:fire_pepper",
+    "valley:green_beans",
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:pumpkin"
+  ]
+}

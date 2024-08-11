@@ -1,0 +1,17 @@
+{
+  "name": "Miners Salad",
+  "icon": "valley:miners_salad",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:miners_salad",
+      "text": "I still don't have an answer on what miners lettuce is..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_miners_salad",
+      "text": "Ah...apparently it was used to prevent loosing your teeth as a miner."
+    }
+  ]
+}

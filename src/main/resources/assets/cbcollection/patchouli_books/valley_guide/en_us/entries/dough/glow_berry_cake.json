@@ -1,0 +1,17 @@
+{
+  "name": "Glow Berry Cake",
+  "icon": "valley:glow_berry_pie",
+  "category": "cbcollection:dough",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:glow_berry_pie_dough",
+      "recipe2": "c:valley/cbc_glow_berry_dough"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:glow_berry_pie_smelt",
+      "text": "It's a pretty good pie. A good alternative would be glow berry jam."
+    }
+  ]
+}

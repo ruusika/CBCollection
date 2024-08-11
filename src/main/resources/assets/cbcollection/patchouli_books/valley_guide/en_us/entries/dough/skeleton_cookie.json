@@ -1,0 +1,17 @@
+{
+  "name": "Skeleton Cookie",
+  "icon": "valley:skeleton_cookie",
+  "category": "cbcollection:dough",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:skull_cookie_dough",
+      "recipe2": "c:valley/cbc_skull_cookie_dough"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:cookie_furnace",
+      "text": "A nice little treat for spooky nights."
+    }
+  ]
+}

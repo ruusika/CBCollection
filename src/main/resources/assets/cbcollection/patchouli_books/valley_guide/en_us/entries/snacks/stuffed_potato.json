@@ -1,0 +1,17 @@
+{
+  "name": "Stuffed Baked Potato",
+  "icon": "valley:stuffed_baked_potato",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:b_pot",
+      "text": "Be careful. The potatoes are very hot."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_stuffed_baked_potato",
+      "text": "It's a bit difficult to stuff the baked potato but it's worth it."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Grub",
+  "icon": "valley:grub",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:grub",
+      "text": "I have no clue who would eat that."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_grub",
+      "text": "The alcohol in there rules out prison and army."
+    }
+  ]
+}

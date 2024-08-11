@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "c:cbc_broth"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "c:cbc_salt"
+    }
+  ],
+  "result": {
+    "item": "valley:carrot_stew"
+  }
+}

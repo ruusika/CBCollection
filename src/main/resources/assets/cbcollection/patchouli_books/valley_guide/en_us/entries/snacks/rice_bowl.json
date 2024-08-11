@@ -1,0 +1,17 @@
+{
+  "name": "Rice Bowl",
+  "icon": "valley:rice_bowl",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:rice_bowl",
+      "text": "Sometimes you just need a bowl of rice to be happy."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_rice_bowl",
+      "text": "Maybe a cup of green tea would be helping as well."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "name": "Tools",
+  "icon": "valley:lumber_axe",
+  "category": "cbcollection:tools",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "Furniture",
+      "item": "valley:furniture",
+      "text": "Maybe a symbol?"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Exploration",
+      "item": "valley:exploration",
+      "text": "Another symbol?"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:tree_branch",
+      "text": "You can use a tree branch as weapon."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:sharpened_flint",
+      "text": "If you are not careful enough you might start a fire."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bone_knife",
+      "text": "A little makeshift knife."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:climbing_axe",
+      "text": "A pickaxe which helps you climb."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:tongs",
+      "text": "Tongs are used to collect Ice blocks of all types."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:lumber_axe",
+      "text": "A lumberjacks trusty tool."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:encrusted_pickaxe",
+      "text": "Made out of shells...A bit brittle but it won't rust."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:prismarine_scalpel",
+      "text": "Used for gathering coral."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:wood_sickle",
+      "recipe2": "valley:stone_sickle"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:golden_sickle",
+      "recipe2": "valley:iron_sickle"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:diamond_sickle",
+      "text": "A common farming tool to gather hew for your cattle."
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "valley:rose_gold_sickle",
+      "recipe2": "valley:netherite_sickle"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "valley:rose_gold_shovel",
+      "recipe2": "valley:rose_gold_pickaxe"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "valley:rose_gold_axe",
+      "recipe2": "valley:rose_gold_hoe"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:copper_billet_recipe",
+      "text": "A tool to sharpen arrowheads."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:arrow_head_flint",
+      "recipe2": "valley:arrow_head_obsidian"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:arrow_head_drip",
+      "recipe2": "valley:arrow_recipe_dripstone"
+    }
+  ]
+}

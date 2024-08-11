@@ -1,0 +1,12 @@
+{
+  "name": "Chocolate Cyser",
+  "icon": "valley:chocolate_cyser",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mead_chocolate",
+      "text": "Only use this for a cake. Never drink this."
+    }
+  ]
+}

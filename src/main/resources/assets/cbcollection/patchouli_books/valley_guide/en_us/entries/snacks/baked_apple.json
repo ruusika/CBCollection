@@ -1,0 +1,12 @@
+{
+  "name": "Baked Apple",
+  "icon": "valley:baked_apple",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:baked_apple_smelt",
+      "text": "Apples get a lot more nourishing if you bake them in the oven."
+    }
+  ]
+}

@@ -16,7 +16,7 @@
       "item": "croptopia:olive_oil"
     },
     "E": {
-      "item": "croptopia:eggplant"
+      "tag": "c:cbc_eggplant"
     },
     "F": {
       "item": "croptopia:pepper"

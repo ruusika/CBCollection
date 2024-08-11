@@ -1,0 +1,12 @@
+{
+  "name": "Mead",
+  "icon": "valley:mead",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mead_reg",
+      "text": "A true classic. Loved by dwarves and miners. Maybe a bit too much..."
+    }
+  ]
+}

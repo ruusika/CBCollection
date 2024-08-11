@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_onion"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "valley:cooked_tenderloin"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "c:cbc_broth"
+    }
+  ],
+  "result": {
+    "item": "valley:bear_stew"
+  }
+}

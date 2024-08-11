@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_veggies"
+    },
+    {
+      "tag": "c:cbc_veggies"
+    },
+    {
+      "tag": "c:cbc_veggies"
+    },
+    {
+      "tag": "c:cbc_veggies"
+    },
+    {
+      "tag": "c:cbc_veggies"
+    },
+    {
+      "tag": "c:cbc_veggies"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "valley:mixed_vegetable_bowl"
+  }
+}

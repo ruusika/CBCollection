@@ -1,0 +1,32 @@
+{
+  "name": "Armor",
+  "icon": "valley:rose_gold_chestplate",
+  "category": "cbcollection:tools",
+  "pages": [
+    {
+      "type": "patchouli:smithing",
+      "recipe": "valley:rose_gold_helmet",
+      "recipe2": "valley:rose_gold_chestplate"
+    },
+    {
+      "type": "patchouli:smithing",
+      "recipe": "valley:rose_gold_leggings",
+      "recipe2": "valley:rose_gold_boots"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:turtle_chest",
+      "recipe2": "valley:turtle_leggings"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:turtle_boot",
+      "text": "Armor made out of scutes."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:fur_coat",
+      "text": "I still hope that this is not cat barf...."
+    }
+  ]
+}

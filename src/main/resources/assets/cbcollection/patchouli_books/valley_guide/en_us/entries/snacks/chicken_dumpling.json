@@ -1,0 +1,17 @@
+{
+  "name": "Chicken Dumpling",
+  "icon": "valley:dumpling",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dumpling",
+      "text": "This one can be eaten warm and cold."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_dumpling",
+      "text": "People spend hours and hours to make the perfect dumplings."
+    }
+  ]
+}

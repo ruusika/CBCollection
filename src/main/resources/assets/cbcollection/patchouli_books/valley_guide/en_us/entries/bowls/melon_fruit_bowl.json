@@ -1,0 +1,12 @@
+{
+  "name": "Melon Fruit Bowl",
+  "icon": "valley:melon_fruit_bowl",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:watermelon_bowl",
+      "text": "A fruit salad where you can eat the bowl as well."
+    }
+  ]
+}

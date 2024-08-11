@@ -1,0 +1,17 @@
+{
+  "name": "Wolf Kibble",
+  "icon": "valley:dog_food",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dog_food",
+      "text": "To keep your dog healthy you need good food."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_dog_food",
+      "text": "Dogs have a strong stomach. You can easily put in some jerky."
+    }
+  ]
+}

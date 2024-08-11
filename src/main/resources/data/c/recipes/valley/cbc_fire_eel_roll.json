@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valley:dried_seaweed"
+    },
+    {
+      "item": "valley:fire_eel"
+    },
+    {
+      "tag": "c:cbc_rice"
+    }
+  ],
+  "result": {
+    "item": "valley:fire_eel_roll"
+  }
+}

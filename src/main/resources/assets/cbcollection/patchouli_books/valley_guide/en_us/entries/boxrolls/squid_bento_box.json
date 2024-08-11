@@ -1,0 +1,17 @@
+{
+  "name": "Squid Bento Box",
+  "icon": "valley:squid_bento_box",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:squid_bento_box",
+      "text": "I never get those coastal people...Why squids?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_squid_bento_box",
+      "text": "Yikes... I stick with the carrots in there."
+    }
+  ]
+}

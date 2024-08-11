@@ -1,0 +1,12 @@
+{
+  "name": "Flour",
+  "icon": "valley:flour",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:flour",
+      "text": "A most basic ingredient. You need it for most dishes."
+    }
+  ]
+}

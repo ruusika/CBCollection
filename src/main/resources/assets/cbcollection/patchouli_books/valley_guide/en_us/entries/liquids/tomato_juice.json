@@ -1,0 +1,17 @@
+{
+  "name": "Tomato Juice",
+  "icon": "valley:tomato_juice",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:tomato_juice",
+      "text": "I don't know why people would drink it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_tomato_juice",
+      "text": "I heard a story where someone served this on a dragon flight."
+    }
+  ]
+}

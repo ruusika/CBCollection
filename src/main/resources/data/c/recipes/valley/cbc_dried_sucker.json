@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_salt"
+    },
+    {
+      "item": "valley:squid_sucker"
+    }
+  ],
+  "result": {
+    "item": "valley:dried_sucker"
+  }
+}

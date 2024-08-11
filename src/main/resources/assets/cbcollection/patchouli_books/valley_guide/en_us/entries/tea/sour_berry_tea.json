@@ -1,0 +1,12 @@
+{
+  "name": "Sour Berry Tea",
+  "icon": "valley:sour_berry_tea",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:tea_sour",
+      "text": "This is as strong as coffee but you can drink more then three cups of it."
+    }
+  ]
+}

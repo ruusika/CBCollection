@@ -1,0 +1,12 @@
+{
+  "name": "Pork Stir Fry",
+  "icon": "valley:pork_stir_fry",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:pork_stir_fry",
+      "text": "Did I mention my dislike of beans? Yeah...I hate them."
+    }
+  ]
+}

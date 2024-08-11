@@ -1,0 +1,12 @@
+{
+  "name": "Sour Berry Wine",
+  "icon": "valley:sour_berry_wine",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:wine_sour",
+      "text": "I think this one is best suited with fish or chicken..."
+    }
+  ]
+}

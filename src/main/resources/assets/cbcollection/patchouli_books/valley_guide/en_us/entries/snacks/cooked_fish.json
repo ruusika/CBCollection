@@ -1,0 +1,54 @@
+{
+  "name": "Cooked Fish",
+  "icon": "valley:cooked_lobster",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:masking_smelting",
+      "recipe2": "valley:cooked_crab_smelt",
+      "text": "Roasting crabs is not that easy. Their shell gives some troubles."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:cooked_fire_eel_smelt",
+      "text": "Fire eels have some venom glands. Carefully remove them."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:perch_smelting",
+      "text": "Perches don't have many fish bone so you practically can't choke on them."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:pridefin_smelting",
+      "text": "This fish loose all color when cooked so be careful."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:cooked_red_porgy_smelt",
+      "text": "Those are a little delicacy."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:cooked_sardine_smelt",
+      "text": "Don't overcook them. Trust me."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:sea_urchin_smelting",
+      "text": "I'd rather not eat them because they have poisonous spikes."
+    },
+    {
+      "type": "patchouli:smelting",
+      "title": "Cooked Stonespinner",
+      "recipe": "valley:stonespinner_smelting",
+      "text": "Very small. Not much to eat but tasty."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:cooked_tropical_fish_smelt",
+      "text": "I think this recipe differs in cooktime..."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valley:dried_seaweed"
+    },
+    {
+      "item": "valley:pridefin"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "c:cbc_chile_pepper"
+    }
+  ],
+  "result": {
+    "item": "valley:pridefin_roll"
+  }
+}

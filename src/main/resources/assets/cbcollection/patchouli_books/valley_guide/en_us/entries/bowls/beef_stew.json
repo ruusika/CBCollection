@@ -1,0 +1,17 @@
+{
+  "name": "Beef Stew",
+  "icon": "valley:beef_stew",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:beef_stew",
+      "text": "This is what I call a stew."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_beef_stew",
+      "text": "I usually leave out the beetroot but it adds quite something to the dish."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Candied Snow Yams",
+  "icon": "valley:candied_snow_yams",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:candied_snow_yams",
+      "text": "I am surprised how sweet this is."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_candied_snow_yams",
+      "text": "I think cold it's even better."
+    }
+  ]
+}

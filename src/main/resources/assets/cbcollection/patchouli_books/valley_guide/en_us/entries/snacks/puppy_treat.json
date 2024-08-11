@@ -1,0 +1,17 @@
+{
+  "name": "Pumpkin Puppy Treat",
+  "icon": "valley:pumpkin_puppy_treat",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:puppy_biscuit",
+      "text": "Your little puppies will storm you if you hold them."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_puppy_biscuit",
+      "text": "It's also quite tasty."
+    }
+  ]
+}

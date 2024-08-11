@@ -1,0 +1,12 @@
+{
+  "name": "Charcoal Block",
+  "icon": "valley:charcoal_block",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:charcoal_block",
+      "text": "Compressed Charcoal."
+    }
+  ]
+}

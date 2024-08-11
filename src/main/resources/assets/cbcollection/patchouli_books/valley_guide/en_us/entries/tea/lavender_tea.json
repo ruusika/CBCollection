@@ -1,0 +1,12 @@
+{
+  "name": "Lavender Tea",
+  "icon": "valley:lavender_tea",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:lavender_tea",
+      "text": "Not sure if this works better to cure insomnia or Camomile tea."
+    }
+  ]
+}

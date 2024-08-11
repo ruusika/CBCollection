@@ -1,0 +1,17 @@
+{
+  "name": "Bacon",
+  "icon": "valley:cooked_bacon",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bacon_raw",
+      "text": "Carefully slice the raw pork into bacon."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:bacon_smelt",
+      "text": "Hmmmm...crispy bacon. With some eggs it's heaven."
+    }
+  ]
+}

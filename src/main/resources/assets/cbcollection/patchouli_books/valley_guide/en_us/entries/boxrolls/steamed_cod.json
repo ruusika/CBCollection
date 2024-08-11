@@ -1,0 +1,12 @@
+{
+  "name": "Steamed Cod",
+  "icon": "valley:steamed_cod",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:steamed_cod",
+      "text": "You steam cod and wrap it into a lily-pad. Very simple."
+    }
+  ]
+}

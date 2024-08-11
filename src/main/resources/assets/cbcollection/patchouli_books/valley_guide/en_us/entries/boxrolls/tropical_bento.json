@@ -1,0 +1,17 @@
+{
+  "name": "Tropical Fish Bento Box",
+  "icon": "valley:tropical_fish_bento_box",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:clownfish_bbox",
+      "text": "This one is rather exotic but not exclusive."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_tropical_fish_bento_box",
+      "text": "You hit the jackpot if you find some rainbow wrasse in this arrangement."
+    }
+  ]
+}

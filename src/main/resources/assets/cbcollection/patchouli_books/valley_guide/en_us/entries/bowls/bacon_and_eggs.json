@@ -1,0 +1,12 @@
+{
+  "name": "Bacon and Eggs",
+  "icon": "valley:bacon_and_eggs",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bandegg",
+      "text": "A bit simpler than the bacon breakfast but sometimes simple is the key."
+    }
+  ]
+}

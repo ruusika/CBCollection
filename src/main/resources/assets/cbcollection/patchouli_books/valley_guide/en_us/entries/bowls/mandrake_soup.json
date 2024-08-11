@@ -1,0 +1,17 @@
+{
+  "name": "Mandrake Soup",
+  "icon": "valley:mandrake_soup",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mandrake_soup",
+      "text": "This one might be healthy but it also might be witchcraft."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_mandrake_soup",
+      "text": "Pretty sure I seen an old witch drinking this."
+    }
+  ]
+}

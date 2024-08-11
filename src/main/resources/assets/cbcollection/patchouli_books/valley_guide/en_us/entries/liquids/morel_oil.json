@@ -1,0 +1,12 @@
+{
+  "name": "Morel Oil",
+  "icon": "valley:morel_oil",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:morel_oil",
+      "text": "It works wonders when you fry stuff in a pan..."
+    }
+  ]
+}

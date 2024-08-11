@@ -1,0 +1,17 @@
+{
+  "name": "Crab Cake",
+  "icon": "valley:crab_cake",
+  "category": "cbcollection:dough",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:crab_cake_dough",
+      "recipe2": "c:valley/cbc_crab_cake_dough"
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:crab_cake_smelt",
+      "text": "In my first try I managed to get crab shells into the dough."
+    }
+  ]
+}

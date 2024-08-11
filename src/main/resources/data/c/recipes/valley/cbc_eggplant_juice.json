@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_eggplant"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "tag": "c:cbc_salt"
+    }
+  ],
+  "result": {
+    "item": "valley:eggplant_juice"
+  }
+}

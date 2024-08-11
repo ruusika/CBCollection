@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valley:raw_tenderloin"
+    },
+    {
+      "tag": "c:cbc_salt"
+    }
+  ],
+  "result": {
+    "item": "valley:bear_jerky"
+  }
+}

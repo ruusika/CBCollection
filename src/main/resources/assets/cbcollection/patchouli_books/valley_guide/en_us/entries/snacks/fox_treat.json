@@ -1,0 +1,17 @@
+{
+  "name": "Fox Treat",
+  "icon": "valley:fox_treat",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:fox_treat",
+      "text": "A little treat to bait foxes."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_fox_treat",
+      "text": "I think the rabbit food is a bit over the top..."
+    }
+  ]
+}

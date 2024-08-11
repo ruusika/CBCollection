@@ -1,0 +1,17 @@
+{
+  "name": "Monster Jerky",
+  "icon": "valley:monster_jerky",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:monster_jerky",
+      "text": "I mean it's great for storing and for desperate times..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_monster_jerky",
+      "text": "But would you really eat jerky from rotten flesh?"
+    }
+  ]
+}

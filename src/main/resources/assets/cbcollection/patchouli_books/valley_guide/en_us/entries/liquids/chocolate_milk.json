@@ -1,0 +1,17 @@
+{
+  "name": "Chocolate Milk",
+  "icon": "valley:chocolate_milk_bottle",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:choco_milk",
+      "text": "White chocolate, dark chocolate or milk chocolate. You can create heaven here."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_choco_milk",
+      "text": "Liquid chocolate ist the best. and the milk makes drinkable."
+    }
+  ]
+}

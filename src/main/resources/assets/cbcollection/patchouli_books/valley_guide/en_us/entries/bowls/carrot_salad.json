@@ -1,0 +1,12 @@
+{
+  "name": "Carrot Salad",
+  "icon": "valley:carrot_salad",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:carrot_salad",
+      "text": "Kelp is a surprisingly good replacement for actual salad."
+    }
+  ]
+}

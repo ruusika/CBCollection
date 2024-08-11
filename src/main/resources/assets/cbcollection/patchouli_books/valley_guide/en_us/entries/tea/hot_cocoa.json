@@ -1,0 +1,17 @@
+{
+  "name": "Hot Cocoa",
+  "icon": "valley:hot_cocoa",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:hot_cocoa",
+      "text": "Some ancient civilisation used the beans to trade and the drink was a way to worship their gods."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_hot_cocoa",
+      "text": "It's perfect for frosty cold days. I still prefer this kind of alcoholic tea..."
+    }
+  ]
+}

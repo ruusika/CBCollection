@@ -1,0 +1,12 @@
+{
+  "name": "Scrambled Eggs",
+  "icon": "valley:scrambled_eggs",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:scrambled_eggs_smelt",
+      "text": "I recommend black pepper for spicing them up."
+    }
+  ]
+}

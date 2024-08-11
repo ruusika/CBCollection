@@ -1,0 +1,12 @@
+{
+  "name": "Dandelion Tea",
+  "icon": "valley:dandelion_tea",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dandelion_tea",
+      "text": "I don't know but this one makes me piss a lot."
+    }
+  ]
+}

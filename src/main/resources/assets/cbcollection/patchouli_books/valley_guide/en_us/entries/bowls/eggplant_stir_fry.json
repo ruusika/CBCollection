@@ -1,0 +1,17 @@
+{
+  "name": "Eggplant Stir Fry",
+  "icon": "valley:eggplant_stir_fry",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:eggplant_stir_fry",
+      "text": "I can't tell what I should taste here. The onion? The Mushrooms? I don't know."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_eggplant_stir_fry",
+      "text": "At least the morel oil doesn't add that much flavour."
+    }
+  ]
+}

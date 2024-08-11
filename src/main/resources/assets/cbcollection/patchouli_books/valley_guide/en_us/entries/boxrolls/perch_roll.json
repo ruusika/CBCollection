@@ -1,0 +1,17 @@
+{
+  "name": "Perch Roll",
+  "icon": "valley:perch_roll",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:perch_roll",
+      "text": "I like this one. Not to spicy not to mild."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_perch_roll",
+      "text": "Next time I'll try to put in something other than beetroot."
+    }
+  ]
+}

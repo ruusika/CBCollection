@@ -1,0 +1,17 @@
+{
+  "name": "Creamy Chowder",
+  "icon": "valley:creamy_chowder",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:creamy_chowder",
+      "text": "This is apparently a seashell soup."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_creamy_chowder",
+      "text": "This is a popular dish in coastal regions."
+    }
+  ]
+}

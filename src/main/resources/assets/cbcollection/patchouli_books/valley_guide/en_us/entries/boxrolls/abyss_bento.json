@@ -1,0 +1,17 @@
+{
+  "name": "Abyss Watcher Bento Box",
+  "icon": "valley:abyss_watcher_bento_box",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:abyss_watcher_bento_box",
+      "text": "A carefully selected box."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_abyss_bento_box",
+      "text": "Those are traditional in eastern lands."
+    }
+  ]
+}

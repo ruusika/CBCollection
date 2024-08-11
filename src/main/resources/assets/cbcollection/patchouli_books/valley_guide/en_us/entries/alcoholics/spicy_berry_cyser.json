@@ -1,0 +1,12 @@
+{
+  "name": "Spicy Berry Cyser",
+  "icon": "valley:spicy_berry_cyser",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mead_spicy",
+      "text": "Which of you jesters put some chili peppers in my mead?"
+    }
+  ]
+}

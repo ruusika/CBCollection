@@ -1,0 +1,12 @@
+{
+  "name": "Puff Ball",
+  "icon": "valley:puff_ball",
+  "category": "cbcollection:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:puff_ball",
+      "text": "I think this is wool from a sheep."
+    }
+  ]
+}

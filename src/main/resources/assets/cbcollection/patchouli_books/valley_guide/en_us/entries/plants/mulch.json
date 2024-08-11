@@ -1,0 +1,12 @@
+{
+  "name": "Mulch",
+  "icon": "valley:mulch",
+  "category": "cbcollection:plants",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mulch",
+      "text": "A mulch is a layer of material applied to the surface of soil. Reasons for applying mulch include conservation of soil moisture, improving fertility and health of the soil, reducing weed growth, and enhancing the visual appeal of the area."
+    }
+  ]
+}

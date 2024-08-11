@@ -1,0 +1,18 @@
+{
+  "name": "Fruit Skewer",
+  "icon": "valley:fruit_skewer",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:fruit_skewer",
+      "text": "A classic. Just use bamboo."
+    },
+    {
+      "type": "patchouli:crafting",
+      "title": "Golden Fruit Skewer",
+      "recipe": "valley:fruit_kabob_golden",
+      "text": "I don't know why you would gild a dish but I don't understand rich people..."
+    }
+  ]
+}

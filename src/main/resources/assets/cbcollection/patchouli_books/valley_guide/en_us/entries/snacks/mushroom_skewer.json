@@ -1,0 +1,12 @@
+{
+  "name": "Mushroom Skewer",
+  "icon": "valley:morel_skewer",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mushroom_skewer",
+      "text": "I think this one is tastier if you put it into campfire and roast the skewer."
+    }
+  ]
+}

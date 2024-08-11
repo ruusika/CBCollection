@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:blaze_powder"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "tag": "c:cbc_salt"
+    },
+    {
+      "item": "valley:saltpeter"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "valley:living_mandrake"
+    },
+    {
+      "item": "valley:sour_berries"
+    },
+    {
+      "item": "valley:soul_sporecap"
+    }
+  ],
+  "result": {
+    "item": "valley:lingering_powder"
+  }
+}

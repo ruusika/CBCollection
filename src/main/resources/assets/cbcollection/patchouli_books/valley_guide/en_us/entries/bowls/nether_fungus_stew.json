@@ -1,0 +1,17 @@
+{
+  "name": "Nether Fungus Stew",
+  "icon": "valley:nether_fungus_stew",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:nether_fungus_stew",
+      "text": "This one is definitely from a witch."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_nether_fungus_stew",
+      "text": "I mean look at those weird looking mushrooms."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Grilled Melon",
+  "icon": "valley:grilled_watermelon",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:melon_slice_smelt",
+      "text": "It's a pretty good pie. A good alternative would be glow berry jam."
+    }
+  ]
+}

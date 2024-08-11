@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_flour"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "tag": "c:cbc_flour"
+    }
+  ],
+  "result": {
+    "item": "valley:cookie_dough",
+    "count": 8
+  }
+}

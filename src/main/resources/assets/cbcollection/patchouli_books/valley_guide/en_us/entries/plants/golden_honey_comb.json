@@ -1,0 +1,12 @@
+{
+  "name": "Golden Honeycomb",
+  "icon": "valley:golden_honeycomb",
+  "category": "cbcollection:plants",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:golden_honeycomb",
+      "text": "Why would you gild a honeycomb?"
+    }
+  ]
+}

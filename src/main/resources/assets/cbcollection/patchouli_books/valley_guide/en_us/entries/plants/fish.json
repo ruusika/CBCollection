@@ -1,0 +1,142 @@
+{
+  "name": "Fish",
+  "icon": "valley:rainbow_wrasse",
+  "category": "cbcollection:plants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:perch",
+      "text": "Perch can vary greatly in size between bodies of water. They can live for up to 22 years, and older perch are often much larger than average; the maximum recorded length is 60 cm (24 in)."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:dungeness_crab",
+      "text": "Dungeness crabs have four pairs of armored legs, two claws, and a wide, hard shell. A Dungeness's legs are shorter compared to other commercial crabs and their claws have a distinctive hook."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:masking_crab",
+      "text": "The flesh has what is considered to be a delicate flavor and slightly sweet taste."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:spiny_lobster",
+      "text": "Lobster is commonly served boiled or steamed in the shell. Taverns crack the shell with lobster crackers and fish out the meat with lobster picks. The meat is often eaten with melted butter and lemon juice. Lobster is also used in soup, bisque, lobster rolls, cappon magro, and dishes such as lobster Newberg and lobster Thermidor."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:mussel",
+      "text": "Although freshwater mussels are edible, today they are widely considered unpalatable and are rarely consumed."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:brown_mussel",
+      "text": "Brown Mussels are sometimes served with fresh herbs and flavorful vegetables in a stock of butter and white wine."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:cerith_snail",
+      "text": "This species usually occurs in large populations on intertidal rocky shelfs with a thin covering of sediment and is frequently mentioned in ecological studies."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:marlin_spike",
+      "text": "Young shells have weak vertical ridges; while older species become smooth. There color is cream with interrupted spiral bands of brown. The shell has been used as a boring instrument by coastal tribes."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:lionfish",
+      "text": "Another initiative to consumption is centered around the production of leather from lionfish hides. It seeks to establish a production chain and market for high-quality leather produced from the hides."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:sardine",
+      "text": "Sardines are often served in cans, but can also be eaten grilled, pickled, or smoked when fresh."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:red_porgy",
+      "text": "The red porgy is a moderately deep-bodied fish with an oblong shaped body. The standard length is 75 cm (30 in), although a more typical length is about half of this."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:saltwater_stoneroller_minnow",
+      "text": "The stoneroller has a very stout body with a very large head and snout. The mouth is unique in that its teeth have cartilaginous sheaths, while the size of its mouth is usually very small."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:gelafin",
+      "text": "A very slimy fish...I hardly find any records about it."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:pridefin",
+      "text": "Another rather rare fish. It is used in sushi."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:rainbow_wrasse",
+      "text": "t is typically found near the shore in places with seagrass or rocks. It is usually found at depths of 0–60 m (0–197 ft), but occurs as deep as 120 m (390 ft)."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:glistering_angler",
+      "text": "All anglerfish are carnivorous and are thus adapted for the capture of prey. Ranging in color from dark gray to dark brown, deep-sea species have large heads that bear enormous, crescent-shaped mouths full of long, fang-like teeth angled inward for efficient prey-grabbing."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:octorok",
+      "text": "A rare species of octopus..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:hairy_frog_fish",
+      "text": "Ankimo is most often consumed as sushi or sashimi. Ankimo is used in several meibutsu, regional delicacies, such as dobu-jiru, stewed ankimo and vegetables."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:fire_eel",
+      "text": "The fire eel is not a true eel, but an extremely elongated fish with a distinctive pointed snout and underslung mouth."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:ghostfin",
+      "text": "It creates burrows in the mud bottom on which it lives. About 2 inches around and 1.5 to 3 in below the surface, the burrow branches into tunnels."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:abyss_watcher",
+      "text": "I can't find anything...But it's a good fish for dishes."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:bonefin",
+      "text": "Since bonefish live in shallow inshore water, fishing may be done by wading or from a shallow-draft boat. Bonefishing is mostly done for the sport, so the fish are released, but they may also be eaten in less developed areas."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:fire_eel_bucket",
+      "text": "A method of transportation."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:perch_bucket",
+      "text": "A method of transportation."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:sardine_bucket",
+      "text": "A method of transportation."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:minnow_bucket",
+      "text": "A method of transportation."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:red_porgy_bucket",
+      "text": "A method of transportation."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Wolf Biscuit",
+  "icon": "valley:dog_biscuit",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dog_biscuit",
+      "text": "What a cute little treat."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_dog_biscuit",
+      "text": "A perfect little gift for your best friend."
+    }
+  ]
+}

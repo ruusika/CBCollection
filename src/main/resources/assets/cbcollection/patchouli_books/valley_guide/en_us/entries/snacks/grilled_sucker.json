@@ -1,0 +1,12 @@
+{
+  "name": "Grilled Sucker",
+  "icon": "valley:grilled_sucker",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:cooked_squid_sucker_smelt",
+      "text": "I dislike the consistency. Otherwise it's not that bad."
+    }
+  ]
+}

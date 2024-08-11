@@ -1,0 +1,17 @@
+{
+  "name": "Creamy Heart Stew",
+  "icon": "valley:creamy_heart_stew",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:creamy_heart",
+      "text": "I really don't like this color..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_creamy_heart",
+      "text": "Aaaaaaand it's an eggplant stew...Ew."
+    }
+  ]
+}

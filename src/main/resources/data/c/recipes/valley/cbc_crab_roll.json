@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valley:dried_seaweed"
+    },
+    {
+      "tag": "c:cbc_crustanimal"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "tag": "c:cbc_spicy_crops"
+    },
+    {
+      "item": "minecraft:beetroot"
+    }
+  ],
+  "result": {
+    "item": "valley:crab_roll"
+  }
+}

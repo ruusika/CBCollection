@@ -1,0 +1,12 @@
+{
+  "name": "Lamb Biryani",
+  "icon": "valley:lamb_biryani",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:lamb_biryani",
+      "text": "A rather spicy lamb rice dish."
+    }
+  ]
+}

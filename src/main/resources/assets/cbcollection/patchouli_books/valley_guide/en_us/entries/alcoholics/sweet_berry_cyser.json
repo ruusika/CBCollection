@@ -1,0 +1,12 @@
+{
+  "name": "Sweet Berry Cyser",
+  "icon": "valley:sweet_berry_cyser",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mead_sweet",
+      "text": "This one takes the sweet honey and intensifies it by a lot."
+    }
+  ]
+}

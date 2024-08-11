@@ -1,0 +1,12 @@
+{
+  "name": "Encrusted Sandstone",
+  "icon": "valley:encrusted_sandstone",
+  "category": "cbcollection:items",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:encrusted_sandstone",
+      "text": "This is compressed sand splintered with seashells."
+    }
+  ]
+}

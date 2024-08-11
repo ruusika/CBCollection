@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_crab"
+    },
+    {
+      "tag": "c:cbc_flour"
+    },
+    {
+      "tag": "c:cbc_egg"
+    }
+  ],
+  "result": {
+    "item": "valley:crab_cake_dough"
+  }
+}

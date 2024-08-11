@@ -1,0 +1,12 @@
+{
+  "name": "Tropical Fish Salad",
+  "icon": "valley:tropical_fish_salad",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:tropical_salad",
+      "text": "It's like sushi in a bowl. It needs some sauce tho..."
+    }
+  ]
+}

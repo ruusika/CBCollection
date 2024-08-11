@@ -1,0 +1,17 @@
+{
+  "name": "Sardine Soup",
+  "icon": "valley:sardine_soup",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:sardine_soup",
+      "text": "I can't tell if it stinks or not."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_sardine_soup",
+      "text": "Not sure about the mandrake..."
+    }
+  ]
+}

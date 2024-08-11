@@ -1,0 +1,73 @@
+{
+  "name": "Crops",
+  "icon": "valley:corn",
+  "category": "cbcollection:plants",
+  "pages": [
+    {
+      "type": "cbcollection:crop_template",
+      "header": "Rice",
+      "seed": "valley:rice_seedlings",
+      "plant": "valley:rice",
+      "text": "The rice plant can grow to over 1 m tall; if in deep water, it can reach a length of 5 m. A single plant may have several leafy stems or tillers. The upright stem is jointed with nodes along its length; a long slender leaf arises from each node."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:rice_seedlings",
+      "recipe2": "c:valley/cbc_rice_seedlings"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:golden_beet",
+      "recipe2": "valley:golden_bitter_berries"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:golden_corn",
+      "recipe2": "valley:golden_green_bean"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:golden_glow_berries",
+      "recipe2": "valley:golden_mandrake"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:golden_kelp",
+      "recipe2": "valley:glistering_glow_kelp"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:golden_potato",
+      "recipe2": "valley:golden_snow_yam"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:golden_sour_berries",
+      "recipe2": "valley:golden_spicy_berries"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:golden_eggplant",
+      "recipe2": "c:valley/cbc_golden_eggplant"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:golden_onion",
+      "recipe2": "c:valley/cbc_golden_onion"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:golden_tomato",
+      "recipe2": "c:valley/cbc_golden_tomato"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:golden_sweet_berries"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:golden_pepper",
+      "text": "There is no known recipe for it - just another unknown thing..."
+    }
+  ]
+}

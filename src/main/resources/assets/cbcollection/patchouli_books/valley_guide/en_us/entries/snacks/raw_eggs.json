@@ -1,0 +1,17 @@
+{
+  "name": "Raw Eggs",
+  "icon": "valley:raw_eggs",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:raw_eggs",
+      "text": "Crack Eggs into the bowl."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_raw_eggs",
+      "text": "How hard can this be? Oh bullcrap now I got eggshells in there..."
+    }
+  ]
+}

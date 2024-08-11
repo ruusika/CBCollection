@@ -1,0 +1,12 @@
+{
+  "name": "Chorus Wine",
+  "icon": "valley:chorus_wine",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:wine_chorus",
+      "text": "This one is just plain weird."
+    }
+  ]
+}

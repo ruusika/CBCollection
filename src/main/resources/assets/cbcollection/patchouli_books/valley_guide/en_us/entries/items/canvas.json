@@ -1,0 +1,12 @@
+{
+  "name": "Canvas",
+  "icon": "valley:canvas",
+  "category": "cbcollection:items",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:canvas",
+      "text": "Carefully weave the fiber into canvas."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Glazed Apple",
+  "icon": "valley:glazed_apple",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:glazed_apple",
+      "text": "Just pour a glass of honey over an apple and let it dry a bit - it turns into a little treat."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Effigy",
+  "icon": "valley:sunshine_effigy",
+  "category": "cbcollection:items",
+  "advancement": "cbcollection:valley_gatekeep",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:blank_effigy",
+      "text": "A blank totem."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:sunshine_effigy",
+      "text": "Will turn the weather into sunshine."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:rain_and_snow_effigy",
+      "text": "Will turn the weather into rain or snow."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:storm_effigy",
+      "text": "Will summon a storm."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:growth_effigy",
+      "text": "Works similar to bonemeal."
+    }
+  ]
+}

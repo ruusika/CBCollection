@@ -1,0 +1,17 @@
+{
+  "name": "Slime Soup",
+  "icon": "valley:slime_soup",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:slime_soup",
+      "text": "Did that thing just move???"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_slime_soup",
+      "text": "Nope. Not gonna try this."
+    }
+  ]
+}

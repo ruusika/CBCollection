@@ -1,0 +1,13 @@
+{
+  "name": "Crystallized Honey",
+  "icon": "valley:crystallized_honey",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Crystallized Honey",
+      "recipe": "valley:crystallized_honey",
+      "text": "This is a very special kind of honey."
+    }
+  ]
+}

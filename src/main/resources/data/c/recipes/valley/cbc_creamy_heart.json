@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_rose"
+    },
+    {
+      "tag": "c:cbc_milk"
+    },
+    {
+      "tag": "c:cbc_eggplant"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "c:cbc_salt"
+    }
+  ],
+  "result": {
+    "item": "valley:creamy_heart_stew"
+  }
+}

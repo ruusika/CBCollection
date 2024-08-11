@@ -1,0 +1,27 @@
+{
+  "name": "Quartz",
+  "icon": "valley:quartz_tiles",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:stonecutting",
+      "recipe": "valley:quartz_tiles_cutter",
+      "text": "Quartz is very hard to cut so be careful."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:quartz_tile_stairs",
+      "recipe2": "valley:quartz_tile_slab"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:kitchen_tiles",
+      "recipe2": "valley:kitchen_tile_stairs"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:kitchen_tile_slab",
+      "text": "This is some beautiful painted quartz."
+    }
+  ]
+}

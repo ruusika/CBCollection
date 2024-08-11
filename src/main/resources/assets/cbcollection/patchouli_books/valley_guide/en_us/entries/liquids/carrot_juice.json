@@ -1,0 +1,17 @@
+{
+  "name": "Carrot Juice",
+  "icon": "valley:carrot_juice",
+  "category": "cbcollection:drinks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:carrot_juice",
+      "text": "This one is apparently good for your eyes."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_carrot_juice",
+      "text": "I mistook it more then once for orange juice..."
+    }
+  ]
+}

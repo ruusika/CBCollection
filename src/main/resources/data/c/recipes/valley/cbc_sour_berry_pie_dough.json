@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valley:sour_berries"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:cbc_egg"
+    },
+    {
+      "tag": "c:cbc_flour"
+    }
+  ],
+  "result": {
+    "item": "valley:sour_berry_pie_dough"
+  }
+}

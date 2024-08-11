@@ -1,0 +1,13 @@
+{
+  "name": "Orange Wax Cap Soup",
+  "icon": "valley:orange_gilled_waxing_cap_soup",
+  "category": "cbcollection:bowls",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "title": "Orange Wax Cap Soup",
+      "recipe": "valley:orange_gill_soup",
+      "text": "Apart from this type of mushroom...I'd call it a solid soup."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Dried Fish",
+  "icon": "valley:dried_salmon",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dried_cod",
+      "recipe2": "c:valley/cbc_dried_cod"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dried_fire_eel",
+      "recipe2": "c:valley/cbc_dried_fire_eel"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dried_salmon",
+      "recipe2": "c:valley/cbc_dried_salmon"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dried_sucker",
+      "recipe2": "c:valley/cbc_dried_sucker"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dried_tropical_fish",
+      "recipe2": "c:valley/cbc_dried_tropical_fish"
+    }
+  ]
+}

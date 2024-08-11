@@ -1,0 +1,12 @@
+{
+  "name": "Rock Candy",
+  "icon": "valley:rock_candy",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:rock_candy",
+      "text": "This one is very popular with kids. I mean it's blue sugar..."
+    }
+  ]
+}

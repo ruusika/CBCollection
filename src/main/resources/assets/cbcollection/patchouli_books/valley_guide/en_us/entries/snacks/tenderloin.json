@@ -1,0 +1,17 @@
+{
+  "name": "Tenderloin",
+  "icon": "valley:cooked_tenderloin",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:raw_tenderloin",
+      "text": "The butt end is usually suitable for carpaccio, as the eye can be quite large; cutting a whole tenderloin into steaks of equal weight will yield proportionally very thin steaks from the butt end. The center cut is suitable for portion-controlled steaks, as the diameter of the eye remains relatively consistent. "
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:tenderloin_smelt",
+      "text": "This is a rather exclusive cut. A kings meal if you want to call it."
+    }
+  ]
+}

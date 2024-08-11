@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_flour"
+    },
+    {
+      "tag": "c:cbc_egg"
+    },
+    {
+      "tag": "c:cbc_broth"
+    },
+    {
+      "tag": "c:cbc_flour"
+    }
+  ],
+  "result": {
+    "item": "valley:dog_biscuit",
+    "count": 3
+  }
+}

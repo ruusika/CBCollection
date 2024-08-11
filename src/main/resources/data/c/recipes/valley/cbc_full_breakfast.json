@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_salt"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "tag": "c:cbc_tomato"
+    },
+    {
+      "item": "valley:scrambled_eggs"
+    }
+  ],
+  "result": {
+    "item": "valley:full_breakfast"
+  }
+}

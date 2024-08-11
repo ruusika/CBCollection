@@ -1,0 +1,12 @@
+{
+  "name": "Steak Sandwich",
+  "icon": "valley:steak_sandwich",
+  "category": "cbcollection:sandwich",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:steak_sandwich",
+      "text": "I prefer a not fully cooked steak in my sandwich with a bit of salad."
+    }
+  ]
+}

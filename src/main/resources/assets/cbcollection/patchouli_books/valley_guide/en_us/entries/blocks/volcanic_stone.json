@@ -1,0 +1,27 @@
+{
+  "name": "Volcanic Stone",
+  "icon": "valley:volcanic_tiles",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:stonecutting",
+      "recipe": "valley:volcanic_tiles",
+      "recipe2": "valley:volc_bricks_chiseled_stonecutter"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:volcanic_tile_stairs",
+      "recipe2": "valley:volcanic_tile_slab"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:volc_tiles",
+      "recipe2": "valley:volc_tile_stairs"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:volc_tile_slab",
+      "recipe2": "valley:polished_volcanic_stone"
+    }
+  ]
+}

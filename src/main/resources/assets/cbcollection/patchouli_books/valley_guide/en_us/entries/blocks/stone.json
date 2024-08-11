@@ -1,0 +1,27 @@
+{
+  "name": "Stone",
+  "icon": "valley:stone_tiles",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:stonecutting",
+      "recipe": "valley:polished_smooth_stone_cutter",
+      "recipe2": "valley:smoothstone_tiles"
+    },
+    {
+      "type": "patchouli:stonecutting",
+      "recipe": "valley:stone_tiles_cutter",
+      "recipe2": "valley:stone_bricks_tiles_cutter"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:stone_tile_stairs",
+      "recipe2": "valley:stone_tile_slab"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:smooth_stone_tile_stairs",
+      "recipe2": "valley:smooth_stone_tile_slab"
+    }
+  ]
+}

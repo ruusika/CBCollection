@@ -1,0 +1,17 @@
+{
+  "name": "Squid Roll",
+  "icon": "valley:squid_roll",
+  "category": "cbcollection:boxroll",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:squid_roll",
+      "text": "Very similar to the Oktorok Roll."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:valley/cbc_squid_roll",
+      "text": "I can't possibly eat raw squid. Ew."
+    }
+  ]
+}

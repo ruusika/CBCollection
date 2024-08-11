@@ -1,0 +1,17 @@
+{
+  "name": "Bait",
+  "icon": "valley:bait",
+  "category": "cbcollection:items",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bait",
+      "text": "Crabs love this stuff. Place this into crabs."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:golden_bait",
+      "text": "Works even better in the traps...I wonder if crabs like shiny stuff."
+    }
+  ]
+}
