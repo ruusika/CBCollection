@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "item": "valley:mud_ball",
+      "recipe": "valley:mud_ball",
       "text": "There is a certain sport where people would beat each other's asses in mud."
     },
     {
@@ -95,7 +95,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "valley:polished_verdantine",
+      "recipe": "valley:polished_verdanite",
       "text": "I don't know how you even work this kind of stone..."
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "valley:polished_green_granite",
+      "recipe": "valley:polished_granite",
       "text": "Early fractional crystallisation serves to reduce a melt in magnesium and chromium, and enrich the melt in iron, sodium, potassium, aluminum, and silicon."
     },
     {

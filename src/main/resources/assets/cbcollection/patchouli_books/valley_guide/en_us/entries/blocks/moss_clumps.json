@@ -25,7 +25,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "valley:dry_mossy_stone",
+      "recipe": "valley:mossy_stone_dry",
       "text": "Those vines are sticking to the stone even when dried out."
     },
     {

@@ -30,7 +30,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "valley:golden_knife",
+      "recipe": "valley:gold_knife",
       "recipe2": "valley:iron_knife"
     },
     {

@@ -62,7 +62,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "valley:golden_sickle",
+      "recipe": "valley:gold_sickle",
       "recipe2": "valley:iron_sickle"
     },
     {

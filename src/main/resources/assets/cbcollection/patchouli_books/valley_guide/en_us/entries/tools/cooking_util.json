@@ -6,7 +6,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:mead_mug",
-      "recipe2": "valley:tea_mug"
+      "recipe2": "valley:tea_cup_block"
     },
     {
       "type": "patchouli:crafting",

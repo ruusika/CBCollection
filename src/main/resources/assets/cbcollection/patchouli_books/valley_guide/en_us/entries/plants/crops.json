@@ -162,7 +162,8 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "valley:golden_sweet_berries"
+      "recipe": "valley:golden_sweet_berries",
+      "text": "Do want golden food? Try gilding it."
     },
     {
       "type": "patchouli:spotlight",
