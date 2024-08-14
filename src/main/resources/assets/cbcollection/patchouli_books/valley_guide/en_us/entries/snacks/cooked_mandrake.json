@@ -1,0 +1,12 @@
+{
+  "name": "Cooked Mandrake",
+  "icon": "valley:cooked_mandrake",
+  "category": "cbcollection:snacks",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "valley:living_mandrake_smelt",
+      "text": "People can be poisoned accidentally by ingesting mandrake root, and ingestion is likely to have other adverse effects such as vomiting and diarrhea."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Rare Items",
+  "icon": "valley:golden_chalice",
+  "category": "cbcollection:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:golden_chalice",
+      "text": "Preserve this in its rightful place. Where is that?"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:anchor",
+      "text": "Jam-packed with enough weight to send a kraken to the ocean floor!"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:stargazing_supplies",
+      "text": "Jam-packed with enough weight to send a kraken to the ocean floor!"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:cave_spider_egg",
+      "text": "A very rare Egg."
+    }
+  ]
+}

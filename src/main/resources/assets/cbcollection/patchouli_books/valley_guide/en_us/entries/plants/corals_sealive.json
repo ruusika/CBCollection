@@ -1,0 +1,57 @@
+{
+  "name": "Sea Life",
+  "icon": "valley:sand_dollar",
+  "category": "cbcollection:plants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:sand_dollar",
+      "text": "Sand dollars can also be called sand cakes or cake urchins."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:red_seagrass",
+      "text": "Seagrasses are the only flowering plants which grow in marine environments."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:dancing_sea_fern",
+      "text": "Seaferns have a self-supporting growth form and simple, broad leaves."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:glow_kelp",
+      "text": "Kelp may develop dense forests with high production, biodiversity and ecological function."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:pink_anemone",
+      "text": "Sea anemones are typically predators, ensnaring prey of suitable size that comes within reach of their tentacles."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:purple_anemone",
+      "text": "Sea anemones are found in both deep oceans and shallow coastal waters worldwide."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:yellow_anemone",
+      "text": "The greatest diversity is in the tropics, although there are many species adapted to relatively cold waters."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:green_anemone",
+      "text": "Sea anemones and their attendant anemone fish can make attractive aquarium exhibits, and both are often harvested from the wild as adults or juveniles."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:orange_anemone",
+      "text": "The whole animal is marinated in vinegar, then coated in a batter similar to that used to make calamari, and deep-fried in olive oil."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:tube_worms",
+      "text": "They can be found in association with hydrothermal vents, methane seeps, sunken plant material, and whale carcasses."
+    }
+  ]
+}

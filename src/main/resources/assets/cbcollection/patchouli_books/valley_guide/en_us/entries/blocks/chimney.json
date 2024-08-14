@@ -1,0 +1,22 @@
+{
+  "name": "Chimney",
+  "icon": "valley:brick_chimney",
+  "category": "cbcollection:tools",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:chimney_craft",
+      "recipe2": "valley:cobble_brick_chimney_craft"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mixed_chimney_craft",
+      "recipe2": "valley:carmine_chimney_craft"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:volcanic_chimney_craft",
+      "text": "You need a good chimney."
+    }
+  ]
+}

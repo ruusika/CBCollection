@@ -1,0 +1,62 @@
+{
+  "name": "Bales & Logs",
+  "icon": "valley:seaweed_block",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dried_seaweed_block",
+      "text": "Some call this a Nori-Bale."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:plant_fiber_bale",
+      "text": "This looks a lot like unfinished hew."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:glow_kelp_block",
+      "text": "You need to pack this together tightly or it will fly in every direction."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bundled_bamboo",
+      "text": "This is the best way to bundle bamboo."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bundled_sugar_cane",
+      "text": "This is the best way to bundle sugar cane."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bone_joint_block",
+      "text": "This is basically some compressed bone."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:logs_morel",
+      "text": "Some lumberjacks leave the wood on purpose so mushrooms can grow."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:logs_red",
+      "text": "It's a pretty good mushroom farm if you ask me."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:logs_brown",
+      "text": "It also cultivates some mushrooms and elevates their taste."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:log_pile",
+      "text": "Also a neat way to pack your wood."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:campfire_ring",
+      "text": "This saves the environment a bit."
+    }
+  ]
+}

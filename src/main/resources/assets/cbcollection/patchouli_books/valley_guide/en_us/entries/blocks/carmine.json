@@ -4,6 +4,16 @@
   "category": "cbcollection:blocks",
   "pages": [
     {
+      "type": "patchouli:spotlight",
+      "item": "valley:cobbled_carmine",
+      "text": "I can't find anything about mining this kind of stone..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:blossoming_carmine",
+      "text": "A rock with flowers in it?"
+    },
+    {
       "type": "patchouli:stonecutting",
       "recipe": "valley:carmine_chiseled_stonecutter",
       "recipe2": "valley:carmine_bricks_chiseled_stonecutter"

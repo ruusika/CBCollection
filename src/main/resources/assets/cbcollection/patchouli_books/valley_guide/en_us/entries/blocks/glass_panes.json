@@ -1,0 +1,27 @@
+{
+  "name": "Glass Panes",
+  "icon": "valley:iron_beveled_glass",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:beveled",
+      "recipe2": "valley:copper_beveled"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:beveled_gold",
+      "recipe2": "valley:beveled_netherite"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:beveled_amethyst",
+      "recipe2": "valley:beveled_amethyst_copper"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:beveled_amethyst_gold",
+      "recipe2": "valley:beveled_amethyst_netherite"
+    }
+  ]
+}

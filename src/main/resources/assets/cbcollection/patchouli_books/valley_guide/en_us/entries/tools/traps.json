@@ -1,0 +1,12 @@
+{
+  "name": "Spike Trap",
+  "icon": "valley:spike_trap",
+  "category": "cbcollection:tools",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:spike_trap",
+      "text": "You wanna keep enemies at bay? Try this. Or sea urchins."
+    }
+  ]
+}

@@ -3,6 +3,96 @@
   "icon": "valley:corn",
   "category": "cbcollection:plants",
   "pages": [
+{
+"type": "patchouli:spotlight",
+"item": "valley:green_beans",
+"text": "As common food in many countries, green beans are sold fresh, canned, and frozen. They can be eaten raw or steamed, boiled, stir-fried, or baked."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:green_bean_seeds",
+"text": "Bush beans are short plants, growing to not more than 2 feet (61 cm) in height, often without requiring supports."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:living_mandrake",
+"text": "The root is hallucinogenic and narcotic. In sufficient quantities, it induces a state of unconsciousness and was used as an anaesthetic for surgery in ancient times."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:living_mandrake_seed_bulbs",
+"text": "In the past, mandrake was often made into amulets which were believed to bring good fortune, cure sterility, etc."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:snow_yam",
+"text": "Wild snow yams do not grow above ground, but instead they are buried in the snow/dirt and must be dug up with a Hoe."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:miners_lettuce",
+"text": "The common name of miner's lettuce refers to how the plant was used by miners, who ate it to prevent scurvy."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:onion",
+"text": "Onions are commonly chopped and used as an ingredient in various hearty warm dishes, and may also be used as a main ingredient."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:onion_seeds",
+"text": "Onions are best cultivated in fertile soils that are well-drained."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:fire_pepper",
+"text": "Fresh or dried chilies are often used to make hot sauce, a liquid condiment—usually bottled when commercially available—that adds spice to other dishes."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:fire_pepper_seeds",
+"text": "The volatile oil in spicy peppers may cause skin irritation, requiring hand washing and care when touching the eyes or any sensitive body parts."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:eggplant",
+"text": "Raw eggplant can have a bitter taste, with an astringent quality, but it becomes tender when cooked and develops a rich, complex flavor."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:eggplant_seeds",
+"text": "The eggplant is a delicate, tropical perennial plant often cultivated as a tender or half-hardy annual in temperate climates."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:corn",
+"text": "Maize and cornmeal (ground dried maize) constitute a staple food in many regions of the world. Maize is used to produce the food ingredient cornstarch."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:tomato",
+"text": "It is used in diverse ways, including raw in salads or in slices, stewed, incorporated into a wide variety of dishes, or processed into ketchup or tomato soup."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:bitter_berries",
+"text": "The fruit can be used to make jam or syrup, but the bitter nature of the fruit requires sugar to sweeten the preserves."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:sour_berries",
+"text": "They can be baked into bread or mixed into porridge or soup."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:spicy_berries",
+"text": "The leaves and branches make a fine herbal tea, through normal drying and infusion process."
+},
+{
+"type": "patchouli:spotlight",
+"item": "valley:holly",
+"text": "Leaves of some holly species are used by some cultures to make daily tea."
+},
     {
       "type": "cbcollection:crop_template",
       "header": "Rice",
@@ -14,6 +104,16 @@
       "type": "patchouli:crafting",
       "recipe": "valley:rice_seedlings",
       "recipe2": "c:valley/cbc_rice_seedlings"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:puff_ball",
+      "text": "I think this is wool from a sheep."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:puff_ball_seeds",
+      "text": "Or is this something else?"
     },
     {
       "type": "patchouli:crafting",
@@ -68,6 +168,37 @@
       "type": "patchouli:spotlight",
       "item": "valley:golden_pepper",
       "text": "There is no known recipe for it - just another unknown thing..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Orange Cap",
+      "item": "valley:orange_gilled_waxing_cap",
+      "text": "The edibility of is unknown and may be poisonous."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:morel",
+      "text": "They have been called prized delicacies...they are so esteemed some ares that people used to set fire to their own forests in hopes of eliciting a bountiful morel crop the next spring!"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:wild_carrot",
+      "text": "When they were first cultivated, carrots were grown for their aromatic leaves and seeds rather than their roots."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:wild_potato",
+      "text": "The potato has spread around the world and has become a staple crop in most countries."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:wild_beetroot",
+      "text": "The domestication of beetroot can be traced to the emergence of an allele, which enables biennial harvesting of leaves and taproot."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:wild_wheat",
+      "text": "Wild emmer wheat is less widespread than einkorn, favouring the rocky basaltic and limestone soils found in the hilly flanks of the Fertile Crescent"
     }
   ]
 }

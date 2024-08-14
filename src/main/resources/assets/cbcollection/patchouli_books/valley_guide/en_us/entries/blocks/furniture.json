@@ -62,6 +62,91 @@
       "type": "patchouli:crafting",
       "recipe": "valley:copperflame_brazier",
       "text": "What about some Braziers to decorate your home?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bone_torch",
+      "recipe2": "valley:soul_bone_torch"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:redstone_bone_torch",
+      "text": "Okay those are creepy...but if you wanna decorate a grave it might work."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:fireplace_screen",
+      "text": "Prevent pets from falling into fires!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:keg",
+      "text": "An easy refill for buckets and bottles."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:rounded_barrel",
+      "text": "Fits a bit easier in your wine cellar."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:rounded_barrel",
+      "text": "Wanna keep ice from melting?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:hanging_glass_planter",
+      "text": "A neat way to plant some flowers."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:wreath",
+      "text": "Some nordic tribes will decorate their doors with those."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:miners_crest",
+      "text": "Dwarfs love to decorate their homes with this."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:brown_stuffie",
+      "recipe2": "valley:white_stuffie"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:soul_jack_o_lantern",
+      "recipe2": "valley:copper_pumpkin"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:cobwebbed_bookshelf",
+      "recipe2": "valley:empty_bookshelf"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:cobwebbed_empty_bookshelf",
+      "recipe2": "valley:bookshelf_with_lantern"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:cobwebbed_bookshelf_with_lantern",
+      "recipe2": "valley:potion_shelf"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:cobwebbed_potion_shelf",
+      "recipe2": "valley:anthropologists_shelf"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:cobwebbed_anthropologists_shelf",
+      "recipe2": "valley:dish_shelf"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:cobwebbed_dish_shelf",
+      "text": "Some shelves to decorate your home."
     }
   ]
 }

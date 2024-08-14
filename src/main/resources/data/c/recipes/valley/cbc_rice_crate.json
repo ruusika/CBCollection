@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "tag": "c:cbc_rice"
+    },
+    {
+      "tag": "minecraft:planks"
+    },
+    {
+      "tag": "minecraft:planks"
+    },
+    {
+      "tag": "minecraft:planks"
+    }
+  ],
+  "result": {
+    "item": "valley:rice_crate"
+  }
+}

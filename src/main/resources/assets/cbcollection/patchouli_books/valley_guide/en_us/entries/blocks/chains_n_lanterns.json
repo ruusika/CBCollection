@@ -1,0 +1,27 @@
+{
+  "name": "Chains and Lanterns",
+  "icon": "valley:hanging_lantern",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:copper_chain",
+      "text": "You need to wax them - if you don't want them to weather."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:gold_chain",
+      "recipe2": "valley:netherite_chain"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:redstone_lantern",
+      "recipe2": "valley:hanging_lantern"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:hanging_soul_lantern",
+      "recipe2": "valley:hanging_redstone_lantern"
+    }
+  ]
+}

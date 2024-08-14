@@ -99,6 +99,11 @@
       "type": "patchouli:crafting",
       "recipe": "valley:arrow_head_drip",
       "recipe2": "valley:arrow_recipe_dripstone"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:crab_trap",
+      "text": "A trap to catch traps."
     }
   ]
 }

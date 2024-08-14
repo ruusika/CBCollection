@@ -1,0 +1,27 @@
+{
+  "name": "Rope-Products",
+  "icon": "valley:rope",
+  "category": "cbcollection:items",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:rope",
+      "text": "The fibers will rip easily if not carefully woven."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:rope_bridge",
+      "text": "A very basic bridge. A mount won't go over it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:rope_anchor",
+      "text": "You need to anchor your bridge somewhere."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:net",
+      "text": "You should be placing safety nets when building bridges."
+    }
+  ]
+}

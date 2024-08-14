@@ -1,0 +1,87 @@
+{
+  "name": "Crates",
+  "icon": "valley:brick_chimney",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:apple_crate",
+      "recipe2": "valley:carrot_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:potato_crate",
+      "recipe2": "valley:poisonous_potato_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:beetroot_crate",
+      "recipe2": "valley:green_bean_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:rice_crate",
+      "recipe2": "c:valley/cbc_rice_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:corn_crate",
+      "recipe2": "c:valley/cbc_corn_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:tomato_crate",
+      "recipe2": "c:valley/cbc_tomato_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:fire_pepper_crate",
+      "recipe2": "c:valley/cbc_fire_pepper_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:eggplant_crate",
+      "recipe2": "c:valley/cbc_eggplant_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:onion_crate",
+      "recipe2": "c:valley/cbc_onion_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:living_mandrake_crate",
+      "recipe2": "valley:snow_yam_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:miners_lettuce_crate",
+      "recipe2": "valley:chorus_fruit_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:sweet_berry_crate",
+      "recipe2": "valley:glow_berry_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bitter_berry_crate",
+      "recipe2": "valley:sour_berry_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:sour_berry_crate",
+      "recipe2": "valley:holly_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:cocoa_bean_crate",
+      "recipe2": "valley:puff_ball_crate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:duck_egg_crate",
+      "recipe2": "valley:chicken_egg_crate"
+    }
+  ]
+}

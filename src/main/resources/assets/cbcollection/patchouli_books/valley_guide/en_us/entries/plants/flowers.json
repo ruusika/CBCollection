@@ -1,0 +1,187 @@
+{
+  "name": "Flowers & Bushes",
+  "icon": "valley:frozen_rose",
+  "category": "cbcollection:plants",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:small_cactus",
+      "text": "The syrup can also be fermented to produce an alcoholic drink."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:flowering_cactus",
+      "text": "A number of species of cacti have been shown to contain psychoactive agents, chemical compounds that can cause changes in mood, perception and cognition through their effects on the brain."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:tumbleweed",
+      "text": "The tumbleweed dispersal strategies are unusual among plants; most species disperse their seeds by other mechanisms."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:small_rose_bush",
+      "text": "Roses are best known as ornamental plants grown for their flowers in the garden and sometimes indoors."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:small_rose_bush",
+      "text": "Rose hips are after the removal of the irritant hairs, edible raw, and occasionally are made into jam, jelly, marmalade, and soup, or brewed for tea."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:frozen_rose",
+      "text": "Stories tell of a princess trapped in a castle who managed to lift a curse before a frozen rose melted..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:small_lilac",
+      "text": "Lilacs are popular shrubs in parks and gardens throughout the temperate zone, and several hybrids and numerous cultivars have been developed."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:small_peony",
+      "text": "Ancient texts mention the peony was used for flavoring food."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:common_bush",
+      "text": "An area of cultivated shrubs in a park or a garden is known as a shrubbery."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:scraggly_bush",
+      "text": "An area of cultivated shrubs in a park or a garden is known as a shrubbery."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:blue_poppy_bush",
+      "text": "This herbaceous perennial is often short-lived."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:verdant_bush",
+      "text": "The tiny, dark evergreen foliage and spreading,makes it an excellent ground cover for sun to part shade in gardens with moist, acidic soils."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:boxwood_bush",
+      "text": "Owing to its fine grain it is a good wood for fine wood carving, although this is limited by the small sizes available."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:snowy_bush",
+      "text": "I wanna know how the bush survives all this snow."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:wild_herbs",
+      "text": "Herbs have a variety of uses including culinary, medicinal, aromatic and in some cases, spiritual."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:wild_taproots",
+      "text": "Typically a taproot is somewhat straight and very thick, is tapering in shape, and grows directly downward."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:weeping_jungle_willow",
+      "text": "A weeping willow is a popular ornamental tree and is also grown for wood production and shelterbelts."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:pond_ribbons",
+      "text": "It is found in freshwater and brackish wetland communities, in pools, swamps and the margins of streams, where it grows to about 20 cm in height."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:redwood_sorrel",
+      "text": "They are safe to eat in small amounts for those with no oxalate-related conditions."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:crocus",
+      "text": "Crocus has a long history of use in traditional medicine. It has also been used as a fabric dye."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:mature_dandelions",
+      "text": "The entire plant, including the leaves, stems, flowers, and roots, is edible and nutritious."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:lavender",
+      "text": "As an aromatic, it has a sweet fragrance with lemon or citrus notes. It is used as a spice or condiment in pastas, salads and dressings, and desserts."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:lavender_to_sprig",
+      "text": "Their buds and greens are used in teas, and their buds, processed by bees, are the essential ingredient of a monofloral honey."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:black_dahlia",
+      "text": "Dacopa, an intense mocha-tasting extract from the roasted tubers, is used to flavor beverages."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:orange_beauty",
+      "text": "Species of this plant have been used in traditional medicine for over 2,000 years, and are one of the most widely used medicines today."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:panflowers",
+      "text": "A fancy looking plant..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:honey_cluster",
+      "text": "There is a persistent piece of folklore that hoyas prefer to be potbound - kept in a small pot. It is said that this will hasten flowering."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:orange_fern",
+      "text": "Ferns figure in folklore, for example in legends about mythical flowers or seeds."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:sprout",
+      "text": "In botany, a plant shoot consists of any plant stem together with its appendages like leaves, lateral buds, flowering stems, and flower buds."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:cattails",
+      "text": "Before the plant flowers, the tender inside of the shoots can be squeezed out and eaten raw or cooked."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:apple_sapling",
+      "text": "Apple trees are typically 4–12 metres (13–39 feet) talI at maturity, with a dense, twiggy crown."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:fruit_bearing_apple_leaves",
+      "text": "Applewood gives off a pleasant scent when burned, and smoke from an applewood fire gives an excellent flavour to smoked foods."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:apple_leaves",
+      "text": "It is easier to cut when green; dry applewood is exceedingly difficult to carve by hand."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:rooted_watcher",
+      "text": "This is a weird fungus...Not edible."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:tainted_nether_wart",
+      "text": "This smells bad..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:soul_sporecap",
+      "text": "This one is edible I think..."
+    }
+  ]
+}

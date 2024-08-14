@@ -1,0 +1,32 @@
+{
+  "name": "Cooking Util",
+  "icon": "valley:stew_pot",
+  "category": "cbcollection:tools",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mead_mug",
+      "recipe2": "valley:tea_mug"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bowl_block",
+      "recipe2": "valley:bento_box"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:stew_pot",
+      "recipe2": "valley:campfire_stew_pot"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:brick_stove",
+      "recipe2": "valley:cobblestone_stove"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:carmine_brick_stove",
+      "recipe2": "valley:volcanic_brick_stove"
+    }
+  ]
+}

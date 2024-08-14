@@ -1,0 +1,152 @@
+{
+  "name": "Blocks and Ores",
+  "icon": "valley:green_granite",
+  "category": "cbcollection:blocks",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "item": "valley:mud_ball",
+      "text": "There is a certain sport where people would beat each other's asses in mud."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:volcanic_ash",
+      "text": "Volcanic ash consists of fragments of rock, mineral crystals, and volcanic glass, produced during volcanic eruptions."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:volcanic_stone",
+      "text": "Volcanic rocks are among the most common rock types on Earth's surface, particularly in the oceans."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:scalding_volcanic_stone",
+      "text": "Lava may be erupted at a volcano or through a fracture in the crust, on land or underwater."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:mixed_ore",
+      "text": "Native gold occurs as very small to microscopic particles embedded in rock, often together with quartz or sulfide minerals such as fool's gold which is a pyrite."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:deepslate_mixed_ore",
+      "text": "The metal in a native state is also found in the form of free flakes, grains or larger nuggets."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:glacial_stone",
+      "text": "As glaciers move across a surface, they pluck rocks from it, and incorporate them into their mass."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:scalding_stone",
+      "text": "Volcanic rocks are usually fine-grained or aphanitic to glass in texture."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:scalding_sandstone",
+      "text": "Most volcanic rocks share a number of common minerals."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:sandy_gravel_2",
+      "recipe2": "valley:sandy_gravel_1"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:bleached_cobble",
+      "text": "Gravel is not better than sand...It's just not as rough."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:marinite",
+      "text": "Marinite deposits are the most abundant oil-shale deposits."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:polished_marinite",
+      "text": "hey are generally widespread but at the same time they are relatively thin and often of restricted economic importance."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:grimestone",
+      "text": "I don't find anything."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:polished_grimestone",
+      "text": "I don't know how you even work this kind of stone..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:diabase",
+      "text": "Diabase is usually found in smaller, relatively shallow intrusive bodies such as dikes and sills."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:polished_diabase",
+      "text": "Diabase dikes occur in regions of crustal extension and often occur in dike swarms of hundreds of individual dikes or sills radiating from a single volcanic center."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:verdantine",
+      "text": "I don't find anything."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:polished_verdantine",
+      "text": "I don't know how you even work this kind of stone..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:green_granite",
+      "text": "In some areas, granite is used for gravestones and memorials. Granite is a hard stone and requires skill to carve by hand."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:polished_green_granite",
+      "text": "Early fractional crystallisation serves to reduce a melt in magnesium and chromium, and enrich the melt in iron, sodium, potassium, aluminum, and silicon."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:pumice",
+      "text": "Pumice is created when super-heated, highly pressurized rock is rapidly ejected from a volcano."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:polished_pumice",
+      "text": "Pumice is commonly pale in color, ranging from white, cream, blue or grey, to green-brown or black. "
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:jasper",
+      "text": "Jasper is an opaque rock of virtually any colour stemming from the mineral content of the original sediments or ash."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:polished_jasper",
+      "text": "he original materials are often fractured and/or distorted, after deposition, into diverse patterns, which are later filled in with other colorful minerals."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:limestone",
+      "text": "Although limestones show little variability in mineral composition, they show great diversity in texture."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:polished_limestone",
+      "text": "owever, most limestone consists of sand-sized grains in a carbonate mud matrix."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:nether_coal_ore",
+      "text": "It's very rare to find...might be a fake."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:rotten_flesh_block",
+      "text": "I don't know why would you compress this to a block?"
+    }
+  ]
+}

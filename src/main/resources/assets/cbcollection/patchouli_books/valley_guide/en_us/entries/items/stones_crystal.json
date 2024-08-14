@@ -1,0 +1,32 @@
+{
+  "name": "Stones and Crystals",
+  "icon": "valley:thoracica_barnacle",
+  "category": "cbcollection:items",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:rocks",
+      "text": "Is this a rock or a pebble?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:snowy_rocks",
+      "text": "A rock covered in snow?"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:crystallized_redstone",
+      "text": "I don't know how this works but it is a crystal now..."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:thoracica_barnacle",
+      "text": "Is this a dead coral or a stone?"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:prismarine_cluster",
+      "text": "A very rare cluster."
+    }
+  ]
+}

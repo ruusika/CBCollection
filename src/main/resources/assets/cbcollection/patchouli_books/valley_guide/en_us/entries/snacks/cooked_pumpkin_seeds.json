@@ -1,7 +1,7 @@
 {
   "name": "Cooked Pumpkin Seeds",
   "icon": "valley:cooked_pumpkin_seeds",
-  "category": "cbcollection:dough",
+  "category": "cbcollection:snacks",
   "pages": [
     {
       "type": "patchouli:smelting",

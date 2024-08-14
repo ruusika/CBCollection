@@ -115,6 +115,26 @@
     },
     {
       "type": "patchouli:spotlight",
+      "item": "valley:clam",
+      "text": "Clams are shellfish that make up an important part of the web of life that keeps the seas functioning, both as filter feeders and as a food source for many different animals."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:giant_scallop",
+      "text": "Scallops are characterized by offering two flavors and textures in one shell: the meat, called scallop, which is firm and white, and the roe, called coral, which is soft and often brightly coloured reddish-orange."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:sea_urchin",
+      "text": "The gonads of both male and female sea urchins, sometimes euphemized as sea urchin roe or corals, are culinary delicacies in many parts of the world"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "valley:starfish",
+      "text": "Starfish are widespread in the oceans, but are only occasionally used as food."
+    },
+    {
+      "type": "patchouli:spotlight",
       "item": "valley:fire_eel_bucket",
       "text": "A method of transportation."
     },

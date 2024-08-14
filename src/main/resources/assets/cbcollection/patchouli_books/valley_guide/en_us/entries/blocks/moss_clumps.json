@@ -19,6 +19,16 @@
       "text": "Sometimes you need a bit of slippery vines to form traps."
     },
     {
+      "type": "patchouli:crafting",
+      "recipe": "valley:mossy_stone",
+      "text": "The vines are practically eating the stone..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dry_mossy_stone",
+      "text": "Those vines are sticking to the stone even when dried out."
+    },
+    {
       "type": "patchouli:spotlight",
       "item": "valley:dry_moss_clump",
       "text": "Tribal people used mosses for diapers and wound dressing."
@@ -31,6 +41,11 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:moss_vines_dry",
+      "text": "You usually decorate with dry vines."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "valley:dry_moss_carpet",
       "text": "You usually decorate with dry vines."
     }
   ]
