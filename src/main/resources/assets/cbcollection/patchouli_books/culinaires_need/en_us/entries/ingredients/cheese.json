@@ -1,0 +1,13 @@
+{
+  "name": "Cheese Making",
+  "icon": "culinaire:cheese",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "images": "cbcollection:textures/gui/entries/cheese.png",
+      "border": true,
+      "text": "Just go with your bottle to a cow and milk it. And no a bucket won't work."
+    }
+  ]
+}

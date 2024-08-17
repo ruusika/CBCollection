@@ -6,7 +6,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "culinaire:crafting/kettle",
-      "text": "The centerpiece of making delicious tea. In order to brew your tea bag into a bottle of water, follow those steps:"
+      "text": "The centerpiece of making delicious tea. Simply but a tea bag in hot water and brew it a bit. The duration depends on the type of tea."
     }
   ]
 }

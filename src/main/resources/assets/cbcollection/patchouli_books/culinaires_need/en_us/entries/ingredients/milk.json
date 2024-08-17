@@ -1,0 +1,12 @@
+{
+  "name": "Milk",
+  "icon": "culinaire:milk_bottle",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "culinaire:milk_bottle",
+      "text": "Just go with your bottle to a cow and milk it. And no a bucket won't work."
+    }
+  ]
+}
