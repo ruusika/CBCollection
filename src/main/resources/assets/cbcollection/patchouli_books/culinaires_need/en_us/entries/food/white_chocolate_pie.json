@@ -1,0 +1,17 @@
+{
+  "name": "White Chocolate Pie",
+  "icon": "culinaire:white_chocolate_pie",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/white_chocolate_pie",
+      "text": "I think I have seen this kind of pie on a big royal wedding..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:culinaire/cbc_white_chocolate_pie",
+      "text": "It was delicious. They added some kind of hard waffle to the cake."
+    }
+  ]
+}

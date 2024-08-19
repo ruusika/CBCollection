@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "culinaire:milk_chocolate_bottle"
+    },
+    {
+      "item": "culinaire:milk_chocolate_bottle"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "c:cbc_egg"
+    }
+  ],
+  "result": {
+    "item": "culinaire:milk_chocolate_pie"
+  }
+}

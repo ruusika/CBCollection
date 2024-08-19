@@ -1,0 +1,17 @@
+{
+  "name": "Dark Chocolate Pie",
+  "icon": "culinaire:dark_chocolate_pie",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/dark_chocolate_pie",
+      "text": "A beautiful pie. A bit to chocolaty though..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:culinaire/cbc_dark_chocolate_pie",
+      "text": "Maybe use a bit less dark chocolate next time."
+    }
+  ]
+}

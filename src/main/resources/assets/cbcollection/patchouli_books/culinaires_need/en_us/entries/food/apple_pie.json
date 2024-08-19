@@ -1,0 +1,17 @@
+{
+  "name": "Apple Pie",
+  "icon": "culinaire:apple_pie",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/apple_pie",
+      "text": "A very basic kind of pie."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:culinaire/cbc_apple_pie",
+      "text": "Apple pie is often considered a comfort food, eaten hot or cold, on its own or with ice cream, double cream, or custard."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Mashed Potatoes",
+  "icon": "culinaire:mashed_potatoes",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/mashed_potatoes",
+      "text": "I really really dislike those...this is more of a liquid..."
+    }
+  ]
+}

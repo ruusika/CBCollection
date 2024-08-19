@@ -1,0 +1,12 @@
+{
+  "name": "Milk Chocolate Bar",
+  "icon": "culinaire:milk_chocolate_bar",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/milk_chocolate_bar",
+      "text": "This has always been my favourite as a kid..."
+    }
+  ]
+}

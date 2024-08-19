@@ -1,0 +1,17 @@
+{
+  "name": "Salad",
+  "icon": "culinaire:salad",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/salad",
+      "text": "A very basic kind of salad."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:culinaire/cbc_salad",
+      "text": "I do wanna put some bacon in there."
+    }
+  ]
+}

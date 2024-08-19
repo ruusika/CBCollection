@@ -5,13 +5,13 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "valley:bitter_berry_pie",
+      "recipe": "valley:bitter_berry_pie_dough",
       "recipe2": "c:valley/cbc_bitter_berry_pie_dough"
     },
     {
       "type": "patchouli:smelting",
       "recipe": "valley:bitter_berry_pie_smelt",
-      "text": "I love the smell of freshly baked apple pie. The apples serve as binding."
+      "text": "It seems very bitter at first but it is pretty good."
     }
   ]
 }

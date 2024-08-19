@@ -1,0 +1,12 @@
+{
+  "name": "Marshmallow",
+  "icon": "culinaire:marshmallow",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/marshmallow",
+      "text": "It is fluffy and sticky at the same time?"
+    }
+  ]
+}

@@ -50,7 +50,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "valley:golden_hatchet",
+      "recipe": "valley:gold_hatchet",
       "recipe2": "valley:iron_hatchet"
     },
     {

@@ -4,10 +4,16 @@
   "category": "cbcollection:ingredients",
   "pages": [
     {
+      "type": "patchouli:text",
+      "title": "Making Cheese",
+      "text": "So...this one is a bit more complicated and involves quite a bit of RNG. Basically the Random Tick Speed plus another number generator decide when the milk turns into cheese. $(br)Otherwise follow these steps: $(li) Put three bottles of milk (culinaire) into a cauldron. $(li) Wait. $(li) You get three cheese slices."
+    },
+    {
       "type": "patchouli:image",
-      "images": "cbcollection:textures/gui/entries/cheese.png",
+      "title": "Cheese Coagulation",
+      "images": ["cbcollection:textures/gui/entries/cheese.png"],
       "border": true,
-      "text": "Just go with your bottle to a cow and milk it. And no a bucket won't work."
+      "text": "$(o)In my test trial it took 45 minutes to change 8 out of 16 placed cauldrons in a chunk"
     }
   ]
 }

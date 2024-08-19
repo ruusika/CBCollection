@@ -1,0 +1,17 @@
+{
+  "name": "White Chocolate Bottle",
+  "icon": "culinaire:white_chocolate_bottle",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/white_chocolate_bottle",
+      "text": "Some like it some dislike it."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:culinaire/cbc_white_chocolate_bottle",
+      "text": "I won't recommending drinking it tho...It's notorious for clogging up some stuff."
+    }
+  ]
+}

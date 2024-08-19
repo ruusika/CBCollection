@@ -1,0 +1,17 @@
+{
+  "name": "Milk Chocolate Bottle",
+  "icon": "culinaire:milk_chocolate_bottle",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/milk_chocolate_bottle",
+      "text": "Tastes better and smells way better."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:culinaire/cbc_milk_chocolate_bottle",
+      "text": "I think I can drink it...Nope. It's too thick."
+    }
+  ]
+}

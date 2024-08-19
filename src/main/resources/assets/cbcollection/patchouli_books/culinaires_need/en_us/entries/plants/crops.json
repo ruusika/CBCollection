@@ -1,0 +1,21 @@
+{
+  "name": "Crops",
+  "icon": "culinaire:tomato",
+  "category": "cbcollection:plants",
+  "pages": [
+    {
+      "type": "cbcollection:crop_template",
+      "header": "Lettuce",
+      "seed": "culinaire:lettuce_seeds",
+      "plant": "culinaire:lettuce",
+      "text": "Today, the majority of lettuce is grown for its leaves, although one type is grown for its stem and one for its seeds, which are made into an oil."
+    },
+    {
+      "type": "cbcollection:crop_template",
+      "header": "Tomato",
+      "seed": "minecraft:air",
+      "plant": "culinaire:tomato",
+      "text": "Tomatoes are easy to preserve whole, chopped, or as tomato sauce or concentrated paste by home canning."
+    }
+  ]
+}

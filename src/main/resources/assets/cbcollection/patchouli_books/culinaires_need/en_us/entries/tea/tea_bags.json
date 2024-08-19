@@ -1,0 +1,77 @@
+{
+  "name": "Tea Bags",
+  "icon": "culinaire:tea_bag",
+  "category": "cbcollection:tea",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:weak_sweet_tea_bag",
+      "recipe2": "culinaire:normal_sweet_tea_bag"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:strong_sweet_tea_bag",
+      "text": "Sweet teas are usually of a berry taste."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:weak_umami_tea_bag",
+      "recipe2": "culinaire:normal_umami_tea_bag"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:strong_umami_tea_bag",
+      "text": "Umami teas are relativly neutral but they are pretty nourishing."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:weak_salty_tea_bag",
+      "recipe2": "culinaire:normal_salty_tea_bag"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:strong_salty_tea_bag",
+      "text": "This kind of tea aims to bring the taste of the ocean to you."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:weak_sour_tea_bag",
+      "recipe2": "culinaire:normal_sour_teabag"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:strong_sour_tea_bag",
+      "text": "Do not confuse this with bitter tea."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:weak_bitter_tea_bag",
+      "recipe2": "culinaire:normal_bitter_teabag"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:strong_bitter_tea_bag",
+      "text": "I don't know but this is making me puke..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:weak_shining_tea_bag",
+      "recipe2": "culinaire:normal_shining_tea_bag"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:strong_shining_tea_bag",
+      "text": "This feels like I am shining from within."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:weak_gloopy_tea_bag",
+      "recipe2": "culinaire:normal_gloopy_tea_bag"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:strong_gloopy_tea_bag",
+      "text": "What does gloopy mean?"
+    }
+  ]
+}

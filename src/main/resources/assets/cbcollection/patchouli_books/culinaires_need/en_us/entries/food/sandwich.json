@@ -1,0 +1,24 @@
+{
+  "name": "Sandwich Making",
+  "icon": "culinaire:sandwich",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Making Special Sandwiches",
+      "text": "To check if you can put something in the sandwich you need to check if you can eat it by holding right mouse. You can put it in when you can eat it sounds simple enough... Blacklist is on the third page."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Sample Recipe",
+      "images": ["cbcollection:textures/gui/entries/sandwich_sample.png"],
+      "border": true,
+      "text": "$(o)This is just a sample on how this recipe is built."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Blacklisted Items",
+      "text": "$(li)#c:sandwich/bread$(li)culinaire:sandwich$(li)minecraft:mushroom_stew$(li)minecraft:rabbit_stew$(li)minecraft:beetroot_soup$(li)culinaire:apple_pie$(li)culinaire:sweet_berry_pie$(li)culinaire:dark_chocolate_pie$(li)culinaire:milk_chocolate_pie$(li)culinaire:white_chocolate_pie$(li)culinaire:salad$(li)culinaire:mashed_potatoes"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Making Marshmallows",
+  "icon": "culinaire:marshmallow_on_a_stick",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/marshmallow_on_a_stick",
+      "text": "You start by putting a marshmallow on a longer stick."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Toasty!",
+      "item": "culinaire:toasty_marshmallow_on_a_stick",
+      "text": "Then you go to a campfire and hold it above it. Then Wait."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Golden!",
+      "item": "culinaire:golden_marshmallow_on_a_stick",
+      "text": "Until it's golden enough."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "Burnt!",
+      "item": "culinaire:burnt_marshmallow_on_a_stick",
+      "text": "Congrats...You successfully burned it."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "White Chocolate Bar",
+  "icon": "culinaire:white_chocolate_bar",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/white_chocolate_bar",
+      "text": "I have to admit. White chocolate needed to grow on me. But now I like it."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Chouquette",
+  "icon": "culinaire:chouquette",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/chouquette",
+      "text": "Not sure if this is just a fancy name for a biscuit...pardon a cookie."
+    }
+  ]
+}

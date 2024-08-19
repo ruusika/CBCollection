@@ -1,0 +1,12 @@
+{
+  "name": "Dark Chocolate Bottle",
+  "icon": "culinaire:dark_chocolate_bottle",
+  "category": "cbcollection:ingredients",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/dark_chocolate_bottle",
+      "text": "It smells bitter..."
+    }
+  ]
+}

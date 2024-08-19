@@ -1,0 +1,17 @@
+{
+  "name": "Milk Chocolate Pie",
+  "icon": "culinaire:milk_chocolate_pie",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/milk_chocolate_pie",
+      "text": "This one is a lot milder than the dark one."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "c:culinaire/cbc_milk_chocolate_pie",
+      "text": "What if we decoate this one with berries?"
+    }
+  ]
+}

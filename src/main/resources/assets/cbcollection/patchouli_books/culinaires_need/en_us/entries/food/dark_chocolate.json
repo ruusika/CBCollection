@@ -1,0 +1,12 @@
+{
+  "name": "Dark Chocolate Bar",
+  "icon": "culinaire:dark_chocolate_bar",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "patchouli:crafting",
+      "recipe": "culinaire:crafting/dark_chocolate_bar",
+      "text": "My nonna preferred pretty dark chocolate. Perfect for keeping kids away."
+    }
+  ]
+}
