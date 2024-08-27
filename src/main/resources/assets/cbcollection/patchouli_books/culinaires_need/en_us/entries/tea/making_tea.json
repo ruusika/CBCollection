@@ -1,0 +1,21 @@
+{
+  "name": "Tea Making",
+  "icon": "culinaire:tea_bottle",
+  "category": "cbcollection:tea",
+  "pages": [
+    {
+      "type": "patchouli:image",
+      "title": "The Process",
+      "images": ["cbcollection:textures/gui/entries/brewing.png"],
+      "border": true,
+      "text": "The key to long-lasting, flavorful tea starts with proper storage. Tea is sensitive to three elements: light, heat, and humidity."
+    },
+    {
+      "type": "patchouli:image",
+      "title": "Finished Tea",
+      "images": ["cbcollection:textures/gui/entries/finished_tea.png"],
+      "border": true,
+      "text": "98% of brewed tea is water. While that other 2% packs quite a flavor punch, it's still crucial that you use clean, filtered water. "
+    }
+  ]
+}

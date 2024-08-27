@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:paper"
+    },
+    "B": {
+      "item": "minecraft:string"
+    },
+    "C": {
+      "tag": "c:cbc_weak_sour"
+    }
+  },
+  "result": {
+    "item": "culinaire:tea_bag"
+  }
+}
