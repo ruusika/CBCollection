@@ -6,12 +6,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:mixed_vegetable_stir_fry",
-      "text": "I did not expect this dish from the name."
+      "text": "I did not expect this dish from that name."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "c:valley/cbc_mixed_vegetable_stir_fry",
-      "text": "But it's a round dish. Can't deny that"
+      "text": "It's a round dish, I can't deny that."
     }
   ]
 }

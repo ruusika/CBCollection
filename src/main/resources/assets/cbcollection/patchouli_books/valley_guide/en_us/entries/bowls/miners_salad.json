@@ -6,12 +6,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:miners_salad",
-      "text": "I still don't have an answer on what miners lettuce is..."
+      "text": "I still don't have an answer on what miners lettuce is."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "c:valley/cbc_miners_salad",
-      "text": "Ah...apparently it was used to prevent loosing your teeth as a miner."
+      "text": "But apparently it was used to prevent loosing your teeth as a miner."
     }
   ]
 }

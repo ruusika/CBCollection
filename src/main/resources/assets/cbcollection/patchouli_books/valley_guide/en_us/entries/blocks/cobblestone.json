@@ -11,17 +11,17 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:cobblestone_tile_slab",
-      "text": "I wonder what you can build...."
+      "text": "I wonder what you will build with this."
     },
     {
       "type": "patchouli:stonecutting",
       "recipe": "valley:cobblestone_bricks_chiseled_stonecutter",
-      "text": "Be careful with that stonecutter..."
+      "text": "Be careful with that stonecutter."
     },
     {
       "type": "patchouli:spotlight",
       "item": "valley:mossy_cobblestone_bricks",
-      "text": "Apparently the moss needs to grow..."
+      "text": "Apparently the moss needs to grow."
     }
   ]
 }

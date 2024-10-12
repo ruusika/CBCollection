@@ -6,7 +6,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:pork_sandwich",
-      "text": "Some won't eat this one due to religious reasons."
+      "text": "Some people won't eat this for religious reasons."
     }
   ]
 }

@@ -16,7 +16,7 @@
     {
       "type": "patchouli:smelting",
       "recipe": "valley:cake_smelting",
-      "text": "The sugar can be burned very easily. Which ruins the cake..."
+      "text": "Be careful not to burn the sugar, it ruins the cake."
     }
   ]
 }

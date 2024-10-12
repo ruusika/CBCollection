@@ -6,12 +6,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:tomato_soup",
-      "text": "It needs more salt...."
+      "text": "It needs more salt."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "c:valley/cbc_tomato_soup",
-      "text": "Oh and if you stain yourself with it...good luck."
+      "text": "If you stain your clothes with this... good luck."
     }
   ]
 }

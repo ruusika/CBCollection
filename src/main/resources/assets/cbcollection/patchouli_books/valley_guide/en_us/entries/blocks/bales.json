@@ -11,7 +11,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:plant_fiber_bale",
-      "text": "This looks a lot like unfinished hew."
+      "text": "This looks a lot like unfinished hay."
     },
     {
       "type": "patchouli:crafting",
@@ -31,7 +31,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:bone_joint_block",
-      "text": "This is basically some compressed bone."
+      "text": "This is basically just some compressed bones."
     },
     {
       "type": "patchouli:crafting",
@@ -56,7 +56,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:campfire_ring",
-      "text": "This saves the environment a bit."
+      "text": "This can save the environment from unneccessary forest fires."
     }
   ]
 }

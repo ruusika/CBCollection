@@ -6,12 +6,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:green_bean_juice",
-      "text": "I won't make any jokes about juice from a funny looking plant..."
+      "text": "Never trust green liquids."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "c:valley/cbc_green_bean_juice",
-      "text": "Jokes aside. It tastes shitty..."
+      "text": "I was right. It tastes really really bad."
     }
   ]
 }

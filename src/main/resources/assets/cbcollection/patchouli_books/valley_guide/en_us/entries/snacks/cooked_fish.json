@@ -17,17 +17,17 @@
     {
       "type": "patchouli:smelting",
       "recipe": "valley:perch_smelting",
-      "text": "Perches don't have many fish bone so you practically can't choke on them."
+      "text": "Perches don't have many fish bones so you practically can't choke on them."
     },
     {
       "type": "patchouli:smelting",
       "recipe": "valley:pridefin_smelting",
-      "text": "This fish loose all color when cooked so be careful."
+      "text": "This fish looses all color when cooked."
     },
     {
       "type": "patchouli:smelting",
       "recipe": "valley:cooked_red_porgy_smelt",
-      "text": "Those are a little delicacy."
+      "text": "These are a little delicacy."
     },
     {
       "type": "patchouli:smelting",
@@ -48,7 +48,7 @@
     {
       "type": "patchouli:smelting",
       "recipe": "valley:cooked_tropical_fish_smelt",
-      "text": "I think this recipe differs in cooktime..."
+      "text": "This recipe may differ in cooking time."
     }
   ]
 }

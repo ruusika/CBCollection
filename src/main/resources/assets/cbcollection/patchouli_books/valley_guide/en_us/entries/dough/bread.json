@@ -21,7 +21,7 @@
     {
       "type": "patchouli:smelting",
       "recipe": "valley:bread_smelt",
-      "text": "The egg binds the flour and the amount of flour the result."
+      "text": "More flour equals more dough."
     }
   ]
 }

@@ -6,12 +6,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:urchin_chowder",
-      "text": "This bento is one you give kids for school."
+      "text": "I am not particular fond of the way this soup is served."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "c:valley/cbc_sea_urchin_soup",
-      "text": "Very nourishing and if you use cooked salmon you can store it for a while."
+      "text": "It tastes better than it looks."
     }
   ]
 }

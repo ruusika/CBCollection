@@ -68,7 +68,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:diamond_sickle",
-      "text": "A common farming tool to gather hew for your cattle."
+      "text": "A common farming tool to gather hay for your cattle."
     },
     {
       "type": "patchouli:smithing",
@@ -103,7 +103,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:crab_trap",
-      "text": "A trap to catch traps."
+      "text": "A trap to catch crabs."
     }
   ]
 }

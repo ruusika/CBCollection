@@ -6,7 +6,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:mud_ball",
-      "text": "There is a certain sport where people would beat each other's asses in mud."
+      "text": "There is a certain sport where people beat each other's asses in mud."
     },
     {
       "type": "patchouli:spotlight",
@@ -21,17 +21,17 @@
     {
       "type": "patchouli:spotlight",
       "item": "valley:scalding_volcanic_stone",
-      "text": "Lava may be erupted at a volcano or through a fracture in the crust, on land or underwater."
+      "text": "This kind of stone seems rare."
     },
     {
       "type": "patchouli:spotlight",
       "item": "valley:mixed_ore",
-      "text": "Native gold occurs as very small to microscopic particles embedded in rock, often together with quartz or sulfide minerals such as fool's gold which is a pyrite."
+      "text": "Native gold occurs as very small to microscopic particles embedded in rock, often together with quartz or sulfide minerals such as fool's gold."
     },
     {
       "type": "patchouli:spotlight",
       "item": "valley:deepslate_mixed_ore",
-      "text": "The metal in a native state is also found in the form of free flakes, grains or larger nuggets."
+      "text": "The native state of metal is also found in the form of free flakes, grains or larger nuggets."
     },
     {
       "type": "patchouli:spotlight",
@@ -56,7 +56,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:bleached_cobble",
-      "text": "Gravel is not better than sand...It's just not as rough."
+      "text": "Gravel is not better than sand, it just doesn't get everywhere that easily."
     },
     {
       "type": "patchouli:spotlight",
@@ -66,12 +66,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:polished_marinite",
-      "text": "hey are generally widespread but at the same time they are relatively thin and often of restricted economic importance."
+      "text": "They are generally widespread but at the same time they are relatively thin and often of restricted economic importance."
     },
     {
       "type": "patchouli:spotlight",
       "item": "valley:grimestone",
-      "text": "I don't find anything."
+      "text": "Didn't find anything to put here."
     },
     {
       "type": "patchouli:crafting",
@@ -91,7 +91,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "valley:verdantine",
-      "text": "I don't find anything."
+      "text": "Didn't find anything to put here."
     },
     {
       "type": "patchouli:crafting",
@@ -126,7 +126,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:polished_jasper",
-      "text": "he original materials are often fractured and/or distorted, after deposition, into diverse patterns, which are later filled in with other colorful minerals."
+      "text": "The original materials are often fractured and/or distorted, after deposition, into diverse patterns, which are later filled in with other colorful minerals."
     },
     {
       "type": "patchouli:spotlight",
@@ -136,17 +136,17 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:polished_limestone",
-      "text": "owever, most limestone consists of sand-sized grains in a carbonate mud matrix."
+      "text": "However, most limestone consists of sand-sized grains in a carbonate mud matrix."
     },
     {
       "type": "patchouli:spotlight",
       "item": "valley:nether_coal_ore",
-      "text": "It's very rare to find...might be a fake."
+      "text": "It's very rare to find...might be fake."
     },
     {
       "type": "patchouli:spotlight",
       "item": "valley:rotten_flesh_block",
-      "text": "I don't know why would you compress this to a block?"
+      "text": "I don't know why you would even compress this into a block?"
     }
   ]
 }

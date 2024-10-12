@@ -11,7 +11,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:rope_bridge",
-      "text": "A very basic bridge. A mount won't go over it."
+      "text": "A very basic bridge. Only for pedestrian use."
     },
     {
       "type": "patchouli:crafting",

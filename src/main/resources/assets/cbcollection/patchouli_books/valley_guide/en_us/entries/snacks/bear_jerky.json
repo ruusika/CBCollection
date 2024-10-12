@@ -6,12 +6,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:bear_jerky",
-      "text": "Bear Jerky or better called Beef Jerky. I never thought I would eat that."
+      "text": "Bear jerky is also called beef jerky. I never thought I would eat that."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "c:valley/cbc_bear_jerky",
-      "text": "I can't eat that too chewy."
+      "text": "I have trouble eating this as it's really chewy."
     }
   ]
 }

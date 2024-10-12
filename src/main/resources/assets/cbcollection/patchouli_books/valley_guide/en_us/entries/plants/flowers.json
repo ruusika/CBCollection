@@ -1,12 +1,12 @@
 {
-  "name": "Flowers & Bushes",
+  "name": "Flowers and Bushes",
   "icon": "valley:frozen_rose",
   "category": "cbcollection:plants",
   "pages": [
     {
       "type": "patchouli:spotlight",
       "item": "valley:small_cactus",
-      "text": "The syrup can also be fermented to produce an alcoholic drink."
+      "text": "The syrup made from this can be fermented to produce an alcoholic drink."
     },
     {
       "type": "patchouli:spotlight",

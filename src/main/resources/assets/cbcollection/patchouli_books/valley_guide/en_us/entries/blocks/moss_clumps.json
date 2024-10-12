@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "valley:moss_clump",
-      "text": "The capacity of dried mosses to absorb fluids has made their use practical in both medical and culinary uses."
+      "text": "The capacity of dried mosses to absorb fluids has made them useful for both medical and culinary purposes."
     },
     {
       "type": "patchouli:crafting",
@@ -16,7 +16,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:moss_vines",
-      "text": "Sometimes you need a bit of slippery vines to form traps."
+      "text": "Sometimes you just need slippery vines for a trap."
     },
     {
       "type": "patchouli:crafting",
@@ -36,7 +36,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:dry_moss_block",
-      "text": "This seems more like a faded out hay ball..."
+      "text": "Almost looks like a hay bale."
     },
     {
       "type": "patchouli:crafting",
