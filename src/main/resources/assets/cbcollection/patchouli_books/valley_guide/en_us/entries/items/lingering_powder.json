@@ -6,12 +6,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:lingering_powder",
-      "text": "A way to get lingering potions..."
+      "text": "A way to get lingering potions."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "c:valley/cbc_lingering_powder",
-      "text": "Not sure if I need to hide this..."
+      "text": "Not sure if I need to hide this."
     }
   ]
 }

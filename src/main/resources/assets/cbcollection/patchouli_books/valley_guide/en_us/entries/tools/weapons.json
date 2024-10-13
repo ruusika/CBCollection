@@ -21,7 +21,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "valley:mermaids_sword",
-      "text": "An encrusted sword. To much algae..."
+      "text": "An encrusted sword. To much algae."
     },
     {
       "type": "patchouli:crafting",
@@ -36,7 +36,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:diamond_knife",
-      "text": "This is more a dagger than a knife..."
+      "text": "This is more a dagger than a knife."
     },
     {
       "type": "patchouli:smithing",

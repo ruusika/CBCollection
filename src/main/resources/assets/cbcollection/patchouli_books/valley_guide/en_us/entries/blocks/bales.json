@@ -56,7 +56,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:campfire_ring",
-      "text": "This can save the environment from unneccessary forest fires."
+      "text": "This can save the environment from unnecessary forest fires."
     }
   ]
 }

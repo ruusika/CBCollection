@@ -6,12 +6,12 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:eggplant_juice",
-      "text": "I won't make any jokes about juice from a funny looking plant..."
+      "text": "I won't make any jokes about juice from a funny looking plant."
     },
     {
       "type": "patchouli:crafting",
       "recipe": "c:valley/cbc_eggplant_juice",
-      "text": "Jokes aside. It tastes shitty..."
+      "text": "Jokes aside. It tastes shitty."
     }
   ]
 }

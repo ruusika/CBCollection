@@ -6,7 +6,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "valley:cobbled_carmine",
-      "text": "I can't find anything about mining this kind of stone..."
+      "text": "I can't find anything about mining this kind of stone."
     },
     {
       "type": "patchouli:spotlight",
@@ -31,7 +31,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:mossy_carmine_bricks",
-      "text": "A beautiful dark red stone..."
+      "text": "A beautiful dark red stone."
     }
   ]
 }

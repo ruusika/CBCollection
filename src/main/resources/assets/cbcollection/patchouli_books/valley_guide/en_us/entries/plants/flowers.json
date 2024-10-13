@@ -31,7 +31,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "valley:frozen_rose",
-      "text": "Stories tell of a princess trapped in a castle who managed to lift a curse before a frozen rose melted..."
+      "text": "Stories tell of a princess trapped in a castle who managed to lift a curse before a frozen rose melted."
     },
     {
       "type": "patchouli:spotlight",
@@ -131,7 +131,7 @@
     {
       "type": "patchouli:spotlight",
       "item": "valley:panflowers",
-      "text": "A fancy looking plant..."
+      "text": "A fancy looking plant."
     },
     {
       "type": "patchouli:spotlight",
@@ -176,12 +176,12 @@
     {
       "type": "patchouli:spotlight",
       "item": "valley:tainted_nether_wart",
-      "text": "This smells bad..."
+      "text": "This smells bad."
     },
     {
       "type": "patchouli:spotlight",
       "item": "valley:soul_sporecap",
-      "text": "This one is edible I think..."
+      "text": "This one is edible I think?"
     }
   ]
 }
