@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "tag": "cbcollection:water_bottles"
+    },
+    "B": {
+      "item": "croptopia:frying_pan"
+    },
+    "C": {
+      "tag": "cbcollection:milk"
+    },
+    "D": {
+      "item": "croptopia:butter"
+    },
+    "E": {
+      "tag": "cbcollection:flour"
+    },
+    "F": {
+      "item": "croptopia:olive_oil"
+    }
+  },
+  "result": {
+    "item": "croptopia:dauphine_potatoes",
+    "count": 1
+  }
+}

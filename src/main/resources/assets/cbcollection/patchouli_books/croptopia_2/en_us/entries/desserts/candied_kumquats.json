@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_candied_kumquats",
+      "recipe": "cbcollection:croptopia/cbc_candied_kumquats",
       "text": "I don't like it that much."
     }
   ]

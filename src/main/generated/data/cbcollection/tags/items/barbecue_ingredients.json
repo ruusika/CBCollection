@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_cod",
+    "minecraft:cooked_salmon",
+    "minecraft:cooked_beef",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_rabbit",
+    "minecraft:cooked_mutton",
+    "croptopia:cooked_anchovy",
+    "croptopia:cooked_bacon",
+    "croptopia:cooked_calamari",
+    "croptopia:cooked_shrimp",
+    "croptopia:cooked_tuna",
+    "farmersdelight:cooked_chicken_cuts",
+    "farmersdelight:cooked_bacon",
+    "farmersdelight:cooked_cod_slice",
+    "farmersdelight:cooked_salmon_slice",
+    "farmersdelight:cooked_mutton_chops",
+    "farmersdelight:cooked_rice"
+  ]
+}

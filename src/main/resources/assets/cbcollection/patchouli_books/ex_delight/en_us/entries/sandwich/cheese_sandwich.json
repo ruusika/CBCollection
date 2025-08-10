@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:expandeddelight/cbc_cheese_sandwich",
+      "recipe": "cbcollection:expandeddelight/cbc_cheese_sandwich",
       "text": "Depending on the type of cheese you use you can get vastly differently tasting results."
     }
   ]

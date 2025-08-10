@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:expandeddelight/cbc_sweet_potato_salad",
+      "recipe": "cbcollection:expandeddelight/cbc_sweet_potato_salad",
       "text": "But this is one is not too sour."
     }
   ]

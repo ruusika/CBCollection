@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "croptopia:noodle",
+      "required": false
+    },
+    "farmersdelight:raw_pasta"
+  ]
+}

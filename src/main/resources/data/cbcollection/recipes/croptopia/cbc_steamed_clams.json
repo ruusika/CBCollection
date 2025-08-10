@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    " H "
+  ],
+  "key": {
+    "A": {
+      "item": "croptopia:butter"
+    },
+    "B": {
+      "tag": "cbcollection:garlic"
+    },
+    "C": {
+      "tag": "cbcollection:salt"
+    },
+    "D": {
+      "item": "croptopia:pepper"
+    },
+    "E": {
+      "tag": "cbcollection:seashell"
+    },
+    "F": {
+      "tag": "cbcollection:seashell"
+    },
+    "H": {
+      "item": "croptopia:frying_pan"
+    }
+  },
+  "result": {
+    "item": "croptopia:steamed_clams",
+    "count": 2
+  }
+}

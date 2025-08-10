@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:farmersdelight/cbc_stuffed_potato",
+      "recipe": "cbcollection:farmersdelight/cbc_stuffed_potato",
       "text": "You can hardly do anything wrong there."
     }
   ]

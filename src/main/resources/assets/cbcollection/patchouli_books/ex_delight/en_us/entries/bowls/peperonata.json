@@ -10,7 +10,7 @@
     },
     {
       "type": "cbcollection:pot_template",
-      "recipe": "c:expandeddelight/cbc_peperonata",
+      "recipe": "cbcollection:expandeddelight/cbc_peperonata",
       "text": "But I love it. Maybe a bit less chili pepper the next time."
     }
   ]

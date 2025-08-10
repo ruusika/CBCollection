@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "croptopia:tomato",
+      "required": false
+    },
+    "culinaire:tomato",
+    "farmersdelight:tomato"
+  ]
+}

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_beef_stir_fry",
+      "recipe": "cbcollection:croptopia/cbc_beef_stir_fry",
       "text": "You might want to add other veggies."
     }
   ]

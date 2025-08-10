@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "cbcollection:onion"
+    },
+    {
+      "tag": "cbcollection:milk"
+    },
+    {
+      "tag": "cbcollection:onion"
+    },
+    {
+      "tag": "c:foods/cooked_meats/cooked_mutton"
+    },
+    {
+      "tag": "c:foods/cooked_meats/cooked_mutton"
+    },
+    {
+      "tag": "c:foods/cooked_meats/cooked_mutton"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:baked_potato"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:shepherds_pie_block"
+  }
+}

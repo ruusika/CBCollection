@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_milk_chocolate_bottle",
+      "recipe": "cbcollection:culinaire/cbc_milk_chocolate_bottle",
       "text": "I think I can drink it...Nope. It's too thick."
     }
   ]

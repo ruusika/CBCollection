@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_stir_fry",
+      "recipe": "cbcollection:croptopia/cbc_stir_fry",
       "text": "Maybe add some paprika or ginger. It misses something."
     }
   ]

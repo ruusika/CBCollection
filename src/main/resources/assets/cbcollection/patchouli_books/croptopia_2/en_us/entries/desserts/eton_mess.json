@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_eton_mess",
+      "recipe": "cbcollection:croptopia/cbc_eton_mess",
       "text": "Actually nevermind, this is tasty."
     }
   ]

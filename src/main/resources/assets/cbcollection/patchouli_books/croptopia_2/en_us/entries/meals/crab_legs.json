@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_crab_legs",
+      "recipe": "cbcollection:croptopia/cbc_crab_legs",
       "text": "I still feel like there is something missing."
     }
   ]

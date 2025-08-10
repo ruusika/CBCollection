@@ -2,6 +2,7 @@ package net.ruusika.cbcollection;
 
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.loader.api.FabricLoader;
+import net.minecraft.util.Identifier;
 import net.ruusika.cbcollection.item.CBCollectionItems;
 import net.ruusika.cbcollection.util.LoggerUtilities;
 import org.slf4j.Logger;
@@ -12,7 +13,6 @@ public class CBCollection implements ModInitializer {
     public static String MODID_FARMERSDELIGHT = "farmersdelight";
     public static String MODID_EXPANDEDDELIGHT = "expandeddelight";
 
-    public static String MODID_CULINAIRE = "culinaire";
     public static final Logger LOGGER = LoggerFactory.getLogger(MODID);
 
     @Override
@@ -20,11 +20,14 @@ public class CBCollection implements ModInitializer {
         CBCollectionItems.register();
 
         LoggerUtilities.devLogger(MODID + " has been launched in a developer environment");
-        LOGGER.info(MODID + " mod has been successfully initialized");
+        LOGGER.info("DINONUGGETS!");
+    }
+
+    public static Identifier getID(String path){
+        return Identifier.of(MODID, path);
     }
 
     public static boolean isModLoaded(String modid) {
-        LoggerUtilities.devLogger("FarmersDelight is installed for CBCollection!");
         return FabricLoader.getInstance().isModLoaded(modid);
     }
 }

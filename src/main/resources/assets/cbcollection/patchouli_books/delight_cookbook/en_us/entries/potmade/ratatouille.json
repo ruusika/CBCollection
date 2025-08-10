@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_ratatouille",
+			"recipe": "cbcollection:farmersdelight/cbc_ratatouille",
 			"text": "Why do I have to think of a fairytale involving a cooking rat?"
 		}
 	]

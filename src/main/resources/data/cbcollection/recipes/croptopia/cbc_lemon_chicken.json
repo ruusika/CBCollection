@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:lemon"
+    },
+    {
+      "tag": "cbcollection:chile_pepper"
+    },
+    {
+      "tag": "cbcollection:tomato"
+    },
+    {
+      "tag": "croptopia:chicken_replacements"
+    },
+    {
+      "item": "croptopia:cooking_pot"
+    }
+  ],
+  "result": {
+    "item": "croptopia:lemon_chicken"
+  }
+}

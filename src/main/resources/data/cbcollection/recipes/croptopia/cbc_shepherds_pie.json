@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "cbcollection:salt"
+    },
+    "B": {
+      "tag": "croptopia:beef_mutton"
+    },
+    "C": {
+      "item": "croptopia:pepper"
+    },
+    "D": {
+      "item": "minecraft:potato"
+    },
+    "E": {
+      "item": "croptopia:frying_pan"
+    },
+    "F": {
+      "tag": "cbcollection:tomato"
+    },
+    "G": {
+      "tag": "cbcollection:corn"
+    },
+    "H": {
+      "tag": "cbcollection:garlic"
+    },
+    "I": {
+      "tag": "cbcollection:onion"
+    }
+  },
+  "result": {
+    "item": "croptopia:shepherds_pie"
+  }
+}

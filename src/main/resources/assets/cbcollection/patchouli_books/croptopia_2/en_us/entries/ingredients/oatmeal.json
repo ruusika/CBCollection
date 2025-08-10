@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_oatmeal",
+      "recipe": "cbcollection:croptopia/cbc_oatmeal",
       "text": "I think you can use it for a popular breakfast dish."
     }
   ]

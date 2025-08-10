@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_tomato_juice",
+      "recipe": "cbcollection:croptopia/cbc_tomato_juice",
       "text": "But honestly I can't stand the taste."
     }
   ]

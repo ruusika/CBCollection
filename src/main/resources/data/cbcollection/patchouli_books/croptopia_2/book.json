@@ -1,7 +1,7 @@
 {
   "name": "item.cbcollection.croptopia_2",
   "subtitle": "item.cbcollection.croptopia_2.subtitle",
-  "landing_text": "A new cookbook for Croptopia and Croptopia's Chocolaterie! Old and new recipes collected in one book.$(br)$(br)Croptopia by thethonk. Croptopia's Chocolaterie by slomax907",
+  "landing_text": "A new cookbook for Croptopia! Old and new recipes collected in one book.$(br)$(br)Croptopia by thethonk.",
   "version": 0,
   "creative_tab": "cbcollection:cookbooks",
   "use_resource_pack": true,

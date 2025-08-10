@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "cbcollection:flour"
+    },
+    {
+      "tag": "cbcollection:milk"
+    },
+    {
+      "tag": "cbcollection:egg"
+    },
+    {
+      "tag": "cbcollection:chocolate"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ],
+  "result": {
+    "item": "croptopia:brownies"
+  }
+}

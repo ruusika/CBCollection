@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_steamed_clams",
+      "recipe": "cbcollection:croptopia/cbc_steamed_clams",
       "text": "But the garlic smell is amazing."
     }
   ]

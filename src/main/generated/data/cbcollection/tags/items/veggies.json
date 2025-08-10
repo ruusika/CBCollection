@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:foods/vegetables",
+      "required": false
+    },
+    {
+      "id": "#cbcollection:spicy_crops",
+      "required": false
+    },
+    "culinaire:tomato",
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:pumpkin",
+    {
+      "id": "#cbcollection:tomato",
+      "required": false
+    },
+    {
+      "id": "#cbcollection:onion",
+      "required": false
+    },
+    {
+      "id": "croptopia:corn",
+      "required": false
+    },
+    {
+      "id": "croptopia:eggplant",
+      "required": false
+    }
+  ]
+}

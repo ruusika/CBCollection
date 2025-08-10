@@ -18,7 +18,7 @@
     {
       "type": "patchouli:text",
       "title": "Blacklisted Items",
-      "text": "$(li)#c:sandwich/bread$(li)culinaire:sandwich$(li)minecraft:mushroom_stew$(li)minecraft:rabbit_stew$(li)minecraft:beetroot_soup$(li)culinaire:apple_pie$(li)culinaire:sweet_berry_pie$(li)culinaire:dark_chocolate_pie$(li)culinaire:milk_chocolate_pie$(li)culinaire:white_chocolate_pie$(li)culinaire:salad$(li)culinaire:mashed_potatoes"
+      "text": "$(li)#cbcollection:sandwich/bread$(li)culinaire:sandwich$(li)minecraft:mushroom_stew$(li)minecraft:rabbit_stew$(li)minecraft:beetroot_soup$(li)culinaire:apple_pie$(li)culinaire:sweet_berry_pie$(li)culinaire:dark_chocolate_pie$(li)culinaire:milk_chocolate_pie$(li)culinaire:white_chocolate_pie$(li)culinaire:salad$(li)culinaire:mashed_potatoes"
     }
   ]
 }

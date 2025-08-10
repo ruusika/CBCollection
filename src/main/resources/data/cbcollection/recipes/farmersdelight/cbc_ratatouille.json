@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "cbcollection:tomato"
+    },
+    {
+      "tag": "cbcollection:onion"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "tag": "cbcollection:vegetables"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:ratatouille"
+  },
+  "container":{
+    "item": "minecraft:bowl"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

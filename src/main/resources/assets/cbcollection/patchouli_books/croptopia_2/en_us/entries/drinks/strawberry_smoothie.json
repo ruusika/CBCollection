@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_strawberry_smoothie",
+      "recipe": "cbcollection:croptopia/cbc_strawberry_smoothie",
       "text": "It's not that bad. Still not my favourite."
     }
   ]

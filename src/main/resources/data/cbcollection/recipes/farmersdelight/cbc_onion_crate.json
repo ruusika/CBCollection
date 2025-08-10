@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "cbcollection:onion"
+    },
+    "B": {
+      "tag": "cbcollection:onion"
+    },
+    "C": {
+      "tag": "cbcollection:onion"
+    },
+    "D": {
+      "tag": "cbcollection:onion"
+    },
+    "E": {
+      "tag": "cbcollection:onion"
+    },
+    "F": {
+      "tag": "cbcollection:onion"
+    },
+    "G": {
+      "tag": "cbcollection:onion"
+    },
+    "H": {
+      "tag": "cbcollection:onion"
+    },
+    "I": {
+      "tag": "cbcollection:onion"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:onion_crate"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    " E ",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "cbcollection:onion"
+    },
+    "B": {
+      "tag": "cbcollection:garlic"
+    },
+    "C": {
+      "item": "croptopia:pepper"
+    },
+    "E": {
+      "tag": "cbcollection:salt"
+    },
+    "G": {
+      "item": "minecraft:pumpkin"
+    },
+    "H": {
+      "item": "croptopia:frying_pan"
+    },
+    "I": {
+      "item": "minecraft:pumpkin"
+    }
+  },
+  "result": {
+    "item": "croptopia:pumpkin_soup",
+    "count": 2
+  }
+}

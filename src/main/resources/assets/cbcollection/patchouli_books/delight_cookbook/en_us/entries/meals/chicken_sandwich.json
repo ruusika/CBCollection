@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:farmersdelight/cbc_chicken_sandwich",
+      "recipe": "cbcollection:farmersdelight/cbc_chicken_sandwich",
       "text": "Maybe switch the carrot with tomatoes or something similar."
     }
   ]

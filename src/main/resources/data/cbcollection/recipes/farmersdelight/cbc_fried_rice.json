@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "cbcollection:rice"
+    },
+    {
+      "tag": "cbcollection:egg"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "cbcollection:onion"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:fried_rice"
+  },
+  "container":{
+    "item": "minecraft:bowl"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

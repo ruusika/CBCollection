@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_sunny_side_eggs",
+      "recipe": "cbcollection:croptopia/cbc_sunny_side_eggs",
       "text": "Very good with cooked bacon."
     }
   ]

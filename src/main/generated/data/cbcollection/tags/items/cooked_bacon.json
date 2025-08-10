@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:cooked_bacon",
+    {
+      "id": "croptopia:cooked_bacon",
+      "required": false
+    }
+  ]
+}

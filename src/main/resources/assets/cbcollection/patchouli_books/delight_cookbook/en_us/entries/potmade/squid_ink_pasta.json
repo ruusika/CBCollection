@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_squid_ink_pasta",
+			"recipe": "cbcollection:farmersdelight/cbc_squid_ink_pasta",
 			"text": "Also I am not so fond of squid. Ew..."
 		}
 	]

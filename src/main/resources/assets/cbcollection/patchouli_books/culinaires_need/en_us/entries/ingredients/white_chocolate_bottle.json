@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_white_chocolate_bottle",
+      "recipe": "cbcollection:culinaire/cbc_white_chocolate_bottle",
       "text": "I won't recommending drinking it tho...It's notorious for clogging up some stuff."
     }
   ]

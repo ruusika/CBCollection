@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "cbcollection:milk"
+    },
+    {
+      "tag": "cbcollection:asparagus"
+    },
+    {
+      "tag": "cbcollection:lettuce"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:asparagus_soup_creamy"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

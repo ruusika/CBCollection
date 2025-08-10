@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_fish_stew",
+			"recipe": "cbcollection:farmersdelight/cbc_fish_stew",
 			"text": "The stronger the fish the stronger the stew or so they say."
 		}
 	]

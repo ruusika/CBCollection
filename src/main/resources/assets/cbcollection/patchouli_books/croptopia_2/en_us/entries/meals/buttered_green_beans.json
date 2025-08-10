@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_buttered_green_beans",
+      "recipe": "cbcollection:croptopia/cbc_buttered_green_beans",
       "text": "Is there anything to make them better?"
     }
   ]

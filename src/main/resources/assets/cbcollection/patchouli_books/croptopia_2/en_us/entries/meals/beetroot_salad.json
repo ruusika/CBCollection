@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_beetroot_salad",
+      "recipe": "cbcollection:croptopia/cbc_beetroot_salad",
       "text": "The beetroot is crunchy."
     }
   ]

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_macaron",
+      "recipe": "cbcollection:croptopia/cbc_macaron",
       "text": "Some feel very dry. I need coffee."
     }
   ]

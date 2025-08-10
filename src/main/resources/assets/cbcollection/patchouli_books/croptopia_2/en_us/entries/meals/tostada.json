@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_tostada",
+      "recipe": "cbcollection:croptopia/cbc_tostada",
       "text": "More beans apparently..."
     }
   ]

@@ -10,7 +10,7 @@
     },
     {
       "type": "cbcollection:pot_template",
-      "recipe": "c:expandeddelight/cbc_peanut_honey_soup",
+      "recipe": "cbcollection:expandeddelight/cbc_peanut_honey_soup",
       "text": "This is awfully sweet."
     }
   ]

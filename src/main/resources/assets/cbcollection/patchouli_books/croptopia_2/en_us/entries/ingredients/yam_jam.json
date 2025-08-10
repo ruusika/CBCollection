@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_yam_jam",
+      "recipe": "cbcollection:croptopia/cbc_yam_jam",
       "text": "I think you can put this one on some toast."
     }
   ]

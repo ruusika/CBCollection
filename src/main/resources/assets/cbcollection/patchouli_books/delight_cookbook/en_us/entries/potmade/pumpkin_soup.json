@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_pumpkin_soup",
+			"recipe": "cbcollection:farmersdelight/cbc_pumpkin_soup",
 			"text": "It gets very good if you add fried bread crumbs into the soup."
 		}
 	]

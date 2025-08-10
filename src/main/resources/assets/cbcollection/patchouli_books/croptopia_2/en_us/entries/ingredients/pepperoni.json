@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_pepperoni",
+      "recipe": "cbcollection:croptopia/cbc_pepperoni",
       "text": "Is there a less spicy version? I just had one with extra garlic that was a bit too spicy."
     }
   ]

@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "cbcollection:tomato"
+    },
+    "B": {
+      "tag": "cbcollection:tomato"
+    },
+    "C": {
+      "tag": "cbcollection:tomato"
+    },
+    "D": {
+      "tag": "cbcollection:tomato"
+    },
+    "E": {
+      "tag": "cbcollection:tomato"
+    },
+    "F": {
+      "tag": "cbcollection:tomato"
+    },
+    "G": {
+      "tag": "cbcollection:tomato"
+    },
+    "H": {
+      "tag": "cbcollection:tomato"
+    },
+    "I": {
+      "tag": "cbcollection:tomato"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:tomato_crate"
+  }
+}

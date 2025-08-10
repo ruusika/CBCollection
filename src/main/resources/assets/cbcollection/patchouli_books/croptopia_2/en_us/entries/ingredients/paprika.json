@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_paprika",
+      "recipe": "cbcollection:croptopia/cbc_paprika",
       "text": "I fear that you can overuse this kind of spice."
     }
   ]

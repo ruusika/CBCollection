@@ -30,7 +30,7 @@
 		},
 		{
 			"type": "patchouli:crafting",
-			"recipe": "c:farmersdelight/cbc_cabbage_crate",
+			"recipe": "cbcollection:farmersdelight/cbc_cabbage_crate",
 			"text": "When stored under less ideal conditions, cabbage can still last up to four months."
 		},
 		{
@@ -40,7 +40,7 @@
 		},
 		{
 			"type": "patchouli:crafting",
-			"recipe": "c:farmersdelight/cbc_tomato_crate",
+			"recipe": "cbcollection:farmersdelight/cbc_tomato_crate",
 			"text": "Storing stem down can prolong shelf life, as it may keep from rotting too quickly."
 		},
 		{
@@ -50,7 +50,7 @@
 		},
 		{
 			"type": "patchouli:crafting",
-			"recipe": "c:farmersdelight/cbc_onion_crate",
+			"recipe": "cbcollection:farmersdelight/cbc_onion_crate",
 			"text": "Onions will absorb odours from apples and pears. Also, they draw moisture from vegetables with which they are stored which may cause them to decay."
 		},
 		{
@@ -60,7 +60,7 @@
 		},
 		{
 			"type": "patchouli:crafting",
-			"recipe": "c:farmersdelight/cbc_rice_bag",
+			"recipe": "cbcollection:farmersdelight/cbc_rice_bag",
 			"text": "Rice will absorb strong aromas, so it is very important to store rice far away from foods such as onions or garlic."
 		}
 	]

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:farmersdelight/cbc_kelp_roll",
+      "recipe": "cbcollection:farmersdelight/cbc_kelp_roll",
       "text": "Note for next time: spice the rice with furikake and fry the rice before."
     },
     {

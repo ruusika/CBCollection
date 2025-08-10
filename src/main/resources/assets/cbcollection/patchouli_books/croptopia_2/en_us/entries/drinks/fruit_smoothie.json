@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_fruit_smoothie",
+      "recipe": "cbcollection:croptopia/cbc_fruit_smoothie",
       "text": "Just don't combine too many different foods. It ruins the taste."
     }
   ]

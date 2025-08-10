@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:farmersdelight/cbc_honey_glazed_ham_block",
+      "recipe": "cbcollection:farmersdelight/cbc_honey_glazed_ham_block",
       "text": "The berries add a little more sweetness to the honey and bring contrast to the rice."
     },
     {

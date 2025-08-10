@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_sweet_crepes",
+      "recipe": "cbcollection:croptopia/cbc_sweet_crepes",
       "text": "Try as many different jams as you want."
     }
   ]

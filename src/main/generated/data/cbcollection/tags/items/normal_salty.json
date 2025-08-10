@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:warped_roots",
+    "minecraft:seagrass",
+    "minecraft:kelp",
+    "culinaire:tomato",
+    {
+      "id": "croptopia:tomato",
+      "required": false
+    },
+    "farmersdelight:tomato"
+  ]
+}

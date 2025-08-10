@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "cbcollection:lettuce"
+    },
+    "B": {
+      "tag": "cbcollection:lettuce"
+    },
+    "C": {
+      "tag": "cbcollection:lettuce"
+    },
+    "D": {
+      "tag": "cbcollection:lettuce"
+    },
+    "E": {
+      "tag": "cbcollection:lettuce"
+    },
+    "F": {
+      "tag": "cbcollection:lettuce"
+    },
+    "G": {
+      "tag": "cbcollection:lettuce"
+    },
+    "H": {
+      "tag": "cbcollection:lettuce"
+    },
+    "I": {
+      "tag": "cbcollection:lettuce"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:cabbage_crate"
+  }
+}

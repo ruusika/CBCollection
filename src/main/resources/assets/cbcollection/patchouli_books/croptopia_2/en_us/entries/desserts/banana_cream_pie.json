@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_banana_cream_pie",
+      "recipe": "cbcollection:croptopia/cbc_banana_cream_pie",
       "text": "But I can see why other people like it."
     }
   ]

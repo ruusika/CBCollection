@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_kale_smoothie",
+      "recipe": "cbcollection:croptopia/cbc_kale_smoothie",
       "text": "Seems like a healthy spin on a classic again."
     }
   ]

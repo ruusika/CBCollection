@@ -15,7 +15,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:expandeddelight/cbc_chili_pepper_crate",
+      "recipe": "cbcollection:expandeddelight/cbc_chili_pepper_crate",
       "text": "You do not need to wash the peppers before storing. It is best for them to be dry, as water can speed up the rotting process."
     },
     {

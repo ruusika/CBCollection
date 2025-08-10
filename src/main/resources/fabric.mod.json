@@ -6,7 +6,9 @@
 	"description": "A collection of Minecraft cooking mods cookbooks",
 	"authors": [
 		"Ruusika - dev",
-		"Apfelrunder - art"
+        "JR1811 - dev",
+		"Apfelrunder - art",
+        "Mæxøn - english translations"
 	],
 	"contact": {
 		"homepage": "https://github.com/ruusika",
@@ -30,18 +32,14 @@
 		"cbcollection.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.14.21",
-		"minecraft": "~1.18.2",
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.20.1",
 		"java": ">=17",
 		"fabric-api": "*",
 		"patchouli": "*",
-		"croptopia": "*",
 		"farmersdelight": "*",
-		"betteranimalsplus": "*",
-		"cacao": "*",
 		"expandeddelight": "*",
-		"bewitchment": "*",
-		"valley": "*"
+		"culinaire": "*"
 	},
 	"recommends": {
 

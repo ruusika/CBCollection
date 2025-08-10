@@ -10,7 +10,7 @@
     },
     {
       "type": "cbcollection:pot_template",
-      "recipe": "c:expandeddelight/cbc_cheesy_asparagus_and_bacon",
+      "recipe": "cbcollection:expandeddelight/cbc_cheesy_asparagus_and_bacon",
       "text": "Maybe you need more cheese to cover the asparagus."
     }
   ]

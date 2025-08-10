@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_stuffed_pumpkin_block",
+			"recipe": "cbcollection:farmersdelight/cbc_stuffed_pumpkin_block",
 			"text": "The filling differs from garden to garden. Depending on what grew there."
 		},
 		{

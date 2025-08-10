@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_vegetable_soup",
+			"recipe": "cbcollection:farmersdelight/cbc_vegetable_soup",
 			"text": "I mostly hate the consistency of this kind of soup."
 		}
 	]

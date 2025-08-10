@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "croptopia:pork_replacements"
+    },
+    "B": {
+      "tag": "cbcollection:onion"
+    },
+    "C": {
+      "tag": "croptopia:beef_replacements"
+    },
+    "D": {
+      "tag": "cbcollection:lettuce"
+    },
+    "E": {
+      "tag": "cbcollection:tomato"
+    },
+    "F": {
+      "tag": "cbcollection:lettuce"
+    },
+    "G": {
+      "tag": "croptopia:pork_replacements"
+    },
+    "H": {
+      "item": "croptopia:frying_pan"
+    },
+    "I": {
+      "tag": "croptopia:beef_replacements"
+    }
+  },
+  "result": {
+    "item": "croptopia:goulash"
+  }
+}

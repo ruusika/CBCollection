@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_sausage",
+      "recipe": "cbcollection:croptopia/cbc_sausage",
       "text": "You can cook or grill it and use it in dishes with meat."
     }
   ]

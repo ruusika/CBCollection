@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_yoghurt",
+      "recipe": "cbcollection:croptopia/cbc_yoghurt",
       "text": "Chocolate also works. As well as vanilla yogurt."
     }
   ]

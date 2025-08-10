@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:expandeddelight/cbc_peanut_salad",
+      "recipe": "cbcollection:expandeddelight/cbc_peanut_salad",
       "text": "The thing a normal salad was missing was some crunch."
     }
   ]

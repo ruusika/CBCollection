@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_dark_chocolate_pie",
+      "recipe": "cbcollection:culinaire/cbc_dark_chocolate_pie",
       "text": "Maybe use a bit less dark chocolate next time."
     }
   ]

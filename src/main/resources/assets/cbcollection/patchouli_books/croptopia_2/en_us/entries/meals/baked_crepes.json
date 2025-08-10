@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_baked_crepes",
+      "recipe": "cbcollection:croptopia/cbc_baked_crepes",
       "text": "I had the option to add bacon. I need to try the next time."
     }
   ]

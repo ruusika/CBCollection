@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_fried_calamari",
+      "recipe": "cbcollection:croptopia/cbc_fried_calamari",
       "text": "It also doesn't need you to go shrimp hunting."
     }
   ]

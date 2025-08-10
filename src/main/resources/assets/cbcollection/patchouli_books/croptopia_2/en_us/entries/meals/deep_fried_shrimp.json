@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_deep_fried_shrimp",
+      "recipe": "cbcollection:croptopia/cbc_deep_fried_shrimp",
       "text": "You just need to find a shrimp to fry."
     }
   ]

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_chocolate_milkshake",
+      "recipe": "cbcollection:croptopia/cbc_chocolate_milkshake",
       "text": "I wonder what happens if I change from chocolate to coffee."
     }
   ]

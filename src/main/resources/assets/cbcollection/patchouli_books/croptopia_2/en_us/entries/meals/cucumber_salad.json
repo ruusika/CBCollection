@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_cucumber_salad",
+      "recipe": "cbcollection:croptopia/cbc_cucumber_salad",
       "text": "Refreshing? I accidentally had some bad cucumber in it."
     }
   ]

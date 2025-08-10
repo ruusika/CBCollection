@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:expandeddelight/cbc_berry_sweet_roll",
+      "recipe": "cbcollection:expandeddelight/cbc_berry_sweet_roll",
       "text": "Quite sweet. Those sweet berries add quite some flavour."
     }
   ]

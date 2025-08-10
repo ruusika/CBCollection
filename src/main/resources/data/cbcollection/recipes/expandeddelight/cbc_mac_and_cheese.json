@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "tag": "cbcollection:milk"
+    },
+    {
+      "tag": "cbcollection:cheese"
+    },
+    {
+      "item": "farmersdelight:raw_pasta"
+    },
+    {
+      "tag": "cbcollection:salt"
+    }
+  ],
+  "result": {
+    "item": "expandeddelight:mac_and_cheese"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}

@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_dumplings",
+			"recipe": "cbcollection:farmersdelight/cbc_dumplings",
 			"text": "The fillings decide a lot about the taste but if you are using chicken, you'll need to cook it very well."
 		}
 	]

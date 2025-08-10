@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_fruit_cake",
+      "recipe": "cbcollection:croptopia/cbc_fruit_cake",
       "text": "It feels a bit chewy."
     }
   ]

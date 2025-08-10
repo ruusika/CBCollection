@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "expandeddelight:ground_cinnamon",
+    "expandeddelight:raw_cinnamon",
+    {
+      "id": "croptopia:cinnamon",
+      "required": false
+    }
+  ]
+}

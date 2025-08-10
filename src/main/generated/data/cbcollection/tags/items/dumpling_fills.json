@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:foods/raw_meats",
+      "required": false
+    },
+    "minecraft:rabbit",
+    {
+      "id": "croptopia:bacon",
+      "required": false
+    }
+  ]
+}

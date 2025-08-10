@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:farmersdelight/cbc_shepherds_pie_block",
+      "recipe": "cbcollection:farmersdelight/cbc_shepherds_pie_block",
       "text": "I never thought cheese, onion and potatoes would work so well together."
     },
     {

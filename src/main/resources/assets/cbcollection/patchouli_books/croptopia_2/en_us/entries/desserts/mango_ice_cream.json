@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_mango_ice_cream",
+      "recipe": "cbcollection:croptopia/cbc_mango_ice_cream",
       "text": "I would call it a sporty persons favorite for cheating."
     }
   ]

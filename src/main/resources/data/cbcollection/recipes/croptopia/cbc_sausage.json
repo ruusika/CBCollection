@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "D",
+    "G"
+  ],
+  "key": {
+    "A": {
+      "item": "croptopia:ground_pork"
+    },
+    "D": {
+      "tag": "cbcollection:salt"
+    },
+    "G": {
+      "item": "croptopia:paprika"
+    }
+  },
+  "result": {
+    "item": "croptopia:sausage",
+    "count": 1
+  }
+}

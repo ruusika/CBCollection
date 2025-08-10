@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_snicker_doodle",
+      "recipe": "cbcollection:croptopia/cbc_snicker_doodle",
       "text": "A bit dry though."
     }
   ]

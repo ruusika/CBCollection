@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "farmersdelight:onion",
+    {
+      "id": "croptopia:greenonion",
+      "required": false
+    },
+    {
+      "id": "croptopia:onion",
+      "required": false
+    }
+  ]
+}

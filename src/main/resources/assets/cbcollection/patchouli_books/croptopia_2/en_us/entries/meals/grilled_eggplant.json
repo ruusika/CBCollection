@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_grilled_eggplant",
+      "recipe": "cbcollection:croptopia/cbc_grilled_eggplant",
       "text": "But it's a good dish option for a campfire. So success."
     }
   ]

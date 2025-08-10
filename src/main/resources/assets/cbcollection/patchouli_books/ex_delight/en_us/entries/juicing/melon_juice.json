@@ -1,0 +1,12 @@
+{
+  "name": "Melon Juice",
+  "icon": "farmersdelight:melon_juice",
+  "category": "cbcollection:meals",
+  "pages": [
+    {
+      "type": "cbcollection:juicing_template",
+      "recipe": "expandeddelight:expandeddelight/juicing/melon_juice",
+      "text": "Great beverage. A bit too sweet for my taste. Best served cold on a hot summer day. Very refreshing though."
+    }
+  ]
+}

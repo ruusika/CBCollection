@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_noodle_soup",
+			"recipe": "cbcollection:farmersdelight/cbc_noodle_soup",
 			"text": "Very tasty when sick or when having a hangover."
 		}
 	]

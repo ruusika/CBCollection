@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_leafy_salad",
+      "recipe": "cbcollection:croptopia/cbc_leafy_salad",
       "text": "It really, really needs some dressing."
     }
   ]

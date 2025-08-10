@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "croptopia:garlic",
+      "required": false
+    },
+    {
+      "id": "bewitchment:garlic",
+      "required": false
+    }
+  ]
+}

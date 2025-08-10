@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_pecan_pie",
+      "recipe": "cbcollection:croptopia/cbc_pecan_pie",
       "text": "Could be one of my favorite pies to be honest."
     }
   ]

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "D F",
+    " H "
+  ],
+  "key": {
+    "A": {
+      "tag": "cbcollection:flour"
+    },
+    "B": {
+      "tag": "cbcollection:egg"
+    },
+    "C": {
+      "tag": "cbcollection:milk"
+    },
+    "D": {
+      "tag": "c:jams"
+    },
+    "F": {
+      "item": "minecraft:sugar"
+    },
+    "H": {
+      "item": "croptopia:frying_pan"
+    }
+  },
+  "result": {
+    "item": "croptopia:sweet_crepes",
+    "count": 1
+  }
+}

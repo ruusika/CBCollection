@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:carrot"
+    },
+    "B": {
+      "item": "minecraft:potato"
+    },
+    "C": {
+      "item": "minecraft:beetroot"
+    },
+    "D": {
+      "tag": "cbcollection:onion"
+    },
+    "E": {
+      "tag": "cbcollection:tomato"
+    },
+    "F": {
+      "tag": "c:water_bottles"
+    },
+    "G": {
+      "tag": "cbcollection:lettuce"
+    },
+    "H": {
+      "item": "croptopia:cooking_pot"
+    },
+    "I": {
+      "tag": "cbcollection:garlic"
+    }
+  },
+  "result": {
+    "item": "croptopia:borscht",
+    "count": 2
+  }
+}

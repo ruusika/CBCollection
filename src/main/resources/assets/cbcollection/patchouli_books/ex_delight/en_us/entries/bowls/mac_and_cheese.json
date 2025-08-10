@@ -10,7 +10,7 @@
     },
     {
       "type": "cbcollection:pot_template",
-      "recipe": "c:expandeddelight/cbc_mac_and_cheese",
+      "recipe": "cbcollection:expandeddelight/cbc_mac_and_cheese",
       "text": "I remember eating a version of this which had bacon in it, it was amazing."
     }
   ]

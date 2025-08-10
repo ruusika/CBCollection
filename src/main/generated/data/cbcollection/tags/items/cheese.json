@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "expandeddelight:cheese_wheel",
+    {
+      "id": "croptopia:cheese",
+      "required": false
+    },
+    "culinaire:cheese_wheel",
+    "culinaire:cheese"
+  ]
+}

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_roasted_asparagus",
+      "recipe": "cbcollection:croptopia/cbc_roasted_asparagus",
       "text": "But some people will enjoy it with some sauce."
     }
   ]

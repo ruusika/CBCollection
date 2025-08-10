@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_pumpkin_spice_latte",
+      "recipe": "cbcollection:croptopia/cbc_pumpkin_spice_latte",
       "text": "Not sure if this should be spicy, sour or sweet."
     }
   ]

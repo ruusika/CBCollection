@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "cbcollection:tomato"
+    },
+    "B": {
+      "item": "croptopia:olive_oil"
+    },
+    "C": {
+      "item": "croptopia:squash"
+    },
+    "D": {
+      "item": "croptopia:zucchini"
+    },
+    "E": {
+      "item": "croptopia:frying_pan"
+    },
+    "F": {
+      "item": "croptopia:eggplant"
+    },
+    "G": {
+      "tag": "cbcollection:onion"
+    },
+    "H": {
+      "item": "croptopia:bellpepper"
+    },
+    "I": {
+      "item": "croptopia:basil"
+    }
+  },
+  "result": {
+    "item": "croptopia:ratatouille",
+    "count": 2
+  }
+}

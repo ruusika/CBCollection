@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_trail_mix",
+      "recipe": "cbcollection:croptopia/cbc_trail_mix",
       "text": "The chocolate in there makes it the real winner."
     }
   ]

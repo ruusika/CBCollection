@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:farmersdelight/cbc_grilled_salmon",
+      "recipe": "cbcollection:farmersdelight/cbc_grilled_salmon",
       "text": "The taste of grilled salmon is just something unique."
     }
   ]

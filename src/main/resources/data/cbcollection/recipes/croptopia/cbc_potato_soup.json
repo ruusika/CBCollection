@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "DEF",
+    " H "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:potato"
+    },
+    "D": {
+      "tag": "cbcollection:flour"
+    },
+    "E": {
+      "tag": "cbcollection:onion"
+    },
+    "F": {
+      "item": "croptopia:bacon"
+    },
+    "H": {
+      "tag": "c:water_bottles"
+    }
+  },
+  "result": {
+    "item": "croptopia:potato_soup"
+  }
+}

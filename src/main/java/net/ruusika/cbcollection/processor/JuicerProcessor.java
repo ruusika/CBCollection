@@ -1,11 +1,12 @@
 package net.ruusika.cbcollection.processor;
 
-import com.ianm1647.expandeddelight.util.recipe.JuicerRecipe;
+import com.ianm1647.expandeddelight.recipe.JuicerRecipe;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.recipe.RecipeManager;
 import net.minecraft.recipe.RecipeType;
+import net.minecraft.registry.Registries;
 import net.minecraft.util.Identifier;
-import net.minecraft.util.registry.Registry;
+import net.minecraft.world.World;
 import net.ruusika.cbcollection.CBCollection;
 import vazkii.patchouli.api.IComponentProcessor;
 import vazkii.patchouli.api.IVariable;
@@ -15,11 +16,10 @@ public class JuicerProcessor implements IComponentProcessor {
 
     private JuicerRecipe recipe;
 
-    @SuppressWarnings("NullableProblems")
     @Override
-    public void setup(IVariableProvider variables) {
+    public void setup(World world, IVariableProvider variables) {
         if (!CBCollection.isModLoaded(CBCollection.MODID_EXPANDEDDELIGHT)) return;
-        RecipeType<?> juicingRecipe = Registry.RECIPE_TYPE.get(new Identifier(CBCollection.MODID_EXPANDEDDELIGHT, "juicing"));
+        RecipeType<?> juicingRecipe = Registries.RECIPE_TYPE.get(new Identifier(CBCollection.MODID_EXPANDEDDELIGHT, "juicing"));
         if (MinecraftClient.getInstance().world == null) return;
         RecipeManager manager = MinecraftClient.getInstance().world.getRecipeManager();
         Identifier id = new Identifier(variables.get("recipe").asString());
@@ -27,12 +27,12 @@ public class JuicerProcessor implements IComponentProcessor {
     }
 
     @Override
-    public IVariable process(String key) {
+    public IVariable process(World world, String key) {
         return switch (key) {
-            case "header" -> IVariable.from(recipe.getOutput().getName());
+            case "header" -> IVariable.from(recipe.getOutput(world.getRegistryManager()).getName());
             case "slot0" -> IVariable.from(recipe.getIngredients().get(0));
             case "slot1" -> IVariable.from(recipe.getIngredients().get(1));
-            case "result" -> IVariable.from(recipe.getOutput());
+            case "result" -> IVariable.from(recipe.getOutput(world.getRegistryManager()));
             default -> null;
         };
     }

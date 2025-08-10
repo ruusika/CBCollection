@@ -15,7 +15,6 @@ So I started working on my first new recipe book with [Patchouli](https://www.cu
 ##### Croptopia Part II
 - ![Static Badge](https://img.shields.io/badge/Status-finished-green)
 - Based on [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia) by [thethonk](https://github.com/ExcessiveAmountsOfZombies).
-- Also includes [Croptopia's Choclaterie](https://www.curseforge.com/minecraft/mc-mods/croptopias-chocolaterie-fabric) by [slomax907](https://github.com/Slomaxonical-907).
 
 ##### An Expanded Delight
 - ![Static Badge](https://img.shields.io/badge/Status-finished-green)
@@ -25,11 +24,7 @@ So I started working on my first new recipe book with [Patchouli](https://www.cu
 - ![Static Badge](https://img.shields.io/badge/Status-finished-green)
 - Based on [Culinaire](https://www.curseforge.com/minecraft/mc-mods/culinaire) by [Hugman_76](https://github.com/DawnTeamMC)
 
-##### Valley's Guide
-- ![Static Badge](https://img.shields.io/badge/Status-finished-green)
-- Based on [valleycraft-old](https://www.curseforge.com/minecraft/mc-mods/valleycraft) by [GoblinGrowl](https://github.com/ValleyCraft-Dev-Team)
-
 #
 **What you need:**
 
-*To Be Updated*
+*needs Dark Enchanting to run for correct Version of Omega-Config*

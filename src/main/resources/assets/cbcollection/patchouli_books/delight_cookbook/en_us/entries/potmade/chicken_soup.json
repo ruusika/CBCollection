@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_chicken_soup",
+			"recipe": "cbcollection:farmersdelight/cbc_chicken_soup",
 			"text": "My father would always cook it whenever I was sick."
 		}
 	]

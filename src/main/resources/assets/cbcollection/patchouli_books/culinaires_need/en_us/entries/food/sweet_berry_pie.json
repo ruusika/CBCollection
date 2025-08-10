@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_sweet_berry_pie",
+      "recipe": "cbcollection:culinaire/cbc_sweet_berry_pie",
       "text": "Usually the berries are stewed or soaked in water before baking to prevent burning."
     }
   ]

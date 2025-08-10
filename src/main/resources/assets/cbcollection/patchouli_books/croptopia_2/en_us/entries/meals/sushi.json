@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_sushi",
+      "recipe": "cbcollection:croptopia/cbc_sushi",
       "text": "Different kinds of fish or spicing the rice also helps."
     }
   ]

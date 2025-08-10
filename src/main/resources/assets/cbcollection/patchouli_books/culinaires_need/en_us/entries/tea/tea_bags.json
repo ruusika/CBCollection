@@ -5,72 +5,72 @@
   "pages": [
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_weak_bitter_tea",
+      "recipe": "cbcollection:culinaire/cbc_weak_bitter_tea",
       "text": "Some teas are meant to be bitter."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_normal_bitter_tea",
+      "recipe": "cbcollection:culinaire/cbc_normal_bitter_tea",
       "text": "Ugh...this is a bit...strong."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_strong_bitter_tea",
+      "recipe": "cbcollection:culinaire/cbc_strong_bitter_tea",
       "text": "I don't know why but this is making me puke..."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_weak_gloopy_tea",
+      "recipe": "cbcollection:culinaire/cbc_weak_gloopy_tea",
       "text": "What does gloopy even mean?"
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_weak_salty_tea",
+      "recipe": "cbcollection:culinaire/cbc_weak_salty_tea",
       "text": "This kind of tea aims to bring the taste of the ocean to you."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_normal_salty_tea",
+      "recipe": "cbcollection:culinaire/cbc_normal_salty_tea",
       "text": "WHO EMPTIED A FULL SALT SHAKER IN MY KETTLE?"
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_weak_shining_tea",
+      "recipe": "cbcollection:culinaire/cbc_weak_shining_tea",
       "text": "This makes me feel like i am shining from within."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_weak_sour_tea",
+      "recipe": "cbcollection:culinaire/cbc_weak_sour_tea",
       "text": "I feel like someone put some lemon in there..."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_normal_sour_tea",
+      "recipe": "cbcollection:culinaire/cbc_normal_sour_tea",
       "text": "Do not confuse this with bitter tea."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_weak_sweet_tea",
+      "recipe": "cbcollection:culinaire/cbc_weak_sweet_tea",
       "text": "Sweet teas are usually of a berry taste."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_normal_sweet_tea",
+      "recipe": "cbcollection:culinaire/cbc_normal_sweet_tea",
       "text": "You can enhance sweetness by adding honey or sugar."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_strong_sweet_tea",
+      "recipe": "cbcollection:culinaire/cbc_strong_sweet_tea",
       "text": "This tastes like someone put an entire bag of sugar in it."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_weak_unami_tea",
+      "recipe": "cbcollection:culinaire/cbc_weak_unami_tea",
       "text": "Umami teas are relativly neutral but they are pretty nourishing."
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:culinaire/cbc_normal_unami_tea",
+      "recipe": "cbcollection:culinaire/cbc_normal_unami_tea",
       "text": "Ahh...This one is relaxing."
     }
   ]

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_mashed_potatoes",
+      "recipe": "cbcollection:croptopia/cbc_mashed_potatoes",
       "text": "But it's very tasty."
     }
   ]

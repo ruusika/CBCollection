@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_potato_soup",
+      "recipe": "cbcollection:croptopia/cbc_potato_soup",
       "text": "The bacon makes it better."
     }
   ]

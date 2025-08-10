@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:rhubarb"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "cbcollection:egg"
+    },
+    {
+      "tag": "cbcollection:flour"
+    },
+    {
+      "item": "croptopia:dough"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ],
+  "result": {
+    "item": "croptopia:rhubarb_pie"
+  }
+}

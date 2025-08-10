@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_tomato_sauce",
+			"recipe": "cbcollection:farmersdelight/cbc_tomato_sauce",
 			"text": "You can change the taste by adding spices or even basil."
 		}
 	]

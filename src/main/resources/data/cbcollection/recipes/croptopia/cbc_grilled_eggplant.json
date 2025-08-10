@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF"
+  ],
+  "key": {
+    "A": {
+      "item": "croptopia:paprika"
+    },
+    "B": {
+      "tag": "cbcollection:salt"
+    },
+    "C": {
+      "item": "croptopia:pepper"
+    },
+    "D": {
+      "item": "croptopia:olive_oil"
+    },
+    "E": {
+      "tag": "cbcollection:eggplant"
+    },
+    "F": {
+      "tag": "cbcollection:garlic"
+    }
+  },
+  "result": {
+    "item": "croptopia:grilled_eggplant"
+  }
+}

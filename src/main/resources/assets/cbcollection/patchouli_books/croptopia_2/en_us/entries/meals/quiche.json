@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_quiche",
+      "recipe": "cbcollection:croptopia/cbc_quiche",
       "text": "You can also add some meat if you want."
     }
   ]

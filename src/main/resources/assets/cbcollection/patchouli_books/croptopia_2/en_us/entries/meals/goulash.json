@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_goulash",
+      "recipe": "cbcollection:croptopia/cbc_goulash",
       "text": "There are variants where people add potatoes, sausages or paprika."
     }
   ]

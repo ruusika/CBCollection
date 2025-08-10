@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_protein_bar",
+      "recipe": "cbcollection:croptopia/cbc_protein_bar",
       "text": "But I prefer it by a lot."
     }
   ]

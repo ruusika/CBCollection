@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:farmersdelight/cbc_bacon_and_eggs",
+      "recipe": "cbcollection:farmersdelight/cbc_bacon_and_eggs",
       "text": "Some parents serve this dish to their kids in the form of funny faces."
     }
   ]

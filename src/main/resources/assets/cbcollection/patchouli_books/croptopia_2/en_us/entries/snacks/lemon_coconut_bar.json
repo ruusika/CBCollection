@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_lemon_coconut_bar",
+      "recipe": "cbcollection:croptopia/cbc_lemon_coconut_bar",
       "text": "I would leave out the coconut though."
     }
   ]

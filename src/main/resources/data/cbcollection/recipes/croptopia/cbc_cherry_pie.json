@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:cherry"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "cbcollection:egg"
+    },
+    {
+      "tag": "cbcollection:flour"
+    },
+    {
+      "item": "croptopia:dough"
+    },
+    {
+      "item": "croptopia:frying_pan"
+    }
+  ],
+  "result": {
+    "item": "croptopia:cherry_pie"
+  }
+}

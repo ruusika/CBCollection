@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_whipping_cream",
+      "recipe": "cbcollection:croptopia/cbc_whipping_cream",
       "text": "Some sweet-teeth will eat it before it's processed."
     }
   ]

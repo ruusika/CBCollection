@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_cherry_pie",
+      "recipe": "cbcollection:croptopia/cbc_cherry_pie",
       "text": "But there could always be a first time."
     }
   ]

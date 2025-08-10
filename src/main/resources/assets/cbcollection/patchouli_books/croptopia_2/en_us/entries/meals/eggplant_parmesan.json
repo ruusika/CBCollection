@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_eggplant_parmesan",
+      "recipe": "cbcollection:croptopia/cbc_eggplant_parmesan",
       "text": "Vegetarians will like this dish."
     }
   ]

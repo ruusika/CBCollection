@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_pecan_ice_cream",
+      "recipe": "cbcollection:croptopia/cbc_pecan_ice_cream",
       "text": "But that one could seriously change my mind."
     }
   ]

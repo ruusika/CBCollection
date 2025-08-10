@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_the_big_breakfast",
+      "recipe": "cbcollection:croptopia/cbc_the_big_breakfast",
       "text": "So nourishing. I don't think I can eat any more today."
     }
   ]

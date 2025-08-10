@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "cbcollection:items/book_red"
+    "layer0": "cbcollection:item/book_red"
   }
 }

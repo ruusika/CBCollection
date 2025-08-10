@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "minecraft:cooked_beef"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "cbcollection:onion"
+    },
+    {
+      "tag": "cbcollection:rice"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:steak_and_potatoes"
+  }
+}

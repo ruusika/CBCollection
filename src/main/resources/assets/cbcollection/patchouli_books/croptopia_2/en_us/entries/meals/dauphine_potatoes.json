@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_dauphine_potatoes",
+      "recipe": "cbcollection:croptopia/cbc_dauphine_potatoes",
       "text": "It's just fried stuff."
     }
   ]

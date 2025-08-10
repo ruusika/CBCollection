@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_cooked_rice",
+			"recipe": "cbcollection:farmersdelight/cbc_cooked_rice",
 			"text": "The rice gets some more flavour if you add an onion seasoned with some carnations."
 		}
 	]

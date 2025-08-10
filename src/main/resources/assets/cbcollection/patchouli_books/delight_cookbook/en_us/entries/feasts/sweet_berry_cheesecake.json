@@ -12,7 +12,7 @@
     {
       "type": "patchouli:crafting",
       "title": "Berry Cheesecake",
-      "recipe": "c:farmersdelight/cbc_sweet_berry_cheesecake",
+      "recipe": "cbcollection:farmersdelight/cbc_sweet_berry_cheesecake",
       "text": "Sadly it isn't edible as long as a fully baked apple pie."
     },
     {

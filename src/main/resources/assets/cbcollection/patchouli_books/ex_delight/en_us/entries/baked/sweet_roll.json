@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:expandeddelight/cbc_sweet_roll",
+      "recipe": "cbcollection:expandeddelight/cbc_sweet_roll",
       "text": "Could this be a glorified cinnamon roll?"
     }
   ]

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_anchovy_pizza",
+      "recipe": "cbcollection:croptopia/cbc_anchovy_pizza",
       "text": "A very simple pizza."
     }
   ]

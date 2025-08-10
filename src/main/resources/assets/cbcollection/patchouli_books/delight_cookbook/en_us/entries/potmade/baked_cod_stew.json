@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_baked_cod_stew",
+			"recipe": "cbcollection:farmersdelight/cbc_baked_cod_stew",
 			"text": "It's a very light dish in comparison to a fish stew. Can recommend for dinner."
 		}
 	]

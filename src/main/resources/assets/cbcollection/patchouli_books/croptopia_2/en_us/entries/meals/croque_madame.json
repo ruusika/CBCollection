@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_croque_madame",
+      "recipe": "cbcollection:croptopia/cbc_croque_madame",
       "text": "People who like sweets for breakfast won't really like it."
     }
   ]

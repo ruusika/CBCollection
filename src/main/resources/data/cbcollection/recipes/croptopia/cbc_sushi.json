@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:seagrass"
+    },
+    {
+      "tag": "minecraft:fishes"
+    },
+    {
+      "tag": "cbcollection:rice"
+    }
+  ],
+  "result": {
+    "item": "croptopia:sushi"
+  }
+}

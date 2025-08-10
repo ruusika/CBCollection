@@ -10,7 +10,7 @@
     },
     {
       "type": "cbcollection:pot_template",
-      "recipe": "c:expandeddelight/cbc_cinnamon_apples",
+      "recipe": "cbcollection:expandeddelight/cbc_cinnamon_apples",
       "text": "Could be great with alcohol..."
     }
   ]

@@ -1,0 +1,31 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "cbcollection:rice"
+    },
+    {
+      "tag": "cbcollection:onion"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "tag": "c:foods/berries"
+    },
+    {
+      "tag": "cbcollection:veggies"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:stuffed_pumpkin_block"
+  },
+  "container":{
+    "item": "minecraft:pumpkin"
+  },
+  "experience": 1.0,
+  "cookingtime": 400
+}

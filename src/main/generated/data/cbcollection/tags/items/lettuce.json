@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "culinaire:lettuce",
+    {
+      "id": "croptopia:cabbage",
+      "required": false
+    },
+    {
+      "id": "croptopia:lettuce",
+      "required": false
+    },
+    {
+      "id": "croptopia:sea_lettuce",
+      "required": false
+    },
+    "farmersdelight:cabbage",
+    "farmersdelight:cabbage_leaf"
+  ]
+}

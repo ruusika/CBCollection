@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_apple_pie",
+      "recipe": "cbcollection:croptopia/cbc_apple_pie",
       "text": "But there can be some very fruity ones as well. Depends on the amount of ingredients mostly."
     }
   ]

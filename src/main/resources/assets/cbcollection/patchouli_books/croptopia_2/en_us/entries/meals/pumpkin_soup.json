@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_pumpkin_soup",
+      "recipe": "cbcollection:croptopia/cbc_pumpkin_soup",
       "text": "I like those little fried bread crumbs swimming in there."
     }
   ]

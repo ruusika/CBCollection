@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:farmersdelight/cbc_roast_chicken_block",
+      "recipe": "cbcollection:farmersdelight/cbc_roast_chicken_block",
       "text": "You have to stuff the chicken a bit - I can recommend cabbage."
     },
     {

@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_cabbage_rolls",
+			"recipe": "cbcollection:farmersdelight/cbc_cabbage_rolls",
 			"text": "Depending on the fillings and the spices you can get different rolls. My sister told me about a roll called Summer Roll."
 		}
 	]

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_vanilla_ice_cream",
+      "recipe": "cbcollection:croptopia/cbc_vanilla_ice_cream",
       "text": "This one is liked by adults more than kids. It's sweet but not too sweet."
     }
   ]

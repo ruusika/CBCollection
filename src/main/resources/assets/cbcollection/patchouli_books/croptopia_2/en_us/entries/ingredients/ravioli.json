@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_ravioli",
+      "recipe": "cbcollection:croptopia/cbc_ravioli",
       "text": "Very good with tomato sauces."
     }
   ]

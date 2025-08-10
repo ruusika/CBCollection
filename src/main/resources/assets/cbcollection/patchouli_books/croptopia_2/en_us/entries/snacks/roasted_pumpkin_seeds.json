@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_roasted_pumpkin_seeds",
+      "recipe": "cbcollection:croptopia/cbc_roasted_pumpkin_seeds",
       "text": "It's a traveller's snack. Not really filling but better than nothing."
     }
   ]

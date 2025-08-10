@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_cinnamon_roll",
+      "recipe": "cbcollection:croptopia/cbc_cinnamon_roll",
       "text": "It's better for coffee time in my eyes."
     }
   ]

@@ -10,7 +10,7 @@
     },
     {
       "type": "cbcollection:pot_template",
-      "recipe": "c:expandeddelight/cbc_cinnamon_rice",
+      "recipe": "cbcollection:expandeddelight/cbc_cinnamon_rice",
       "text": "Maybe I should add some apples."
     }
   ]

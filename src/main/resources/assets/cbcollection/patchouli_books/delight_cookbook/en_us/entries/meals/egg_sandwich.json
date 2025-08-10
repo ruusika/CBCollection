@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:farmersdelight/cbc_egg_sandwich",
+      "recipe": "cbcollection:farmersdelight/cbc_egg_sandwich",
       "text": "I can recommend scrambled eggs instead of baked eggs."
     }
   ]

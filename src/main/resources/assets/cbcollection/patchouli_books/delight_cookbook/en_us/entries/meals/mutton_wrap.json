@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:farmersdelight/cbc_mutton_wrap",
+      "recipe": "cbcollection:farmersdelight/cbc_mutton_wrap",
       "text": "Some people like to add chili or other spicy stuff - for me the beans are enough trouble."
     }
   ]

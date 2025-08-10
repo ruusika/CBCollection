@@ -10,7 +10,7 @@
     },
     {
       "type": "cbcollection:pot_template",
-      "recipe": "c:farmersdelight/cbc_glow_berry_custard",
+      "recipe": "cbcollection:farmersdelight/cbc_glow_berry_custard",
       "text": "It tastes a bit like you squished some fruits and mixed it with yogurt."
     }
   ]

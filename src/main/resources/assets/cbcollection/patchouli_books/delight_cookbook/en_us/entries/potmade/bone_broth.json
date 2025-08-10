@@ -10,7 +10,7 @@
     },
     {
       "type": "cbcollection:pot_template",
-      "recipe": "c:farmersdelight/cbc_bone_broth",
+      "recipe": "cbcollection:farmersdelight/cbc_bone_broth",
       "text": "But if you are really really desperate you can take the lichen as well."
     }
   ]

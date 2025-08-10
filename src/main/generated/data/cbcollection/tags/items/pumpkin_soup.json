@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "croptopia:pumpkin_soup",
+      "required": false
+    }
+  ]
+}

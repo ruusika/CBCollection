@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_butter",
+      "recipe": "cbcollection:croptopia/cbc_butter",
       "text": "Prepared similarly to cheese, but you'll need to keep stirring."
     }
   ]

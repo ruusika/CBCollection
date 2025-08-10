@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_veggie_salad",
+      "recipe": "cbcollection:croptopia/cbc_veggie_salad",
       "text": "Adds some crunch in my opinion."
     }
   ]

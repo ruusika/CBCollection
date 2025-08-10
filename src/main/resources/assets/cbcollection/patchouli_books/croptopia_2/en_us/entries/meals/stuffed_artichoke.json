@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_stuffed_artichoke",
+      "recipe": "cbcollection:croptopia/cbc_stuffed_artichoke",
       "text": "I am positively surprised. The lemon adds a good taste."
     }
   ]

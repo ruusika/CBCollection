@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_rhubarb_crisp",
+      "recipe": "cbcollection:croptopia/cbc_rhubarb_crisp",
       "text": "Not sure if it's a sweet or a snack."
     }
   ]

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "croptopia:cucumber"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "cbcollection:corn"
+    },
+    {
+      "tag": "cbcollection:lettuce"
+    }
+  ],
+  "result": {
+    "item": "croptopia:veggie_salad"
+  }
+}

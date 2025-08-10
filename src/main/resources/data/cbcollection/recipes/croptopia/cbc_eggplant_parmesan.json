@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB ",
+    "DEF",
+    " HI"
+  ],
+  "key": {
+    "A": {
+      "item": "croptopia:basil"
+    },
+    "B": {
+      "tag": "cbcollection:egg"
+    },
+    "D": {
+      "item": "croptopia:olive_oil"
+    },
+    "E": {
+      "tag": "cbcollection:eggplant"
+    },
+    "F": {
+      "item": "croptopia:pepper"
+    },
+    "H": {
+      "tag": "cbcollection:cheese"
+    },
+    "I": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "croptopia:eggplant_parmesan"
+  }
+}

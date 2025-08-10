@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_croque_monsieur",
+      "recipe": "cbcollection:croptopia/cbc_croque_monsieur",
       "text": "It's still tasty. I know this cheese variant."
     }
   ]

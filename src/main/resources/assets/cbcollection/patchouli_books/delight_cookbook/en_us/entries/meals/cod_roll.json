@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:farmersdelight/cbc_cod_roll",
+      "recipe": "cbcollection:farmersdelight/cbc_cod_roll",
       "text": "What if I fried the roll? This might be worth a try."
     }
   ]

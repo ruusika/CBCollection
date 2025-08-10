@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_cabbage_roll",
+      "recipe": "cbcollection:croptopia/cbc_cabbage_roll",
       "text": "Be careful though. Some sauce and juices might drip out."
     }
   ]

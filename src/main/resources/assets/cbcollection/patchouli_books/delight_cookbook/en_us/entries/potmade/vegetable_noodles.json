@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_vegetable_noodles",
+			"recipe": "cbcollection:farmersdelight/cbc_vegetable_noodles",
 			"text": "They change their flavour based on the added veggies."
 		}
 	]

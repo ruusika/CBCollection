@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "tag": "cbcollection:rice"
+    },
+    "B": {
+      "tag": "cbcollection:rice"
+    },
+    "C": {
+      "tag": "cbcollection:rice"
+    },
+    "D": {
+      "tag": "cbcollection:rice"
+    },
+    "E": {
+      "tag": "cbcollection:rice"
+    },
+    "F": {
+      "tag": "cbcollection:rice"
+    },
+    "G": {
+      "tag": "cbcollection:rice"
+    },
+    "H": {
+      "tag": "cbcollection:rice"
+    },
+    "I": {
+      "tag": "cbcollection:rice"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:rice_bag"
+  }
+}

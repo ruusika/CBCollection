@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_dog_food",
+			"recipe": "cbcollection:farmersdelight/cbc_dog_food",
 			"text": "I wonder if others would like it too..."
 		}
 	]

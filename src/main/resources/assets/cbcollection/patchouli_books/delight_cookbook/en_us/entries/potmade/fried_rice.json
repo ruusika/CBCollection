@@ -10,7 +10,7 @@
 		},
 		{
 			"type": "cbcollection:pot_template",
-			"recipe": "c:farmersdelight/cbc_fried_rice",
+			"recipe": "cbcollection:farmersdelight/cbc_fried_rice",
 			"text": "I like fried rice with egg and spicy sauce more than with vegetables."
 		}
 	]

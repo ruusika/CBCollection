@@ -10,7 +10,7 @@
     },
     {
       "type": "cbcollection:pot_template",
-      "recipe": "c:expandeddelight/cbc_asparagus_soup",
+      "recipe": "cbcollection:expandeddelight/cbc_asparagus_soup",
       "text": "I hate it. I just hate it."
     }
   ]

@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_sweet_potato_fries",
+      "recipe": "cbcollection:croptopia/cbc_sweet_potato_fries",
       "text": "Very good with chili or paprika powder."
     }
   ]

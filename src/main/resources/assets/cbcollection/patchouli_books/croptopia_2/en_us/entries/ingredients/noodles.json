@@ -10,7 +10,7 @@
     },
     {
       "type": "patchouli:crafting",
-      "recipe": "c:croptopia/cbc_noodle",
+      "recipe": "cbcollection:croptopia/cbc_noodle",
       "text": "The best kind of noodles are spaghetti with a tomato sauce in my opinion."
     }
   ]

@@ -10,7 +10,7 @@
     },
     {
       "type": "cbcollection:pot_template",
-      "recipe": "c:farmersdelight/cbc_mushroom_rice",
+      "recipe": "cbcollection:farmersdelight/cbc_mushroom_rice",
       "text": "I just hope you haven't put any living shrooms in there."
     }
   ]

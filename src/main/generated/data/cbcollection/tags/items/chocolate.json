@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "croptopia:chocolate",
+      "required": false
+    },
+    "culinaire:dark_chocolate_bar",
+    "culinaire:milk_chocolate_bar",
+    "culinaire:white_chocolate_bar"
+  ]
+}
